@@ -1,0 +1,13 @@
+# Core dependencies
+PyMuPDF>=1.23.0          # PDF processing and text extraction
+selenium>=4.15.0          # Browser automation for AI Studio
+webdriver-manager>=4.0.0  # Automatic ChromeDriver management
+
+# Recommended for better Selenium reliability
+undetected-chromedriver>=3.5.0  # Avoid bot detection
+
+# Utilities
+pyperclip>=1.8.0          # Clipboard operations (optional)
+
+# Install with:
+# pip install -r requirements.txt
