@@ -7,7 +7,7 @@ webdriver-manager>=4.0.0  # Automatic ChromeDriver management
 undetected-chromedriver>=3.5.0  # Avoid bot detection
 
 # Utilities
-pyperclip>=1.8.0          # Clipboard operations (optional)
+pyperclip>=1.8.0          # Clipboard operations (optional but recommended)
 
 # Install with:
 # pip install -r requirements.txt

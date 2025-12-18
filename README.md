@@ -22,20 +22,51 @@ pip install -r requirements.txt
 - Google Chrome browser
 - Google account for AI Studio
 
+### Optional: Setup Automatic Login
+
+For automatic Google login without manual intervention, set up credentials:
+
+```bash
+# Run the setup script
+python setup_credentials.py
+```
+
+This will configure environment variables for automatic login. You can also set them manually:
+
+**Windows (PowerShell):**
+
+```powershell
+[System.Environment]::SetEnvironmentVariable('GOOGLE_EMAIL', 'your-email@gmail.com', 'User')
+[System.Environment]::SetEnvironmentVariable('GOOGLE_PASSWORD', 'your-password', 'User')
+```
+
+**Linux/Mac:**
+
+```bash
+export GOOGLE_EMAIL="your-email@gmail.com"
+export GOOGLE_PASSWORD="your-password"
+```
+
+Add these to your `~/.bashrc` or `~/.zshrc` for permanent setup.
+
 ## Usage
 
 ### Basic Usage
 
 1. Place your PDF textbooks in the `books/` directory
-2. Run the pipeline:
+2. (Optional) Run setup for automatic login:
+   ```bash
+   python setup_credentials.py
+   ```
+3. Run the pipeline:
 
 ```bash
 python main.py
 ```
 
-3. The browser will open AI Studio - log in if needed
-4. The pipeline will upload the PDF and extract structure
-5. Output files are saved to `output/` directory
+4. If automatic login is configured, the pipeline will run without intervention
+5. If not, log in manually when the browser opens
+6. Output files are saved to `output/` directory
 
 ### Command Line Options
 
@@ -235,6 +266,41 @@ ai_studio_timeout = 600  # seconds
 continue_on_error = True
 save_partial_results = True
 ```
+
+## Security & Credentials
+
+### Automatic Login Best Practices
+
+1. **Use Environment Variables** (Recommended)
+
+   - Store credentials as system environment variables
+   - Never hardcode credentials in code
+   - Use `setup_credentials.py` to configure
+
+2. **Environment Variable Priority**
+
+   - First checks: `GOOGLE_EMAIL` and `GOOGLE_PASSWORD`
+   - Fallback: `GOOGLE_EMAIL_FALLBACK` and `GOOGLE_PASSWORD_FALLBACK`
+   - Manual login if none found
+
+3. **For Production**
+
+   - Use a secrets manager (AWS Secrets Manager, Azure Key Vault, etc.)
+   - Rotate credentials regularly
+   - Enable 2FA on Google account
+   - Use App-specific passwords if 2FA is enabled
+
+4. **For Testing**
+   - Set environment variables for the current session
+   - Or use manual login (no credentials required)
+
+### Manual Login
+
+If you don't want to set up automatic login:
+
+1. Run `python main.py`
+2. Log in manually when the browser opens
+3. The pipeline continues automatically
 
 ## File Structure
 

@@ -101,3 +101,23 @@ Step 3: Extracting content with PyMuPDF...
 [SUCCESS] Book processed successfully: cambridge international as and a level chemistry coursebook complete
 2025-12-18 23:51:31,743 - INFO - Processing completed successfully!
 2025-12-18 23:51:31,804 - INFO - ensuring close
+2025-12-19 00:26:10,732 - INFO - Pipeline initialized: books=books, output=output
+2025-12-19 00:26:10,749 - INFO - Discovered 1 PDF files
+2025-12-19 00:26:10,750 - INFO -   - cambridge international as and a level chemistry coursebook complete.pdf
+2025-12-19 00:31:57,606 - INFO - Pipeline initialized: books=books, output=output
+2025-12-19 00:31:57,606 - INFO - Discovered 1 PDF files
+2025-12-19 00:31:57,606 - INFO -   - cambridge international as and a level chemistry coursebook complete.pdf
+2025-12-19 00:31:57,606 - INFO - 
+[1/1] Processing book...
+2025-12-19 00:31:57,606 - INFO - 
+============================================================
+2025-12-19 00:31:57,606 - INFO - Processing: cambridge international as and a level chemistry coursebook complete
+2025-12-19 00:31:57,606 - INFO - ============================================================
+2025-12-19 00:31:57,630 - INFO - Output already exists: cambridge international as and a level chemistry coursebook complete_content.json
+2025-12-19 00:31:57,632 - INFO - Use --force to reprocess
+2025-12-19 00:31:57,642 - INFO - 
+============================================================
+2025-12-19 00:31:57,643 - INFO - PROCESSING COMPLETE
+2025-12-19 00:31:57,644 - INFO - ============================================================
+2025-12-19 00:31:57,671 - INFO - Successfully processed: 0/1 books
+2025-12-19 00:31:57,697 - INFO - Summary saved to: output\processing_summary.json

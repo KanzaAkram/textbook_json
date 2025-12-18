@@ -176,6 +176,7 @@ class AIStudioExtractor:
     def _check_and_handle_login(self) -> bool:
         """Check if logged in and handle login if needed"""
         from selenium.webdriver.common.by import By
+        from config import GOOGLE_EMAIL, GOOGLE_PASSWORD, PYPERCLIP_AVAILABLE
         
         logger.info("Checking login status...")
         
@@ -186,6 +187,18 @@ class AIStudioExtractor:
             
             if "accounts.google.com" in current_url:
                 logger.info("Google login page detected")
+                
+                # Try automatic login if credentials available
+                if GOOGLE_EMAIL and GOOGLE_PASSWORD:
+                    logger.info("Attempting automatic login...")
+                    if self._auto_login(GOOGLE_EMAIL, GOOGLE_PASSWORD):
+                        logger.info("Auto-login successful!")
+                        self.is_logged_in = True
+                        return True
+                    else:
+                        logger.warning("Auto-login failed, falling back to manual login")
+                
+                # Fall back to manual login
                 logger.info("=" * 60)
                 logger.info("MANUAL LOGIN REQUIRED")
                 logger.info("Please log in to your Google account in the browser window")
@@ -193,13 +206,14 @@ class AIStudioExtractor:
                 logger.info("=" * 60)
                 
                 # Wait for redirect back to AI Studio
-                timeout = 300  # 5 minutes for manual login
+                from config import config
+                timeout = config.manual_login_timeout
                 start_time = time.time()
                 
                 while time.time() - start_time < timeout:
                     current_url = self.driver.current_url
                     if "aistudio.google.com" in current_url:
-                        logger.info("Login successful!")
+                        logger.info("Manual login successful!")
                         self.is_logged_in = True
                         time.sleep(3)
                         return True
@@ -218,6 +232,170 @@ class AIStudioExtractor:
             logger.error(f"Error checking login: {e}")
         
         return True  # Assume logged in if no login page detected
+    
+    def _auto_login(self, email: str, password: str, timeout: int = 60) -> bool:
+        """
+        Attempt automatic Google login
+        
+        Args:
+            email: Google account email
+            password: Google account password
+            timeout: Timeout for login process
+        
+        Returns:
+            True if login successful, False otherwise
+        """
+        from selenium.webdriver.common.by import By
+        from selenium.webdriver.common.keys import Keys
+        from selenium.webdriver.support.ui import WebDriverWait
+        from selenium.webdriver.support import expected_conditions as EC
+        
+        try:
+            logger.info(f"Logging in as {email}...")
+            
+            # Wait for email field
+            wait = WebDriverWait(self.driver, timeout)
+            
+            # Find and fill email field
+            email_selectors = [
+                "input[type='email']",
+                "#identifierId",
+                "input[name='email']"
+            ]
+            
+            email_field = None
+            for selector in email_selectors:
+                try:
+                    elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
+                    if elements and elements[0].is_displayed():
+                        email_field = elements[0]
+                        break
+                except:
+                    pass
+            
+            if not email_field:
+                logger.warning("Could not find email field")
+                return False
+            
+            # Clear and enter email
+            email_field.clear()
+            time.sleep(0.5)
+            email_field.send_keys(email)
+            time.sleep(0.5)
+            
+            # Find and click Next button
+            next_selectors = [
+                "button:contains('Next')",
+                "button[aria-label='Next']",
+                "#identifierNext",
+                "button[jsname='x8hlje']"
+            ]
+            
+            next_button = None
+            for selector in next_selectors:
+                try:
+                    if "contains" in selector:
+                        # Can't use :contains in CSS, try XPath
+                        elements = self.driver.find_elements(By.XPATH, f"//button[contains(text(), 'Next')]")
+                    else:
+                        elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
+                    
+                    for elem in elements:
+                        if elem.is_displayed() and elem.is_enabled():
+                            next_button = elem
+                            break
+                except:
+                    pass
+                
+                if next_button:
+                    break
+            
+            if not next_button:
+                logger.warning("Could not find Next button, trying Enter key")
+                email_field.send_keys(Keys.RETURN)
+            else:
+                next_button.click()
+            
+            time.sleep(2)
+            
+            # Find and fill password field
+            pass_selectors = [
+                "input[type='password']",
+                "#password",
+                "input[name='password']"
+            ]
+            
+            password_field = None
+            for selector in pass_selectors:
+                try:
+                    elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
+                    if elements and elements[0].is_displayed():
+                        password_field = elements[0]
+                        break
+                except:
+                    pass
+            
+            if not password_field:
+                logger.warning("Could not find password field")
+                return False
+            
+            # Clear and enter password
+            password_field.clear()
+            time.sleep(0.5)
+            password_field.send_keys(password)
+            time.sleep(0.5)
+            
+            # Find and click Next button for password
+            next_button = None
+            for selector in next_selectors:
+                try:
+                    if "contains" in selector:
+                        elements = self.driver.find_elements(By.XPATH, f"//button[contains(text(), 'Next')]")
+                    else:
+                        elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
+                    
+                    for elem in elements:
+                        if elem.is_displayed() and elem.is_enabled():
+                            next_button = elem
+                            break
+                except:
+                    pass
+                
+                if next_button:
+                    break
+            
+            if not next_button:
+                logger.warning("Could not find Next button for password, trying Enter key")
+                password_field.send_keys(Keys.RETURN)
+            else:
+                next_button.click()
+            
+            # Wait for redirect to AI Studio
+            start_time = time.time()
+            while time.time() - start_time < timeout:
+                current_url = self.driver.current_url
+                if "aistudio.google.com" in current_url:
+                    logger.info("Successfully logged in!")
+                    time.sleep(3)
+                    return True
+                
+                # Check for error messages
+                try:
+                    error_elements = self.driver.find_elements(By.XPATH, "//*[contains(text(), 'invalid') or contains(text(), 'error')]")
+                    if error_elements:
+                        logger.error("Login error detected")
+                        return False
+                except:
+                    pass
+                
+                time.sleep(1)
+            
+            logger.warning("Login timeout - redirect to AI Studio did not occur")
+            return False
+            
+        except Exception as e:
+            logger.error(f"Error during auto-login: {e}")
+            return False
     
     def _upload_pdf(self, pdf_path: Path) -> bool:
         """Upload PDF to AI Studio"""

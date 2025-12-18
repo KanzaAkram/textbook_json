@@ -9,6 +9,34 @@ from pathlib import Path
 from dataclasses import dataclass, field
 from typing import List, Optional
 
+# Try to import pyperclip for clipboard access
+try:
+    import pyperclip
+    PYPERCLIP_AVAILABLE = True
+except ImportError:
+    PYPERCLIP_AVAILABLE = False
+    print("Note: pyperclip not installed. Install with: pip install pyperclip")
+
+# Google credentials - Use environment variables (RECOMMENDED)
+# Set them in your system:
+#   Windows (PowerShell):
+#     [System.Environment]::SetEnvironmentVariable('GOOGLE_EMAIL', 'your-email@gmail.com', 'User')
+#     [System.Environment]::SetEnvironmentVariable('GOOGLE_PASSWORD', 'your-password', 'User')
+#   Linux/Mac:
+#     export GOOGLE_EMAIL="your-email@gmail.com"
+#     export GOOGLE_PASSWORD="your-password"
+GOOGLE_EMAIL = os.getenv('GOOGLE_EMAIL', '')
+GOOGLE_PASSWORD = os.getenv('GOOGLE_PASSWORD', '')
+
+# For testing only - use environment variables in production
+if not GOOGLE_EMAIL or not GOOGLE_PASSWORD:
+    GOOGLE_EMAIL_FALLBACK = os.getenv('GOOGLE_EMAIL_FALLBACK', '')
+    GOOGLE_PASSWORD_FALLBACK = os.getenv('GOOGLE_PASSWORD_FALLBACK', '')
+    if GOOGLE_EMAIL_FALLBACK and GOOGLE_PASSWORD_FALLBACK:
+        GOOGLE_EMAIL = GOOGLE_EMAIL_FALLBACK
+        GOOGLE_PASSWORD = GOOGLE_PASSWORD_FALLBACK
+        print("[WARNING] Using fallback credentials from environment. Consider setting GOOGLE_EMAIL and GOOGLE_PASSWORD.")
+
 
 class ExtractionStrategy(Enum):
     """Extraction strategy for content"""
@@ -28,10 +56,12 @@ class PipelineConfig:
     temp_dir: Path = field(default_factory=lambda: Path("temp"))
     
     # AI Studio settings
-    ai_studio_url: str = "https://aistudio.google.com/prompts/new_chat"
+    ai_studio_url: str = "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview"
     ai_studio_timeout: int = 600  # seconds - increased for large books
     ai_studio_max_retries: int = 3
     ai_studio_wait_between_retries: int = 10
+    auto_login_enabled: bool = field(default_factory=lambda: bool(GOOGLE_EMAIL and GOOGLE_PASSWORD))
+    manual_login_timeout: int = 300  # seconds - wait for manual login if auto-login disabled
     
     # Extraction strategy
     extraction_strategy: ExtractionStrategy = ExtractionStrategy.HYBRID
