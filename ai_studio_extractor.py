@@ -12,6 +12,14 @@ from pathlib import Path
 from typing import Dict, Optional, List
 import logging
 
+# Try to import pyperclip for clipboard access
+try:
+    import pyperclip
+    PYPERCLIP_AVAILABLE = True
+except ImportError:
+    PYPERCLIP_AVAILABLE = False
+    print("Note: pyperclip not installed. Install with: pip install pyperclip")
+
 logger = logging.getLogger(__name__)
 
 
@@ -109,7 +117,7 @@ class AIStudioExtractor:
         Returns:
             Extracted structure as dictionary
         """
-        from config import AI_STUDIO_PROMPTS, SELENIUM_CONFIG
+        from config import AI_STUDIO_PROMPTS, SELENIUM_CONFIG, config
         
         logger.info(f"Starting AI Studio extraction for: {pdf_path.name}")
         
@@ -119,7 +127,8 @@ class AIStudioExtractor:
                 self._setup_driver()
             
             # Navigate to AI Studio
-            ai_studio_url = SELENIUM_CONFIG.get("ai_studio_url", "https://aistudio.google.com/prompts/new_chat")
+            # Use URL from config, fallback to default with model parameter
+            ai_studio_url = SELENIUM_CONFIG.get("ai_studio_url") or config.ai_studio_url or "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview"
             
             logger.info(f"Navigating to AI Studio: {ai_studio_url}")
             self.driver.get(ai_studio_url)
@@ -153,6 +162,16 @@ class AIStudioExtractor:
             
             if not response:
                 raise Exception("No response received from AI Studio")
+            
+            # Copy response to clipboard using pyperclip
+            if PYPERCLIP_AVAILABLE:
+                try:
+                    pyperclip.copy(response)
+                    logger.info("AI output copied to clipboard successfully")
+                except Exception as e:
+                    logger.warning(f"Failed to copy to clipboard: {e}")
+            else:
+                logger.info("pyperclip not available - skipping clipboard copy")
             
             # Parse JSON from response
             structure = self._parse_json_response(response)

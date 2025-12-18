@@ -25,17 +25,17 @@ except ImportError:
 #   Linux/Mac:
 #     export GOOGLE_EMAIL="your-email@gmail.com"
 #     export GOOGLE_PASSWORD="your-password"
+# 
+# Best practice: Use environment variables
+# Option 1: Use environment variables (RECOMMENDED)
 GOOGLE_EMAIL = os.getenv('GOOGLE_EMAIL', '')
 GOOGLE_PASSWORD = os.getenv('GOOGLE_PASSWORD', '')
 
-# For testing only - use environment variables in production
+# Option 2: Hardcode (NOT RECOMMENDED - only for testing)
+# If environment variables are not set, use hardcoded fallback
 if not GOOGLE_EMAIL or not GOOGLE_PASSWORD:
-    GOOGLE_EMAIL_FALLBACK = os.getenv('GOOGLE_EMAIL_FALLBACK', '')
-    GOOGLE_PASSWORD_FALLBACK = os.getenv('GOOGLE_PASSWORD_FALLBACK', '')
-    if GOOGLE_EMAIL_FALLBACK and GOOGLE_PASSWORD_FALLBACK:
-        GOOGLE_EMAIL = GOOGLE_EMAIL_FALLBACK
-        GOOGLE_PASSWORD = GOOGLE_PASSWORD_FALLBACK
-        print("[WARNING] Using fallback credentials from environment. Consider setting GOOGLE_EMAIL and GOOGLE_PASSWORD.")
+    GOOGLE_EMAIL = os.getenv('GOOGLE_EMAIL', 'kanzamuhammadakram@gmail.com')  # Fallback to hardcoded if env var not set
+    GOOGLE_PASSWORD = os.getenv('GOOGLE_PASSWORD', '123456')  # Fallback to hardcoded if env var not set
 
 
 class ExtractionStrategy(Enum):
@@ -258,6 +258,7 @@ SELENIUM_CONFIG = {
     "script_timeout": 300,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "download_dir": str(Path("temp/downloads").absolute()),
+    "ai_studio_url": "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview",  # AI Studio URL with model
     "chrome_options": [
         "--disable-blink-features=AutomationControlled",
         "--disable-dev-shm-usage",

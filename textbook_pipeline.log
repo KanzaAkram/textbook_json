@@ -121,3 +121,166 @@ Step 3: Extracting content with PyMuPDF...
 2025-12-19 00:31:57,644 - INFO - ============================================================
 2025-12-19 00:31:57,671 - INFO - Successfully processed: 0/1 books
 2025-12-19 00:31:57,697 - INFO - Summary saved to: output\processing_summary.json
+2025-12-19 00:34:02,079 - INFO - Pipeline initialized: books=books, output=output
+2025-12-19 00:34:02,079 - INFO - Discovered 1 PDF files
+2025-12-19 00:34:02,079 - INFO -   - cambridge international as and a level chemistry coursebook complete.pdf
+2025-12-19 00:34:02,079 - INFO - 
+[1/1] Processing book...
+2025-12-19 00:34:02,079 - INFO - 
+============================================================
+2025-12-19 00:34:02,079 - INFO - Processing: cambridge international as and a level chemistry coursebook complete
+2025-12-19 00:34:02,079 - INFO - ============================================================
+2025-12-19 00:34:02,095 - INFO - 
+Step 1: Analyzing PDF structure...
+2025-12-19 00:34:03,763 - INFO - Opened PDF: cambridge international as and a level chemistry coursebook complete.pdf (606 pages)
+2025-12-19 00:34:03,763 - INFO - Starting PDF analysis...
+2025-12-19 00:34:03,763 - INFO - Detecting page offset...
+2025-12-19 00:34:07,660 - INFO - Detected offset: 3 (confidence: 0.50)
+2025-12-19 00:34:07,660 - INFO - Detecting column layout...
+2025-12-19 00:34:07,802 - INFO - Detected 2 column(s) (confidence: 0.80)
+2025-12-19 00:34:07,821 - INFO - Found embedded TOC with 387 entries
+2025-12-19 00:34:08,090 - INFO - Analysis complete. Offset: 3, Columns: 2
+2025-12-19 00:34:08,090 - INFO -   - Total pages: 606
+2025-12-19 00:34:08,090 - INFO -   - Detected page offset: 3
+2025-12-19 00:34:08,090 - INFO -   - Detected columns: 2
+2025-12-19 00:34:08,128 - INFO - 
+Step 2: Extracting structure via AI Studio...
+2025-12-19 00:34:08,507 - INFO - Starting AI Studio extraction for: cambridge international as and a level chemistry coursebook complete.pdf
+2025-12-19 00:34:21,986 - INFO - patching driver executable C:\Users\kanza\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-19 00:34:43,981 - INFO - Using undetected-chromedriver
+2025-12-19 00:34:44,003 - INFO - Navigating to AI Studio: https://aistudio.google.com/prompts/new_chat
+2025-12-19 00:34:50,956 - INFO - Checking login status...
+2025-12-19 00:34:50,976 - INFO - Google login page detected
+2025-12-19 00:34:50,981 - INFO - ============================================================
+2025-12-19 00:34:50,981 - INFO - MANUAL LOGIN REQUIRED
+2025-12-19 00:34:50,981 - INFO - Please log in to your Google account in the browser window
+2025-12-19 00:34:50,981 - INFO - The script will continue automatically after login
+2025-12-19 00:34:50,997 - INFO - ============================================================
+2025-12-19 00:34:51,012 - INFO - Manual login successful!
+2025-12-19 00:34:54,040 - INFO - Waiting for chat interface...
+2025-12-19 00:34:59,056 - INFO - Uploading PDF file...
+2025-12-19 00:37:14,543 - INFO - Trying keyboard shortcut for file upload...
+2025-12-19 00:37:31,008 - WARNING - Could not find file input. Manual upload may be required.
+2025-12-19 00:37:31,008 - INFO - ============================================================
+2025-12-19 00:37:31,022 - INFO - MANUAL UPLOAD REQUIRED
+2025-12-19 00:37:31,035 - INFO - Please manually upload the file: C:\Users\kanza\OneDrive\Desktop\textbook_json\books\cambridge international as and a level chemistry coursebook complete.pdf
+2025-12-19 00:37:31,039 - INFO - Press Enter in the console after uploading...
+2025-12-19 00:37:31,039 - INFO - ============================================================
+2025-12-19 00:47:13,937 - INFO - Pipeline initialized: books=books, output=output
+2025-12-19 00:47:13,942 - INFO - Discovered 1 PDF files
+2025-12-19 00:47:13,942 - INFO -   - cambridge international as and a level chemistry coursebook complete.pdf
+2025-12-19 00:47:13,942 - INFO - 
+[1/1] Processing book...
+2025-12-19 00:47:13,942 - INFO - 
+============================================================
+2025-12-19 00:47:14,013 - INFO - Processing: cambridge international as and a level chemistry coursebook complete
+2025-12-19 00:47:14,061 - INFO - ============================================================
+2025-12-19 00:47:14,136 - INFO - 
+Step 1: Analyzing PDF structure...
+2025-12-19 00:47:16,347 - INFO - Opened PDF: cambridge international as and a level chemistry coursebook complete.pdf (606 pages)
+2025-12-19 00:47:16,356 - INFO - Starting PDF analysis...
+2025-12-19 00:47:16,377 - INFO - Detecting page offset...
+2025-12-19 00:47:30,554 - INFO - Detected offset: 3 (confidence: 0.50)
+2025-12-19 00:47:30,554 - INFO - Detecting column layout...
+2025-12-19 00:47:31,224 - INFO - Detected 2 column(s) (confidence: 0.80)
+2025-12-19 00:47:31,467 - INFO - Found embedded TOC with 387 entries
+2025-12-19 00:47:34,624 - INFO - Analysis complete. Offset: 3, Columns: 2
+2025-12-19 00:47:34,624 - INFO -   - Total pages: 606
+2025-12-19 00:47:34,624 - INFO -   - Detected page offset: 3
+2025-12-19 00:47:34,624 - INFO -   - Detected columns: 2
+2025-12-19 00:47:34,680 - INFO - 
+Step 2: Extracting structure via AI Studio...
+2025-12-19 00:47:34,901 - INFO - Starting AI Studio extraction for: cambridge international as and a level chemistry coursebook complete.pdf
+2025-12-19 00:47:50,713 - INFO - Using undetected-chromedriver
+2025-12-19 00:47:50,728 - INFO - Navigating to AI Studio: https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview
+2025-12-19 00:48:02,513 - INFO - Checking login status...
+2025-12-19 00:48:02,554 - INFO - Google login page detected
+2025-12-19 00:48:02,554 - INFO - Attempting automatic login...
+2025-12-19 00:48:02,569 - INFO - Logging in as zayudd3@gmail.com...
+2025-12-19 00:49:10,896 - WARNING - Could not find Next button, trying Enter key
+2025-12-19 00:49:11,037 - ERROR - Error during auto-login: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=143.0.7499.41); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xfe1223
+	0xfe1264
+	0xdce6dd
+	0xdd5323
+	0xdd76c1
+	0xdd7758
+	0xe1a0d9
+	0xe1a16e
+	0xe11c89
+	0xe3b4ec
+	0xe0ec34
+	0xe3b6a4
+	0xe5db13
+	0xe3b2e6
+	0xe0d321
+	0xe0e1d4
+	0x1235264
+	0x123081b
+	0x124d0fa
+	0xffb128
+	0x100312d
+	0xfe9528
+	0xfe96e9
+	0xfd3a78
+	0x76616739
+	0x77138acf
+	0x77138a9d
+
+2025-12-19 00:49:11,100 - WARNING - Auto-login failed, falling back to manual login
+2025-12-19 00:49:11,101 - INFO - ============================================================
+2025-12-19 00:49:11,103 - INFO - MANUAL LOGIN REQUIRED
+2025-12-19 00:49:11,103 - INFO - Please log in to your Google account in the browser window
+2025-12-19 00:49:11,105 - INFO - The script will continue automatically after login
+2025-12-19 00:49:11,106 - INFO - ============================================================
+2025-12-19 00:49:11,326 - INFO - Manual login successful!
+2025-12-19 00:49:14,461 - INFO - Waiting for chat interface...
+2025-12-19 00:49:19,619 - INFO - Uploading PDF file...
+2025-12-19 00:51:56,401 - INFO - Trying keyboard shortcut for file upload...
+2025-12-19 00:52:14,014 - WARNING - Could not find file input. Manual upload may be required.
+2025-12-19 00:52:14,029 - INFO - ============================================================
+2025-12-19 00:52:14,029 - INFO - MANUAL UPLOAD REQUIRED
+2025-12-19 00:52:14,045 - INFO - Please manually upload the file: C:\Users\kanza\OneDrive\Desktop\textbook_json\books\cambridge international as and a level chemistry coursebook complete.pdf
+2025-12-19 00:52:14,045 - INFO - Press Enter in the console after uploading...
+2025-12-19 00:52:14,045 - INFO - ============================================================
+2025-12-19 00:58:02,385 - INFO - Sending extraction prompt...
+2025-12-19 00:58:06,513 - INFO - Found text input: textarea
+2025-12-19 00:58:08,402 - ERROR - Error sending prompt: Message: element click intercepted: Element <textarea _ngcontent-ng-c4077877193="" rows="1" cdktextareaautosize="" formcontrolname="promptText" msfilecopypaste="" class="cdk-textarea-autosize textarea ng-pristine ng-valid ng-touched" placeholder="Start typing a prompt" aria-label="Enter a prompt" style="min-height: 20px; max-height: 200px; height: 32px;"></textarea> is not clickable at point (645, 604). Other element would receive the click: <div class="cdk-overlay-backdrop dialog-backdrop-blur-overlay cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=143.0.7499.41)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xfe1223
+	0xfe1264
+	0xdce6dd
+	0xe1f8ef
+	0xe1dbdc
+	0xe1b6c2
+	0xe1a945
+	0xe0f1c8
+	0xe3b4ec
+	0xe0ec34
+	0xe3b6a4
+	0xe5db13
+	0xe3b2e6
+	0xe0d321
+	0xe0e1d4
+	0x1235264
+	0x123081b
+	0x124d0fa
+	0xffb128
+	0x100312d
+	0xfe9528
+	0xfe96e9
+	0xfd3a78
+	0x76616739
+	0x77138acf
+	0x77138a9d
+
+2025-12-19 00:58:08,410 - ERROR - AI Studio extraction failed: Failed to send prompt
+2025-12-19 00:58:08,415 - WARNING - Automatic extraction failed: Failed to send prompt
+2025-12-19 00:58:08,420 - INFO - Falling back to interactive mode...
+2025-12-19 00:58:08,427 - INFO - Starting interactive extraction mode...
+2025-12-19 00:58:16,476 - INFO - Checking login status...
