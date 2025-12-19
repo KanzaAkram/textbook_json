@@ -1,5 +1,6 @@
 """
-AI Studio Extractor - Uses Selenium to interact with Google AI Studio
+AI Studio Extractor - Enhanced version with proven working logic from upload_to_gemini.py
+Uses Selenium to interact with Google AI Studio
 Extracts book structure by uploading PDF and getting AI analysis
 """
 
@@ -31,52 +32,78 @@ class AIStudioExtractor:
         self.is_logged_in = False
         
     def _setup_driver(self):
-        """Setup Selenium WebDriver with appropriate options"""
+        """Setup Selenium WebDriver with appropriate options to bypass Google's automation detection"""
         from config import SELENIUM_CONFIG
+        import tempfile
         
+        # Use undetected-chromedriver if available (BETTER for bypassing Google detection)
         try:
-            # Try undetected-chromedriver first (better for avoiding detection)
             import undetected_chromedriver as uc
             
+            logger.info("Using undetected-chromedriver for better Google login bypass...")
+            user_data_dir = os.path.join(tempfile.gettempdir(), "chrome_uc_profile")
+            os.makedirs(user_data_dir, exist_ok=True)
+            
             options = uc.ChromeOptions()
+            options.add_argument(f"--user-data-dir={user_data_dir}")
             
             if SELENIUM_CONFIG.get("headless"):
                 options.add_argument("--headless")
             
-            for opt in SELENIUM_CONFIG.get("chrome_options", []):
-                options.add_argument(opt)
+            # Try with explicit version first (matches common Chrome versions)
+            try:
+                self.driver = uc.Chrome(options=options, version_main=142)
+            except Exception as e:
+                logger.info(f"Version 142 specification failed, trying auto-detection: {e}")
+                # Fallback to auto-detection
+                self.driver = uc.Chrome(options=options)
             
-            # Set window size
-            width, height = SELENIUM_CONFIG.get("window_size", (1920, 1080))
-            options.add_argument(f"--window-size={width},{height}")
-            
-            self.driver = uc.Chrome(options=options)
+            self.driver.maximize_window()
             logger.info("Using undetected-chromedriver")
             
         except ImportError:
-            # Fallback to regular selenium
+            # Fallback to regular selenium with anti-detection measures
+            logger.info("Using regular Selenium with anti-detection measures...")
             from selenium import webdriver
             from selenium.webdriver.chrome.service import Service
             from selenium.webdriver.chrome.options import Options
             from webdriver_manager.chrome import ChromeDriverManager
             
-            options = Options()
+            chrome_options = Options()
+            
+            # CRITICAL: Remove automation flags that Google detects
+            chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+            chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+            chrome_options.add_experimental_option('useAutomationExtension', False)
+            
+            # Make browser look more normal
+            chrome_options.add_argument("--disable-dev-shm-usage")
+            chrome_options.add_argument("--no-sandbox")
+            chrome_options.add_argument("--disable-gpu")
+            
+            # Use a user data directory to maintain login session
+            user_data_dir = os.path.join(tempfile.gettempdir(), "chrome_selenium_profile")
+            os.makedirs(user_data_dir, exist_ok=True)
+            chrome_options.add_argument(f"--user-data-dir={user_data_dir}")
             
             if SELENIUM_CONFIG.get("headless"):
-                options.add_argument("--headless")
+                chrome_options.add_argument("--headless")
             
-            for opt in SELENIUM_CONFIG.get("chrome_options", []):
-                options.add_argument(opt)
-            
-            options.add_argument(f"--user-agent={SELENIUM_CONFIG.get('user_agent')}")
-            
-            # Set window size
-            width, height = SELENIUM_CONFIG.get("window_size", (1920, 1080))
-            options.add_argument(f"--window-size={width},{height}")
-            
+            # Use webdriver-manager to automatically handle ChromeDriver
             service = Service(ChromeDriverManager().install())
-            self.driver = webdriver.Chrome(service=service, options=options)
-            logger.info("Using standard Selenium Chrome driver")
+            self.driver = webdriver.Chrome(service=service, options=chrome_options)
+            
+            # Execute script to remove webdriver property
+            self.driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
+                'source': '''
+                    Object.defineProperty(navigator, 'webdriver', {
+                        get: () => undefined
+                    })
+                '''
+            })
+            
+            self.driver.maximize_window()
+            logger.info("Using standard Selenium Chrome driver with anti-detection")
         
         # Set timeouts
         self.driver.implicitly_wait(SELENIUM_CONFIG.get("implicit_wait", 15))
@@ -127,14 +154,13 @@ class AIStudioExtractor:
                 self._setup_driver()
             
             # Navigate to AI Studio
-            # Use URL from config, fallback to default with model parameter
             ai_studio_url = SELENIUM_CONFIG.get("ai_studio_url") or config.ai_studio_url or "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview"
             
             logger.info(f"Navigating to AI Studio: {ai_studio_url}")
             self.driver.get(ai_studio_url)
             
             self._wait_for_page_load(60)
-            time.sleep(3)  # Additional wait for dynamic content
+            time.sleep(5)  # Additional wait for dynamic content
             
             # Check if login is required
             if not self._check_and_handle_login():
@@ -163,18 +189,31 @@ class AIStudioExtractor:
             if not response:
                 raise Exception("No response received from AI Studio")
             
-            # Copy response to clipboard using pyperclip
-            if PYPERCLIP_AVAILABLE:
+            # Try to copy response using copy button or extract from DOM
+            logger.info("Extracting JSON response...")
+            json_content = self._extract_json_response()
+            
+            if json_content:
+                # Copy to clipboard if available
+                if PYPERCLIP_AVAILABLE:
+                    try:
+                        pyperclip.copy(json_content)
+                        logger.info("AI output copied to clipboard successfully")
+                    except Exception as e:
+                        logger.warning(f"Failed to copy to clipboard: {e}")
+                
+                # Save to file
+                output_filename = pdf_path.stem + "_ai_response.json"
+                output_path = pdf_path.parent / output_filename
                 try:
-                    pyperclip.copy(response)
-                    logger.info("AI output copied to clipboard successfully")
+                    with open(output_path, 'w', encoding='utf-8') as f:
+                        f.write(json_content)
+                    logger.info(f"JSON response saved to: {output_path}")
                 except Exception as e:
-                    logger.warning(f"Failed to copy to clipboard: {e}")
-            else:
-                logger.info("pyperclip not available - skipping clipboard copy")
+                    logger.warning(f"Failed to save JSON file: {e}")
             
             # Parse JSON from response
-            structure = self._parse_json_response(response)
+            structure = self._parse_json_response(json_content or response)
             
             if structure:
                 logger.info("Successfully extracted structure")
@@ -182,7 +221,7 @@ class AIStudioExtractor:
             else:
                 logger.warning("Could not parse JSON from response, saving raw response")
                 return {
-                    "raw_response": response,
+                    "raw_response": json_content or response,
                     "parse_error": True,
                     "book_info": {"title": pdf_path.stem},
                     "structure": []
@@ -195,16 +234,14 @@ class AIStudioExtractor:
     def _check_and_handle_login(self) -> bool:
         """Check if logged in and handle login if needed"""
         from selenium.webdriver.common.by import By
-        from config import GOOGLE_EMAIL, GOOGLE_PASSWORD, PYPERCLIP_AVAILABLE
+        from config import GOOGLE_EMAIL, GOOGLE_PASSWORD
         
         logger.info("Checking login status...")
         
-        # Check for common login indicators
         try:
-            # Look for sign-in button or Google account button
             current_url = self.driver.current_url
             
-            if "accounts.google.com" in current_url:
+            if "accounts.google.com" in current_url or "signin" in current_url.lower():
                 logger.info("Google login page detected")
                 
                 # Try automatic login if credentials available
@@ -213,6 +250,13 @@ class AIStudioExtractor:
                     if self._auto_login(GOOGLE_EMAIL, GOOGLE_PASSWORD):
                         logger.info("Auto-login successful!")
                         self.is_logged_in = True
+                        # Navigate to AI Studio if not there yet
+                        if "aistudio.google.com" not in self.driver.current_url:
+                            from config import SELENIUM_CONFIG, config
+                            ai_studio_url = SELENIUM_CONFIG.get("ai_studio_url") or config.ai_studio_url or "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview"
+                            logger.info(f"Navigating to: {ai_studio_url}")
+                            self.driver.get(ai_studio_url)
+                            time.sleep(5)
                         return True
                     else:
                         logger.warning("Auto-login failed, falling back to manual login")
@@ -231,7 +275,7 @@ class AIStudioExtractor:
                 
                 while time.time() - start_time < timeout:
                     current_url = self.driver.current_url
-                    if "aistudio.google.com" in current_url:
+                    if "aistudio.google.com" in current_url and "signin" not in current_url.lower():
                         logger.info("Manual login successful!")
                         self.is_logged_in = True
                         time.sleep(3)
@@ -242,10 +286,16 @@ class AIStudioExtractor:
                 return False
             
             elif "aistudio.google.com" in current_url:
-                # Already on AI Studio, check if interface is loaded
-                time.sleep(3)
-                self.is_logged_in = True
-                return True
+                # Already on AI Studio, verify interface is loaded
+                try:
+                    self.driver.find_element(By.CSS_SELECTOR, "textarea, input[type='text']")
+                    logger.info("✓ Already logged in and ready!")
+                    self.is_logged_in = True
+                    return True
+                except:
+                    logger.warning("Could not verify login status. May need manual intervention.")
+                    input("Please ensure you're logged in, then press Enter...")
+                    return True
             
         except Exception as e:
             logger.error(f"Error checking login: {e}")
@@ -254,7 +304,7 @@ class AIStudioExtractor:
     
     def _auto_login(self, email: str, password: str, timeout: int = 60) -> bool:
         """
-        Attempt automatic Google login
+        Attempt automatic Google login with human-like behavior
         
         Args:
             email: Google account email
@@ -270,360 +320,434 @@ class AIStudioExtractor:
         from selenium.webdriver.support import expected_conditions as EC
         
         try:
+            logger.info("="*60)
+            logger.info("ATTEMPTING AUTOMATED GOOGLE LOGIN")
+            logger.info("="*60)
             logger.info(f"Logging in as {email}...")
             
-            # Wait for email field
-            wait = WebDriverWait(self.driver, timeout)
+            wait = WebDriverWait(self.driver, 15)
             
-            # Find and fill email field
+            # Check if already logged in
+            try:
+                self.driver.find_element(By.CSS_SELECTOR, "textarea, input[type='text']")
+                logger.info("✓ Already logged in!")
+                return True
+            except:
+                pass
+            
+            # Find email input
             email_selectors = [
-                "input[type='email']",
-                "#identifierId",
-                "input[name='email']"
+                (By.CSS_SELECTOR, "input[type='email']"),
+                (By.CSS_SELECTOR, "input[name='identifier']"),
+                (By.CSS_SELECTOR, "#identifierId"),
+                (By.XPATH, "//input[@type='email']"),
             ]
             
-            email_field = None
-            for selector in email_selectors:
+            email_input = None
+            for selector_type, selector in email_selectors:
                 try:
-                    elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                    if elements and elements[0].is_displayed():
-                        email_field = elements[0]
+                    email_input = wait.until(EC.presence_of_element_located((selector_type, selector)))
+                    if email_input:
+                        logger.info(f"Found email input with selector: {selector}")
                         break
                 except:
-                    pass
+                    continue
             
-            if not email_field:
-                logger.warning("Could not find email field")
+            if not email_input:
+                logger.warning("❌ Could not find email input field")
                 return False
             
-            # Clear and enter email
-            email_field.clear()
-            time.sleep(0.5)
-            email_field.send_keys(email)
+            # Enter email with human-like typing
+            logger.info(f"Entering email: {email}")
+            email_input.click()
             time.sleep(0.5)
             
-            # Find and click Next button
-            next_selectors = [
-                "button:contains('Next')",
-                "button[aria-label='Next']",
-                "#identifierNext",
-                "button[jsname='x8hlje']"
+            for char in email:
+                email_input.send_keys(char)
+                time.sleep(0.05 + (0.1 * (hash(char) % 10) / 10))
+            
+            time.sleep(1)
+            
+            # Click Next
+            next_button_selectors = [
+                (By.XPATH, "//button[contains(., 'Next')]"),
+                (By.XPATH, "//button[@type='button']//span[contains(text(), 'Next')]"),
+                (By.CSS_SELECTOR, "button[type='button']"),
+                (By.ID, "identifierNext"),
             ]
             
             next_button = None
-            for selector in next_selectors:
+            for selector_type, selector in next_button_selectors:
                 try:
-                    if "contains" in selector:
-                        # Can't use :contains in CSS, try XPath
-                        elements = self.driver.find_elements(By.XPATH, f"//button[contains(text(), 'Next')]")
-                    else:
-                        elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                    
-                    for elem in elements:
-                        if elem.is_displayed() and elem.is_enabled():
-                            next_button = elem
-                            break
-                except:
-                    pass
-                
-                if next_button:
-                    break
-            
-            if not next_button:
-                logger.warning("Could not find Next button, trying Enter key")
-                email_field.send_keys(Keys.RETURN)
-            else:
-                next_button.click()
-            
-            time.sleep(2)
-            
-            # Find and fill password field
-            pass_selectors = [
-                "input[type='password']",
-                "#password",
-                "input[name='password']"
-            ]
-            
-            password_field = None
-            for selector in pass_selectors:
-                try:
-                    elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                    if elements and elements[0].is_displayed():
-                        password_field = elements[0]
+                    next_button = self.driver.find_element(selector_type, selector)
+                    if next_button and next_button.is_displayed():
                         break
                 except:
-                    pass
+                    continue
             
-            if not password_field:
-                logger.warning("Could not find password field")
+            if next_button:
+                self.driver.execute_script("arguments[0].click();", next_button)
+                time.sleep(3)
+            else:
+                email_input.send_keys(Keys.RETURN)
+                time.sleep(3)
+            
+            # Find password input
+            password_selectors = [
+                (By.CSS_SELECTOR, "input[type='password']"),
+                (By.CSS_SELECTOR, "input[name='password']"),
+                (By.XPATH, "//input[@type='password']"),
+                (By.CSS_SELECTOR, "#password"),
+            ]
+            
+            password_input = None
+            for selector_type, selector in password_selectors:
+                try:
+                    password_input = wait.until(EC.presence_of_element_located((selector_type, selector)))
+                    if password_input:
+                        logger.info(f"Found password input with selector: {selector}")
+                        break
+                except:
+                    continue
+            
+            if not password_input:
+                logger.warning("❌ Could not find password input field")
+                logger.warning("This might be due to CAPTCHA, 2FA, or automation detection")
                 return False
             
-            # Clear and enter password
-            password_field.clear()
-            time.sleep(0.5)
-            password_field.send_keys(password)
+            # Enter password with human-like typing
+            logger.info("Entering password...")
+            password_input.click()
             time.sleep(0.5)
             
-            # Find and click Next button for password
-            next_button = None
-            for selector in next_selectors:
+            for char in password:
+                password_input.send_keys(char)
+                time.sleep(0.05 + (0.1 * (hash(char) % 10) / 10))
+            
+            time.sleep(1)
+            
+            # Click Next/Sign in
+            signin_button_selectors = [
+                (By.XPATH, "//button[contains(., 'Next')]"),
+                (By.XPATH, "//button[contains(., 'Sign in')]"),
+                (By.XPATH, "//button[@type='button']//span[contains(text(), 'Next')]"),
+                (By.ID, "passwordNext"),
+                (By.CSS_SELECTOR, "button[type='button']"),
+            ]
+            
+            signin_button = None
+            for selector_type, selector in signin_button_selectors:
                 try:
-                    if "contains" in selector:
-                        elements = self.driver.find_elements(By.XPATH, f"//button[contains(text(), 'Next')]")
-                    else:
-                        elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                    
-                    for elem in elements:
-                        if elem.is_displayed() and elem.is_enabled():
-                            next_button = elem
-                            break
+                    signin_button = self.driver.find_element(selector_type, selector)
+                    if signin_button and signin_button.is_displayed():
+                        break
                 except:
-                    pass
-                
-                if next_button:
-                    break
+                    continue
             
-            if not next_button:
-                logger.warning("Could not find Next button for password, trying Enter key")
-                password_field.send_keys(Keys.RETURN)
+            if signin_button:
+                self.driver.execute_script("arguments[0].click();", signin_button)
+                time.sleep(5)
             else:
-                next_button.click()
+                password_input.send_keys(Keys.RETURN)
+                time.sleep(5)
             
-            # Wait for redirect to AI Studio
+            # Wait for redirect
+            logger.info("Checking login status...")
             start_time = time.time()
+            
             while time.time() - start_time < timeout:
                 current_url = self.driver.current_url
-                if "aistudio.google.com" in current_url:
-                    logger.info("Successfully logged in!")
-                    time.sleep(3)
+                if "aistudio.google.com" in current_url and "signin" not in current_url.lower():
+                    logger.info("✓ Login successful!")
                     return True
                 
-                # Check for error messages
+                # Check for 2FA
                 try:
-                    error_elements = self.driver.find_elements(By.XPATH, "//*[contains(text(), 'invalid') or contains(text(), 'error')]")
-                    if error_elements:
-                        logger.error("Login error detected")
-                        return False
+                    if self.driver.find_elements(By.XPATH, "//*[contains(text(), 'verify') or contains(text(), 'Verify') or contains(text(), '2-Step')]"):
+                        logger.warning("⚠️  2-Factor Authentication detected!")
+                        logger.warning("Please complete 2FA manually, then press Enter...")
+                        input()
+                        return True
                 except:
                     pass
+                
+                # Check for CAPTCHA
+                page_source = self.driver.page_source.lower()
+                if "captcha" in page_source or "unusual traffic" in page_source:
+                    logger.warning("⚠️  CAPTCHA or security challenge detected!")
+                    logger.warning("Please complete the challenge manually, then press Enter...")
+                    input()
+                    return True
                 
                 time.sleep(1)
             
-            logger.warning("Login timeout - redirect to AI Studio did not occur")
-            return False
+            logger.warning("⚠️  Login status unclear.")
+            input("If you're logged in, press Enter. Otherwise, complete login manually and press Enter...")
+            return True
             
         except Exception as e:
-            logger.error(f"Error during auto-login: {e}")
-            return False
+            logger.error(f"❌ Error during auto-login: {e}")
+            import traceback
+            traceback.print_exc()
+            logger.info("\nFalling back to manual login...")
+            input("Please log in manually, then press Enter to continue...")
+            return True
     
     def _upload_pdf(self, pdf_path: Path) -> bool:
-        """Upload PDF to AI Studio"""
+        """Upload PDF to AI Studio with enhanced detection"""
+        from selenium.webdriver.common.by import By
+        from selenium.webdriver.support.ui import WebDriverWait
+        from selenium.webdriver.support import expected_conditions as EC
+        
+        logger.info(f"\nUploading PDF: {pdf_path}")
+        
+        if not pdf_path.exists():
+            logger.error(f"ERROR: PDF file not found at: {pdf_path}")
+            return False
+        
+        try:
+            wait = WebDriverWait(self.driver, 10)
+            file_input = None
+            
+            # Method 1: Look for file input directly
+            try:
+                file_inputs = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "input[type='file']")))
+                if file_inputs:
+                    file_input = file_inputs[0]
+                    logger.info("Found file input element directly")
+            except Exception as e:
+                logger.debug(f"Method 1 failed: {e}")
+            
+            # Method 2: Click upload button
+            if not file_input:
+                logger.info("Looking for upload/attach button...")
+                upload_button_xpaths = [
+                    "//button[contains(@aria-label, 'Upload')]",
+                    "//button[contains(@aria-label, 'Attach')]",
+                    "//button[contains(@aria-label, 'file')]",
+                    "//button[contains(@title, 'Upload')]",
+                    "//button[contains(@title, 'Attach')]",
+                    "//div[contains(@role, 'button') and contains(@aria-label, 'Upload')]",
+                    "//button[.//*[local-name()='svg']]//ancestor::button[1]",
+                ]
+                
+                for xpath in upload_button_xpaths:
+                    try:
+                        elements = self.driver.find_elements(By.XPATH, xpath)
+                        visible = [e for e in elements if e.is_displayed()]
+                        if visible:
+                            upload_button = visible[0]
+                            logger.info(f"Found upload button: {xpath}")
+                            self.driver.execute_script("arguments[0].scrollIntoView(true);", upload_button)
+                            time.sleep(1)
+                            upload_button.click()
+                            logger.info("Clicked upload button")
+                            time.sleep(2)
+                            
+                            file_inputs = self.driver.find_elements(By.CSS_SELECTOR, "input[type='file']")
+                            if file_inputs:
+                                file_input = file_inputs[0]
+                                break
+                    except:
+                        continue
+            
+            # Method 3: Look near prompt area
+            if not file_input:
+                try:
+                    prompt_elements = self.driver.find_elements(By.CSS_SELECTOR, "textarea, input[type='text']")
+                    if prompt_elements:
+                        parent = prompt_elements[0].find_element(By.XPATH, "./..")
+                        file_inputs = parent.find_elements(By.CSS_SELECTOR, "input[type='file']")
+                        if file_inputs:
+                            file_input = file_inputs[0]
+                            logger.info("Found file input near prompt")
+                except:
+                    pass
+            
+            # Try to make hidden inputs visible
+            if not file_input:
+                all_file_inputs = self.driver.find_elements(By.CSS_SELECTOR, "input[type='file']")
+                for inp in all_file_inputs:
+                    try:
+                        self.driver.execute_script(
+                            "arguments[0].style.display='block'; arguments[0].style.visibility='visible'; arguments[0].style.opacity='1';",
+                            inp
+                        )
+                        file_input = inp
+                        break
+                    except:
+                        continue
+            
+            # Upload the file
+            if file_input:
+                try:
+                    self.driver.execute_script("arguments[0].scrollIntoView(true);", file_input)
+                    time.sleep(1)
+                    file_input.send_keys(str(pdf_path.absolute()))
+                    logger.info("✓ File path sent to upload element")
+                    
+                    logger.info("Waiting for file to be processed...")
+                    time.sleep(5)
+                    
+                    # Wait for overlays to disappear
+                    try:
+                        wait.until_not(EC.presence_of_element_located((By.CSS_SELECTOR, ".cdk-overlay-backdrop-showing, .dialog-backdrop")))
+                        logger.info("✓ Dialogs cleared")
+                    except:
+                        time.sleep(3)
+                    
+                    return True
+                except Exception as e:
+                    logger.error(f"Error sending file path: {e}")
+                    return False
+            else:
+                logger.warning("Could not find file upload element")
+                logger.info("\n" + "="*60)
+                logger.info("MANUAL UPLOAD REQUIRED")
+                logger.info(f"Please upload: {pdf_path}")
+                logger.info("="*60)
+                input("Press Enter after uploading...")
+                return True
+                
+        except Exception as e:
+            logger.error(f"Error uploading PDF: {e}")
+            input("Press Enter after manually uploading the PDF...")
+            return True
+    
+    def _send_prompt(self, prompt: str) -> bool:
+        """Send prompt to AI Studio chat with improved methods"""
         from selenium.webdriver.common.by import By
         from selenium.webdriver.common.keys import Keys
         from selenium.webdriver.support.ui import WebDriverWait
         from selenium.webdriver.support import expected_conditions as EC
         
         try:
-            # Look for file upload button/area
-            # AI Studio typically has an attachment/upload button
+            logger.info("\nEntering prompt text...")
+            wait = WebDriverWait(self.driver, 15)
             
-            # Try different selectors for upload button
-            upload_selectors = [
-                "input[type='file']",
-                "[aria-label*='upload']",
-                "[aria-label*='Upload']",
-                "[aria-label*='attach']",
-                "[aria-label*='Attach']",
-                "button[aria-label*='file']",
-                ".upload-button",
-                "[data-testid='upload-button']"
-            ]
-            
-            file_input = None
-            
-            # First, try to find hidden file input
+            # Wait for overlays to clear
             try:
-                file_inputs = self.driver.find_elements(By.CSS_SELECTOR, "input[type='file']")
-                if file_inputs:
-                    file_input = file_inputs[0]
-                    logger.info("Found file input element")
+                wait.until_not(EC.presence_of_element_located((By.CSS_SELECTOR, ".cdk-overlay-backdrop-showing")))
             except:
-                pass
+                time.sleep(2)
+                # Try to hide overlays with JavaScript
+                try:
+                    self.driver.execute_script("""
+                        var overlays = document.querySelectorAll('.cdk-overlay-backdrop-showing');
+                        overlays.forEach(function(overlay) { overlay.style.display = 'none'; });
+                    """)
+                    time.sleep(1)
+                except:
+                    pass
             
-            if file_input is None:
-                # Try to click an upload button first
-                for selector in upload_selectors:
-                    try:
-                        elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                        for elem in elements:
-                            if elem.is_displayed():
-                                elem.click()
-                                time.sleep(1)
-                                # After click, look for file input again
-                                file_inputs = self.driver.find_elements(By.CSS_SELECTOR, "input[type='file']")
-                                if file_inputs:
-                                    file_input = file_inputs[0]
-                                    break
-                    except:
-                        continue
-                    if file_input:
-                        break
-            
-            if file_input is None:
-                # Try using keyboard shortcut to open file dialog
-                logger.info("Trying keyboard shortcut for file upload...")
-                body = self.driver.find_element(By.TAG_NAME, "body")
-                body.send_keys(Keys.CONTROL + 'o')
-                time.sleep(1)
-                
-                file_inputs = self.driver.find_elements(By.CSS_SELECTOR, "input[type='file']")
-                if file_inputs:
-                    file_input = file_inputs[0]
-            
-            if file_input:
-                # Make the input visible if hidden
-                self.driver.execute_script(
-                    "arguments[0].style.display = 'block'; arguments[0].style.visibility = 'visible';",
-                    file_input
-                )
-                time.sleep(0.5)
-                
-                # Send the file path
-                file_input.send_keys(str(pdf_path.absolute()))
-                logger.info(f"File path sent: {pdf_path.absolute()}")
-                
-                # Wait for upload to complete
-                time.sleep(10)  # Wait for upload
-                
-                # Check for upload confirmation
-                logger.info("PDF upload initiated")
-                return True
-            else:
-                logger.warning("Could not find file input. Manual upload may be required.")
-                logger.info("=" * 60)
-                logger.info("MANUAL UPLOAD REQUIRED")
-                logger.info(f"Please manually upload the file: {pdf_path.absolute()}")
-                logger.info("Press Enter in the console after uploading...")
-                logger.info("=" * 60)
-                input("Press Enter after uploading the PDF manually...")
-                return True
-                
-        except Exception as e:
-            logger.error(f"Error uploading PDF: {e}")
-            logger.info("=" * 60)
-            logger.info("MANUAL UPLOAD REQUIRED")
-            logger.info(f"Please manually upload the file: {pdf_path.absolute()}")
-            logger.info("Press Enter in the console after uploading...")
-            logger.info("=" * 60)
-            input("Press Enter after uploading the PDF manually...")
-            return True
-    
-    def _send_prompt(self, prompt: str) -> bool:
-        """Send prompt to AI Studio chat"""
-        from selenium.webdriver.common.by import By
-        from selenium.webdriver.common.keys import Keys
-        
-        try:
-            # Find the text input area
+            # Find prompt input
             input_selectors = [
-                "textarea",
-                "[contenteditable='true']",
-                "input[type='text']",
-                ".chat-input",
-                "[aria-label*='message']",
-                "[aria-label*='Message']",
-                "[aria-label*='prompt']",
-                "[aria-label*='Prompt']",
-                "[data-testid='chat-input']"
+                (By.CSS_SELECTOR, "textarea[placeholder*='prompt'], textarea[placeholder*='type']"),
+                (By.CSS_SELECTOR, "textarea[placeholder='Start typing a prompt']"),
+                (By.CSS_SELECTOR, "textarea"),
+                (By.CSS_SELECTOR, "input[type='text']"),
+                (By.CSS_SELECTOR, "[contenteditable='true']"),
             ]
             
-            text_input = None
-            
-            for selector in input_selectors:
+            prompt_input = None
+            for selector_type, selector in input_selectors:
                 try:
-                    elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                    for elem in elements:
-                        if elem.is_displayed() and elem.is_enabled():
-                            text_input = elem
-                            logger.info(f"Found text input: {selector}")
-                            break
+                    prompt_input = wait.until(EC.presence_of_element_located((selector_type, selector)))
+                    if prompt_input:
+                        logger.info(f"Found prompt input: {selector}")
+                        break
                 except:
                     continue
-                if text_input:
-                    break
             
-            if text_input is None:
-                logger.warning("Could not find text input automatically")
-                logger.info("=" * 60)
-                logger.info("MANUAL INPUT REQUIRED")
-                logger.info("Please paste the following prompt into AI Studio:")
-                logger.info("-" * 60)
-                print(prompt[:500] + "..." if len(prompt) > 500 else prompt)
-                logger.info("-" * 60)
-                logger.info("Press Enter after sending the prompt...")
-                logger.info("=" * 60)
-                input("Press Enter after sending the prompt manually...")
+            if not prompt_input:
+                logger.warning("Could not find prompt input")
+                input("Please paste the prompt manually and press Enter...")
                 return True
             
-            # Click on the input area
-            text_input.click()
-            time.sleep(0.5)
+            # Try JavaScript to set value (bypasses overlays)
+            success = False
+            try:
+                logger.info("Setting prompt text using JavaScript...")
+                self.driver.execute_script("""
+                    arguments[0].value = arguments[1];
+                    arguments[0].dispatchEvent(new Event('input', { bubbles: true }));
+                    arguments[0].dispatchEvent(new Event('change', { bubbles: true }));
+                """, prompt_input, prompt)
+                time.sleep(1)
+                
+                # Verify
+                current_value = self.driver.execute_script("return arguments[0].value;", prompt_input)
+                if current_value and len(current_value) > 100:
+                    logger.info("✓ Prompt text entered via JavaScript")
+                    success = True
+            except Exception as e:
+                logger.debug(f"JavaScript method failed: {e}")
             
-            # Clear any existing text
-            text_input.clear()
-            time.sleep(0.3)
+            # Fallback: Try regular click and type
+            if not success:
+                try:
+                    self.driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", prompt_input)
+                    time.sleep(1)
+                    self.driver.execute_script("arguments[0].click();", prompt_input)
+                    time.sleep(0.5)
+                    prompt_input.send_keys(Keys.CONTROL + "a")
+                    time.sleep(0.3)
+                    prompt_input.send_keys(prompt)
+                    time.sleep(1)
+                    logger.info("✓ Prompt text entered via typing")
+                    success = True
+                except Exception as e:
+                    logger.warning(f"Typing method failed: {e}")
+            
+            if not success:
+                logger.warning("Could not enter prompt automatically")
+                return False
             
             # Send the prompt
-            # For long prompts, use JavaScript to set value
-            if len(prompt) > 1000:
-                self.driver.execute_script(
-                    "arguments[0].value = arguments[1];",
-                    text_input, prompt
-                )
-                # Trigger input event
-                self.driver.execute_script(
-                    "arguments[0].dispatchEvent(new Event('input', { bubbles: true }));",
-                    text_input
-                )
-            else:
-                text_input.send_keys(prompt)
+            logger.info("\nSending prompt...")
             
-            time.sleep(1)
-            
-            # Find and click send button
-            send_selectors = [
-                "button[aria-label*='send']",
-                "button[aria-label*='Send']",
-                "button[aria-label*='submit']",
-                "button[aria-label*='Submit']",
-                "[data-testid='send-button']",
-                "button.send-button",
-                "button[type='submit']"
+            # Look for send button
+            send_xpaths = [
+                "//button[contains(@aria-label, 'Send')]",
+                "//button[contains(@aria-label, 'Run')]",
+                "//button[contains(@aria-label, 'Submit')]",
+                "//button[contains(text(), 'Send')]",
+                "//button[@type='submit']",
+                "//textarea/following-sibling::button",
             ]
             
             send_button = None
-            for selector in send_selectors:
+            for xpath in send_xpaths:
                 try:
-                    elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                    for elem in elements:
-                        if elem.is_displayed() and elem.is_enabled():
-                            send_button = elem
-                            break
+                    elements = self.driver.find_elements(By.XPATH, xpath)
+                    visible = [e for e in elements if e.is_displayed() and e.is_enabled()]
+                    if visible:
+                        send_button = visible[0]
+                        logger.info(f"Found send button: {xpath}")
+                        break
                 except:
                     continue
-                if send_button:
-                    break
             
             if send_button:
-                send_button.click()
-                logger.info("Prompt sent via button click")
-            else:
-                # Try sending with Enter key
-                text_input.send_keys(Keys.RETURN)
-                logger.info("Prompt sent via Enter key")
+                try:
+                    self.driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", send_button)
+                    time.sleep(1)
+                    self.driver.execute_script("arguments[0].click();", send_button)
+                    logger.info("✓ Prompt sent via button click")
+                    return True
+                except Exception as e:
+                    logger.debug(f"Button click failed: {e}")
             
-            time.sleep(2)
-            return True
+            # Fallback: Use Enter key
+            try:
+                prompt_input.click()
+                time.sleep(0.5)
+                prompt_input.send_keys(Keys.RETURN)
+                logger.info("✓ Prompt sent via Enter key")
+                return True
+            except Exception as e:
+                logger.error(f"Could not send prompt: {e}")
+                return False
             
         except Exception as e:
             logger.error(f"Error sending prompt: {e}")
@@ -633,71 +757,168 @@ class AIStudioExtractor:
         """Wait for AI response and extract it"""
         from selenium.webdriver.common.by import By
         
-        logger.info(f"Waiting for response (timeout: {timeout}s)...")
+        logger.info(f"\nWaiting for AI response (timeout: {timeout}s)...")
+        logger.info("This may take some time depending on the document size...")
         
         start_time = time.time()
-        last_response_length = 0
-        stable_count = 0
+        max_wait_time = timeout
+        wait_interval = 5
+        elapsed_time = 0
+        response_generated = False
         
-        # Response selectors to try
-        response_selectors = [
-            ".response-content",
-            ".message-content",
-            "[data-testid='response']",
-            ".ai-response",
-            ".assistant-message",
-            ".model-response",
-            "div[class*='response']",
-            "div[class*='message']"
+        response_indicators = [
+            "//div[contains(@class, 'response')]",
+            "//div[contains(@class, 'output')]",
+            "//div[contains(@class, 'result')]",
+            "//div[contains(@class, 'content')]//pre",
+            "//div[contains(@class, 'markdown')]",
         ]
         
-        while time.time() - start_time < timeout:
+        while elapsed_time < max_wait_time:
             try:
-                # Try to find response elements
-                response_text = ""
+                for xpath in response_indicators:
+                    elements = self.driver.find_elements(By.XPATH, xpath)
+                    if elements:
+                        for elem in elements:
+                            text = elem.text
+                            if text and len(text) > 100:
+                                # Check if still generating
+                                loading = self.driver.find_elements(By.XPATH, 
+                                    "//*[contains(@class, 'loading') or contains(@class, 'spinner') or contains(text(), 'Generating')]")
+                                if not any(l.is_displayed() for l in loading):
+                                    response_generated = True
+                                    logger.info("✓ Response appears complete")
+                                    break
+                        if response_generated:
+                            break
                 
-                for selector in response_selectors:
-                    elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                    for elem in elements:
-                        text = elem.text.strip()
-                        if len(text) > len(response_text):
-                            response_text = text
+                if response_generated:
+                    break
                 
-                # Also try getting all text from main content area
-                if not response_text:
-                    try:
-                        main_content = self.driver.find_element(By.TAG_NAME, "main")
-                        response_text = main_content.text
-                    except:
-                        pass
+                time.sleep(wait_interval)
+                elapsed_time += wait_interval
                 
-                # Check if response is complete (stable for a few iterations)
-                if response_text and "{" in response_text:
-                    if len(response_text) == last_response_length:
-                        stable_count += 1
-                        if stable_count >= 5:  # Response stable for 5 checks
-                            logger.info("Response appears complete")
-                            return response_text
-                    else:
-                        stable_count = 0
-                        last_response_length = len(response_text)
-                        logger.info(f"Response growing: {len(response_text)} chars")
-                
-                time.sleep(2)
-                
+                if elapsed_time % 30 == 0:
+                    logger.info(f"Still waiting... ({elapsed_time}/{max_wait_time} seconds)")
+                    
             except Exception as e:
-                logger.debug(f"Error checking response: {e}")
-                time.sleep(2)
+                time.sleep(wait_interval)
+                elapsed_time += wait_interval
         
-        # Timeout - try to get whatever response we have
-        logger.warning("Response timeout - attempting to get partial response")
+        if not response_generated:
+            logger.warning("Could not detect if response is complete. Proceeding anyway...")
         
+        time.sleep(3)
+        
+        # Try to get response text
         try:
-            # Get all text from page
             body = self.driver.find_element(By.TAG_NAME, "body")
             return body.text
         except:
             return None
+    
+    def _extract_json_response(self) -> Optional[str]:
+        """Extract JSON content from the page using copy button or DOM extraction"""
+        from selenium.webdriver.common.by import By
+        
+        logger.info("\nAttempting to extract JSON content...")
+        json_content = None
+        
+        # Method 1: Extract JSON directly from DOM
+        try:
+            logger.info("Extracting JSON from page DOM...")
+            
+            # Look for code blocks
+            code_selectors = [
+                "//pre[contains(@class, 'code') or contains(@class, 'json')]",
+                "//code",
+                "//div[contains(@class, 'code-block')]",
+                "//pre",
+            ]
+            
+            code_block = None
+            for selector in code_selectors:
+                elements = self.driver.find_elements(By.XPATH, selector)
+                if elements:
+                    code_block = elements[-1]  # Get most recent
+                    text = code_block.text
+                    if text and len(text) > 50 and (text.strip().startswith('{') or text.strip().startswith('[')):
+                        json_content = text
+                        logger.info(f"✓ Extracted JSON from DOM ({len(json_content)} characters)")
+                        break
+        except Exception as e:
+            logger.debug(f"DOM extraction failed: {e}")
+        
+        # Method 2: Try copy button
+        if not json_content:
+            try:
+                logger.info("Looking for copy button...")
+                
+                # Find code block first
+                code_block = None
+                try:
+                    code_elements = self.driver.find_elements(By.XPATH, "//pre | //code")
+                    if code_elements:
+                        code_block = code_elements[-1]
+                except:
+                    pass
+                
+                # Look for copy button near code block
+                copy_button = None
+                if code_block:
+                    try:
+                        container = code_block.find_element(By.XPATH, "./..")
+                        nearby_copy = container.find_elements(By.XPATH, 
+                            ".//button[contains(translate(@aria-label, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'copy')] | "
+                            ".//button[contains(@class, 'copy')]")
+                        if nearby_copy:
+                            visible = [b for b in nearby_copy if b.is_displayed() and b.is_enabled()]
+                            if visible:
+                                copy_button = visible[0]
+                                logger.info("Found copy button near code block")
+                    except:
+                        pass
+                
+                # Try general copy button search
+                if not copy_button:
+                    copy_xpaths = [
+                        "//button[contains(translate(@aria-label, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'copy')]",
+                        "//button[@aria-label='Copy']",
+                        "//button[contains(@class, 'copy')]",
+                    ]
+                    for xpath in copy_xpaths:
+                        try:
+                            elements = self.driver.find_elements(By.XPATH, xpath)
+                            visible = [e for e in elements if e.is_displayed() and e.is_enabled()]
+                            if visible:
+                                copy_button = visible[0]
+                                logger.info(f"Found copy button: {xpath}")
+                                break
+                        except:
+                            continue
+                
+                # Click copy button
+                if copy_button:
+                    self.driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", copy_button)
+                    time.sleep(1)
+                    self.driver.execute_script("arguments[0].click();", copy_button)
+                    time.sleep(3)
+                    logger.info("✓ Copy button clicked")
+                    
+                    # Get from clipboard
+                    if PYPERCLIP_AVAILABLE:
+                        try:
+                            copied_content = pyperclip.paste()
+                            if copied_content and len(copied_content) > 50:
+                                json_content = copied_content
+                                logger.info(f"✓ Content copied from clipboard ({len(copied_content)} characters)")
+                        except Exception as e:
+                            logger.debug(f"Clipboard read failed: {e}")
+                
+            except Exception as e:
+                logger.debug(f"Copy button method failed: {e}")
+        
+        return json_content
     
     def _parse_json_response(self, response: str) -> Optional[Dict]:
         """Parse JSON from AI response"""
@@ -705,8 +926,6 @@ class AIStudioExtractor:
             return None
         
         # Try to find JSON in response
-        # Look for JSON block between ``` or just raw JSON
-        
         patterns = [
             r'```json\s*([\s\S]*?)\s*```',  # ```json ... ```
             r'```\s*([\s\S]*?)\s*```',       # ``` ... ```
@@ -717,13 +936,9 @@ class AIStudioExtractor:
             matches = re.findall(pattern, response)
             for match in matches:
                 try:
-                    # Clean up the match
                     json_str = match.strip()
-                    
-                    # Try to parse
                     data = json.loads(json_str)
                     
-                    # Validate it has expected structure
                     if isinstance(data, dict) and ("structure" in data or "book_info" in data):
                         logger.info("Successfully parsed JSON response")
                         return data
@@ -731,9 +946,8 @@ class AIStudioExtractor:
                 except json.JSONDecodeError:
                     continue
         
-        # Try parsing the entire response
+        # Try parsing entire response
         try:
-            # Find the outermost { }
             start = response.find('{')
             end = response.rfind('}') + 1
             
@@ -749,10 +963,7 @@ class AIStudioExtractor:
         return None
     
     def interactive_extraction(self, pdf_path: Path, pdf_info: Dict) -> Dict:
-        """
-        Semi-interactive extraction with manual assistance
-        Use this when automatic extraction fails
-        """
+        """Semi-interactive extraction with manual assistance"""
         from config import AI_STUDIO_PROMPTS
         
         logger.info("Starting interactive extraction mode...")
@@ -760,12 +971,10 @@ class AIStudioExtractor:
         if self.driver is None:
             self._setup_driver()
         
-        # Open AI Studio
         self.driver.get("https://aistudio.google.com/prompts/new_chat")
         self._wait_for_page_load(60)
         time.sleep(3)
         
-        # Handle login
         self._check_and_handle_login()
         
         print("\n" + "=" * 70)
@@ -775,7 +984,7 @@ class AIStudioExtractor:
         print(f"   {pdf_path.absolute()}")
         print(f"\n2. Copy and paste this prompt:\n")
         print("-" * 70)
-        print(AI_STUDIO_PROMPTS["structure_extraction_simple"])
+        print(AI_STUDIO_PROMPTS.get("structure_extraction_simple", AI_STUDIO_PROMPTS.get("structure_extraction")))
         print("-" * 70)
         print("\n3. After AI responds with JSON, copy the JSON response")
         print("\n4. Paste the JSON response below (end with an empty line):")
