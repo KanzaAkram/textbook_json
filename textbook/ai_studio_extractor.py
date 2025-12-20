@@ -33,7 +33,11 @@ class AIStudioExtractor:
         
     def _setup_driver(self):
         """Setup Selenium WebDriver with appropriate options to bypass Google's automation detection"""
-        from textbook.config import SELENIUM_CONFIG, config
+        # Import from textbook.config explicitly to avoid import conflicts
+        try:
+            from textbook.config import SELENIUM_CONFIG
+        except ImportError:
+            from config import SELENIUM_CONFIG
         import tempfile
         
         # Use undetected-chromedriver if available (BETTER for bypassing Google detection)
@@ -144,7 +148,10 @@ class AIStudioExtractor:
         Returns:
             Extracted structure as dictionary
         """
-        from textbook.config import AI_STUDIO_PROMPTS, SELENIUM_CONFIG, config
+        try:
+            from textbook.config import AI_STUDIO_PROMPTS, SELENIUM_CONFIG, config
+        except ImportError:
+            from config import AI_STUDIO_PROMPTS, SELENIUM_CONFIG, config
         
         logger.info(f"Starting AI Studio extraction for: {pdf_path.name}")
         
@@ -234,7 +241,10 @@ class AIStudioExtractor:
     def _check_and_handle_login(self) -> bool:
         """Check if logged in and handle login if needed"""
         from selenium.webdriver.common.by import By
-        from textbook.config import GOOGLE_EMAIL, GOOGLE_PASSWORD
+        try:
+            from textbook.config import GOOGLE_EMAIL, GOOGLE_PASSWORD
+        except ImportError:
+            from config import GOOGLE_EMAIL, GOOGLE_PASSWORD
         
         logger.info("Checking login status...")
         
@@ -252,7 +262,10 @@ class AIStudioExtractor:
                         self.is_logged_in = True
                         # Navigate to AI Studio if not there yet
                         if "aistudio.google.com" not in self.driver.current_url:
-                            from textbook.config import SELENIUM_CONFIG, config
+                            try:
+                                from textbook.config import SELENIUM_CONFIG, config
+                            except ImportError:
+                                from config import SELENIUM_CONFIG, config
                             ai_studio_url = SELENIUM_CONFIG.get("ai_studio_url") or config.ai_studio_url or "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview"
                             logger.info(f"Navigating to: {ai_studio_url}")
                             self.driver.get(ai_studio_url)
@@ -269,7 +282,10 @@ class AIStudioExtractor:
                 logger.info("=" * 60)
                 
                 # Wait for redirect back to AI Studio
-                from textbook.config import config
+                try:
+                    from textbook.config import config
+                except ImportError:
+                    from config import config
                 timeout = config.manual_login_timeout
                 start_time = time.time()
                 
@@ -925,41 +941,25 @@ class AIStudioExtractor:
         if not response:
             return None
         
-        # Clean up response first
-        response = response.strip()
-        
-        # Remove markdown code blocks if present
-        if response.startswith('```'):
-            # Remove ```json or ``` at start
-            response = re.sub(r'^```(?:json)?\s*', '', response, flags=re.IGNORECASE)
-            # Remove ``` at end
-            response = re.sub(r'\s*```$', '', response)
-        
         # Try to find JSON in response
         patterns = [
             r'```json\s*([\s\S]*?)\s*```',  # ```json ... ```
             r'```\s*([\s\S]*?)\s*```',       # ``` ... ```
-            r'(\{[\s\S]{50,}\})',           # Raw JSON object (at least 50 chars)
+            r'(\{[\s\S]*\})',                # Raw JSON object
         ]
-        
-        json_str = None
         
         for pattern in patterns:
             matches = re.findall(pattern, response)
             for match in matches:
                 try:
                     json_str = match.strip()
-                    # Remove any trailing punctuation or text after closing brace
-                    json_str = re.sub(r'(\})\s*[^\}]*$', r'\1', json_str)
                     data = json.loads(json_str)
                     
-                    # Accept any valid dict (for page extraction, it has "subtopics", not "structure")
-                    if isinstance(data, dict):
+                    if isinstance(data, dict) and ("structure" in data or "book_info" in data):
                         logger.info("Successfully parsed JSON response")
                         return data
                         
-                except json.JSONDecodeError as e:
-                    logger.debug(f"Pattern {pattern} matched but failed to parse: {e}")
+                except json.JSONDecodeError:
                     continue
         
         # Try parsing entire response
@@ -969,30 +969,21 @@ class AIStudioExtractor:
             
             if start != -1 and end > start:
                 json_str = response[start:end]
-                # Clean up any trailing text
-                json_str = re.sub(r'(\})\s*[^\}]*$', r'\1', json_str)
                 data = json.loads(json_str)
                 if isinstance(data, dict):
-                    logger.info("Successfully parsed JSON response (direct parse)")
                     return data
-        except json.JSONDecodeError as e:
-            logger.debug(f"Direct parse failed: {e}")
-        
-        logger.warning("Could not parse JSON from response")
-        # Save failed response for debugging
-        try:
-            debug_path = Path("temp") / "failed_json_response.txt"
-            debug_path.parent.mkdir(exist_ok=True)
-            with open(debug_path, 'w', encoding='utf-8') as f:
-                f.write(response)
-            logger.info(f"Saved failed response to: {debug_path} (first 500 chars: {response[:500]})")
         except:
             pass
+        
+        logger.warning("Could not parse JSON from response")
         return None
     
     def interactive_extraction(self, pdf_path: Path, pdf_info: Dict) -> Dict:
         """Semi-interactive extraction with manual assistance"""
-        from textbook.config import AI_STUDIO_PROMPTS
+        try:
+            from textbook.config import AI_STUDIO_PROMPTS
+        except ImportError:
+            from config import AI_STUDIO_PROMPTS
         
         logger.info("Starting interactive extraction mode...")
         

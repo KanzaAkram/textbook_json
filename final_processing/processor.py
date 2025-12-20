@@ -10,10 +10,19 @@ This script processes matched subtopics from the staging directory:
 import logging
 import json
 import time
+import traceback
 from pathlib import Path
 from typing import Dict, List, Optional
 from datetime import datetime
 import sys
+
+# Try to import pyperclip for clipboard access
+try:
+    import pyperclip
+    PYPERCLIP_AVAILABLE = True
+except ImportError:
+    PYPERCLIP_AVAILABLE = False
+    print("Note: pyperclip not installed. Install with: pip install pyperclip")
 
 # Add parent directory to path for imports
 parent_dir = Path(__file__).parent.parent
@@ -210,6 +219,123 @@ class SubtopicProcessor:
         logger.debug(f"  Created prompt ({len(prompt)} chars)")
         return prompt
     
+    def extract_json_from_response(self) -> Optional[str]:
+        """
+        Extract JSON content from the page using copy button or DOM extraction.
+        This mirrors the logic from ai_studio_extractor.py
+        
+        Returns:
+            JSON content as string or None if extraction failed
+        """
+        from selenium.webdriver.common.by import By
+        
+        logger.info("    Extracting JSON from AI response...")
+        json_content = None
+        
+        # Method 1: Extract JSON directly from DOM
+        try:
+            logger.info("    Trying DOM extraction...")
+            
+            # Look for code blocks
+            code_selectors = [
+                "//pre[contains(@class, 'code') or contains(@class, 'json')]",
+                "//code",
+                "//div[contains(@class, 'code-block')]",
+                "//pre",
+            ]
+            
+            code_block = None
+            for selector in code_selectors:
+                elements = self.extractor.driver.find_elements(By.XPATH, selector)
+                if elements:
+                    code_block = elements[-1]  # Get most recent
+                    text = code_block.text
+                    if text and len(text) > 50 and (text.strip().startswith('{') or text.strip().startswith('[')):
+                        json_content = text
+                        logger.info(f"      [✓] Extracted JSON from DOM ({len(json_content)} characters)")
+                        break
+        except Exception as e:
+            logger.debug(f"      DOM extraction failed: {e}")
+        
+        # Method 2: Try copy button to get content from clipboard
+        if not json_content:
+            try:
+                logger.info("    Trying copy button + clipboard method...")
+                
+                # Find code block first
+                code_block = None
+                try:
+                    code_elements = self.extractor.driver.find_elements(By.XPATH, "//pre | //code")
+                    if code_elements:
+                        code_block = code_elements[-1]
+                except:
+                    pass
+                
+                # Look for copy button near code block
+                copy_button = None
+                if code_block:
+                    try:
+                        container = code_block.find_element(By.XPATH, "./..")
+                        nearby_copy = container.find_elements(By.XPATH, 
+                            ".//button[contains(translate(@aria-label, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'copy')] | "
+                            ".//button[contains(@class, 'copy')]")
+                        if nearby_copy:
+                            visible = [b for b in nearby_copy if b.is_displayed() and b.is_enabled()]
+                            if visible:
+                                copy_button = visible[0]
+                                logger.info("      Found copy button near code block")
+                    except:
+                        pass
+                
+                # Try general copy button search
+                if not copy_button:
+                    copy_xpaths = [
+                        "//button[contains(translate(@aria-label, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'copy')]",
+                        "//button[@aria-label='Copy']",
+                        "//button[contains(@class, 'copy')]",
+                    ]
+                    for xpath in copy_xpaths:
+                        try:
+                            elements = self.extractor.driver.find_elements(By.XPATH, xpath)
+                            visible = [e for e in elements if e.is_displayed() and e.is_enabled()]
+                            if visible:
+                                copy_button = visible[0]
+                                logger.info(f"      Found copy button")
+                                break
+                        except:
+                            continue
+                
+                # Click copy button and get from clipboard
+                if copy_button:
+                    try:
+                        self.extractor.driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", copy_button)
+                        time.sleep(1)
+                        self.extractor.driver.execute_script("arguments[0].click();", copy_button)
+                        time.sleep(3)
+                        logger.info("      [✓] Copy button clicked")
+                        
+                        # Get from clipboard
+                        if PYPERCLIP_AVAILABLE:
+                            try:
+                                copied_content = pyperclip.paste()
+                                if copied_content and len(copied_content) > 50:
+                                    json_content = copied_content
+                                    logger.info(f"      [✓] Content copied from clipboard ({len(copied_content)} characters)")
+                            except Exception as e:
+                                logger.debug(f"      Clipboard read failed: {e}")
+                        else:
+                            logger.warning("      pyperclip not available, skipping clipboard method")
+                    except Exception as e:
+                        logger.debug(f"      Failed to click copy button: {e}")
+                
+            except Exception as e:
+                logger.debug(f"      Copy button method failed: {e}")
+        
+        if not json_content:
+            logger.warning("    Could not extract JSON from response")
+        
+        return json_content
+    
     def send_to_ai_studio(self, prompt: str) -> Optional[Dict]:
         """
         Send prompt to AI Studio and get response.
@@ -221,58 +347,91 @@ class SubtopicProcessor:
             Parsed JSON response or None if error
         """
         try:
-            # Ensure driver is setup
-            if self.extractor.driver is None:
-                logger.info("    Setting up WebDriver...")
-                self.extractor._setup_driver()
-            
-            # Navigate to AI Studio
-            ai_studio_url = SELENIUM_CONFIG.get("ai_studio_url") or config.ai_studio_url
-            logger.info(f"    Navigating to AI Studio...")
-            self.extractor.driver.get(ai_studio_url)
-            self.extractor._wait_for_page_load(60)
-            time.sleep(5)
-            
-            # Check login
-            logger.info(f"    Checking authentication...")
-            if not self.extractor._check_and_handle_login():
-                raise Exception("Failed to authenticate with AI Studio")
-            
-            time.sleep(3)
-            
-            # Send prompt
-            logger.info(f"    Sending prompt to AI...")
-            if not self.extractor._send_prompt(prompt):
-                raise Exception("Failed to send prompt to AI Studio")
-            
-            # Wait for response
-            logger.info(f"    Waiting for AI response (this may take 1-2 minutes)...")
-            response = self.extractor._wait_for_response(timeout=180)
-            
-            if not response:
-                raise Exception("No response received from AI Studio")
-            
-            logger.info(f"    ✓ Received response ({len(response)} chars)")
-            
-            # Extract and parse JSON
-            logger.info(f"    Parsing JSON response...")
-            json_content = self.extractor._extract_json_response()
-            if not json_content:
-                json_content = response
-            
-            result_data = self.extractor._parse_json_response(json_content or response)
-            
-            if not result_data:
-                logger.error(f"    [ERROR] Could not parse JSON from response")
-                # Save raw response for debugging
-                logger.debug(f"    Raw response: {response[:500]}...")
-                return None
-            
-            logger.info(f"    [OK] Successfully parsed JSON response")
-            return result_data
+            # Check if driver is healthy, restart if needed
+            max_retries = 2
+            for attempt in range(max_retries):
+                try:
+                    if self.extractor.driver is None:
+                        logger.info("    Setting up WebDriver...")
+                        self.extractor._setup_driver()
+                    
+                    # Test if driver is responsive
+                    try:
+                        title = self.extractor.driver.title
+                        logger.debug(f"    Driver is responsive (title: {title[:50]})")
+                    except:
+                        logger.warning("    Driver is unresponsive, restarting...")
+                        self.extractor.close()
+                        self.extractor._setup_driver()
+                    
+                    # Navigate to AI Studio
+                    ai_studio_url = SELENIUM_CONFIG.get("ai_studio_url") or config.ai_studio_url
+                    logger.info(f"    Navigating to AI Studio...")
+                    self.extractor.driver.get(ai_studio_url)
+                    self.extractor._wait_for_page_load(60)
+                    time.sleep(5)
+                    
+                    # Check login
+                    logger.info(f"    Checking authentication...")
+                    if not self.extractor._check_and_handle_login():
+                        raise Exception("Failed to authenticate with AI Studio")
+                    
+                    time.sleep(3)
+                    
+                    # Send prompt
+                    logger.info(f"    Sending prompt to AI...")
+                    if not self.extractor._send_prompt(prompt):
+                        raise Exception("Failed to send prompt to AI Studio")
+                    
+                    # Wait for response with proper timeout
+                    logger.info(f"    Waiting for AI response (this may take 1-2 minutes)...")
+                    response = self.extractor._wait_for_response(timeout=180)
+                    
+                    if not response:
+                        raise Exception("No response received from AI Studio")
+                    
+                    logger.info(f"    [OK] Received response ({len(response)} chars)")
+                    
+                    # Extract and parse JSON with enhanced DOM/clipboard extraction
+                    logger.info(f"    Extracting JSON response...")
+                    
+                    # First try our enhanced extraction with DOM and clipboard copy
+                    json_content = self.extract_json_from_response()
+                    
+                    # If that didn't work, try the extractor's method
+                    if not json_content:
+                        logger.info("    Trying extractor's extraction method...")
+                        json_content = self.extractor._extract_json_response()
+                    
+                    # Fall back to raw response if all else fails
+                    if not json_content:
+                        json_content = response
+                    
+                    result_data = self.extractor._parse_json_response(json_content or response)
+                    
+                    if not result_data:
+                        logger.error(f"    [ERROR] Could not parse JSON from response")
+                        logger.debug(f"    Raw response snippet: {response[:200]}...")
+                        return None
+                    
+                    logger.info(f"    [OK] Successfully parsed JSON response")
+                    return result_data
+                    
+                except Exception as e:
+                    if attempt < max_retries - 1:
+                        logger.warning(f"    Attempt {attempt + 1} failed: {e}. Retrying...")
+                        # Close driver before retry
+                        try:
+                            self.extractor.close()
+                        except:
+                            pass
+                        time.sleep(5)
+                        continue
+                    else:
+                        raise
             
         except Exception as e:
-            logger.error(f"    ✗ Error communicating with AI Studio: {e}")
+            logger.error(f"    [ERROR] Error communicating with AI Studio: {e}")
             import traceback
             traceback.print_exc()
             return None
@@ -360,16 +519,22 @@ class SubtopicProcessor:
         return success
 
 
-def process_all_staged_subtopics(limit_per_subject: Optional[int] = None):
+def process_all_staged_subtopics(limit_per_subject: Optional[int] = None, level: Optional[str] = None, subject: Optional[str] = None):
     """
     Process all subtopics from staging directory.
     
     Args:
         limit_per_subject: Optional limit on number of subtopics to process per subject (for testing)
+        level: Optional level filter (e.g., "Alevel", "AS'Level", "IGCSE", "O'level")
+        subject: Optional subject code filter (e.g., "9701")
     """
     logger.info("="*80)
     logger.info("FINAL PROCESSING PIPELINE - AI Studio Generation")
     logger.info("="*80)
+    if level:
+        logger.info(f"Filtering to level: {level}")
+    if subject:
+        logger.info(f"Filtering to subject: {subject}")
     
     if not EXTRACTOR_AVAILABLE:
         logger.error("AIStudioExtractor not available. Cannot proceed.")
@@ -380,14 +545,18 @@ def process_all_staged_subtopics(limit_per_subject: Optional[int] = None):
     total_success = 0
     total_failed = 0
     
-    for level in LEVELS:
-        level_path = STAGING_PATH / level
+    for curr_level in LEVELS:
+        # Skip if level filter is set and doesn't match
+        if level and curr_level != level:
+            continue
+            
+        level_path = STAGING_PATH / curr_level
         if not level_path.exists():
-            logger.info(f"\nNo staging data for level: {level}")
+            logger.info(f"\nNo staging data for level: {curr_level}")
             continue
         
         logger.info(f"\n{'='*80}")
-        logger.info(f"Processing Level: {level}")
+        logger.info(f"Processing Level: {curr_level}")
         logger.info(f"{'='*80}")
         
         # Find all subject codes
@@ -395,8 +564,13 @@ def process_all_staged_subtopics(limit_per_subject: Optional[int] = None):
         
         for subject_dir in sorted(subject_dirs):
             subject_code = subject_dir.name
+            
+            # Skip if subject filter is set and doesn't match
+            if subject and subject_code != subject:
+                continue
+                
             logger.info(f"\n{'-'*80}")
-            logger.info(f"Subject: {level}/{subject_code}")
+            logger.info(f"Subject: {curr_level}/{subject_code}")
             logger.info(f"{'-'*80}")
             
             # Find all subtopic metadata files
@@ -466,7 +640,7 @@ def main():
     args = parser.parse_args()
     
     try:
-        # Note: Currently processes all levels/subjects. Can be enhanced to filter by args.level/args.subject
+        process_all_staged_subtopics(limit_per_subject=args.limit, level=args.level, subject=args.subject)
         process_all_staged_subtopics(limit_per_subject=args.limit)
     except Exception as e:
         logger.error(f"Fatal error: {e}", exc_info=True)

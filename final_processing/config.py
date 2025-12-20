@@ -104,14 +104,7 @@ Create comprehensive notes in JSON format:
     "objective_1": "covered/detailed explanation",
     "objective_2": "covered/detailed explanation"
   }},
-  "metadata": {{
-    "sources": {{
-      "textbook": true,
-      "syllabus": true,
-      "save_my_exam": true
-    }},
-    "generated_date": "ISO format date"
-  }}
+  
 }}
 
 Return ONLY valid JSON. No markdown formatting, no code blocks, no explanations outside JSON.
