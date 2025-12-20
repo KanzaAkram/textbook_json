@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Types and components of computer systems"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Hardware and software",
+    "learning_objectives": [
+      {
+        "description": "Hardware",
+        "notes_and_guidance": "Hardware consists of the physical components of a computer system\nInternal components including Central Processing Unit (CPU), processor, motherboard\nInternal memory including random access memory (RAM), read-only memory (ROM)\nHardware components including graphics card, sound card, Network Interface Card (NIC), camera, internal/external storage devices, input and output devices"
+      },
+      {
+        "description": "Software",
+        "notes_and_guidance": "Software are programs for controlling the operation of a computer or processing of electronic data\nApplications software provides the services that the user requires to solve a task\nExamples of applications software including word processing, spreadsheet, database management systems, control, measurement, applets and apps, video editing, graphics editing, audio editing, computer aided design (CAD)\nSystem software provides the services that the computer requires to operate\nExamples of system software including compilers, linkers, device drivers, operating systems and utilities"
+      },
+      {
+        "description": "Analogue and digital data",
+        "notes_and_guidance": "Characteristics of analogue and digital data\nDifferences between analogue and digital data\nThe need to convert:\n• analogue to digital data so it can be processed by a computer\n• digital data to analogue data so it can be used to control devices"
+      }
+    ]
+  }
+}

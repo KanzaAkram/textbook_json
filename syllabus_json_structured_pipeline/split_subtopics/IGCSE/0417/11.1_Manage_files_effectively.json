@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "File management"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.1",
+    "sub_topic_name": "Manage files effectively",
+    "learning_objectives": [
+      {
+        "description": "Manage files",
+        "notes_and_guidance": "Locate stored files\nOpen and import files of different types\nSave files in a planned hierarchical directory/folder structure\nSave files using appropriate file names\nSave and print files in a variety of formats including a document, screenshots, database reports, data tables, graphs/charts, a web page in browser view, a web page in HTML view\nSave and export in the file format of an application package including .docx, .doc, .xlsx, .xls, .sdb, .sdc, .accdb.odb, .rtf, .pptx, .ppt\nSave and export in a generic file format including .csv, .txt, .rtf, .pdf, .css, .htm, .jpg, .png"
+      },
+      {
+        "description": "File formats",
+        "notes_and_guidance": "Characteristics and uses of file formats including css, csv, gif, htm, jpg, pdf, png, rtf, txt, zip, rar\nThe need for generic file formats"
+      }
+    ]
+  }
+}

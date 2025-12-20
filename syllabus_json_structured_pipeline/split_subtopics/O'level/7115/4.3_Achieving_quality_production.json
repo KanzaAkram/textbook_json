@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Achieving quality production",
+    "learning_objectives": [
+      {
+        "objective_number": "4.3.1",
+        "description": "Why quality is important and how quality production might be achieved: What quality means and why it is important for all businesses; The concept of quality control and how businesses implement quality control; The concept of quality assurance and how this can be implemented"
+      }
+    ]
+  }
+}

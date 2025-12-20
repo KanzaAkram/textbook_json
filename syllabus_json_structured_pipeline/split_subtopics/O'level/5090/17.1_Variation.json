@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.1",
+    "sub_topic_name": "Variation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe variation as differences between individuals of the same species"
+      },
+      {
+        "objective_number": 2,
+        "description": "Understand that continuous variation results in a range of phenotypes between two extremes, including body length and body mass"
+      },
+      {
+        "objective_number": 3,
+        "description": "Understand that discontinuous variation results in a limited number of phenotypes with no intermediates, including ABO blood groups, seed shape and seed colour in peas"
+      },
+      {
+        "objective_number": 4,
+        "description": "Understand that discontinuous variation is usually caused by genes only and continuous variation is caused by genes and the environment"
+      },
+      {
+        "objective_number": 5,
+        "description": "Investigate and describe examples of continuous and discontinuous variation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.6",
+    "sub_topic_name": "Angles",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Calculate unknown angles and give simple explanations using the following geometrical properties:\n• sum of angles at a point = 360°\n• sum of angles at a point on a straight line = 180°\n• vertically opposite angles are equal\n• angle sum of a triangle = 180° and angle sum of a quadrilateral = 360°."
+      },
+      {
+        "objective_number": 2,
+        "description": "Calculate unknown angles and give geometric explanations for angles formed within parallel lines:\n• corresponding angles are equal\n• alternate angles are equal\n• co-interior angles sum to 180° (supplementary)."
+      },
+      {
+        "objective_number": 3,
+        "description": "Know and use angle properties of regular polygons."
+      }
+    ],
+    "notes_and_examples": "Knowledge of three-letter notation for angles is required, e.g. angle ABC. Candidates are expected to use the correct geometrical terminology when giving reasons for answers.\nIncludes exterior and interior angles, and angle sum."
+  }
+}

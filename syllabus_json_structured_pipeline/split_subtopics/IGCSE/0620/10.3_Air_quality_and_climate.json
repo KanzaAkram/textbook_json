@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Chemistry of the environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.3",
+    "sub_topic_name": "Air quality and climate",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State the composition of clean, dry air as approximately 78% nitrogen, N2, 21% oxygen, O2 and the remainder as a mixture of noble gases and carbon dioxide, CO2"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the source of each of these air pollutants, limited to: (a) carbon dioxide from the complete combustion of carbon-containing fuels (b) carbon monoxide and particulates from the incomplete combustion of carbon-containing fuels (c) methane from the decomposition of vegetation and waste gases from digestion in animals (d) oxides of nitrogen from car engines (e) sulfur dioxide from the combustion of fossil fuels which contain sulfur compounds"
+        },
+        {
+          "objective_number": 3,
+          "description": "State the adverse effect of these air pollutants, limited to: (a) carbon dioxide: higher levels of carbon dioxide leading to increased global warming, which leads to climate change (b) carbon monoxide: toxic gas (c) particulates: increased risk of respiratory problems and cancer (d) methane: higher levels of methane leading to increased global warming, which leads to climate change (e) oxides of nitrogen: acid rain, photochemical smog and respiratory problems (f) sulfur dioxide: acid rain"
+        },
+        {
+          "objective_number": 4,
+          "description": "State and explain strategies to reduce the effects of these environmental issues, limited to: (a) climate change: planting trees, reduction in livestock farming, decreasing use of fossil fuels, increasing use of hydrogen and renewable energy, e.g. wind, solar (b) acid rain: use of catalytic converters in vehicles, reducing emissions of sulfur dioxide by using low-sulfur fuels and flue gas desulfurisation with calcium oxide"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe photosynthesis as the reaction between carbon dioxide and water to produce glucose and oxygen in the presence of chlorophyll and using energy from light"
+        },
+        {
+          "objective_number": 6,
+          "description": "State the word equation for photosynthesis, carbon dioxide + water → glucose + oxygen"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 7,
+          "description": "Describe how the greenhouse gases carbon dioxide and methane cause global warming, limited to: (a) the absorption, reflection and emission of thermal energy (b) reducing thermal energy loss to space"
+        },
+        {
+          "objective_number": 8,
+          "description": "Explain how oxides of nitrogen form in car engines and describe their removal by catalytic converters, e.g. 2CO + 2NO → 2CO2 + N2"
+        },
+        {
+          "objective_number": 9,
+          "description": "State the symbol equation for photosynthesis, 6CO2 + 6H2O → C6H12O6 + 6O2"
+        }
+      ]
+    }
+  }
+}

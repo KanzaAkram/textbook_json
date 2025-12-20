@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Electricity"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.1",
+    "sub_topic_name": "Electric current",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that an electric current is a flow of charge carriers"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that the charge on charge carriers is quantised"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and use Q = It"
+      },
+      {
+        "objective_number": 4,
+        "description": "use, for a current-carrying conductor, the expression I = Anvq, where n is the number density of charge carriers"
+      }
+    ]
+  }
+}

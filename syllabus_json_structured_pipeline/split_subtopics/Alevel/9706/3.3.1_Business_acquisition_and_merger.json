@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Financial accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3.1",
+    "sub_topic_name": "Business acquisition and merger",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the nature and purpose of the merger of different types of businesses to form a new business entity"
+      },
+      {
+        "objective_number": 2,
+        "description": "how to prepare journal entries and make entries in the relevant ledger accounts to record the: merger of two or more sole trader businesses to form a partnership or a limited company, merger of a sole trader's business with an existing partnership to form a new partnership, acquisition of a sole trader's business or partnership by a limited company"
+      },
+      {
+        "objective_number": 3,
+        "description": "how to calculate the value of goodwill on the acquisition of a business by another entity"
+      },
+      {
+        "objective_number": 4,
+        "description": "how to prepare statements of profit or loss and statements of financial position for the newly formed business entity following the acquisition or merger, for example the limited company acquiring the partnership"
+      },
+      {
+        "objective_number": 5,
+        "description": "the advantages and disadvantages of the acquisition or merger"
+      }
+    ]
+  }
+}

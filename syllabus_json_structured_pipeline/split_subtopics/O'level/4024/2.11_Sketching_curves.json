@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.11",
+    "sub_topic_name": "Sketching curves",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Recognise, sketch and interpret graphs of the following functions: (a) linear, (b) quadratic, (c) cubic, (d) reciprocal, (e) exponential.",
+        "notes_and_examples": "Functions will be equivalent to: ax + by = c, y = ax² + bx + c, y = ax³ + b, y = ax³ + bx² + cx, y = a/x + b, y = arˣ + b where a, b and c are rational numbers and r is a rational, positive number. Knowledge of turning points, roots and symmetry is required. Knowledge of vertical and horizontal asymptotes is required. Finding turning points of quadratics by completing the square is required."
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "The macroeconomy (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.4",
+    "sub_topic_name": "Money and banking",
+    "learning_objectives": [
+      {
+        "objective_number": "9.4.1",
+        "description": "definition, functions and characteristics of money"
+      },
+      {
+        "objective_number": "9.4.2",
+        "description": "definition of money supply"
+      },
+      {
+        "objective_number": "9.4.3",
+        "description": "quantity theory of money (MV = PT)"
+      },
+      {
+        "objective_number": "9.4.4",
+        "description": "functions of commercial banks: providing deposit accounts (demand deposit account, savings account), lending money (overdrafts, loans), holding or providing cash, securities, loans, deposits, equity, reserve ratio and capital ratio, objectives of commercial banks: liquidity, security, profitability"
+      },
+      {
+        "objective_number": "9.4.5",
+        "description": "causes of changes in the money supply in an open economy: commercial banks as sources of credit creation and the bank credit multiplier, role of a central bank, government deficit financing, quantitative easing, changes in the balance of payments"
+      },
+      {
+        "objective_number": "9.4.6",
+        "description": "policies to reduce inflation and their effectiveness"
+      },
+      {
+        "objective_number": "9.4.7",
+        "description": "demand for money: liquidity preference theory"
+      },
+      {
+        "objective_number": "9.4.8",
+        "description": "interest rate determination: loanable funds theory and Keynesian theory"
+      }
+    ]
+  }
+}

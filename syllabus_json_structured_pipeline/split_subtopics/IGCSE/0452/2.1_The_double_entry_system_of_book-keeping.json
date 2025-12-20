@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Sources and recording of data"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "The double entry system of book-keeping",
+    "learning_objectives": [
+      "outline the double entry system of book-keeping",
+      "process accounting data using the double entry system",
+      "prepare ledger accounts",
+      "post transactions to the ledger accounts",
+      "balance ledger accounts as required and make transfers to financial statements",
+      "interpret ledger accounts and their balances",
+      "recognise the division of the ledger into the sales ledger, the purchases ledger and the nominal (general) ledger."
+    ],
+    "notes": [
+      "Candidates do not need to explain or use folio columns.",
+      "Candidates do not need to explain or use three-column running-balance accounts."
+    ]
+  }
+}

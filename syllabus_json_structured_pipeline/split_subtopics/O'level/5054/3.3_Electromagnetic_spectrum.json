@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Waves"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Electromagnetic spectrum",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Know the main regions of the electromagnetic spectrum in order of frequency and in order of wavelength"
+      },
+      {
+        "objective_number": 2,
+        "description": "Know that the speed of all electromagnetic waves in: (a) a vacuum is 3.0 × 10⁸ m/s (b) air is approximately the same as in a vacuum"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the role of the following components in the stated applications: (a) radio waves – radio and television communications, astronomy (b) microwaves – satellite television, mobile (cell) phone, Bluetooth, microwave ovens (c) infrared – household electrical appliances, remote controllers, intruder alarms, thermal imaging, optical fibres (d) visible light – photography, vision (e) ultraviolet – security marking, detecting counterfeit bank notes, sterilising water (f) X-rays – hospital use in medical imaging, security scanners, killing cancerous cells, engineering applications such as detecting cracks in metal (g) gamma rays – medical treatment in detecting and killing cancerous cells, sterilising food and medical equipment, engineering applications such as detecting cracks in metal"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe the damage caused by electromagnetic radiation, including: (a) excessive exposure causing heating of soft tissues and burns (b) ionising effects caused by ultraviolet (skin cancer and cataracts), X-rays and gamma rays (cell mutation and cancer)"
+      }
+    ]
+  }
+}

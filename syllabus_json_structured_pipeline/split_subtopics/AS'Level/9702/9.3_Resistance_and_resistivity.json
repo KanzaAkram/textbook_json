@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Electricity"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.3",
+    "sub_topic_name": "Resistance and resistivity",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define resistance"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use V = IR"
+      },
+      {
+        "objective_number": 3,
+        "description": "sketch the I-V characteristics of a metallic conductor at constant temperature, a semiconductor diode and a filament lamp"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain that the resistance of a filament lamp increases as current increases because its temperature increases"
+      },
+      {
+        "objective_number": 5,
+        "description": "state Ohm's law"
+      },
+      {
+        "objective_number": 6,
+        "description": "recall and use R = ρL/A"
+      },
+      {
+        "objective_number": 7,
+        "description": "understand that the resistance of a light-dependent resistor (LDR) decreases as the light intensity increases"
+      },
+      {
+        "objective_number": 8,
+        "description": "understand that the resistance of a thermistor decreases as the temperature increases (it will be assumed that thermistors have a negative temperature coefficient)"
+      }
+    ]
+  }
+}

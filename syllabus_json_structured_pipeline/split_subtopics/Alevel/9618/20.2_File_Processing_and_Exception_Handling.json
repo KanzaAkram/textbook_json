@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Further Programming"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.2",
+    "sub_topic_name": "File Processing and Exception Handling",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Write code to perform file-processing operations (Open (in read, write, append mode) and close a file; Read a record from a file and write a record to a file; Perform file-processing operations on serial, sequential, random files)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show understanding of an exception and the importance of exception handling (Know when it is appropriate to use exception handling; Write program code to use exception handling)"
+      }
+    ]
+  }
+}

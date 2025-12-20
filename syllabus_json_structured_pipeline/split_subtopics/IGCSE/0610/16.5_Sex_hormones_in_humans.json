@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Reproduction"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.5",
+    "sub_topic_name": "Sex hormones in humans",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the roles of testosterone and oestrogen in the development and regulation of secondary sexual characteristics during puberty"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the menstrual cycle in terms of changes in the ovaries and in the lining of the uterus"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "Describe the sites of production of oestrogen and progesterone in the menstrual cycle and in pregnancy"
+        },
+        {
+          "objective_number": 4,
+          "description": "Explain the role of hormones in controlling the menstrual cycle and pregnancy, limited to FSH, LH, progesterone and oestrogen"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Layout"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.1",
+    "sub_topic_name": "Create or edit a document",
+    "learning_objectives": [
+      {
+        "description": "Create a new document, or edit an existing document",
+        "notes_and_guidance": "Enter and modify text and numbers with total accuracy\nUse editing techniques to manipulate text and numbers including highlight, delete, move, cut, copy, paste, drag and drop\nPlace objects into the document from a variety of sources including text, image, screenshot, shapes, table, graph or chart, spreadsheet extract, database extract\nWrap text around a table, chart or image including above, below, square and tight"
+      }
+    ]
+  }
+}

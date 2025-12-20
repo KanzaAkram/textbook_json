@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "The mitotic cell cycle"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Replication and division of nuclei and cells",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the structure of a chromosome, limited to: DNA, histone proteins, sister chromatids, centromere, telomeres"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the importance of mitosis in the production of genetically identical daughter cells during: growth of multicellular organisms, replacement of damaged or dead cells, repair of tissues by cell replacement, asexual reproduction"
+      },
+      {
+        "objective_number": 3,
+        "description": "outline the mitotic cell cycle, including: interphase (growth in G₁ and G₂ phases and DNA replication in S phase), mitosis, cytokinesis"
+      },
+      {
+        "objective_number": 4,
+        "description": "outline the role of telomeres in preventing the loss of genes from the ends of chromosomes during DNA replication"
+      },
+      {
+        "objective_number": 5,
+        "description": "outline the role of stem cells in cell replacement and tissue repair by mitosis"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain how uncontrolled cell division can result in the formation of a tumour"
+      }
+    ]
+  }
+}

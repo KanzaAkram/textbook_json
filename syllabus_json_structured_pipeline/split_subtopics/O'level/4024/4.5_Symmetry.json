@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.5",
+    "sub_topic_name": "Symmetry",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Recognise line symmetry and order of rotational symmetry in two dimensions.",
+        "notes_and_examples": "Includes properties of triangles, quadrilaterals and polygons directly related to their symmetries."
+      },
+      {
+        "objective_number": "2",
+        "description": "Recognise symmetry properties of prisms, cylinders, pyramids and cones.",
+        "notes_and_examples": "e.g. identify planes and axes of symmetry."
+      }
+    ]
+  }
+}

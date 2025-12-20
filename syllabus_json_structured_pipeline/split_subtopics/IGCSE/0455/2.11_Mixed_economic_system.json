@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.11",
+    "sub_topic_name": "Mixed economic system",
+    "learning_objectives": [
+      {
+        "objective_number": "2.11.1",
+        "objective_title": "definition of the mixed economic system",
+        "guidance": "Definitions, drawing and interpretation of appropriate diagrams showing the effects of three government microeconomic policy measures: maximum and minimum prices in product, labour and foreign exchange markets; indirect taxation; and subsidies. The implications of other government microeconomic policy measures: regulation; privatisation and nationalisation; and direct provision of goods. The effectiveness of government intervention in overcoming the drawbacks of a market economic system."
+      },
+      {
+        "objective_number": "2.11.2",
+        "objective_title": "government intervention to address market failure",
+        "guidance": "Definitions, drawing and interpretation of appropriate diagrams showing the effects of three government microeconomic policy measures: maximum and minimum prices in product, labour and foreign exchange markets; indirect taxation; and subsidies. The implications of other government microeconomic policy measures: regulation; privatisation and nationalisation; and direct provision of goods. The effectiveness of government intervention in overcoming the drawbacks of a market economic system."
+      }
+    ]
+  }
+}

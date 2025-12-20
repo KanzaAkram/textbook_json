@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Sets",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand and use set language, notation and Venn diagrams to describe sets."
+      }
+    ],
+    "notes_and_examples": "Venn diagrams are limited to two sets.\nThe following set notation will be used:\n• n(A) Number of elements in set A\n• A' Complement of set A\n• E Universal set\n• A ∪ B Union of A and B\n• A ∩ B Intersection of A and B.\nExample definition of sets:\nA = {x: x is a natural number}\nB = {a, b, c, ...}\nC = {x: a < x < b}."
+  }
+}

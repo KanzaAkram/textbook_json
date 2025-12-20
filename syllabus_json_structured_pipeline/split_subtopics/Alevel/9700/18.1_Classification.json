@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Classification, biodiversity and conservation"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.1",
+    "sub_topic_name": "Classification",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "discuss the meaning of the term species, limited to the biological species concept, morphological species concept and ecological species concept"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the classification of organisms into three domains: Archaea, Bacteria and Eukarya"
+      },
+      {
+        "objective_number": 3,
+        "description": "state that Archaea and Bacteria are prokaryotes and that there are differences between them, limited to differences in membrane lipids, ribosomal RNA and composition of cell walls"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the classification of organisms in the Eukarya domain into the taxonomic hierarchy of kingdom, phylum, class, order, family, genus and species"
+      },
+      {
+        "objective_number": 5,
+        "description": "outline the characteristic features of the kingdoms Protoctista, Fungi, Plantae and Animalia"
+      },
+      {
+        "objective_number": 6,
+        "description": "outline how viruses are classified, limited to the type of nucleic acid (RNA or DNA) and whether this is single stranded or double stranded"
+      }
+    ]
+  }
+}

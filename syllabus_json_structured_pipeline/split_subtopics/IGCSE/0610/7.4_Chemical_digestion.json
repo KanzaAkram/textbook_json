@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Human nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.4",
+    "sub_topic_name": "Chemical digestion",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe chemical digestion as the breakdown of large insoluble molecules into small soluble molecules"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the role of chemical digestion in producing small soluble molecules that can be absorbed"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe the functions of enzymes as follows: (a) amylase breaks down starch to simple reducing sugars (b) proteases break down protein to amino acids (c) lipase breaks down fats and oils to fatty acids and glycerol"
+        },
+        {
+          "objective_number": 4,
+          "description": "State where, in the digestive system, amylase, protease and lipase are secreted and where they act"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe the functions of hydrochloric acid in gastric juice, limited to killing harmful microorganisms in food and providing an acidic pH for optimum enzyme activity"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 6,
+          "description": "Describe the digestion of starch in the digestive system: (a) amylase breaks down starch to maltose (b) maltase breaks down maltose to glucose on the membranes of the epithelium lining the small intestine"
+        },
+        {
+          "objective_number": 7,
+          "description": "Describe the digestion of protein by proteases in the digestive system: (a) pepsin breaks down protein in the acidic conditions of the stomach (b) trypsin breaks down protein in the alkaline conditions of the small intestine"
+        },
+        {
+          "objective_number": 8,
+          "description": "Explain that bile is an alkaline mixture that neutralises the acidic mixture of food and gastric juices entering the duodenum from the stomach, to provide a suitable pH for enzyme action"
+        }
+      ]
+    }
+  }
+}

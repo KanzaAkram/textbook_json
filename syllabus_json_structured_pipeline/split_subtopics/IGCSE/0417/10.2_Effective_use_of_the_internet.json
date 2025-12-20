@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Communication"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.2",
+    "sub_topic_name": "Effective use of the internet",
+    "learning_objectives": [
+      {
+        "description": "The internet",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of using the internet including the differences between the internet, an intranet, an extranet and the World Wide Web (WWW), blog, forum, wiki, social networking\nFunctionality including Internet Service Provider (ISP), structure of a web address, Uniform Resource Locator (URL), hyperlink, web browser\nUse of search engine including speed of searching, amount of information, the speed of finding relevant information, ease of finding reliable information\nEvaluating the information found on the internet including how up to date, reliable, biased and valid this information is\nInternet protocols including HyperText Transfer Protocol (HTTP), HyperText Transfer Protocol secure variant (HTTPS), File Transfer Protocol (FTP), Secure Socket Layer (SSL)\nRisks of using the internet including inappropriate and criminal material, restricting data through parental, educational and ISP control"
+      }
+    ]
+  }
+}

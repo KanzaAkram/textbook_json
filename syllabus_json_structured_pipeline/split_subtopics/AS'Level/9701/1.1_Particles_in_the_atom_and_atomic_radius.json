@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Atomic structure"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Particles in the atom and atomic radius",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that atoms are mostly empty space surrounding a very small, dense nucleus that contains protons and neutrons; electrons are found in shells in the empty space around the nucleus"
+      },
+      {
+        "objective_number": 2,
+        "description": "identify and describe protons, neutrons and electrons in terms of their relative charges and relative masses"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the terms atomic and proton number; mass and nucleon number"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the distribution of mass and charge within an atom"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe the behaviour of beams of protons, neutrons and electrons moving at the same velocity in an electric field"
+      },
+      {
+        "objective_number": 6,
+        "description": "determine the numbers of protons, neutrons and electrons present in both atoms and ions given atomic or proton number, mass or nucleon number and charge"
+      },
+      {
+        "objective_number": 7,
+        "description": "state and explain qualitatively the variations in atomic radius and ionic radius across a period and down a group"
+      }
+    ]
+  }
+}

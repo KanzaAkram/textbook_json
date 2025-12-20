@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Waves"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.4",
+    "sub_topic_name": "Electromagnetic spectrum",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state that all electromagnetic waves are transverse waves that travel with the same speed c in free space"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall the approximate range of wavelengths in free space of the principal regions of the electromagnetic spectrum from radio waves to γ-rays"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall that wavelengths in the range 400–700 nm in free space are visible to the human eye"
+      }
+    ]
+  }
+}

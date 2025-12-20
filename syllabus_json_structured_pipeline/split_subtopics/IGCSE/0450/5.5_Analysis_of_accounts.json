@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Financial information and decisions"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.5",
+    "sub_topic_name": "Analysis of accounts",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "The concept and importance of profitability"
+      },
+      {
+        "objective_number": 2,
+        "description": "The concept and importance of liquidity"
+      },
+      {
+        "objective_number": 3,
+        "description": "Gross profit margin"
+      },
+      {
+        "objective_number": 4,
+        "description": "Profit margin"
+      },
+      {
+        "objective_number": 5,
+        "description": "Return on Capital Employed"
+      },
+      {
+        "objective_number": 6,
+        "description": "Current ratio"
+      },
+      {
+        "objective_number": 7,
+        "description": "Acid test ratio"
+      },
+      {
+        "objective_number": 8,
+        "description": "Needs of different users of accounts and ratio analysis"
+      },
+      {
+        "objective_number": 9,
+        "description": "How users of accounts and ratio results might use information to help make decisions, e.g. whether to lend to or invest in the business"
+      }
+    ]
+  }
+}

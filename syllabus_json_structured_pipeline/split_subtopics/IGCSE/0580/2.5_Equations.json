@@ -1,0 +1,36 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.5",
+    "sub_topic_name": "Equations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Construct simple expressions, equations and formulas."
+      },
+      {
+        "objective_number": 2,
+        "description": "Solve linear equations in one unknown."
+      },
+      {
+        "objective_number": 3,
+        "description": "Solve simultaneous linear equations in two unknowns."
+      },
+      {
+        "objective_number": 4,
+        "description": "Change the subject of simple formulas."
+      }
+    ],
+    "notes_and_examples": "e.g. write an expression for a number that is 2 more than n.\nIncludes constructing linear simultaneous equations.\nExamples include:\n• 3x + 4 = 10\n• 5 – 2x = 3(x + 7).\ne.g. change the subject of formulas where:\n• the subject only appears once\n• there is not a power or root of the subject."
+  }
+}

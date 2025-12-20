@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Carbonyl compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.1",
+    "sub_topic_name": "Aldehydes and ketones",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions (reagents and conditions) by which aldehydes and ketones can be produced: (a) the oxidation of primary alcohols using acidified K₂Cr₂O₇ or acidified KMnO₄ and distillation to produce aldehydes (b) the oxidation of secondary alcohols using acidified K₂Cr₂O₇ or acidified KMnO₄ and distillation to produce ketones"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe: (a) the reduction of aldehydes and ketones using NaBH₄ or LiAlH₄ to produce alcohols (b) the reaction of aldehydes and ketones with HCN, KCN as catalyst, and heat to produce hydroxynitriles as exemplified by ethanal and propanone"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the mechanism of the nucleophilic addition reactions of hydrogen cyanide with aldehydes and ketones in 17.1.2(b)"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the use of 2,4-dinitrophenylhydrazine (2,4-DNPH reagent) to detect the presence of carbonyl compounds"
+      },
+      {
+        "objective_number": 5,
+        "description": "deduce the nature (aldehyde or ketone) of an unknown carbonyl compound from the results of simple tests (Fehling's and Tollens' reagents; ease of oxidation)"
+      },
+      {
+        "objective_number": 6,
+        "description": "deduce the presence of a CH₃CO– group in an aldehyde or ketone, CH₃CO–R, from its reaction with alkaline I₂(aq) to form a yellow precipitate of tri-iodomethane and an ion, RCO₂⁻"
+      }
+    ]
+  }
+}

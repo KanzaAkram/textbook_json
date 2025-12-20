@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Motion, forces and energy"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.8",
+    "sub_topic_name": "Pressure",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Define pressure as force per unit area; recall and use the equation pressure = force / area, p = F / A"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe how pressure varies with force and area in the context of everyday examples"
+      },
+      {
+        "objective_number": 3,
+        "description": "State that the pressure at a surface produces a force in a direction at right angles to the surface and describe an experiment to show this"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe how the height of a liquid column in a liquid barometer may be used to determine the atmospheric pressure"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe, quantitatively, how the pressure beneath the surface of a liquid changes with depth and density of the liquid"
+      },
+      {
+        "objective_number": 6,
+        "description": "Recall and use the equation for the change in pressure beneath the surface of a liquid change in pressure = density × gravitational field strength × change in height, Δp = ρgΔh"
+      }
+    ]
+  }
+}

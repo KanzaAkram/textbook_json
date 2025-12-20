@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Superposition"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Stationary waves",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain and use the principle of superposition"
+      },
+      {
+        "objective_number": 2,
+        "description": "show an understanding of experiments that demonstrate stationary waves using microwaves, stretched strings and air columns (it will be assumed that end corrections are negligible; knowledge of the concept of end corrections is not required)"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain the formation of a stationary wave using a graphical method, and identify nodes and antinodes"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand how wavelength may be determined from the positions of nodes or antinodes of a stationary wave"
+      }
+    ]
+  }
+}

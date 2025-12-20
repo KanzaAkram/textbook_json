@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Accounting 9706",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Cost and management accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Traditional costing methods",
+    "learning_objectives": [
+      {
+        "objective_number": "2.2.1",
+        "objective_title": "Costing applications",
+        "description": "Candidates should have an understanding of: how to apply traditional costing methods to prepare costing statements using unit, job and batch costing principles in both manufacturing and service businesses as applicable."
+      },
+      {
+        "objective_number": "2.2.2",
+        "objective_title": "Absorption costing",
+        "description": "Candidates should have an understanding of: the difference between a cost centre and a cost unit; how to allocate and apportion overhead expenditure between production and service departments; how to calculate overhead absorption rates using an appropriate basis; the causes and the calculation of under absorption and over absorption of overheads; how to prepare costing and profit statements using absorption costing; the uses and limitations of absorption costing; the usefulness of absorption cost data as a support for management decision-making; non-financial factors and their significance."
+      },
+      {
+        "objective_number": "2.2.3",
+        "objective_title": "Marginal costing",
+        "description": "Candidates should have an understanding of: how to calculate the contribution of a product; how to interpret a break-even chart (Note: Candidates will not be asked to prepare a break-even chart); how to calculate the break-even point, contribution to sales ratio, level of output or sales to achieve a target profit, and margin of safety; the use and limitations of break-even analysis; how to prepare costing and profit statements using marginal costing; how to prepare a statement reconciling the reported profits using marginal costing and absorption costing; the uses and limitations of marginal costing; the usefulness of marginal costing data as a support for management decision-making, including make-or-buy, special orders, closure of business unit, limiting factors, target profit; non-financial factors and their significance."
+      },
+      {
+        "objective_number": "2.2.4",
+        "objective_title": "Cost-volume-profit analysis",
+        "description": "Candidates should have an understanding of: the advantages and limitations of cost-volume-profit analysis; the usefulness of cost-volume-profit data as a support for management decision-making; how to apply costing concepts to make business decisions and recommendations using supporting data; non-financial factors and their significance. Candidates are expected to use their understanding of costing to evaluate relevant information and make informed business decisions."
+      }
+    ]
+  }
+}

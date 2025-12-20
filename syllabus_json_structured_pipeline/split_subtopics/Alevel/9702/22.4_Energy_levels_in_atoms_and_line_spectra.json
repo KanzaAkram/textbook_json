@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "22",
+    "topic_name": "Quantum physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "22.4",
+    "sub_topic_name": "Energy levels in atoms and line spectra",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that there are discrete electron energy levels in isolated atoms (e.g. atomic hydrogen)"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the appearance and formation of emission and absorption line spectra"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and use hf = E₁ – E₂"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Analysis and interpretation"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Calculation and understanding of accounting ratios",
+    "learning_objectives": [
+      "Candidates should be able to understand, calculate and explain the importance of the following accounting ratios:",
+      "Gross margin",
+      "Profit margin",
+      "Return on capital employed (ROCE)",
+      "Current ratio",
+      "Liquid (acid test) ratio",
+      "Rate of inventory turnover (times)",
+      "Trade receivables turnover (days)",
+      "Trade payables turnover (days)"
+    ]
+  }
+}

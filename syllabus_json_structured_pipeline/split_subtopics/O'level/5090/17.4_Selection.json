@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.4",
+    "sub_topic_name": "Selection",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe natural selection with reference to: (a) variation within populations (b) production of many offspring (c) struggle for survival, including competition for resources (d) reproduction by individuals that are better adapted to the environment than others (e) passing on of their alleles to the next generation"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe how the inherited features of a population can evolve over time as a result of natural selection"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the development of strains of antibiotic-resistant bacteria, including MRSA, as an example of natural selection"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe artificial selection (selective breeding) with reference to: (a) selection by humans of animals or plants with desirable features (b) crossing these to produce the next generation (c) selection of offspring showing the desirable features (d) repetition over many generations"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe the role of artificial selection in the production of economically important plants and animals"
+      }
+    ]
+  }
+}

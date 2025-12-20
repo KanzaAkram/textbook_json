@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Relationships of organisms with one another and with the environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.4",
+    "sub_topic_name": "Effects of humans on ecosystems",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Outline the causes and describe the consequences of deforestation, limited to its effects on: biodiversity, extinction, loss of soil, flooding and concentration of carbon dioxide in the atmosphere"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the impacts humans have through: (a) over-harvesting of plant and animal species (b) introducing a non-native species to an ecosystem"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the harmful effects of: (a) water pollution by untreated sewage and nitrogen-containing fertilisers leading to eutrophication, limited to: (i) increased availability of nitrate and other ions (ii) increased growth of producers (iii) increased decomposition after death of producers (iv) increased aerobic respiration by decomposers (v) reduction in dissolved oxygen (vi) death of organisms requiring dissolved oxygen in water (b) air pollution by greenhouse gases (carbon dioxide and methane), contributing to global warming and its likely effects (c) pollution due to insecticides and herbicides (d) non-biodegradable plastics in the environment, in both aquatic and terrestrial ecosystems"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Pure Mathematics 3 (for Paper 3)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Trigonometry",
+    "learning_objectives": [
+      {
+        "description": "understand the relationship of the secant, cosecant and cotangent functions to cosine, sine and tangent, and use properties and graphs of all six trigonometric functions for angles of any magnitude",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use trigonometrical identities for the simplification and exact evaluation of expressions, and in the course of solving equations, and select an identity or identities appropriate to the context, showing familiarity in particular with the use of sec²θ = 1 + tan²θ and cosec²θ = 1 + cot²θ, the expansions of sin(A ± B), cos(A ± B) and tan(A ± B), the formulae for sin 2A, cos 2A and tan 2A, the expression of a sinθ + b cosθ in the forms Rsin(θ ± α) and Rcos(θ ± α).",
+        "notes_and_examples": "e.g. simplifying cos(x – 30°) – 3 sin(x – 60°). e.g. solving tanθ + cotθ = 4, 2 sec²θ - tanθ = 5, 3 cosθ + 2 sinθ = 1."
+      }
+    ]
+  }
+}

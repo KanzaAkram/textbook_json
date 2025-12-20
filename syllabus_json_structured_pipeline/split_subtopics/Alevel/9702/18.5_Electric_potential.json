@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Electric fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.5",
+    "sub_topic_name": "Electric potential",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define electric potential at a point as the work done per unit positive charge in bringing a small test charge from infinity to the point"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use the fact that the electric field at a point is equal to the negative of potential gradient at that point"
+      },
+      {
+        "objective_number": 3,
+        "description": "use V = Q/(4πε₀r) for the electric potential in the field due to a point charge"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand how the concept of electric potential leads to the electric potential energy of two point charges and use Ep = Qq/(4πε₀r)"
+      }
+    ]
+  }
+}

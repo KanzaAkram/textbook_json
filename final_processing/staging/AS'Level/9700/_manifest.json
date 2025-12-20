@@ -1,0 +1,248 @@
+{
+  "level": "AS'Level",
+  "subject_code": "9700",
+  "generated_at": "2025-12-20T23:04:12.849932",
+  "total_matches": 24,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "The microscope in cell studies",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\1.1_The_microscope_in_cell_studies.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "Cells as the basic units of living organisms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\1.2_Cells_as_the_basic_units_of_living_organisms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.1",
+      "subtopic_name": "Infectious diseases",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\10.1_Infectious_diseases.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.2",
+      "subtopic_name": "Antibiotics",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\10.2_Antibiotics.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.1",
+      "subtopic_name": "The immune system",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\11.1_The_immune_system.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.2",
+      "subtopic_name": "Antibodies and vaccination",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\11.2_Antibodies_and_vaccination.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Testing for biological molecules",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\2.1_Testing_for_biological_molecules.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.2",
+      "subtopic_name": "Carbohydrates and lipids",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\2.2_Carbohydrates_and_lipids.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.3",
+      "subtopic_name": "Proteins",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\2.3_Proteins.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.4",
+      "subtopic_name": "Water",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\2.4_Water.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.1",
+      "subtopic_name": "Mode of action of enzymes",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\3.1_Mode_of_action_of_enzymes.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.2",
+      "subtopic_name": "Factors that affect enzyme action",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\3.2_Factors_that_affect_enzyme_action.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "Fluid mosaic membranes",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\4.1_Fluid_mosaic_membranes.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "Movement into and out of cells",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\4.2_Movement_into_and_out_of_cells.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.1",
+      "subtopic_name": "Replication and division of nuclei and cells",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\5.1_Replication_and_division_of_nuclei_and_cells.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.2",
+      "subtopic_name": "Chromosome behaviour in mitosis",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\5.2_Chromosome_behaviour_in_mitosis.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.1",
+      "subtopic_name": "Structure of nucleic acids and replication of DNA",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\6.1_Structure_of_nucleic_acids_and_replication_of_DNA.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.2",
+      "subtopic_name": "Protein synthesis",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\6.2_Protein_synthesis.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.1",
+      "subtopic_name": "Structure of transport tissues",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\7.1_Structure_of_transport_tissues.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.2",
+      "subtopic_name": "Transport mechanisms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\7.2_Transport_mechanisms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.1",
+      "subtopic_name": "The circulatory system",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\8.1_The_circulatory_system.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.2",
+      "subtopic_name": "Transport of oxygen and carbon dioxide",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\8.2_Transport_of_oxygen_and_carbon_dioxide.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.3",
+      "subtopic_name": "The heart",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\8.3_The_heart.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.1",
+      "subtopic_name": "The gas exchange system",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9700\\9.1_The_gas_exchange_system.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "International economic issues (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.5",
+    "sub_topic_name": "Relationship between countries at different levels of development",
+    "learning_objectives": [
+      {
+        "objective_number": "11.5.1",
+        "description": "international aid: forms of aid, reasons for giving aid, effects of aid, importance of aid"
+      },
+      {
+        "objective_number": "11.5.2",
+        "description": "trade and investment"
+      },
+      {
+        "objective_number": "11.5.3",
+        "description": "role of multinational companies (MNCs): definition of MNC, activities of MNCs, consequences of MNCs"
+      },
+      {
+        "objective_number": "11.5.4",
+        "description": "Foreign Direct Investment (FDI): definition of FDI, consequences of FDI"
+      },
+      {
+        "objective_number": "11.5.5",
+        "description": "external debt: causes of debt, consequences of debt"
+      },
+      {
+        "objective_number": "11.5.6",
+        "description": "role of the International Monetary Fund (IMF)"
+      },
+      {
+        "objective_number": "11.5.7",
+        "description": "role of the World Bank"
+      }
+    ]
+  }
+}

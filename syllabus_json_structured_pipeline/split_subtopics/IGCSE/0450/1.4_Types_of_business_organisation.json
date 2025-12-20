@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Understanding business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Types of business organisation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Sole traders, partnerships, private and public limited companies, franchises and joint ventures"
+      },
+      {
+        "objective_number": 2,
+        "description": "Differences between unincorporated businesses and limited companies"
+      },
+      {
+        "objective_number": 3,
+        "description": "Concepts of risk, ownership and limited liability"
+      },
+      {
+        "objective_number": 4,
+        "description": "Recommend and justify a suitable form of business organisation to owners/management in a given situation"
+      },
+      {
+        "objective_number": 5,
+        "description": "Business organisations in the public sector, e.g. public corporations"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "35",
+    "topic_name": "Polymerisation"
+  },
+  "subtopic": {
+    "sub_topic_number": "35.3",
+    "sub_topic_name": "Degradable polymers",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recognise that poly(alkenes) are chemically inert and can therefore be difficult to biodegrade"
+      },
+      {
+        "objective_number": 2,
+        "description": "recognise that some polymers can be degraded by the action of light"
+      },
+      {
+        "objective_number": 3,
+        "description": "recognise that polyesters and polyamides are biodegradable by acidic and alkaline hydrolysis"
+      }
+    ]
+  }
+}

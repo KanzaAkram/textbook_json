@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Accounting 9706",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Financial accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Reconciliation and verification",
+    "learning_objectives": [
+      {
+        "objective_number": "1.4.1",
+        "objective_title": "Reconciliation and verification",
+        "description": "Candidates should have an understanding of: the need to reconcile and verify ledger accounts using documentation from internal and external sources; the benefits and limitations of reconciliation and verification procedures."
+      },
+      {
+        "objective_number": "1.4.2",
+        "objective_title": "Trial balance",
+        "description": "Candidates should have an understanding of: errors which affect the trial balance; errors which do not affect the trial balance: omission, commission, principle, original entry, reversal, compensating; how to prepare ledger accounts and journal entries to correct errors using a suspense account; the effect on the financial statements of the correction of errors; the benefits and limitations of a trial balance."
+      },
+      {
+        "objective_number": "1.4.3",
+        "objective_title": "Bank reconciliation statements",
+        "description": "Candidates should have an understanding of: updating of cash books; how to prepare bank reconciliation statements; the benefits and limitations of preparing a bank reconciliation statement."
+      },
+      {
+        "objective_number": "1.4.4",
+        "objective_title": "Control accounts",
+        "description": "Candidates should have an understanding of: entries in control accounts; sales ledger control accounts and purchases ledger control accounts; reconciliation statements between control account balances and ledger balances; the effects on financial statements of the correction of errors; the benefits and limitations of control accounts. Candidates are expected to use their understanding of reconciliation and verification to evaluate relevant information and make informed business decisions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Basic economic ideas and resource allocation (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Economic methodology",
+    "content": [
+      {
+        "point_number": "1.2.1",
+        "description": "economics as a social science"
+      },
+      {
+        "point_number": "1.2.2",
+        "description": "positive and normative statements (the distinction between facts and value judgements)"
+      },
+      {
+        "point_number": "1.2.3",
+        "description": "meaning of the term ceteris paribus"
+      },
+      {
+        "point_number": "1.2.4",
+        "description": "importance of the time period (short run, long run, very long run)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Transformations and vectors"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Transformations",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Recognise, describe and draw the following transformations: 1. Reflection of a shape in a straight line. 2. Rotation of a shape about a centre through multiples of 90°. 3. Enlargement of a shape from a centre by a scale factor. 4. Translation of a shape by a vector (x y).",
+        "notes_and_examples": "Questions may involve combinations of transformations. A ruler must be used for all straight edges. Positive, fractional and negative scale factors may be used."
+      }
+    ]
+  }
+}

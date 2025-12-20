@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Analysis and interpretation"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.4",
+    "sub_topic_name": "Interested parties",
+    "learning_objectives": [
+      "Candidates should be able to explain the uses of accounting information by the following interested parties for decision-making:",
+      "owners",
+      "managers",
+      "trade payables",
+      "banks",
+      "investors",
+      "club members",
+      "other interested parties such as governments, tax authorities, etc."
+    ]
+  }
+}

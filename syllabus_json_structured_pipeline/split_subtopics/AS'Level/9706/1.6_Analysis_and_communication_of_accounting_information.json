@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Accounting 9706",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Financial accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.6",
+    "sub_topic_name": "Analysis and communication of accounting information",
+    "learning_objectives": [
+      {
+        "objective_number": "1.6.1",
+        "objective_title": "Users of accounting information",
+        "description": "Candidates should have an understanding of: the differing requirements for information of stakeholders including: owners, managers, employees, investors, lenders, suppliers, customers, government, public and environmental bodies; how to communicate and analyse the information required by these different stakeholders."
+      },
+      {
+        "objective_number": "1.6.2",
+        "objective_title": "Calculation and evaluation of ratios",
+        "description": "Candidates should have an understanding of: how to calculate key accounting ratios to measure profitability, liquidity and efficiency: profitability ratios (gross profit margin, mark-up, profit margin, return on capital employed, expenses to revenue ratio), liquidity ratios (current ratio, acid test ratio), efficiency ratios (non-current asset turnover, trade receivables turnover (days), trade payables turnover (days), inventory turnover (days), rate of inventory turnover (times)); how to evaluate the profitability, liquidity and efficiency of an organisation by interpreting ratios; possible measures to improve the profitability, liquidity and efficiency of an organisation; the limitations of accounting information. Note: Candidates must use the formulae given in the appendix to section 3."
+      }
+    ]
+  }
+}

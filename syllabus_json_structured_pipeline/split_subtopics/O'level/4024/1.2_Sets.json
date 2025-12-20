@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Sets",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand and use set language, notation and Venn diagrams to describe sets and represent relationships between sets.",
+        "notes_and_examples": "Venn diagrams are limited to two or three sets. The following set notation will be used: n(A) Number of elements in set A, ∈ '... is an element of ...', ∉ '... is not an element of ...', A' Complement of set A, ø The empty set, ε Universal set, A ⊆ B A is a subset of B, A ⊈ B A is not a subset of B, A ∪ B Union of A and B, A ∩ B Intersection of A and B. Example definition of sets: A = {x: x is a natural number}, B = {(x, y): y = mx + c}, C = {x: a ≤ x ≤ b}, D = {a, b, c, ...}."
+      }
+    ]
+  }
+}

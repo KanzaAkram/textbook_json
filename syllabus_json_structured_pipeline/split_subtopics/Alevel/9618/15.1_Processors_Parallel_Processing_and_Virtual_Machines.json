@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Hardware and Virtual Machines"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.1",
+    "sub_topic_name": "Processors, Parallel Processing and Virtual Machines",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of Reduced Instruction Set Computers (RISC) and Complex Instruction Set Computers (CISC) processors (Differences between RISC and CISC; Understand interrupt handling on CISC and RISC processors)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show understanding of the importance/use of pipelining and registers in RISC processors"
+      },
+      {
+        "objective_number": 3,
+        "description": "Show understanding of the four basic computer architectures (SISD, SIMD, MISD, MIMD)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Show understanding of the characteristics of massively parallel computers"
+      },
+      {
+        "objective_number": 5,
+        "description": "Show understanding of the concept of a virtual machine (Give examples of the role of virtual machines; Understand the benefits and limitations of virtual machines)"
+      }
+    ]
+  }
+}

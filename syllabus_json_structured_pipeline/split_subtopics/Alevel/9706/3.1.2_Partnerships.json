@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Financial accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1.2",
+    "sub_topic_name": "Partnerships",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "goodwill and the difference between purchased goodwill and inherent goodwill"
+      },
+      {
+        "objective_number": 2,
+        "description": "how to prepare partners' capital and current accounts to record changes required in respect of goodwill and revaluation of assets on: a change in the partners' profit-sharing ratio, the introduction of a new partner, the retirement of an existing partner, the dissolution of a partnership"
+      },
+      {
+        "objective_number": 3,
+        "description": "how to prepare the partnership appropriation account, statement of profit or loss and statement of financial position including changes in a partnership occurring part-way through an accounting year"
+      },
+      {
+        "objective_number": 4,
+        "description": "how to prepare a realisation account and a revaluation account"
+      }
+    ]
+  }
+}

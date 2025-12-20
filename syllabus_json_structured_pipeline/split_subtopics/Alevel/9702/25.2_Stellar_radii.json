@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "25",
+    "topic_name": "Astronomy and cosmology"
+  },
+  "subtopic": {
+    "sub_topic_number": "25.2",
+    "sub_topic_name": "Stellar radii",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall and use Wien's displacement law λmax ∝ 1/T to estimate the peak surface temperature of a star"
+      },
+      {
+        "objective_number": 2,
+        "description": "use the Stefan-Boltzmann law L = 4πσr²T⁴"
+      },
+      {
+        "objective_number": 3,
+        "description": "use Wien's displacement law and the Stefan-Boltzmann law to estimate the radius of a star"
+      }
+    ]
+  }
+}

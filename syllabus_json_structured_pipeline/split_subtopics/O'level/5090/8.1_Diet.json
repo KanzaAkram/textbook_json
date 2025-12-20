@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Human nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Diet",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "List the principal sources of, and describe the dietary importance of, carbohydrates, lipids, proteins, vitamins (C and D only), mineral salts (calcium and iron only), fibre (roughage) and water"
+      },
+      {
+        "objective_number": 2,
+        "description": "Name the diseases and describe the symptoms resulting from deficiencies of vitamin C (scurvy), vitamin D (rickets), calcium (rickets) and iron (anaemia)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Understand the concept of a balanced diet"
+      }
+    ]
+  }
+}

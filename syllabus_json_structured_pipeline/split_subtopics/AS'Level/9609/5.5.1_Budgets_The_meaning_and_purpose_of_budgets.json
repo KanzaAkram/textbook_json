@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Finance and accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.5.1",
+    "sub_topic_name": "Budgets: The meaning and purpose of budgets",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the measurement of performance"
+      },
+      {
+        "objective_number": 2,
+        "description": "the benefits and drawbacks from the use of budgets"
+      },
+      {
+        "objective_number": 3,
+        "description": "the meaning and use of incremental budgets, flexible budgets and zero budgeting"
+      },
+      {
+        "objective_number": 4,
+        "description": "the uses of budgets for measuring performance, allocating resources, controlling and monitoring a business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Chemical reactions"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Physical and chemical changes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify physical and chemical changes, and describe the differences between them"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Power"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Non-renewables",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the quality and the amount of coal available from within Pakistan and how long reserves are likely to last, and also describe the types of coal which have to be imported for industrial purposes"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe how coal both produced in Pakistan and imported is transported to the end users"
+      },
+      {
+        "objective_number": 3,
+        "description": "state how much natural gas is produced by Pakistan, and how long reserves are likely to last"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the extent of the natural gas pipeline network in Pakistan and explain how natural gas can be taken to those parts of Pakistan away from the pipelines, and the limitations of doing this"
+      },
+      {
+        "objective_number": 5,
+        "description": "state how much oil is produced by Pakistan, how long reserves will last and how much oil is imported, and explain why it is necessary to import large amounts of oil"
+      },
+      {
+        "objective_number": 6,
+        "description": "describe the extent of the oil pipeline network in Pakistan and describe the other methods that are used to transport both imported oil and oil produced in Pakistan"
+      },
+      {
+        "objective_number": 7,
+        "description": "understand that electricity can be generated in a variety of ways. In thermal power stations by burning coal, oil, gas and waste, or with nuclear energy; or with renewable sources e.g. water (including hydel), the wind and the sun"
+      },
+      {
+        "objective_number": 8,
+        "description": "understand that non-renewable power sources are running out, and are increasing in price."
+      }
+    ]
+  }
+}

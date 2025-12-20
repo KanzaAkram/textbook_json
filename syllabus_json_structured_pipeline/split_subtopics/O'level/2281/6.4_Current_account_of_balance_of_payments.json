@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "International trade and globalisation"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.4",
+    "sub_topic_name": "Current account of balance of payments",
+    "learning_objectives": [
+      {
+        "objective_number": "6.4.1",
+        "objective_title": "structure",
+        "guidance": "The components of the current account of the balance of payments – trade in goods, trade in services, primary income and secondary income. Calculation of deficits and surpluses on the current account of the balance of payments and its component sections."
+      },
+      {
+        "objective_number": "6.4.2",
+        "objective_title": "causes of current account deficit and surplus",
+        "guidance": "Reasons for deficits and surpluses."
+      },
+      {
+        "objective_number": "6.4.3",
+        "objective_title": "consequences of current account deficit and surplus",
+        "guidance": "Impact on GDP, employment, inflation and foreign exchange rate."
+      },
+      {
+        "objective_number": "6.4.4",
+        "objective_title": "policies to achieve balance of payments stability",
+        "guidance": "The range of policies available to achieve balance of payments stability and how effective they might be."
+      }
+    ]
+  }
+}

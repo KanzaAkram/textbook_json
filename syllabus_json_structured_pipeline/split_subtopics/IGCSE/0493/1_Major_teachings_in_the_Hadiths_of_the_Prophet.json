@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Islamiyat 0493",
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5.2",
+    "topic_name": "Paper 2"
+  },
+  "subtopic": {
+    "sub_topic_number": "1",
+    "sub_topic_name": "Major teachings in the Hadiths of the Prophet",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Study passages related to individual conduct."
+      },
+      {
+        "objective_number": 2,
+        "description": "Study passages related to life in the community."
+      },
+      {
+        "objective_number": 3,
+        "description": "Study the teachings contained in each passage about what Muslims should believe and how they should act."
+      },
+      {
+        "objective_number": 4,
+        "description": "Study the passages with reference to the original Arabic text as well as the English translation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.8",
+    "sub_topic_name": "Price elasticity of supply (PES)",
+    "learning_objectives": [
+      {
+        "objective_number": "2.8.1",
+        "objective_title": "definition of PES",
+        "guidance": "Calculation of PES using the formula and interpreting the significance of the result. Drawing and interpretation of supply curve diagrams to show different PES."
+      },
+      {
+        "objective_number": "2.8.2",
+        "objective_title": "calculation of PES",
+        "guidance": "Calculation of PES using the formula and interpreting the significance of the result. Drawing and interpretation of supply curve diagrams to show different PES."
+      },
+      {
+        "objective_number": "2.8.3",
+        "objective_title": "determinants of PES",
+        "guidance": "The key influences on whether supply is elastic or inelastic."
+      },
+      {
+        "objective_number": "2.8.4",
+        "objective_title": "significance of PES",
+        "guidance": "The implications for decision making by consumers, producers and government."
+      }
+    ]
+  }
+}

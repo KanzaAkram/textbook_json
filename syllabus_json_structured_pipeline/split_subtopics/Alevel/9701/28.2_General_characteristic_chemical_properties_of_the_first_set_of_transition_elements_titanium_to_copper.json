@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "28",
+    "topic_name": "Chemistry of transition elements"
+  },
+  "subtopic": {
+    "sub_topic_number": "28.2",
+    "sub_topic_name": "General characteristic chemical properties of the first set of transition elements, titanium to copper",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and explain the reactions of transition elements with ligands to form complexes, including the complexes of copper(II) and cobalt(II) ions with water and ammonia molecules and hydroxide and chloride ions"
+      },
+      {
+        "objective_number": 2,
+        "description": "define the term ligand as a species that contains a lone pair of electrons that forms a dative covalent bond to a central metal atom/ion"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand and use the terms: (a) monodentate ligand including as examples H₂O, NH₃, Cl⁻ and CN⁻ (b) bidentate ligand including as examples 1,2-diaminoethane, en, H₂NCH₂CH₂NH₂ and the ethanedioate ion, C₂O₄²⁻ (c) polydentate ligand including as an example EDTA⁴⁻"
+      },
+      {
+        "objective_number": 4,
+        "description": "define the term complex as a molecule or ion formed by a central metal atom/ion surrounded by one or more ligands"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe the geometry (shape and bond angles) of transition element complexes which are linear, square planar, tetrahedral or octahedral"
+      },
+      {
+        "objective_number": 6,
+        "description": "(a) state what is meant by coordination number (b) predict the formula and charge of a complex ion, given the metal ion, its charge or oxidation state, the ligand and its coordination number or geometry"
+      },
+      {
+        "objective_number": 7,
+        "description": "explain qualitatively that ligand exchange can occur, including the complexes of copper(II) ions and cobalt(II) ions with water and ammonia molecules and hydroxide and chloride ions"
+      },
+      {
+        "objective_number": 8,
+        "description": "predict, using E° values, the feasibility of redox reactions involving transition elements and their ions"
+      },
+      {
+        "objective_number": 9,
+        "description": "describe the reactions of, and perform calculations involving: (a) MnO₄⁻/C₂O₄²⁻ in acid solution given suitable data (b) MnO₄⁻/Fe²⁺ in acid solution given suitable data (c) Cu²⁺/I⁻ given suitable data"
+      },
+      {
+        "objective_number": 10,
+        "description": "perform calculations involving other redox systems given suitable data"
+      }
+    ]
+  }
+}

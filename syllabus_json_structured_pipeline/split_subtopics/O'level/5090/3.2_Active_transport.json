@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Movement into and out of cells"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Active transport",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand active transport as the movement of molecules or ions into or out of a cell through the cell membrane, from a region of their lower concentration to a region of their higher concentration (i.e. against a concentration gradient), using energy released during respiration"
+      },
+      {
+        "objective_number": 2,
+        "description": "Explain the importance of active transport in ion uptake by root hair cells"
+      }
+    ]
+  }
+}

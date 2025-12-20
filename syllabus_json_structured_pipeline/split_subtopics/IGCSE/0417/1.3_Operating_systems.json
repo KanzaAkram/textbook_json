@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Types and components of computer systems"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.3",
+    "sub_topic_name": "Operating systems",
+    "learning_objectives": [
+      {
+        "description": "Operating systems",
+        "notes_and_guidance": "Characteristics of operating systems including: Command Line Interface (CLI), Graphical User Interface (GUI), dialogue based and gesture based interface\nDifferences between types of operating systems\nAdvantages and disadvantages of the different types of operating systems"
+      }
+    ]
+  }
+}

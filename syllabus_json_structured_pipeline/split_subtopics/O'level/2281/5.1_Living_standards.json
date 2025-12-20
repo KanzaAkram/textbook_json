@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Economic development"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Living standards",
+    "learning_objectives": [
+      {
+        "objective_number": "5.1.1",
+        "objective_title": "indicators of living standards",
+        "guidance": "Real GDP per head and the Human Development Index (HDI). The components of real GDP and HDI. The advantages and disadvantages of real GDP and HDI."
+      },
+      {
+        "objective_number": "5.1.2",
+        "objective_title": "comparing living standards and income distribution",
+        "guidance": "Reasons for differences in living standards and income distribution within and between countries."
+      }
+    ]
+  }
+}

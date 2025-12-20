@@ -1,0 +1,32 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Algebraic manipulation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Simplify expressions by collecting like terms."
+      },
+      {
+        "objective_number": 2,
+        "description": "Expand products of algebraic expressions."
+      },
+      {
+        "objective_number": 3,
+        "description": "Factorise by extracting common factors."
+      }
+    ],
+    "notes_and_examples": "Simplify means give the answer in its simplest form, e.g. 2a + 3b + 5a – 9b = 7a – 6b.\ne.g. expand 3x(2x – 4y).\nIncludes products of two brackets involving one variable, e.g. expand (2x + 1)(x – 4).\nFactorise means factorise fully, e.g. 9x² + 15xy = 3x(3x + 5y)."
+  }
+}

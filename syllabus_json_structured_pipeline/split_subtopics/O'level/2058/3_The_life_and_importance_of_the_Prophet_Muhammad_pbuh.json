@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Islamiyat 2058",
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5.1",
+    "topic_name": "Paper 1"
+  },
+  "subtopic": {
+    "sub_topic_number": "3",
+    "sub_topic_name": "The life and importance of the Prophet Muhammad (pbuh)",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "The main events of the Prophet's life from his birth to his call to prophethood"
+      },
+      {
+        "objective_number": 2,
+        "description": "The main events of his activities in Makka and his experiences with his opponents"
+      },
+      {
+        "objective_number": 3,
+        "description": "The main events of his activities in Madina, his leadership of the community there and his conflicts with the Makkans and others"
+      },
+      {
+        "objective_number": 4,
+        "description": "His actions and character"
+      },
+      {
+        "objective_number": 5,
+        "description": "The importance of his actions as examples for Muslim individuals in their personal conduct and relations with others including women and non-Muslims"
+      },
+      {
+        "objective_number": 6,
+        "description": "The importance of his actions as examples for Muslim communities in their relations with other states"
+      },
+      {
+        "objective_number": 7,
+        "description": "His significance as Seal of the Prophets and last Messenger of God"
+      }
+    ]
+  }
+}

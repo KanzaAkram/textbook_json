@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Accounting procedures"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Capital and revenue expenditure and receipts",
+    "learning_objectives": [
+      "distinguish between and account for capital expenditure and revenue expenditure",
+      "distinguish between and account for capital receipts and revenue receipts",
+      "calculate and comment on the effect on profit of incorrect treatment",
+      "calculate and comment on the effect on asset valuations of incorrect treatment."
+    ]
+  }
+}

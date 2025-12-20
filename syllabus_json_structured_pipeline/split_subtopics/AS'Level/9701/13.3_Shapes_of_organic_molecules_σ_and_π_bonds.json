@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "An introduction to AS Level organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.3",
+    "sub_topic_name": "Shapes of organic molecules; σ and π bonds",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe organic molecules as either straight-chained, branched or cyclic"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe and explain the shape of, and bond angles in, molecules containing sp, sp² and sp³ hybridised atoms"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the arrangement of σ and π bonds in molecules containing sp, sp² and sp³ hybridised atoms"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand and use the term planar when describing the arrangement of atoms in organic molecules, for example ethene"
+      }
+    ]
+  }
+}

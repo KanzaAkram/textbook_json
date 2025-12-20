@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Communication and internet technologies"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.2",
+    "sub_topic_name": "Circuit switching, packet switching",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of circuit switching (Benefits, drawbacks and where it is applicable)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show understanding of packet switching (Benefits, drawbacks and where it is applicable; Show understanding of the function of a router in packet switching; Explain how packet switching is used to pass messages across a network, including the internet)"
+      }
+    ]
+  }
+}

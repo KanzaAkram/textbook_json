@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Biotechnology and genetic modification"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.2",
+    "sub_topic_name": "Biotechnology",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the role of anaerobic respiration in yeast during the production of ethanol for biofuels"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the role of anaerobic respiration in yeast during bread-making"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe the use of pectinase in fruit juice production"
+        },
+        {
+          "objective_number": 4,
+          "description": "Investigate and describe the use of biological washing powders that contain enzymes"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 5,
+          "description": "Explain the use of lactase to produce lactose-free milk"
+        },
+        {
+          "objective_number": 6,
+          "description": "Describe how fermenters can be used for the large-scale production of useful products by bacteria and fungi, including insulin, penicillin and mycoprotein"
+        },
+        {
+          "objective_number": 7,
+          "description": "Describe and explain the conditions that need to be controlled in a fermenter, including: temperature, pH, oxygen, nutrient supply and waste products"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Halogen compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.1",
+    "sub_topic_name": "Halogenoalkanes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions (reagents and conditions) by which halogenoalkanes can be produced: (a) the free-radical substitution of alkanes by Cl₂ or Br₂ in the presence of ultraviolet light, as exemplified by the reactions of ethane (b) electrophilic addition of an alkene with a halogen, X₂, or hydrogen halide, HX(g), at room temperature (c) substitution of an alcohol, e.g. by reaction with HX(g); or with KCl and concentrated H₂SO₄ or concentrated H₃PO₄; or with PCl₃ and heat; or with PCl₅; or with SOCl₂"
+      },
+      {
+        "objective_number": 2,
+        "description": "classify halogenoalkanes into primary, secondary and tertiary"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the following nucleophilic substitution reactions: (a) the reaction with NaOH(aq) and heat to produce an alcohol (b) the reaction with KCN in ethanol and heat to produce a nitrile (c) the reaction with NH₃ in ethanol heated under pressure to produce an amine (d) the reaction with aqueous silver nitrate in ethanol as a method of identifying the halogen present as exemplified by bromoethane"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the elimination reaction with NaOH in ethanol and heat to produce an alkene as exemplified by bromoethane"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe the Sₙ1 and Sₙ2 mechanisms of nucleophilic substitution in halogenoalkanes including the inductive effects of alkyl groups"
+      },
+      {
+        "objective_number": 6,
+        "description": "recall that primary halogenoalkanes tend to react via the Sₙ2 mechanism; tertiary halogenoalkanes via the Sₙ1 mechanism; and secondary halogenoalkanes by a mixture of the two, depending on structure"
+      },
+      {
+        "objective_number": 7,
+        "description": "describe and explain the different reactivities of halogenoalkanes (with particular reference to the relative strengths of the C-X bonds as exemplified by the reactions of halogenoalkanes with aqueous silver nitrates)"
+      }
+    ]
+  }
+}

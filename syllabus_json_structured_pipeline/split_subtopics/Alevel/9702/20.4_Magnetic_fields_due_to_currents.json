@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Magnetic fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.4",
+    "sub_topic_name": "Magnetic fields due to currents",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "sketch magnetic field patterns due to the currents in a long straight wire, a flat circular coil and a long solenoid"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that the magnetic field due to the current in a solenoid is increased by a ferrous core"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain the origin of the forces between current-carrying conductors and determine the direction of the forces"
+      }
+    ]
+  }
+}

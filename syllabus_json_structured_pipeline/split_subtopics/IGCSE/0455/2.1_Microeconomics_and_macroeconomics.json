@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Microeconomics and macroeconomics",
+    "learning_objectives": [
+      {
+        "objective_number": "2.1.1",
+        "objective_title": "microeconomics",
+        "guidance": "The difference between microeconomics and macroeconomics and the decision makers involved in each."
+      },
+      {
+        "objective_number": "2.1.2",
+        "objective_title": "macroeconomics",
+        "guidance": "The difference between microeconomics and macroeconomics and the decision makers involved in each."
+      }
+    ]
+  }
+}

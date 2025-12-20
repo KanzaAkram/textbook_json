@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Respiration"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.2",
+    "sub_topic_name": "Aerobic respiration",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe aerobic respiration as the chemical reactions in cells that use oxygen to break down nutrient molecules to release energy"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the word equation for aerobic respiration as: glucose + oxygen → carbon dioxide + water"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "State the balanced chemical equation for aerobic respiration as: C6H12O6 + 6O2 → 6CO2 + 6H2O"
+        }
+      ]
+    }
+  }
+}

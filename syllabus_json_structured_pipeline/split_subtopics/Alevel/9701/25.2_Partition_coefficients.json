@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "25",
+    "topic_name": "Equilibria"
+  },
+  "subtopic": {
+    "sub_topic_number": "25.2",
+    "sub_topic_name": "Partition coefficients",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state what is meant by the term partition coefficient, Kpc"
+      },
+      {
+        "objective_number": 2,
+        "description": "calculate and use a partition coefficient for a system in which the solute is in the same physical state in the two solvents"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the factors affecting the numerical value of a partition coefficient in terms of the polarities of the solute and the solvents used"
+      }
+    ]
+  }
+}

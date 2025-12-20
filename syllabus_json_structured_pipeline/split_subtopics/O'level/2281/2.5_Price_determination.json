@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.5",
+    "sub_topic_name": "Price determination",
+    "learning_objectives": [
+      {
+        "objective_number": "2.5.1",
+        "objective_title": "market equilibrium",
+        "guidance": "Definition, drawing and interpretation of demand and supply schedules and curves used to establish equilibrium price and sales in a market."
+      },
+      {
+        "objective_number": "2.5.2",
+        "objective_title": "market disequilibrium",
+        "guidance": "Definition, drawing and interpretation of demand and supply schedules and curves used to identify disequilibrium prices and shortages (demand exceeding supply) and surpluses (supply exceeding demand)."
+      }
+    ]
+  }
+}

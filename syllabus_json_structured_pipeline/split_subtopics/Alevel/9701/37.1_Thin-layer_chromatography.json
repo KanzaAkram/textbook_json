@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "37",
+    "topic_name": "Analytical techniques"
+  },
+  "subtopic": {
+    "sub_topic_number": "37.1",
+    "sub_topic_name": "Thin-layer chromatography",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and understand the terms (a) stationary phase, for example aluminium oxide (on a solid support) (b) mobile phase; a polar or non-polar solvent (c) Rf value (d) solvent front and baseline"
+      },
+      {
+        "objective_number": 2,
+        "description": "interpret Rf values"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain the differences in Rf values in terms of interaction with the stationary phase and of relative solubility in the mobile phase"
+      }
+    ]
+  }
+}

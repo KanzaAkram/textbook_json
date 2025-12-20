@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Atoms, molecules and stoichiometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Reacting masses and volumes (of solutions and gases)",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "perform calculations including use of the mole concept, involving: (a) reacting masses (from formulas and equations) including percentage yield calculations (b) volumes of gases (e.g. in the burning of hydrocarbons) (c) volumes and concentrations of solutions (d) limiting reagent and excess reagent (e) deduce stoichiometric relationships from calculations such as those in 2.4.1(a)-(d)"
+      }
+    ]
+  }
+}

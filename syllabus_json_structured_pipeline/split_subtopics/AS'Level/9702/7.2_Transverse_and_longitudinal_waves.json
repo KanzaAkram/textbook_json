@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Waves"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Transverse and longitudinal waves",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "compare transverse and longitudinal waves"
+      },
+      {
+        "objective_number": 2,
+        "description": "analyse and interpret graphical representations of transverse and longitudinal waves"
+      }
+    ]
+  }
+}

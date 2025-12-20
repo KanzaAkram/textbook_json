@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Mensuration"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4",
+    "sub_topic_name": "Surface area and volume",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Carry out calculations and solve problems involving the surface area and volume of a: cuboid, prism, cylinder, sphere, pyramid, cone."
+      }
+    ],
+    "notes_and_examples": "Answers may be asked for in terms of π.\nThe following formulas are given in the List of formulas:\n• curved surface area of a cylinder\n• curved surface area of a cone\n• surface area of a sphere\n• volume of a prism\n• volume of a pyramid\n• volume of a cylinder\n• volume of a cone\n• volume of a sphere.\nThe term prism refers to any solid with a uniform cross-section, e.g. a cylindrical sector."
+  }
+}

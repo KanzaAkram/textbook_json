@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Forces, density and pressure"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Density and pressure",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define and use density"
+      },
+      {
+        "objective_number": 2,
+        "description": "define and use pressure"
+      },
+      {
+        "objective_number": 3,
+        "description": "derive, from the definitions of pressure and density, the equation for hydrostatic pressure Δp = ρgΔh"
+      },
+      {
+        "objective_number": 4,
+        "description": "use the equation Δp = ρgΔh"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand that the upthrust acting on an object in a fluid is due to a difference in hydrostatic pressure"
+      },
+      {
+        "objective_number": 6,
+        "description": "calculate the upthrust acting on an object in a fluid using the equation F = ρgV (Archimedes' principle)"
+      }
+    ]
+  }
+}

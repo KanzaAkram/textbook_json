@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Magnetic fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.1",
+    "sub_topic_name": "Concept of a magnetic field",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a magnetic field is an example of a field of force produced either by moving charges or by permanent magnets"
+      },
+      {
+        "objective_number": 2,
+        "description": "represent a magnetic field by field lines"
+      }
+    ]
+  }
+}

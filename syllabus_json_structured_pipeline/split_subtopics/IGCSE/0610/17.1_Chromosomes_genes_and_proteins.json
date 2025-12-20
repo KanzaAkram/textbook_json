@@ -1,0 +1,71 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.1",
+    "sub_topic_name": "Chromosomes, genes and proteins",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State that chromosomes are made of DNA, which contains genetic information in the form of genes"
+        },
+        {
+          "objective_number": 2,
+          "description": "Define a gene as a length of DNA that codes for a protein"
+        },
+        {
+          "objective_number": 3,
+          "description": "Define an allele as an alternative form of a gene"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the inheritance of sex in humans with reference to X and Y chromosomes"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 5,
+          "description": "State that the sequence of bases in a gene determines the sequence of amino acids used to make a specific protein (knowledge of the details of nucleotide structure is not required)"
+        },
+        {
+          "objective_number": 6,
+          "description": "Explain that different sequences of amino acids give different shapes to protein molecules"
+        },
+        {
+          "objective_number": 7,
+          "description": "Explain that DNA controls cell function by controlling the production of proteins, including enzymes, membrane carriers and receptors for neurotransmitters"
+        },
+        {
+          "objective_number": 8,
+          "description": "Explain how a protein is made, limited to: the gene coding for the protein remains in the nucleus; messenger RNA (mRNA) is a copy of a gene; mRNA molecules are made in the nucleus and move to the cytoplasm; the mRNA passes through ribosomes; the ribosome assembles amino acids into protein molecules; the specific sequence of amino acids is determined by the sequence of bases in the mRNA (knowledge of the details of transcription or translation is not required)"
+        },
+        {
+          "objective_number": 9,
+          "description": "Explain that most body cells in an organism contain the same genes, but many genes in a particular cell are not expressed because the cell only makes the specific proteins it needs"
+        },
+        {
+          "objective_number": 10,
+          "description": "Describe a haploid nucleus as a nucleus containing a single set of chromosomes"
+        },
+        {
+          "objective_number": 11,
+          "description": "Describe a diploid nucleus as a nucleus containing two sets of chromosomes"
+        },
+        {
+          "objective_number": 12,
+          "description": "State that in a diploid cell, there is a pair of each type of chromosome and in a human diploid cell there are 23 pairs"
+        }
+      ]
+    }
+  }
+}

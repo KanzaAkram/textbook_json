@@ -1,0 +1,75 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Electricity and magnetism"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.4",
+    "sub_topic_name": "Practical electricity",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "4.4.1",
+        "sub_sub_topic_name": "Uses of electricity",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "State common uses of electricity, including heating, lighting, battery charging and powering motors and electronic systems"
+          },
+          {
+            "objective_number": 2,
+            "description": "State the advantages of connecting lamps in parallel in a lighting circuit"
+          },
+          {
+            "objective_number": 3,
+            "description": "Recall and use the equation power = current × voltage, P = IV"
+          },
+          {
+            "objective_number": 4,
+            "description": "Recall and use the equation energy = current × voltage × time, E = IVt"
+          },
+          {
+            "objective_number": 5,
+            "description": "Define the kilowatt-hour (kWh) and calculate the cost of using electrical appliances where the energy unit is the kWh"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.4.2",
+        "sub_sub_topic_name": "Electrical safety",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "State the hazards of: (a) damaged insulation (b) overheating cables (c) damp conditions (d) excess current from overloading of plugs, extension leads, single and multiple sockets when using a mains supply"
+          },
+          {
+            "objective_number": 2,
+            "description": "Explain the use and operation of trip switches and fuses and choose appropriate fuse ratings and trip switch settings"
+          },
+          {
+            "objective_number": 3,
+            "description": "Explain what happens when a live wire touches a metal case that is earthed"
+          },
+          {
+            "objective_number": 4,
+            "description": "Explain why the outer casing of an electrical appliance must be either non-conducting (double-insulated) or earthed"
+          },
+          {
+            "objective_number": 5,
+            "description": "Know that a mains circuit consists of a live wire (line wire), a neutral wire and an earth wire and explain why a switch must be connected into the live wire for the circuit to be switched off safely"
+          },
+          {
+            "objective_number": 6,
+            "description": "Explain why fuses and circuit breakers are connected into the live wire"
+          }
+        ]
+      }
+    ]
+  }
+}

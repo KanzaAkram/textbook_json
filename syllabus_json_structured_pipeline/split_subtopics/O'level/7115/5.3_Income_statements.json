@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Financial information and decisions"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.3",
+    "sub_topic_name": "Income statements",
+    "learning_objectives": [
+      {
+        "objective_number": "5.3.1",
+        "description": "What profit is and why it is important: How a profit is made; Importance of profit to private sector businesses, e.g. reward for risk-taking/enterprise, source of finance; Difference between profit and cash"
+      },
+      {
+        "objective_number": "5.3.2",
+        "description": "Income statements: Main features of an income statement, e.g. revenue, cost of sales, gross profit, profit and retained profit; Use simple income statements in decision-making based on profit calculations (constructing income statements will not be assessed)"
+      }
+    ]
+  }
+}

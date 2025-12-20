@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Reproduction"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.4",
+    "sub_topic_name": "Sexual reproduction in humans",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Identify on diagrams and state the functions of the following parts of the male reproductive system: testes, scrotum, sperm ducts, prostate gland, urethra and penis"
+        },
+        {
+          "objective_number": 2,
+          "description": "Identify on diagrams and state the functions of the following parts of the female reproductive system: ovaries, oviducts, uterus, cervix and vagina"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe fertilisation as the fusion of the nuclei from a male gamete (sperm) and a female gamete (egg cell)"
+        },
+        {
+          "objective_number": 4,
+          "description": "Explain the adaptive features of sperm, limited to: flagellum, mitochondria and enzymes in the acrosome"
+        },
+        {
+          "objective_number": 5,
+          "description": "Explain the adaptive features of egg cells, limited to: energy stores and the jelly coat that changes at fertilisation"
+        },
+        {
+          "objective_number": 6,
+          "description": "Compare male and female gametes in terms of: size, structure, motility and numbers"
+        },
+        {
+          "objective_number": 7,
+          "description": "State that in early development, the zygote forms an embryo which is a ball of cells that implants into the lining of the uterus"
+        },
+        {
+          "objective_number": 8,
+          "description": "Identify on diagrams and state the functions of the following in the development of the fetus: umbilical cord, placenta, amniotic sac and amniotic fluid"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 9,
+          "description": "Describe the function of the placenta and umbilical cord in relation to the exchange of dissolved nutrients, gases and excretory products between the blood of the mother and the blood of the fetus"
+        },
+        {
+          "objective_number": 10,
+          "description": "State that some pathogens and toxins can pass across the placenta and affect the fetus"
+        }
+      ]
+    }
+  }
+}

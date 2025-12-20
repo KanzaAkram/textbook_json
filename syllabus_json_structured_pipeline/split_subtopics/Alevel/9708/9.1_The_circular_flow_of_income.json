@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "The macroeconomy (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.1",
+    "sub_topic_name": "The circular flow of income",
+    "learning_objectives": [
+      {
+        "objective_number": "9.1.1",
+        "description": "the multiplier process: definition of the multiplier, formulae for and calculation of multiplier in a closed and open economy, with and without a government sector, calculation of: average and marginal propensities to save (aps and mps), average and marginal propensities to consume (apc and mpc), average and marginal propensities to import (apm and mpm), average and marginal rates of tax (art and mrt), national income determination using AD and income approach with the multiplier process, calculation of effect of changing AD on national income using the multiplier"
+      },
+      {
+        "objective_number": "9.1.2",
+        "description": "components of Aggregate Demand (AD) and their determinants: consumption function: autonomous and induced consumer expenditure, savings function: autonomous and induced savings, autonomous and induced investment; the accelerator, government spending, net exports (exports minus imports)"
+      },
+      {
+        "objective_number": "9.1.3",
+        "description": "full employment level of national income and equilibrium level of national income: inflationary and deflationary gaps"
+      }
+    ]
+  }
+}

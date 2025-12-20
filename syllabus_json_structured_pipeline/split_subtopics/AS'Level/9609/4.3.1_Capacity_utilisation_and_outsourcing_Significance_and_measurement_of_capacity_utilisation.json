@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3.1",
+    "sub_topic_name": "Capacity utilisation and outsourcing: Significance and measurement of capacity utilisation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the measurement of capacity utilisation"
+      },
+      {
+        "objective_number": 2,
+        "description": "the impact of operating under or over maximum capacity on a business"
+      },
+      {
+        "objective_number": 3,
+        "description": "methods of improving capacity utilisation"
+      }
+    ]
+  }
+}

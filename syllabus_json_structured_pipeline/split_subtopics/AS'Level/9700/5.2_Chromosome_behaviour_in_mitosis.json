@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "The mitotic cell cycle"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Chromosome behaviour in mitosis",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the behaviour of chromosomes in plant and animal cells during the mitotic cell cycle and the associated behaviour of the nuclear envelope, the cell surface membrane and the spindle (names of the main stages of mitosis are expected: prophase, metaphase, anaphase and telophase)"
+      },
+      {
+        "objective_number": 2,
+        "description": "interpret photomicrographs, diagrams and microscope slides of cells in different stages of the mitotic cell cycle and identify the main stages of mitosis"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Transport in humans"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.3",
+    "sub_topic_name": "Blood vessels",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Name the main blood vessels that carry blood to and from the heart, lungs, liver and kidneys, limited to: aorta, vena cava, pulmonary artery, pulmonary vein, hepatic vein, hepatic artery, hepatic portal vein, renal artery and renal vein"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe, and identify on diagrams and photomicrographs, the structure of arteries, veins and capillaries, limited to: (a) relative thickness of wall (b) composition of wall (muscle and elastic tissue) (c) diameter of lumen (d) presence of valves"
+      },
+      {
+        "objective_number": 3,
+        "description": "Explain how the structure of arteries, veins and capillaries is related to the pressure of the blood that they transport"
+      }
+    ]
+  }
+}

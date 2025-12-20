@@ -1,0 +1,48 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Software"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Types of programming language, translators and IDEs",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Explain high-level vs. low-level languages, with advantages and disadvantages.",
+        "notes_and_guidance": "Covers readability, debugging ease, machine independence, hardware interaction."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand that assembly language uses mnemonics and requires an assembler for translation.",
+        "notes_and_guidance": "Assembly language is a form of low-level language using mnemonics."
+      },
+      {
+        "objective_number": "3",
+        "description": "Describe compiler and interpreter operation: how each translates high-level language and reports errors.",
+        "notes_and_guidance": "Compiler translates all code before execution, produces executable. Interpreter translates and executes line-by-line, stops at errors. Compiler gives error report for entire code; interpreter stops at first error."
+      },
+      {
+        "objective_number": "4",
+        "description": "Explain the advantages and disadvantages of compilers and interpreters.",
+        "notes_and_guidance": "Interpreters are mainly for program development, compilers for translating final programs."
+      },
+      {
+        "objective_number": "5",
+        "description": "Explain the role and functions of an IDE.",
+        "notes_and_guidance": "Functions include code editor, run-time environment, translators, error diagnostics, auto-completion, auto-correction, pretty print."
+      }
+    ]
+  }
+}

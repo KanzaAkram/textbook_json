@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Accounting principles and policies"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Accounting policies",
+    "learning_objectives": [
+      "Candidates should be able to recognise the influence of international accounting standards and understand the following objectives in selecting accounting policies:",
+      "comparability",
+      "relevance",
+      "reliability",
+      "understandability"
+    ]
+  }
+}

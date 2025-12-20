@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Reaction kinetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Effect of temperature on reaction rates and the concept of activation energy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define activation energy, Eₐ, as the minimum energy required for a collision to be effective"
+      },
+      {
+        "objective_number": 2,
+        "description": "sketch and use the Boltzmann distribution to explain the significance of activation energy"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain qualitatively, in terms both of the Boltzmann distribution and of frequency of effective collisions, the effect of temperature change on the rate of a reaction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Experimental techniques and chemical analysis"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.5",
+    "sub_topic_name": "Identification of ions and gases",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe tests to identify the anions: (a) carbonate, CO₃²⁻, by reaction with dilute acid and then testing for carbon dioxide gas (b) chloride, Cl⁻, bromide, Br⁻, and iodide, I⁻, by acidifying with dilute nitric acid then adding aqueous silver nitrate (c) nitrate, NO₃⁻, by reduction with aluminium foil and aqueous sodium hydroxide and then testing for ammonia gas (d) sulfate, SO₄²⁻, by acidifying with dilute nitric acid then adding aqueous barium nitrate (e) sulfite, SO₃²⁻, by reaction with acidified aqueous potassium manganate(VII)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe tests using aqueous sodium hydroxide and aqueous ammonia to identify the aqueous cations: (a) aluminium, Al³⁺ (b) ammonium, NH₄⁺ (c) calcium, Ca²⁺ (d) chromium(III), Cr³⁺ (e) copper(II), Cu²⁺ (f) iron(II), Fe²⁺ (g) iron(III), Fe³⁺ (h) zinc, Zn²⁺"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe tests to identify the gases: (a) ammonia, NH₃, using damp red litmus paper (b) carbon dioxide, CO₂, using limewater (c) chlorine, Cl₂, using damp litmus paper (d) hydrogen, H₂, using a lighted splint (e) oxygen, O₂, using a glowing splint (f) sulfur dioxide, SO₂, using acidified aqueous potassium manganate(VII)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe the use of a flame test to identify the cations: (a) lithium, Li⁺ (b) sodium, Na⁺ (c) potassium, K⁺ (d) calcium, Ca²⁺ (e) barium, Ba²⁺ (f) copper(II), Cu²⁺"
+      }
+    ]
+  }
+}

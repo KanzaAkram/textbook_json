@@ -1,0 +1,83 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Marketing mix",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "The limitations and benefits of developing new products"
+      },
+      {
+        "objective_number": 2,
+        "description": "Brand image; impact on sales and customer loyalty"
+      },
+      {
+        "objective_number": 3,
+        "description": "The role of packaging"
+      },
+      {
+        "objective_number": 4,
+        "description": "The product life cycle: main stages and extension strategies; draw and interpret a product life cycle diagram"
+      },
+      {
+        "objective_number": 5,
+        "description": "How stages of the product life cycle can influence marketing decisions, e.g. promotion and pricing decisions"
+      },
+      {
+        "objective_number": 6,
+        "description": "Pricing methods (benefits and limitations of different methods), e.g. cost plus, competitive, penetration, skimming, and promotional"
+      },
+      {
+        "objective_number": 7,
+        "description": "Recommend and justify an appropriate pricing method in given circumstances"
+      },
+      {
+        "objective_number": 8,
+        "description": "Understand the significance of price elasticity: difference between price elastic demand and price inelastic demand; importance of the concept in pricing decisions (knowledge of the formula and calculations of PED will not be assessed)"
+      },
+      {
+        "objective_number": 9,
+        "description": "Advantages and disadvantages of different channels, e.g. use of wholesalers, retailers or direct to consumers"
+      },
+      {
+        "objective_number": 10,
+        "description": "Recommend and justify an appropriate distribution channel in given circumstances"
+      },
+      {
+        "objective_number": 11,
+        "description": "The aims of promotion"
+      },
+      {
+        "objective_number": 12,
+        "description": "Different forms of promotion and how they influence sales, e.g. advertising, sales promotion"
+      },
+      {
+        "objective_number": 13,
+        "description": "The need for cost-effectiveness in spending the marketing budget on promotion"
+      },
+      {
+        "objective_number": 14,
+        "description": "Define and explain the concept of e-commerce"
+      },
+      {
+        "objective_number": 15,
+        "description": "The opportunities and threats of e-commerce to business and consumers"
+      },
+      {
+        "objective_number": 16,
+        "description": "Use of the internet and social media networks for promotion"
+      }
+    ]
+  }
+}

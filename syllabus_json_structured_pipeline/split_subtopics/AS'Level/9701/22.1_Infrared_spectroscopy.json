@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "22",
+    "topic_name": "Analytical techniques"
+  },
+  "subtopic": {
+    "sub_topic_number": "22.1",
+    "sub_topic_name": "Infrared spectroscopy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "analyse an infrared spectrum of a simple molecule to identify functional groups (see the Data section for the functional groups required)"
+      }
+    ]
+  }
+}

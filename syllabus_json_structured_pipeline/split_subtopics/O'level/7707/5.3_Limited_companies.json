@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Preparation of financial statements"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.3",
+    "sub_topic_name": "Limited companies",
+    "learning_objectives": [
+      "explain the advantages and disadvantages of operating as a limited company",
+      "understand the meaning of the term limited liability",
+      "understand the meaning of the term equity",
+      "understand the capital structure of a limited company comprising preference share capital, ordinary share capital, general reserve and retained earnings",
+      "understand and distinguish between issued, called-up and paid-up share capital",
+      "understand and distinguish between share capital (preference shares and ordinary shares) and loan capital (debentures)",
+      "prepare income statements, statements of changes in equity and statements of financial position",
+      "make adjustments to financial statements as detailed in 5.1 (sole traders)."
+    ],
+    "notes": [
+      "Candidates will not be expected to understand cumulative and non-cumulative preference shares, rights issues, share premium or capital redemption reserve. However, candidates should understand the difference between redeemable and non-redeemable preference shares."
+    ]
+  }
+}

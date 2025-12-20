@@ -1,0 +1,688 @@
+{
+  "level": "O'level",
+  "subject_code": "4024",
+  "generated_at": "2025-12-20T23:04:37.475508",
+  "total_matches": 68,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "Types of number",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.1_Types_of_number.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.10",
+      "subtopic_name": "Limits of accuracy",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.10_Limits_of_accuracy.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.11",
+      "subtopic_name": "Ratio and proportion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.11_Ratio_and_proportion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.12",
+      "subtopic_name": "Rates",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.12_Rates.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.13",
+      "subtopic_name": "Percentages",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.13_Percentages.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.14",
+      "subtopic_name": "Using a calculator",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.14_Using_a_calculator.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.15",
+      "subtopic_name": "Time",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.15_Time.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.16",
+      "subtopic_name": "Money",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.16_Money.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.17",
+      "subtopic_name": "Exponential growth and decay",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.17_Exponential_growth_and_decay.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.18",
+      "subtopic_name": "Surds",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.18_Surds.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "Sets",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.2_Sets.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.3",
+      "subtopic_name": "Powers and roots",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.3_Powers_and_roots.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.4",
+      "subtopic_name": "Fractions, decimals and percentages",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.4_Fractions_decimals_and_percentages.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.5",
+      "subtopic_name": "Ordering",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.5_Ordering.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.6",
+      "subtopic_name": "The four operations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.6_The_four_operations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.7",
+      "subtopic_name": "Indices I",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.7_Indices_I.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.8",
+      "subtopic_name": "Standard form",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.8_Standard_form.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.9",
+      "subtopic_name": "Estimation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\1.9_Estimation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Introduction to algebra",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.1_Introduction_to_algebra.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.10",
+      "subtopic_name": "Graphs of functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.10_Graphs_of_functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.11",
+      "subtopic_name": "Sketching curves",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.11_Sketching_curves.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.12",
+      "subtopic_name": "Functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.12_Functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.2",
+      "subtopic_name": "Algebraic manipulation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.2_Algebraic_manipulation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.3",
+      "subtopic_name": "Algebraic fractions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.3_Algebraic_fractions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.4",
+      "subtopic_name": "Indices II",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.4_Indices_II.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.5",
+      "subtopic_name": "Equations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.5_Equations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.6",
+      "subtopic_name": "Inequalities",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.6_Inequalities.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.7",
+      "subtopic_name": "Sequences",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.7_Sequences.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.8",
+      "subtopic_name": "Proportion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.8_Proportion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.9",
+      "subtopic_name": "Graphs in practical situations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\2.9_Graphs_in_practical_situations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.1",
+      "subtopic_name": "Coordinates",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\3.1_Coordinates.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.2",
+      "subtopic_name": "Drawing linear graphs",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\3.2_Drawing_linear_graphs.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.3",
+      "subtopic_name": "Gradient of linear graphs",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\3.3_Gradient_of_linear_graphs.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.4",
+      "subtopic_name": "Length and midpoint",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\3.4_Length_and_midpoint.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.5",
+      "subtopic_name": "Equations of linear graphs",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\3.5_Equations_of_linear_graphs.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.6",
+      "subtopic_name": "Parallel lines",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\3.6_Parallel_lines.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.7",
+      "subtopic_name": "Perpendicular lines",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\3.7_Perpendicular_lines.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "Geometrical terms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\4.1_Geometrical_terms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "Geometrical constructions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\4.2_Geometrical_constructions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.3",
+      "subtopic_name": "Scale drawings",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\4.3_Scale_drawings.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.4",
+      "subtopic_name": "Similarity",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\4.4_Similarity.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.5",
+      "subtopic_name": "Symmetry",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\4.5_Symmetry.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.6",
+      "subtopic_name": "Angles",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\4.6_Angles.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.7",
+      "subtopic_name": "Circle theorems I",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\4.7_Circle_theorems_I.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.8",
+      "subtopic_name": "Circle theorems II",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\4.8_Circle_theorems_II.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.1",
+      "subtopic_name": "Units of measure",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\5.1_Units_of_measure.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.2",
+      "subtopic_name": "Area and perimeter",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\5.2_Area_and_perimeter.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.3",
+      "subtopic_name": "Circles, arcs and sectors",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\5.3_Circles_arcs_and_sectors.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.4",
+      "subtopic_name": "Surface area and volume",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\5.4_Surface_area_and_volume.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.5",
+      "subtopic_name": "Compound shapes and parts of shapes",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\5.5_Compound_shapes_and_parts_of_shapes.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.1",
+      "subtopic_name": "Pythagoras' theorem",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\6.1_Pythagoras_theorem.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.2",
+      "subtopic_name": "Right-angled triangles",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\6.2_Right-angled_triangles.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.3",
+      "subtopic_name": "Non-right-angled triangles",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\6.3_Non-right-angled_triangles.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.4",
+      "subtopic_name": "Pythagoras' theorem and trigonometry in 3D",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\6.4_Pythagoras_theorem_and_trigonometry_in_3D.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.1",
+      "subtopic_name": "Transformations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\7.1_Transformations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.2",
+      "subtopic_name": "Vectors in two dimensions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\7.2_Vectors_in_two_dimensions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.3",
+      "subtopic_name": "Magnitude of a vector",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\7.3_Magnitude_of_a_vector.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.4",
+      "subtopic_name": "Vector geometry",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\7.4_Vector_geometry.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.1",
+      "subtopic_name": "Introduction to probability",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\8.1_Introduction_to_probability.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.2",
+      "subtopic_name": "Relative and expected frequencies",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\8.2_Relative_and_expected_frequencies.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.3",
+      "subtopic_name": "Probability of combined events",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\8.3_Probability_of_combined_events.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.1",
+      "subtopic_name": "Classifying statistical data",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\9.1_Classifying_statistical_data.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.2",
+      "subtopic_name": "Interpreting statistical data",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\9.2_Interpreting_statistical_data.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.3",
+      "subtopic_name": "Averages and measures of spread",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\9.3_Averages_and_measures_of_spread.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.4",
+      "subtopic_name": "Statistical charts and diagrams",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\9.4_Statistical_charts_and_diagrams.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.5",
+      "subtopic_name": "Scatter diagrams",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\9.5_Scatter_diagrams.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.6",
+      "subtopic_name": "Cumulative frequency diagrams",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\9.6_Cumulative_frequency_diagrams.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.7",
+      "subtopic_name": "Histograms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4024\\9.7_Histograms.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

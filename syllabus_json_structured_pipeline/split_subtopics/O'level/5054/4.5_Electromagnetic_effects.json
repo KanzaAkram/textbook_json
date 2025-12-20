@@ -1,0 +1,119 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Electricity and magnetism"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.5",
+    "sub_topic_name": "Electromagnetic effects",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "4.5.1",
+        "sub_sub_topic_name": "Electromagnetic induction",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe an experiment to demonstrate electromagnetic induction"
+          },
+          {
+            "objective_number": 2,
+            "description": "State that the magnitude of an induced e.m.f. is affected by: (a) the rate of change of the magnetic field or the rate of cutting of magnetic field lines (b) the number of turns in a coil"
+          },
+          {
+            "objective_number": 3,
+            "description": "State and use the fact that the effect of the current produced by an induced e.m.f. is to oppose the change producing it (Lenz's law) and describe how this law may be demonstrated"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.5.2",
+        "sub_sub_topic_name": "The a.c. generator",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe a simple form of a.c. generator (rotating coil or rotating magnet) and the use of slip rings and brushes where needed"
+          },
+          {
+            "objective_number": 2,
+            "description": "Sketch and interpret graphs of e.m.f. against time for simple a.c. generators and relate the position of the generator coil to the peaks, troughs and zeros of the e.m.f."
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.5.3",
+        "sub_sub_topic_name": "Magnetic effect of a current",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the pattern and direction of the magnetic field due to currents in straight wires and in solenoids and state the effect on the magnetic field of changing the magnitude and direction of the current"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe how the magnetic effect of a current is used in relays and loudspeakers and give examples of their application"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.5.4",
+        "sub_sub_topic_name": "Forces on a current-carrying conductor",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe an experiment to show that a force acts on a current-carrying conductor in a magnetic field, including the effect of reversing: (a) the current (b) the direction of the field"
+          },
+          {
+            "objective_number": 2,
+            "description": "Recall and use the relative directions of force, magnetic field and current"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe the magnetic field patterns between currents in parallel conductors and relate these to the forces on the conductors (excluding the Earth's field)"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.5.5",
+        "sub_sub_topic_name": "The d.c. motor",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Know that a current-carrying coil in a magnetic field may experience a turning effect and that the turning effect is increased by increasing: (a) the number of turns on the coil (b) the current (c) the strength of the magnetic field"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe the operation of an electric motor, including the action of a split-ring commutator and brushes"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.5.6",
+        "sub_sub_topic_name": "The transformer",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the structure and explain the principle of operation of a simple iron-cored transformer"
+          },
+          {
+            "objective_number": 2,
+            "description": "Use the terms primary, secondary, step-up and step-down"
+          },
+          {
+            "objective_number": 3,
+            "description": "Recall and use the equation Vp/Vs = Np/Ns where P and S refer to primary and secondary"
+          },
+          {
+            "objective_number": 4,
+            "description": "State the advantages of high-voltage transmission and explain why power losses in cables are smaller when the voltage is greater"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Government and the macroeconomy"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "The role of government",
+    "learning_objectives": [
+      {
+        "objective_number": "4.1.1",
+        "objective_title": "the role of government",
+        "guidance": "Locally, nationally and internationally."
+      }
+    ]
+  }
+}

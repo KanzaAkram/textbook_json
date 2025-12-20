@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Calculus"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.15",
+    "sub_topic_name": "Kinematics graphs",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Make use of the relationships in 14.14 to draw and use the following graphs: displacement-time, distance-time, velocity-time, speed-time, acceleration-time. (For example: A particle moves in a straight line. Its displacement s, from a fixed point at time, t, is given by s = 3t³ – 10t² + 4t + 8 for 0 ≤ t ≤ 3. Sketch its displacement-time graph, its speed-time graph, its acceleration-time graph.)"
+      }
+    ]
+  }
+}

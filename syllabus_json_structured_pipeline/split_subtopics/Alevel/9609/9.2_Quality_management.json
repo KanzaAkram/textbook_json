@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Operations management (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.2",
+    "sub_topic_name": "Quality management",
+    "learning_objectives": [
+      {
+        "objective_number": "9.2.1",
+        "description": "Quality control and quality assurance: quality in terms of meeting customer expectations; the importance of quality; the impact of methods of quality control on a business; the impact of methods of quality assurance on a business; the impact of Total Quality Management (TQM) on a business."
+      },
+      {
+        "objective_number": "9.2.2",
+        "description": "Benchmarking: the importance of benchmarking in quality management."
+      }
+    ]
+  }
+}

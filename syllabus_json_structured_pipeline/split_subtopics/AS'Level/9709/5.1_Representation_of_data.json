@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Probability & Statistics 1 (for Paper 5)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Representation of data",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "select a suitable way of presenting raw statistical data, and discuss advantages and/or disadvantages that particular representations may have"
+      },
+      {
+        "objective_number": 2,
+        "description": "draw and interpret stem-and-leaf diagrams, box-and-whisker plots, histograms and cumulative frequency graphs (Including back-to-back stem-and-leaf diagrams.)"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand and use different measures of central tendency (mean, median, mode) and variation (range, interquartile range, standard deviation) (e.g. in comparing and contrasting sets of data.)"
+      },
+      {
+        "objective_number": 4,
+        "description": "use a cumulative frequency graph (e.g. to estimate medians, quartiles, percentiles, the proportion of a distribution above (or below) a given value, or between two values.)"
+      },
+      {
+        "objective_number": 5,
+        "description": "calculate and use the mean and standard deviation of a set of data (including grouped data) either from the data itself or from given totals Σx and Σx², or coded totals Σ(x − a) and Σ(x − a)², and use such totals in solving problems which may involve up to two data sets."
+      }
+    ]
+  }
+}

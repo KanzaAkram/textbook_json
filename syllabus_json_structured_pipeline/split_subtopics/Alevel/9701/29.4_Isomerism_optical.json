@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "29",
+    "topic_name": "An introduction to A Level organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "29.4",
+    "sub_topic_name": "Isomerism: optical",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that enantiomers have identical physical and chemical properties apart from their ability to rotate plane polarised light and their potential biological activity"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand and use the terms optically active and racemic mixture"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the effect on plane polarised light of the two optical isomers of a single substance"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain the relevance of chirality to the synthetic preparation of drug molecules including: (a) the potential different biological activity of the two enantiomers (b) the need to separate a racemic mixture into two pure enantiomers (c) the use of chiral catalysts to produce a single pure optical isomer (Candidates should appreciate that compounds can contain more than one chiral centre, but knowledge of meso compounds and nomenclature such as diastereoisomers is not required.)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "System Software"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.2",
+    "sub_topic_name": "Translation Software",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of how an interpreter can execute programs without producing a translated version"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show understanding of the various stages in the compilation of a program (Including lexical analysis, syntax analysis, code generation and optimisation)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Show understanding of how the grammar of a language can be expressed using syntax diagrams or Backus-Naur Form (BNF) notation"
+      },
+      {
+        "objective_number": 4,
+        "description": "Show understanding of how Reverse Polish Notation (RPN) can be used to carry out the evaluation of expressions"
+      }
+    ]
+  }
+}

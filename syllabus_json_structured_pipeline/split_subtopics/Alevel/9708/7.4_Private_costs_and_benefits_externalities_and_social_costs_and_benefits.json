@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The price system and the microeconomy (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.4",
+    "sub_topic_name": "Private costs and benefits, externalities and social costs and benefits",
+    "learning_objectives": [
+      {
+        "objective_number": "7.4.1",
+        "description": "definition and calculation of social costs (SC) as the sum of private costs (PC) and external costs (EC), including marginal social costs (MSC), marginal private costs (MPC) and marginal external costs (MEC)"
+      },
+      {
+        "objective_number": "7.4.2",
+        "description": "definition and calculation of social benefits (SB) as the sum of private benefits (PB) and external benefits (EB), including marginal social benefits (MSB), marginal private benefits (MPB) and marginal external benefits (MEB)"
+      },
+      {
+        "objective_number": "7.4.3",
+        "description": "definition of positive externality and negative externality"
+      },
+      {
+        "objective_number": "7.4.4",
+        "description": "positive and negative externalities of both consumption and production"
+      },
+      {
+        "objective_number": "7.4.5",
+        "description": "deadweight welfare losses arising from positive and negative externalities"
+      },
+      {
+        "objective_number": "7.4.6",
+        "description": "asymmetric information and moral hazard"
+      },
+      {
+        "objective_number": "7.4.7",
+        "description": "use of costs and benefits in analysing decisions (knowledge of net present value is not required)"
+      }
+    ]
+  }
+}

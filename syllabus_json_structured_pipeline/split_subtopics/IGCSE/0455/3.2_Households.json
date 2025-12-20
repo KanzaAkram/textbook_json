@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Microeconomic decision makers"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Households",
+    "learning_objectives": [
+      {
+        "objective_number": "3.2.1",
+        "objective_title": "the influences on spending, saving and borrowing",
+        "guidance": "Including income, the rate of interest and confidence - between different households and over time."
+      }
+    ]
+  }
+}

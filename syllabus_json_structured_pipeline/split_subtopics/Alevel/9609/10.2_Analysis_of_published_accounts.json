@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Finance and accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.2",
+    "sub_topic_name": "Analysis of published accounts",
+    "learning_objectives": [
+      {
+        "objective_number": "10.2.1",
+        "description": "Liquidity ratios: the meaning and importance of liquidity; current ratio: calculation and interpretation; acid test ratio: calculation and interpretation; methods of improving liquidity."
+      },
+      {
+        "objective_number": "10.2.2",
+        "description": "Profitability ratios: the meaning and importance of profitability; return on capital employed: calculation and interpretation; gross profit margin: calculation and interpretation; profit margin: calculation and interpretation; methods of improving profitability."
+      },
+      {
+        "objective_number": "10.2.3",
+        "description": "Financial efficiency ratios: the meaning and importance of financial efficiency; rate of inventory turnover: calculation and interpretation; trade receivables turnover (days): calculation and interpretation; trade payables turnover (days): calculation and interpretation; methods of improving financial efficiency."
+      },
+      {
+        "objective_number": "10.2.4",
+        "description": "Gearing ratio: the meaning and importance of gearing; gearing ratio: calculation and interpretation; methods of improving gearing."
+      },
+      {
+        "objective_number": "10.2.5",
+        "description": "Investment ratios: the meaning and importance of return to investors; dividend yield: calculation and interpretation; dividend cover: calculation and interpretation; price/earnings ratio: calculation and interpretation; methods of improving investor return."
+      }
+    ]
+  }
+}

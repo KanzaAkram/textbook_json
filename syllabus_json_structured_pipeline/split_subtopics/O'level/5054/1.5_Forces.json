@@ -1,0 +1,155 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Motion, forces and energy"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.5",
+    "sub_topic_name": "Forces",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "1.5.1",
+        "sub_sub_topic_name": "Balanced and unbalanced forces",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Identify and use different types of force, including weight (gravitational force), friction, drag, air resistance, tension (elastic force), electrostatic force, magnetic force, thrust (driving force) and contact force"
+          },
+          {
+            "objective_number": 2,
+            "description": "Identify forces acting on an object and draw free-body diagram(s) representing the forces"
+          },
+          {
+            "objective_number": 3,
+            "description": "State Newton's first law as 'an object either remains at rest or continues to move in a straight line at constant speed unless acted on by a resultant force'"
+          },
+          {
+            "objective_number": 4,
+            "description": "State that a force may change the velocity of an object by changing its direction of motion or its speed"
+          },
+          {
+            "objective_number": 5,
+            "description": "Determine the resultant of two or more forces acting along the same straight line"
+          },
+          {
+            "objective_number": 6,
+            "description": "Recall and use the equation resultant force = mass × acceleration, F = ma"
+          },
+          {
+            "objective_number": 7,
+            "description": "State Newton's third law as 'when object A exerts a force on object B, then object B exerts an equal and opposite force on object A'"
+          },
+          {
+            "objective_number": 8,
+            "description": "Know that Newton's third law describes pairs of forces of the same type acting on different objects"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.5.2",
+        "sub_sub_topic_name": "Friction",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe friction as a force that may impede motion and produce heating"
+          },
+          {
+            "objective_number": 2,
+            "description": "Understand the motion of objects acted on by a constant weight or driving force, with and without drag (including air resistance or resistance in a liquid)"
+          },
+          {
+            "objective_number": 3,
+            "description": "Explain how an object reaches terminal velocity"
+          },
+          {
+            "objective_number": 4,
+            "description": "Define the thinking distance, braking distance and stopping distance of a moving vehicle"
+          },
+          {
+            "objective_number": 5,
+            "description": "Explain the factors that affect thinking and braking distance including speed, tiredness, alcohol, drugs, load, tyre surface and road conditions"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.5.3",
+        "sub_sub_topic_name": "Elastic deformation",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Know that forces may produce a change in size and shape of an object"
+          },
+          {
+            "objective_number": 2,
+            "description": "Define the spring constant as force per unit extension; recall and use the equation spring constant = force / extension, k = F / x"
+          },
+          {
+            "objective_number": 3,
+            "description": "Sketch, plot and interpret load-extension graphs for an elastic solid and describe the associated experimental procedures"
+          },
+          {
+            "objective_number": 4,
+            "description": "Define and use the term 'limit of proportionality' for a load-extension graph and identify this point on the graph (an understanding of the elastic limit is not required)"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.5.4",
+        "sub_sub_topic_name": "Circular motion",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe, qualitatively, motion in a circular path due to a force perpendicular to the motion as: (a) speed increases if force increases, with mass and radius constant (b) radius decreases if force increases, with mass and speed constant (c) an increased mass requires an increased force to keep speed and radius constant (F = mv²/r is not required)"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.5.5",
+        "sub_sub_topic_name": "Turning effect of forces",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the moment of a force as a measure of its turning effect and give everyday examples"
+          },
+          {
+            "objective_number": 2,
+            "description": "Define the moment of a force as moment = force × perpendicular distance from the pivot; recall and use this equation"
+          },
+          {
+            "objective_number": 3,
+            "description": "State and use the principle of moments for an object in equilibrium"
+          },
+          {
+            "objective_number": 4,
+            "description": "Describe an experiment to verify the principle of moments"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.5.6",
+        "sub_sub_topic_name": "Centre of gravity",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "State what is meant by centre of gravity"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe how to determine the position of the centre of gravity of a plane lamina using a plumb line"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe, qualitatively, the effect of the position of the centre of gravity on the stability of simple objects"
+          }
+        ]
+      }
+    ]
+  }
+}

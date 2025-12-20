@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Demand",
+    "learning_objectives": [
+      {
+        "objective_number": "2.3.1",
+        "objective_title": "definition of demand",
+        "guidance": "Definition, drawing and interpretation of appropriate diagrams."
+      },
+      {
+        "objective_number": "2.3.2",
+        "objective_title": "price, demand and quantity",
+        "guidance": "A demand curve to be drawn and used to illustrate movements along a demand curve with appropriate terminology, for example extensions and contractions in demand."
+      },
+      {
+        "objective_number": "2.3.3",
+        "objective_title": "individual and market demand",
+        "guidance": "The link between individual and market demand in terms of aggregation."
+      },
+      {
+        "objective_number": "2.3.4",
+        "objective_title": "conditions of demand",
+        "guidance": "The causes of shifts in a demand curve with appropriate terminology, for example increase and decrease in demand."
+      }
+    ]
+  }
+}

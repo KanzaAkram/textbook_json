@@ -1,0 +1,64 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Government and the macroeconomy"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Fiscal policy",
+    "learning_objectives": [
+      {
+        "objective_number": "4.3.1",
+        "objective_title": "definition of the government budget",
+        "guidance": "The main areas of government spending and the reasons for and effects of spending in these areas."
+      },
+      {
+        "objective_number": "4.3.2",
+        "objective_title": "reasons for government spending",
+        "guidance": "The main areas of government spending and the reasons for and effects of spending in these areas."
+      },
+      {
+        "objective_number": "4.3.3",
+        "objective_title": "reasons for taxation",
+        "guidance": "Taxation as the main source of government revenue and the reasons for levying taxation."
+      },
+      {
+        "objective_number": "4.3.4",
+        "objective_title": "classification of taxes",
+        "guidance": "Examples of the different classifications of tax; progressive, regressive, proportional; and direct, indirect."
+      },
+      {
+        "objective_number": "4.3.5",
+        "objective_title": "principles of taxation",
+        "guidance": "The qualities of a good tax."
+      },
+      {
+        "objective_number": "4.3.6",
+        "objective_title": "impact of taxation",
+        "guidance": "The impact of taxation on consumers, producers, government and economy as a whole."
+      },
+      {
+        "objective_number": "4.3.7",
+        "objective_title": "definition of fiscal policy",
+        "guidance": "The tax and spending changes, in the form of fiscal policy, that cause budget balance or imbalance. Including calculations of the size of a budget deficit or surplus."
+      },
+      {
+        "objective_number": "4.3.8",
+        "objective_title": "fiscal policy measures",
+        "guidance": "The tax and spending changes, in the form of fiscal policy, that cause budget balance or imbalance. Including calculations of the size of a budget deficit or surplus."
+      },
+      {
+        "objective_number": "4.3.9",
+        "objective_title": "effects of fiscal policy on government macroeconomic aims",
+        "guidance": "How fiscal policy measures may enable the government to achieve its macroeconomic aims. Note: aggregate demand and aggregate supply are not required."
+      }
+    ]
+  }
+}

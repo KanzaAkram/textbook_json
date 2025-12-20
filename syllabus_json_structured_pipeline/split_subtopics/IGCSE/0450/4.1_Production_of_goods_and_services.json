@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Production of goods and services",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Managing resources effectively to produce goods and services"
+      },
+      {
+        "objective_number": 2,
+        "description": "Difference between production and productivity"
+      },
+      {
+        "objective_number": 3,
+        "description": "Benefits of increasing efficiency and how to increase it, e.g. increasing productivity by automation and technology, improved labour skills"
+      },
+      {
+        "objective_number": 4,
+        "description": "Why businesses hold inventories"
+      },
+      {
+        "objective_number": 5,
+        "description": "The concept of lean production: how to achieve it, e.g. just-in-time inventory control and Kaizen; benefits of lean production"
+      },
+      {
+        "objective_number": 6,
+        "description": "Features, benefits and limitations of job, batch and flow production"
+      },
+      {
+        "objective_number": 7,
+        "description": "Recommend and justify an appropriate production method for a given situation"
+      },
+      {
+        "objective_number": 8,
+        "description": "How technology has changed and is changing production methods, e.g. using computers in design and manufacturing"
+      }
+    ]
+  }
+}

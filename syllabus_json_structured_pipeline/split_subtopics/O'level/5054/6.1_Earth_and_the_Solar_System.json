@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Space physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Earth and the Solar System",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "6.1.1",
+        "sub_sub_topic_name": "The Earth",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Know that: (a) the Earth is a planet that orbits the Sun once in approximately 365 days (b) the orbit of the Earth around the Sun is an ellipse which is approximately circular (c) the Earth rotates on its axis, which is tilted, once in approximately 24 hours (d) it takes approximately one month for the Moon to orbit the Earth (e) it takes approximately 500s for light from the Sun to reach the Earth"
+          },
+          {
+            "objective_number": 2,
+            "description": "Define average orbital speed from the equation v = 2πr / T where r is the average radius of the orbit and T is the orbital period; recall and use this equation"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "6.1.2",
+        "sub_sub_topic_name": "The Solar System",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the Solar System as containing: (a) one star, the Sun (b) the eight named planets and know their order from the Sun (c) minor planets that orbit the Sun, including dwarf planets such as Pluto and asteroids in the asteroid belt (d) moons, that orbit the planets (e) smaller Solar System bodies, including comets and natural satellites"
+          },
+          {
+            "objective_number": 2,
+            "description": "Analyse and interpret planetary data about orbital distance, orbital period, density, surface temperature and uniform gravitational field strength at the planet's surface"
+          },
+          {
+            "objective_number": 3,
+            "description": "Know that the strength of the gravitational field: (a) at the surface of a planet depends on the mass of the planet (b) around a planet decreases as the distance from the planet increases"
+          },
+          {
+            "objective_number": 4,
+            "description": "Know that the Sun contains most of the mass of the Solar System and that the strength of the gravitational field at the surface of the Sun is greater than the strength of the gravitational field at the surface of the planets"
+          },
+          {
+            "objective_number": 5,
+            "description": "Know that the force that keeps an object in orbit around the Sun is the gravitational attraction of the Sun"
+          },
+          {
+            "objective_number": 6,
+            "description": "Know that the strength of the Sun's gravitational field decreases and that the orbital speeds of the planets decrease as the distance from the Sun increases"
+          }
+        ]
+      }
+    ]
+  }
+}

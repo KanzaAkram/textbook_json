@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "23",
+    "topic_name": "Chemical energetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "23.2",
+    "sub_topic_name": "Enthalpies of solution and hydration",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define and use the term enthalpy change with reference to hydration, ΔHhyd, and solution, ΔHsol"
+      },
+      {
+        "objective_number": 2,
+        "description": "construct and use an energy cycle involving enthalpy change of solution, lattice energy and enthalpy change of hydration"
+      },
+      {
+        "objective_number": 3,
+        "description": "carry out calculations involving the energy cycles in 23.2.2"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain, in qualitative terms, the effect of ionic charge and of ionic radius on the numerical magnitude of an enthalpy change of hydration"
+      }
+    ]
+  }
+}

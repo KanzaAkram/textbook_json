@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Transport in animals"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.2",
+    "sub_topic_name": "Heart",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Identify in diagrams and images the structures of the mammalian heart, limited to: muscular wall, septum, left and right ventricles, left and right atria, one-way valves and coronary arteries"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that blood is pumped away from the heart in arteries and returns to the heart in veins"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that the activity of the heart may be monitored by: ECG, pulse rate and listening to sounds of valves closing"
+        },
+        {
+          "objective_number": 4,
+          "description": "Investigate and describe the effect of physical activity on the heart rate"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe coronary heart disease in terms of the blockage of coronary arteries and state the possible risk factors including: diet, lack of exercise, stress, smoking, genetic predisposition, age and sex"
+        },
+        {
+          "objective_number": 6,
+          "description": "Discuss the roles of diet and exercise in reducing the risk of coronary heart disease"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 7,
+          "description": "Identify in diagrams and images the atrioventricular and semilunar valves in the mammalian heart"
+        },
+        {
+          "objective_number": 8,
+          "description": "Explain the relative thickness of: (a) the muscle walls of the left and right ventricles (b) the muscle walls of the atria compared to those of the ventricles"
+        },
+        {
+          "objective_number": 9,
+          "description": "Explain the importance of the septum in separating oxygenated and deoxygenated blood"
+        },
+        {
+          "objective_number": 10,
+          "description": "Describe the functioning of the heart in terms of the contraction of muscles of the atria and ventricles and the action of the valves"
+        },
+        {
+          "objective_number": 11,
+          "description": "Explain the effect of physical activity on the heart rate"
+        }
+      ]
+    }
+  }
+}

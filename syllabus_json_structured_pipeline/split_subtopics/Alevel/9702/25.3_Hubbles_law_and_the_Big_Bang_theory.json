@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "25",
+    "topic_name": "Astronomy and cosmology"
+  },
+  "subtopic": {
+    "sub_topic_number": "25.3",
+    "sub_topic_name": "Hubble's law and the Big Bang theory",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that the lines in the emission and absorption spectra from distant objects show an increase in wavelength from their known values"
+      },
+      {
+        "objective_number": 2,
+        "description": "use Δλ/λ ≈ Δf/f ≈ v/c for the redshift of electromagnetic radiation from a source moving relative to an observer"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain why redshift leads to the idea that the Universe is expanding"
+      },
+      {
+        "objective_number": 4,
+        "description": "recall and use Hubble's law v ≈ H₀d and explain how this leads to the Big Bang theory (candidates will only be required to use SI units)"
+      }
+    ]
+  }
+}

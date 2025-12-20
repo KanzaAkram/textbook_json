@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Biotechnology and genetic modification"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.1",
+    "sub_topic_name": "Biotechnology",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Explain the role of yeast in the production of bread and ethanol"
+      },
+      {
+        "objective_number": 2,
+        "description": "Understand that bacteria are useful in biotechnology and genetic modification due to their rapid reproduction rate and their ability to make complex molecules"
+      },
+      {
+        "objective_number": 3,
+        "description": "Discuss why bacteria are useful in biotechnology and genetic modification, limited to: (a) no ethical concerns over their manipulation and growth (b) presence of plasmids"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe how fermenters can be used for the large-scale production of useful products by bacteria and fungi, including the conditions that need to be controlled, limited to: temperature, pH, oxygen, nutrient supply and waste products"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe the use of: (a) enzymes in biological washing powders (b) pectinase for fruit juice production (c) lactase for lactose-free milk"
+      }
+    ]
+  }
+}

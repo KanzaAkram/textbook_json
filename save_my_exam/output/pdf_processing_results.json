@@ -1,0 +1,406 @@
+{
+  "chemistry_9701": {
+    "duplicates_removed": 0,
+    "duplicate_files": [],
+    "filename_mappings": {
+      "Acid & Base Dissociation(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Brønsted–Lowry Theory of Acids & Bases | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Brønsted–Lowry Theory of Acids and Bases Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Acid & Base Dissociation(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Acid-Base Behaviour of the Period 3 Oxides & Hydroxides(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Periodicity of Chemical Properties of the Elements in Period 3 | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Periodicity of Chemical Properties of the Elements in Period 3 Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Acid-Base Behaviour of the Period 3 Oxides & Hydroxides(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Acidity of Alcohols(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Alcohols | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Alcohols Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Acidity of Alcohols(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Activation Energy & Boltzmann Distribution Curves(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Effect of Temperature on Reaction Rates & the Concept of Activation Energy | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Effect of Temperature on Reaction Rates and the Concept of Activation Energy Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Activation Energy & Boltzmann Distribution Curves(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Addition Polymerisation(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Addition Polymerisation | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Addition Polymerisation Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Addition Polymerisation(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Atomic Structure & Subatomic Particles(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Particles in the Atom & Atomic Radius | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Particles in the Atom and Atomic Radius Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Atomic Structure & Subatomic Particles(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Balancing Equations(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Formulas | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Formulas Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Balancing Equations(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Bond Energy & Length(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Covalent Bonding & Coordinate (Dative Covalent) Bonding | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Covalent Bonding and Coordinate (Dative Covalent) Bonding Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Bond Energy & Length(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Bond Polarity & Dipole Moments(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Intermolecular Forces, Electronegativity & Bond Properties | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Intermolecular Forces, Electronegativity and Bond Properties Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Bond Polarity & Dipole Moments(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Bonding & Structure(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Bonding & Structure | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Bonding and Structure Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Bonding & Structure(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Buffer Calculations(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Acids & Bases | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Acids and Bases Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Buffer Calculations(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Buffers(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Acids & Bases | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Acids and Bases Cambridge (CIE) A Level Chemistry Revision Notes 2023_1.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Buffers(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Calculating Entropy Changes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Entropy Change, ΔS | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Entropy Change, ΔS Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Calculating Entropy Changes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Calculations using Born-Haber Cycles(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Lattice Energy & Born-Haber Cycles | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Lattice Energy and Born-Haber Cycles Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Calculations using Born-Haber Cycles(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Carboxylic Acids(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Carboxylic Acids | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Carboxylic Acids Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Carboxylic Acids(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Changes Affecting the Equilibrium Constant(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Chemical Equilibria: Reversible Reactions & Dynamic Equilibrium | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Chemical Equilibria Reversible Reactions and Dynamic Equilibrium Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Changes Affecting the Equilibrium Constant(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Characteristic Organic Reactions(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Characteristic Organic Reactions | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Characteristic Organic Reactions Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Characteristic Organic Reactions(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Chemical Kinetics Calculations(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Simple Rate Equations, Orders of Reaction & Rate Constants | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Simple Rate Equations, Orders of Reaction and Rate Constants Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Chemical Kinetics Calculations(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Chemical Periodicity of Other Elements(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Chemical Periodicity of Other Elements | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Chemical Periodicity of Other Elements Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Chemical Periodicity of Other Elements(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Chemical Properties of the Halogens & Hydrogen Halides(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "The Chemical Properties of the Halogen Elements & the Hydrogen Halides | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "The Chemical Properties of the Halogen Elements and the Hydrogen Halides Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Chemical Properties of the Halogens & Hydrogen Halides(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Chemical Reactivity of Alkanes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Alkanes | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Alkanes Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Chemical Reactivity of Alkanes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Chirality & Drug Production(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Isomerism: Optical | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Isomerism Optical Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Chirality & Drug Production(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Chirality(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Isomerism: Structural Isomerism & Stereoisomerism | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Isomerism Structural Isomerism and Stereoisomerism Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Chirality(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Coloured Complexes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Colour of Complexes | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Colour of Complexes Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Coloured Complexes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Constructing Energy Cycles(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Enthalpies of Solution & Hydration | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Enthalpies of Solution and Hydration Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Constructing Energy Cycles(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Defining Ionisation Energy(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Ionisation Energy | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Ionisation Energy Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Defining Ionisation Energy(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Determining Electronic Configuration(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Electrons, Energy Levels & Atomic Orbitals | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Electrons, Energy Levels and Atomic Orbitals Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Determining Electronic Configuration(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Directing Effects of Substituents on Arenes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Arenes | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Arenes Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Directing Effects of Substituents on Arenes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Dot-&-Cross Diagrams(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Dot & Cross Diagrams | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Dot and Cross Diagrams Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Dot-&-Cross Diagrams(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Effect of Ligand Exchange on Stability Constant(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Stability Constants, Kstab | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Stability Constants, Kstab Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Effect of Ligand Exchange on Stability Constant(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Electrolysis(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Electrolysis | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Electrolysis Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Electrolysis(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Electronegativity & Bonding(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Electronegativity & Bonding | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Electronegativity and Bonding Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Electronegativity & Bonding(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Electrophilic Addition of Alkenes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Alkenes | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Alkenes Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Electrophilic Addition of Alkenes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Elimination Reactions of Halogenoalkanes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Halogenoalkanes | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Halogenoalkanes Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Elimination Reactions of Halogenoalkanes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Enthalpy & Bond Energies(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Enthalpy Change, ΔH | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Enthalpy Change, ΔH Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Enthalpy & Bond Energies(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Equilibria in Industrial Processes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Chemical Equilibria: Reversible Reactions & Dynamic Equilibrium | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Chemical Equilibria Reversible Reactions and Dynamic Equilibrium Cambridge (CIE) A Level Chemistry Revision Notes 2023_1.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Equilibria in Industrial Processes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Equilibrium Constants, Kc & Kp(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Chemical Equilibria: Reversible Reactions & Dynamic Equilibrium | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Chemical Equilibria Reversible Reactions and Dynamic Equilibrium Cambridge (CIE) A Level Chemistry Revision Notes 2023_2.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Equilibrium Constants, Kc & Kp(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Esters(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Esters | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Esters Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Esters(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Formulae of Functional Groups(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Formulas, Functional Groups & the Naming of Organic Compounds | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Formulas, Functional Groups and the Naming of Organic Compounds Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Formulae of Functional Groups(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Functional Groups & their Formulae(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Formulas, Functional Groups & the Naming of Organic Compounds | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Formulas, Functional Groups and the Naming of Organic Compounds Cambridge (CIE) A Level Chemistry Revision Notes 2023_1.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Functional Groups & their Formulae(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Gas Pressure(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "The Gaseous State: Ideal & Real Gases & pV = nRT | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "The Gaseous State Ideal and Real Gases and pV = nRT Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Gas Pressure(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Geometry of Complexes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "General Characteristic Chemical Properties of the First Set of Transition Elements, Titanium to Copper | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "General Characteristic Chemical Properties of the First Set of Transition Elements, Titanium to Copper Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Geometry of Complexes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Gibbs Free Energy Change & Gibbs Equation(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Gibbs Free Energy Change, ΔG | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Gibbs Free Energy Change, ΔG Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Gibbs Free Energy Change & Gibbs Equation(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Hess’s Law(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Hess’s Law | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Hess’s Law Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Hess’s Law(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Homogeneous & Heterogeneous Catalysts(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Homogeneous & Heterogeneous Catalysts | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Homogeneous and Heterogeneous Catalysts Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Homogeneous & Heterogeneous Catalysts(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Hybridisation in Organic Molecules(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Shapes of Organic Molecules; σ & π Bonds | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Shapes of Organic Molecules; σ and π Bonds Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Hybridisation in Organic Molecules(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Infrared Spectroscopy(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Infrared Spectroscopy | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Infrared Spectroscopy Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Infrared Spectroscopy(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Iodoform Reaction(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Aldehydes & Ketones | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Aldehydes and Ketones Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Iodoform Reaction(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Ionic Bonding Examples(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Ionic Bonding | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Ionic Bonding Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Ionic Bonding Examples(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Isotopes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Isotopes | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Isotopes Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Isotopes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Isotopic Abundance & Relative Atomic Mass(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Mass Spectrometry | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Mass Spectrometry Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Isotopic Abundance & Relative Atomic Mass(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Making Amines(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Primary Amines | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Primary Amines Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Making Amines(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Measuring the Standard Electrode Potential(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Standard Electrode Potentials E⦵, Standard Cell Potentials E⦵cell & the Nernst Equation | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Standard Electrode Potentials E⦵, Standard Cell Potentials E⦵cell and the Nernst Equation Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Measuring the Standard Electrode Potential(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Metallic Bonding(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Metallic Bonding | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Metallic Bonding Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Metallic Bonding(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Molecular Ion Peak & Fragmentation(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Mass Spectrometry | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Mass Spectrometry Cambridge (CIE) A Level Chemistry Revision Notes 2023_1.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Molecular Ion Peak & Fragmentation(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Multi-Step Reactions(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Simple Rate Equations, Orders of Reaction & Rate Constants | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Simple Rate Equations, Orders of Reaction and Rate Constants Cambridge (CIE) A Level Chemistry Revision Notes 2023_1.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Multi-Step Reactions(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Multi-Step Synthesis(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Organic Synthesis | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Organic Synthesis Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Multi-Step Synthesis(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Nitriles & Hydroxynitriles(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Nitriles & Hydroxynitriles | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Nitriles and Hydroxynitriles Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Nitriles & Hydroxynitriles(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Nitrogen & its Compounds(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Nitrogen and Sulfur | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Nitrogen and Sulfur Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Nitrogen & its Compounds(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Organic Chemistry Terminology(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Characteristic Organic Reactions | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Characteristic Organic Reactions Cambridge (CIE) A Level Chemistry Revision Notes 2023_1.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Organic Chemistry Terminology(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Oxidation Number Rules(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Redox Processes: Electron Transfer & Changes in Oxidation Number (Oxidation State) | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Redox Processes Electron Transfer and Changes in Oxidation Number (Oxidation State) Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Oxidation Number Rules(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Oxidation States of Transition Metals(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "General Physical & Chemical Properties of the First Row of Transition Elements, Titanium to Copper | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "General Physical and Chemical Properties of the First Row of Transition Elements, Titanium to Copper Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Oxidation States of Transition Metals(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Partition Coefficients(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Partition Coefficients | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Partition Coefficients Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Partition Coefficients(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "pH, Ka, pKa & Kw Calculations(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Acids & Bases | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Acids and Bases Cambridge (CIE) A Level Chemistry Revision Notes 2023_2.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\pH, Ka, pKa & Kw Calculations(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Physical & Chemical Trends in Group 2(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Similarities & Trends in the Properties of the Group 2 Metals, Magnesium to Barium, & Their Compounds | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Similarities and Trends in the Properties of the Group 2 Metals, Magnesium to Barium, and Their Compounds Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Physical & Chemical Trends in Group 2(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Physical Properties of the Group 17 Elements(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Physical Properties of the Group 17 Elements | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Physical Properties of the Group 17 Elements Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Physical Properties of the Group 17 Elements(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Physical Properties of the Period 3 Elements(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Periodicity of Physical Properties of the Elements in Period 3 | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Periodicity of Physical Properties of the Elements in Period 3 Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Physical Properties of the Period 3 Elements(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Producing Halogenoarenes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Halogen Compounds | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Halogen Compounds Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Producing Halogenoarenes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Rate of Reaction & Collision Theory(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Rate of Reaction | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Rate of Reaction Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Rate of Reaction & Collision Theory(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Reacting Masses & Volumes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Reacting Masses & Volumes (of Solutions & Gases) | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Reacting Masses and Volumes (of Solutions and Gases) Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Reacting Masses & Volumes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Reactions of the Halide Ions(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Some Reactions of the Halide Ions | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Some Reactions of the Halide Ions Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Reactions of the Halide Ions(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Relative Masses(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Relative Masses of Atoms & Molecules | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Relative Masses of Atoms and Molecules Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Relative Masses(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Shapes of Molecules(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Shapes of Molecules | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Shapes of Molecules Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Shapes of Molecules(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Similarities, Trends & Compounds of Magnesium to Barium(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Similarities & Trends in the Properties of the Group 2 Metals, Magnesium to Barium, & Their Compounds | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Similarities and Trends in the Properties of the Group 2 Metals, Magnesium to Barium, and Their Compounds Cambridge (CIE) A Level Chemistry Revision Notes 2023_1.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Similarities, Trends & Compounds of Magnesium to Barium(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Stereoisomerism in Transition Element Complexes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Stereoisomerism in Transition Element Complexes | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Stereoisomerism in Transition Element Complexes Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Stereoisomerism in Transition Element Complexes(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "The Mole & the Avogadro Constant(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "The Mole & the Avogadro Constant | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "The Mole and the Avogadro Constant Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\The Mole & the Avogadro Constant(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "The Reactions of Chlorine(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "The Reactions of Chlorine | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "The Reactions of Chlorine Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\The Reactions of Chlorine(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "The Shape of Aromatic Molecules(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Shapes of Aromatic Organic Molecules; σ & π Bonds | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Shapes of Aromatic Organic Molecules; σ and π Bonds Cambridge (CIE) A Level Chemistry Revision Notes 2023.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\The Shape of Aromatic Molecules(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      },
+      "Types of Catalyst(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf": {
+        "heading": "Homogeneous & Heterogeneous Catalysts | Cambridge (CIE) A Level Chemistry Revision Notes 2023",
+        "new_filename": "Homogeneous and Heterogeneous Catalysts Cambridge (CIE) A Level Chemistry Revision Notes 2023_1.pdf",
+        "original_path": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\revision_notes\\chemistry_9701\\Types of Catalyst(Cambridge (CIE) A Level Chemistry)-Revision Note.pdf"
+      }
+    },
+    "final_duplicates_removed": 6,
+    "final_pdfs_count": 73,
+    "output_folder": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\final_pdfs\\chemistry_9701"
+  }
+}

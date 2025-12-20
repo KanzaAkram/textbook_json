@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Safety and security"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "Security of data",
+    "learning_objectives": [
+      {
+        "description": "Threats to data",
+        "notes_and_guidance": "Characteristics and effect of threats to data including hacking, phishing, pharming, smishing, vishing, viruses, malware, card fraud\nHacking including the measures that must be taken in order to protect data\nPhishing, pharming, smishing, vishing including the methods that can be used to help prevent them\nViruses and malware including how to take preventative action to avoid the danger of infecting a computer from a downloaded file\nCard fraud including shoulder surfing, card cloning, key logging"
+      },
+      {
+        "description": "Protection of data",
+        "notes_and_guidance": "Characteristics and methods of protecting data including biometrics, digital certificate, secure socket layer (SSL), encryption, firewall, two-factor authentication, user id and password\nBiometrics including the use of biometric data\nDigital certificate including its purpose and contents\nSecure socket layer (SSL) including encrypted links between the server and the client computer\nEncryption including its purpose for the protection of data on hard discs, email, cloud, HTTPS websites\nFirewall including its purpose\nTwo-factor authentication including its purpose and function\nUser id and password including how they are used to increase the security of data"
+      }
+    ]
+  }
+}

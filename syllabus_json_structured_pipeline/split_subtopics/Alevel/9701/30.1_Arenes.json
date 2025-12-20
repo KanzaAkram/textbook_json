@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "30",
+    "topic_name": "Hydrocarbons"
+  },
+  "subtopic": {
+    "sub_topic_number": "30.1",
+    "sub_topic_name": "Arenes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the chemistry of arenes as exemplified by the following reactions of benzene and methylbenzene: (a) substitution reactions with Cl₂ and with Br₂ in the presence of a catalyst, AlCl₃ or AlBr₃, to form halogenoarenes (aryl halides) (b) nitration with a mixture of concentrated HNO₃ and concentrated H₂SO₄ at a temperature between 25 °C and 60 °C (c) Friedel-Crafts alkylation by CH₃Cl and AlCl₃ and heat (d) Friedel-Crafts acylation by CH₃COCl and AlCl₃ and heat (e) complete oxidation of the side-chain using hot alkaline KMnO₄ and then dilute acid to give a benzoic acid (f) hydrogenation of the benzene ring using H₂ and Pt/Ni catalyst and heat to form a cyclohexane ring"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the mechanism of electrophilic substitution in arenes: (a) as exemplified by the formation of nitrobenzene and bromobenzene (b) with regards to the effect of delocalisation (aromatic stabilisation) of electrons in arenes to explain the predomination of substitution over addition"
+      },
+      {
+        "objective_number": 3,
+        "description": "predict whether halogenation will occur in the side-chain or in the aromatic ring in arenes depending on reaction conditions"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe that in the electrophilic substitution of arenes, different substituents direct to different ring positions (limited to the directing effects of –NH₂, –OH, –R, –NO₂, –COOH and –COR)"
+      }
+    ]
+  }
+}

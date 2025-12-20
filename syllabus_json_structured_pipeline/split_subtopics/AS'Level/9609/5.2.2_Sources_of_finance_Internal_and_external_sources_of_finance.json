@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Finance and accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2.2",
+    "sub_topic_name": "Sources of finance: Internal and external sources of finance",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "internal sources of finance: owners investment, retained earnings, sale of unwanted assets, sale and leaseback of non-current assets, working capital"
+      },
+      {
+        "objective_number": 2,
+        "description": "external sources of finance: share capital, debentures, new partners, venture capital, bank overdrafts, leasing, hire purchase, bank loans, mortgages, debt factoring, trade credit, micro-finance, crowd funding and government grants"
+      }
+    ]
+  }
+}

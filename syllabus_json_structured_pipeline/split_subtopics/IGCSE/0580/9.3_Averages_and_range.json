@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Statistics"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.3",
+    "sub_topic_name": "Averages and range",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Calculate the mean, median, mode and range for individual data and distinguish between the purposes for which these are used."
+      }
+    ],
+    "notes_and_examples": "Data may be in a list or frequency table, but will not be grouped."
+  }
+}

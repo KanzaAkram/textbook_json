@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Proofing"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.2",
+    "sub_topic_name": "Proofing techniques",
+    "learning_objectives": [
+      {
+        "description": "Perform visual verification",
+        "notes_and_guidance": "Identify and correct data entry errors including transposed numbers, incorrect spelling, inconsistent character spacing, inconsistent case"
+      },
+      {
+        "description": "Proofread",
+        "notes_and_guidance": "Identify and correct inconsistent line spacing, remove blank pages/slides, remove widows/orphans, inconsistent or incorrect application of styles, ensure that tables and lists are not split over columns or pages/slides"
+      },
+      {
+        "description": "Verification",
+        "notes_and_guidance": "Importance, characteristics and uses of verification including visual checking and double data entry to reduce data entry errors\nThe need for validation as well as verification"
+      }
+    ]
+  }
+}

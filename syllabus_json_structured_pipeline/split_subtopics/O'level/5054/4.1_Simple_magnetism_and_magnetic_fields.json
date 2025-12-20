@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Electricity and magnetism"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Simple magnetism and magnetic fields",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the forces between magnetic poles and between magnets and magnetic materials, including the use of the terms north pole (N pole), south pole (S pole), attraction and repulsion, magnetised and unmagnetised"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe induced magnetism"
+      },
+      {
+        "objective_number": 3,
+        "description": "State the difference between magnetic and non-magnetic materials"
+      },
+      {
+        "objective_number": 4,
+        "description": "State the differences between the properties of temporary magnets (made of soft iron) and the properties of permanent magnets (made of steel)"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe a magnetic field as a region in which a magnetic pole experiences a force"
+      },
+      {
+        "objective_number": 6,
+        "description": "Describe the plotting of magnetic field lines with a compass or iron filings and the use of a compass to determine the direction of the magnetic field"
+      },
+      {
+        "objective_number": 7,
+        "description": "Draw the pattern and direction of the magnetic field lines around a bar magnet"
+      },
+      {
+        "objective_number": 8,
+        "description": "State that the direction of the magnetic field at a point is the direction of the force on the N pole of a magnet at that point"
+      },
+      {
+        "objective_number": 9,
+        "description": "Know that the relative strength of a magnetic field is represented by the spacing of the magnetic field lines"
+      },
+      {
+        "objective_number": 10,
+        "description": "Describe uses of permanent magnets and electromagnets"
+      }
+    ]
+  }
+}

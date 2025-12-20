@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Trigonometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.5",
+    "sub_topic_name": "Solving trigonometric equations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Solve, for a given domain, trigonometric equations involving the six trigonometric functions. (Includes the use of the relationships in 10.4. For example: 4 cot θ = tan θ, 2 sec² θ + tan θ – 3 = 0, 5 sin(θ/3) + 2 cos(θ/3) = 0, 3 cosec(2θ – π/12) = 4)"
+      }
+    ]
+  }
+}

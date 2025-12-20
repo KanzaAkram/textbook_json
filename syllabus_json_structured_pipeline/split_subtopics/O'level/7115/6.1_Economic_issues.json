@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "External influences on business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Economic issues",
+    "learning_objectives": [
+      {
+        "objective_number": "6.1.1",
+        "description": "Business cycle: Main stages of the business cycle, e.g. growth, boom, recession, slump; Impact on businesses of changes in employment levels, inflation and Gross Domestic Product (GDP)"
+      },
+      {
+        "objective_number": "6.1.2",
+        "description": "How government control over the economy affects business activity and how businesses may respond: Identify government economic objectives, e.g. increasing Gross Domestic Product (GDP); Impact of changes in taxes and government spending; Impact of changes in interest rates; How businesses might respond to these changes"
+      }
+    ]
+  }
+}

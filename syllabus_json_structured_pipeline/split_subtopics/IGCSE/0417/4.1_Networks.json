@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Networks and the effects of using them"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Networks",
+    "learning_objectives": [
+      {
+        "description": "Router",
+        "notes_and_guidance": "The operation and purpose of a router including:\n• connecting networks and devices to the internet\n• storing computer addresses in a router\n• routing data packets"
+      },
+      {
+        "description": "Common network devices",
+        "notes_and_guidance": "Including: network interface cards (NIC), hubs, bridges, switches"
+      },
+      {
+        "description": "wi-fi and Bluetooth",
+        "notes_and_guidance": "The uses of wi-fi and Bluetooth\nConnecting a device to a network using:\n• wi-fi\n• Bluetooth\nSimilarities and differences between Bluetooth and wi-fi"
+      },
+      {
+        "description": "Cloud computing",
+        "notes_and_guidance": "The characteristics, uses and issues relating to cloud computing\nHow data is stored, managed and shared using cloud computing\nAdvantages and disadvantages of using cloud storage compared to other methods"
+      },
+      {
+        "description": "Common network environments",
+        "notes_and_guidance": "Characteristics, uses and purpose of an extranet, intranet and the internet\nThe differences and similarities between an extranet, intranet and the internet"
+      },
+      {
+        "description": "Network types",
+        "notes_and_guidance": "Local Area Network (LAN), Wireless Local Area Network (WLAN), Wide Area Network (WAN) and the differences between these networks"
+      }
+    ]
+  }
+}

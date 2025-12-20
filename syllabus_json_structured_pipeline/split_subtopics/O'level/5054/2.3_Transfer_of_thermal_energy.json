@@ -1,0 +1,79 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Thermal physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Transfer of thermal energy",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "2.3.1",
+        "sub_sub_topic_name": "Conduction",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe experiments to distinguish between good and bad thermal conductors"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe thermal conduction in all solids in terms of atomic or molecular lattice vibrations and also in terms of the movement of free (delocalised) electrons in metallic conductors"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "2.3.2",
+        "sub_sub_topic_name": "Convection",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Explain convection in liquids and gases in terms of density changes and describe experiments to illustrate convection"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "2.3.3",
+        "sub_sub_topic_name": "Radiation",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the process of thermal energy transfer by infrared radiation and know that it does not require a medium"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe the effect of surface colour (black or white) and texture (dull or shiny) on the emission, absorption and reflection of infrared radiation"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe how the rate of emission of radiation depends on the surface temperature and surface area of an object"
+          },
+          {
+            "objective_number": 4,
+            "description": "Describe experiments to distinguish between good and bad emitters of infrared radiation"
+          },
+          {
+            "objective_number": 5,
+            "description": "Describe experiments to distinguish between good and bad absorbers of infrared radiation"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "2.3.4",
+        "sub_sub_topic_name": "Consequences of thermal energy transfer",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Explain everyday applications using ideas about conduction, convection and radiation, including: (a) heating objects such as kitchen pans (b) heating a room by convection (c) measuring temperature using an infrared thermometer (d) using thermal insulation to maintain the temperature of a liquid and to reduce thermal energy transfer in buildings"
+          }
+        ]
+      }
+    ]
+  }
+}

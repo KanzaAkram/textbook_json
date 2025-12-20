@@ -1,0 +1,45 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Data transmission"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Types and methods of data transmission",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": [
+          "(a) Understand that data is split into packets for transmission.",
+          "(b) Describe the structure of a packet.",
+          "(c) Describe packet switching."
+        ],
+        "notes_and_guidance": "Packets contain a header, payload, and trailer. Headers include destination, source addresses, and packet number. Packets may follow different routes, can arrive out of order, and are reassembled on arrival."
+      },
+      {
+        "objective_number": "2",
+        "description": [
+          "(a) Describe data transmission methods.",
+          "(b) Explain suitability of each method in different scenarios."
+        ],
+        "notes_and_guidance": "Methods include: serial, parallel, simplex, half-duplex, full-duplex. Advantages and disadvantages should be compared."
+      },
+      {
+        "objective_number": "3",
+        "description": "Understand USB interface for data transmission.",
+        "notes_and_guidance": "Includes USB benefits and drawbacks."
+      }
+    ]
+  }
+}

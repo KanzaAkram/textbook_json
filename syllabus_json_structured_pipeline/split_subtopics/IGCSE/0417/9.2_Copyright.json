@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Audience"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.2",
+    "sub_topic_name": "Copyright",
+    "learning_objectives": [
+      {
+        "description": "Copyright",
+        "notes_and_guidance": "The need for copyright legislation and the principles of copyright relating to computer software (e.g. software piracy)\nThe methods that software producers employ to prevent software copyright legislation being broken"
+      }
+    ]
+  }
+}

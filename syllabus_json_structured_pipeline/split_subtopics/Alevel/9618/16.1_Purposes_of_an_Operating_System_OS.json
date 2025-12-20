@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "System Software"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.1",
+    "sub_topic_name": "Purposes of an Operating System (OS)",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of how an OS can maximise the use of resources"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the ways in which the user interface hides the complexities of the hardware from the user"
+      },
+      {
+        "objective_number": 3,
+        "description": "Show understanding of process management (The concept of multi-tasking and a process; The process states: running, ready and blocked; The need for scheduling and the function and benefits of different scheduling routines (including round robin, shortest job first, first come first served, shortest remaining time); How the kernel of the OS acts as an interrupt handler and how interrupt handling is used to manage low-level scheduling)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Show understanding of virtual memory, paging and segmentation for memory management (The concepts of paging, virtual memory and segmentation; The difference between paging and segmentation; How pages can be replaced; How disk thrashing can occur)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2.1",
+    "sub_topic_name": "Inventory management: Managing inventory",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the purpose of inventory within a business (raw materials, work in progress, finished products)"
+      },
+      {
+        "objective_number": 2,
+        "description": "the costs and benefits of holding inventory"
+      },
+      {
+        "objective_number": 3,
+        "description": "buffer inventory, re-order level and lead time"
+      },
+      {
+        "objective_number": 4,
+        "description": "interpretation of simple inventory control charts"
+      },
+      {
+        "objective_number": 5,
+        "description": "the importance of Supply Chain Management"
+      }
+    ]
+  }
+}

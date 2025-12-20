@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "33",
+    "topic_name": "Carboxylic acids and derivatives"
+  },
+  "subtopic": {
+    "sub_topic_number": "33.3",
+    "sub_topic_name": "Acyl chlorides",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions (reagents and conditions) by which acyl chlorides can be produced: (a) reaction of carboxylic acids with PCl₃ and heat, PCl₅ or SOCl₂"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the following reactions of acyl chlorides: (a) hydrolysis on addition of water at room temperature to give the carboxylic acid and HCl (b) reaction with an alcohol at room temperature to produce an ester and HCl (c) reaction with phenol at room temperature to produce an ester and HCl (d) reaction with ammonia at room temperature to produce an amide and HCl (e) reaction with a primary or secondary amine at room temperature to produce an amide and HCl"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the addition-elimination mechanism of acyl chlorides in reactions in 33.3.2(a)–(e)"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain the relative ease of hydrolysis of acyl chlorides, alkyl chlorides and halogenoarenes (aryl chlorides)"
+      }
+    ]
+  }
+}

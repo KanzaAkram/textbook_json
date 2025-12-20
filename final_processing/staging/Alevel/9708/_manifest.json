@@ -1,0 +1,248 @@
+{
+  "level": "Alevel",
+  "subject_code": "9708",
+  "generated_at": "2025-12-20T23:04:28.678776",
+  "total_matches": 24,
+  "matches": [
+    {
+      "subtopic_number": "10.1",
+      "subtopic_name": "Government macroeconomic policy objectives",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\10.1_Government_macroeconomic_policy_objectives.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.2",
+      "subtopic_name": "Links between macroeconomic problems and their interrelatedness",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\10.2_Links_between_macroeconomic_problems_and_their_interrelatedness.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.3",
+      "subtopic_name": "Effectiveness of policy options to meet all macroeconomic objectives",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\10.3_Effectiveness_of_policy_options_to_meet_all_macroeconomic_objectives.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.1",
+      "subtopic_name": "Policies to correct disequilibrium in the balance of payments",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\11.1_Policies_to_correct_disequilibrium_in_the_balance_of_payments.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.2",
+      "subtopic_name": "Exchange rates",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\11.2_Exchange_rates.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.3",
+      "subtopic_name": "Economic development",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\11.3_Economic_development.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.4",
+      "subtopic_name": "Characteristics of countries at different levels of development",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\11.4_Characteristics_of_countries_at_different_levels_of_development.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.5",
+      "subtopic_name": "Relationship between countries at different levels of development",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\11.5_Relationship_between_countries_at_different_levels_of_development.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.6",
+      "subtopic_name": "Globalisation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\11.6_Globalisation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.1",
+      "subtopic_name": "Utility",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\7.1_Utility.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.2",
+      "subtopic_name": "Indifference curves and budget lines",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\7.2_Indifference_curves_and_budget_lines.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.3",
+      "subtopic_name": "Efficiency and market failure",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\7.3_Efficiency_and_market_failure.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.4",
+      "subtopic_name": "Private costs and benefits, externalities and social costs and benefits",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\7.4_Private_costs_and_benefits_externalities_and_social_costs_and_benefits.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.5",
+      "subtopic_name": "Types of cost, revenue and profit, short-run and long-run production",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\7.5_Types_of_cost_revenue_and_profit_short-run_and_long-run_production.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.6",
+      "subtopic_name": "Different market structures",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\7.6_Different_market_structures.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.7",
+      "subtopic_name": "Growth and survival of firms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\7.7_Growth_and_survival_of_firms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.8",
+      "subtopic_name": "Differing objectives and policies of firms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\7.8_Differing_objectives_and_policies_of_firms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.1",
+      "subtopic_name": "Government policies to achieve efficient resource allocation and correct market failure",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\8.1_Government_policies_to_achieve_efficient_resource_allocation_and_correct_market_failure.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.2",
+      "subtopic_name": "Equity and redistribution of income and wealth",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\8.2_Equity_and_redistribution_of_income_and_wealth.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.3",
+      "subtopic_name": "Labour market forces and government intervention",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\8.3_Labour_market_forces_and_government_intervention.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.1",
+      "subtopic_name": "The circular flow of income",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\9.1_The_circular_flow_of_income.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.2",
+      "subtopic_name": "Economic growth and sustainability",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\9.2_Economic_growth_and_sustainability.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.3",
+      "subtopic_name": "Employment/unemployment",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\9.3_Employmentunemployment.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.4",
+      "subtopic_name": "Money and banking",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9708\\9.4_Money_and_banking.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Programming"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Programming concepts",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Declare and use variables and constants",
+        "notes_and_guidance": null
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand and use basic data types",
+        "notes_and_guidance": "Including: integer, real, char, string, Boolean."
+      },
+      {
+        "objective_number": "3",
+        "description": "Understand and use input and output",
+        "notes_and_guidance": null
+      },
+      {
+        "objective_number": "4",
+        "description": "(a) Understand and use the concept of sequence\n(b) Understand and use the concept of selection\n(c) Understand and use the concept of iteration\n(d) Understand and use the concepts of totalling and counting\n(e) Understand and use the concept of string handling\n(f) Understand and use arithmetic, relational and logical operators",
+        "notes_and_guidance": "Selection including: IF statements, CASE statements. Iteration including: count-controlled loops, pre-condition loops, post-condition loops. String handling including: length, substring, upper, lower. The first character of the string can be position zero or one. Arithmetic, limited to: +, -, /, *, ^ (raised to power of), MOD, DIV. Relational, limited to: =, <, <=, >, >=, <> (not equal to). Logical, limited to: AND, OR, NOT."
+      },
+      {
+        "objective_number": "5",
+        "description": "Understand and use nested statements",
+        "notes_and_guidance": "Including nested selection and iteration. Candidates will not be required to write more than three levels of nested statements."
+      },
+      {
+        "objective_number": "6",
+        "description": "(a) Understand what is meant by procedures, functions and parameters\n(b) Define and use procedures and functions, with or without parameters\n(c) Understand and use local and global variables",
+        "notes_and_guidance": "Procedures and functions may have up to three parameters."
+      },
+      {
+        "objective_number": "7",
+        "description": "Understand and use library routines",
+        "notes_and_guidance": "Including: MOD, DIV, ROUND, RANDOM."
+      },
+      {
+        "objective_number": "8",
+        "description": "Understand how to create a maintainable program",
+        "notes_and_guidance": "Including appropriate use of: meaningful identifiers, the commenting feature provided by the programming language, procedures and functions, relevant and appropriate commenting of syntax. Use meaningful identifiers for: variables, constants, arrays, procedures and functions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Human resource management (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1.3",
+    "sub_topic_name": "Human resource management (HRM): Recruitment and selection",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recruitment of employees: process (job descriptions and person specifications) and recruitment methods (job advertisements, employment agencies, online recruitment)"
+      },
+      {
+        "objective_number": 2,
+        "description": "internal and external recruitment"
+      },
+      {
+        "objective_number": 3,
+        "description": "selection methods: curriculum vitae, résumé, application forms, interviews, references, testing, assessment centres"
+      },
+      {
+        "objective_number": 4,
+        "description": "employment contracts"
+      }
+    ]
+  }
+}

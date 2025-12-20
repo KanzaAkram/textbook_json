@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Artificial Intelligence (AI)"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.1",
+    "sub_topic_name": "Artificial Intelligence (AI)",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of how graphs can be used to aid Artificial Intelligence (AI) (Purpose and structure of a graph; Use A* and Dijkstra's algorithms to perform searches on a graph; Candidates will not be required to write algorithms to set up, access, or perform searches on graphs)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show understanding of how artificial neural networks have helped with machine learning"
+      },
+      {
+        "objective_number": 3,
+        "description": "Show understanding of Deep Learning, Machine Learning and Reinforcement Learning and the reasons for using these methods. (Understand machine learning categories, including supervised learning, unsupervised learning)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Show understanding of back propagation of errors and regression methods in machine learning"
+      }
+    ]
+  }
+}

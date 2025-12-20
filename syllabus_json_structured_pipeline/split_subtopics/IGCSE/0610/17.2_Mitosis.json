@@ -1,0 +1,42 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.2",
+    "sub_topic_name": "Mitosis",
+    "learning_objectives": {
+      "core": [],
+      "supplement": [
+        {
+          "objective_number": 1,
+          "description": "Describe mitosis as nuclear division giving rise to genetically identical cells (details of the stages of mitosis are not required)"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the role of mitosis in growth, repair of damaged tissues, replacement of cells and asexual reproduction"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that the exact replication of chromosomes occurs before mitosis"
+        },
+        {
+          "objective_number": 4,
+          "description": "State that during mitosis, the copies of chromosomes separate, maintaining the chromosome number in each daughter cell"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe stem cells as unspecialised cells that divide by mitosis to produce daughter cells that can become specialised for specific functions"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Enzymes"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Factors that affect enzyme action",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "investigate and explain the effects of the following factors on the rate of enzyme-catalysed reactions: temperature, pH (using buffer solutions), enzyme concentration, substrate concentration, inhibitor concentration"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain that the maximum rate of reaction (Vmax) is used to derive the Michaelis–Menten constant (Km), which is used to compare the affinity of different enzymes for their substrates"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain the effects of reversible inhibitors, both competitive and non-competitive, on enzyme activity"
+      },
+      {
+        "objective_number": 4,
+        "description": "investigate the difference in activity between an enzyme immobilised in alginate and the same enzyme free in solution, and state the advantages of using immobilised enzymes"
+      }
+    ]
+  }
+}

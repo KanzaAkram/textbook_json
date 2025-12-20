@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Preparation of financial statements"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Sole traders",
+    "learning_objectives": [
+      "explain the advantages and disadvantages of operating as a sole trader",
+      "explain the importance of preparing income statements and statements of financial position",
+      "explain the difference between a trading business and a service business",
+      "prepare income statements for trading businesses and for service businesses",
+      "understand that statements of financial position record assets and liabilities on a specified date",
+      "recognise and define the content of a statement of financial position: non-current assets, intangible assets, current assets, current liabilities, non-current liabilities and capital",
+      "understand the inter-relationship of items in a statement of financial position",
+      "prepare statements of financial position for trading businesses and service businesses",
+      "make adjustments for provision for depreciation using the straight line, reducing balance and revaluation methods",
+      "make adjustments for accrued and prepaid expenses and accrued and prepaid income",
+      "make adjustments for irrecoverable debts and provisions for doubtful debts",
+      "make adjustments for goods taken by the owner for own use."
+    ]
+  }
+}

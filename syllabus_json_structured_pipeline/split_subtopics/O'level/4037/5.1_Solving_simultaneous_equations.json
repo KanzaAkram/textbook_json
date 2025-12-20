@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Simultaneous equations"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Solving simultaneous equations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Solve simultaneous equations in two unknowns by elimination or substitution. (For example: y – x + 3 = 0 and x² – 3xy + y² + 19 = 0, xy² = 4 and xy = 3, x/y + 2y/x = 4 and y = x – 2)"
+      }
+    ]
+  }
+}

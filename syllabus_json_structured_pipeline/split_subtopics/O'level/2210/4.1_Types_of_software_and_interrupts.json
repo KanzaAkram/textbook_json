@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Software"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Types of software and interrupts",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Describe the difference between system and application software; provide examples.",
+        "notes_and_guidance": "System software: services for computer (OS, utilities). Application software: services for user."
+      },
+      {
+        "objective_number": "2",
+        "description": "Describe the role and functions of an operating system.",
+        "notes_and_guidance": "Includes file management, interrupt handling, interface provision, peripheral/driver/memory management, multitasking, application platform, security, user account management."
+      },
+      {
+        "objective_number": "3",
+        "description": "Understand how hardware, firmware, and operating system are required to run application software.",
+        "notes_and_guidance": "Apps run on the OS; OS runs on firmware; firmware (bootloader) runs on hardware."
+      },
+      {
+        "objective_number": "4",
+        "description": "Describe the role and operation of interrupts.",
+        "notes_and_guidance": "Covers generation and handling via interrupt service routine. Examples: division by zero, memory access conflict (software); key press, mouse movement (hardware)."
+      }
+    ]
+  }
+}

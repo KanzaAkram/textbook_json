@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The price system and the microeconomy (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.6",
+    "sub_topic_name": "Different market structures",
+    "learning_objectives": [
+      {
+        "objective_number": "7.6.1",
+        "description": "perfect competition and imperfect competition: monopoly, monopolistic competition, oligopoly, natural monopoly"
+      },
+      {
+        "objective_number": "7.6.2",
+        "description": "structure of the listed markets as explained by number of buyers and sellers, product differentiation, degree of freedom of entry and availability of information"
+      },
+      {
+        "objective_number": "7.6.3",
+        "description": "barriers to entry and exit: legal barriers, market barriers, cost barriers, physical barriers"
+      },
+      {
+        "objective_number": "7.6.4",
+        "description": "performance of firms in different market structures: revenues and revenue curves, output in the short run and the long run, profits in the short run and the long run, shutdown price in the short run and the long run, derivation of a firm's supply curve in a perfectly competitive market, efficiency and X-inefficiency in the short run and the long run, contestable markets: features and implications, price competition and non-price competition, collusion and the Prisoner's Dilemma in oligopolistic markets, including a two-player pay-off matrix"
+      },
+      {
+        "objective_number": "7.6.5",
+        "description": "definition and calculation of the concentration ratio"
+      }
+    ]
+  }
+}

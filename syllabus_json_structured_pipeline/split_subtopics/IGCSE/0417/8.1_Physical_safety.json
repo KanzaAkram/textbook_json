@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Safety and security"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Physical safety",
+    "learning_objectives": [
+      {
+        "description": "Safety issues",
+        "notes_and_guidance": "Including: electrocution from spilling drinks near electrical equipment and touching live cables, fire from sockets being overloaded or equipment overheating, tripping over trailing cables, heavy equipment falling and injuring people\nThe causes of these safety issues and strategies for preventing them"
+      }
+    ]
+  }
+}

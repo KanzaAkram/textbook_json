@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Biological molecules"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Water",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain how hydrogen bonding occurs between water molecules and relate the properties of water to its roles in living organisms, limited to solvent action, high specific heat capacity and latent heat of vaporisation"
+      }
+    ]
+  }
+}

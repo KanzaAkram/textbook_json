@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Cost and management accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.4.1",
+    "sub_topic_name": "Investment appraisal",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "future net cash inflows and outflows arising from the project"
+      },
+      {
+        "objective_number": 2,
+        "description": "how to apply the following capital investment appraisal techniques: payback, accounting rate of return (ARR = (average profit / average investment) × 100), net present value (NPV), internal rate of return (IRR)"
+      },
+      {
+        "objective_number": 3,
+        "description": "the advantages and disadvantages of these capital investment appraisal techniques"
+      },
+      {
+        "objective_number": 4,
+        "description": "how to make investment decisions and recommendations using supporting data"
+      },
+      {
+        "objective_number": 5,
+        "description": "the significance of non-financial factors"
+      }
+    ]
+  }
+}

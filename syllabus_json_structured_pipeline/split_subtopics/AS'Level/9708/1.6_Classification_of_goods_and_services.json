@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Basic economic ideas and resource allocation (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.6",
+    "sub_topic_name": "Classification of goods and services",
+    "content": [
+      {
+        "point_number": "1.6.1",
+        "description": "nature and definition of free goods and private goods (economic goods)"
+      },
+      {
+        "point_number": "1.6.2",
+        "description": "nature and definition of public goods"
+      },
+      {
+        "point_number": "1.6.3",
+        "description": "nature and definition of merit goods: under-consumption as a result of imperfect information in the market"
+      },
+      {
+        "point_number": "1.6.4",
+        "description": "nature and definition of demerit goods: over-consumption as a result of imperfect information in the market"
+      }
+    ]
+  }
+}

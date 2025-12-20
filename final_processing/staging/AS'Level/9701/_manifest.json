@@ -1,0 +1,620 @@
+{
+  "level": "AS'Level",
+  "subject_code": "9701",
+  "generated_at": "2025-12-20T23:04:15.157549",
+  "total_matches": 51,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "Particles in the atom and atomic radius",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\1.1_Particles in the atom and atomic radius.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\1.1_Particles_in_the_atom_and_atomic_radius.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\1.1_Particles_in_the_atom_and_atomic_radius.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "Isotopes",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\1.2_Isotopes.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\1.2_Isotopes.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\1.2_Isotopes.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "1.3",
+      "subtopic_name": "Electrons, energy levels and atomic orbitals",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\1.3_Electrons, energy levels and atomic orbitals.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\1.3_Electrons_energy_levels_and_atomic_orbitals.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\1.3_Electrons_energy_levels_and_atomic_orbitals.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "1.4",
+      "subtopic_name": "Ionisation energy",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\1.4_Ionisation energy.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\1.4_Ionisation_energy.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\1.4_Ionisation_energy.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "10.1",
+      "subtopic_name": "Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\10.1_Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\10.1_Similarities_and_trends_in_the_properties_of_the_Group_2_metals_magnesium_to_barium_and_their_compounds.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\10.1_Similarities_and_trends_in_the_properties_of_the_Group_2_metals_magnesium_to_barium_and_their_compounds_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "11.1",
+      "subtopic_name": "Physical properties of the Group 17 elements",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\11.1_Physical properties of the Group 17 elements.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\11.1_Physical_properties_of_the_Group_17_elements.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\11.1_Physical_properties_of_the_Group_17_elements.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "11.2",
+      "subtopic_name": "The chemical properties of the halogen elements and the hydrogen halides",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\11.2_The chemical properties of the halogen elements and the hydrogen halides.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\11.2_The_chemical_properties_of_the_halogen_elements_and_the_hydrogen_halides.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\11.2_The_chemical_properties_of_the_halogen_elements_and_the_hydrogen_halides.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "11.3",
+      "subtopic_name": "Some reactions of the halide ions",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\11.3_Some reactions of the halide ions.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\11.3_Some_reactions_of_the_halide_ions.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\11.3_Some_reactions_of_the_halide_ions_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "11.4",
+      "subtopic_name": "The reactions of chlorine",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\11.4_The reactions of chlorine.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\11.4_The_reactions_of_chlorine.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\11.4_The_reactions_of_chlorine.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "12.1",
+      "subtopic_name": "Nitrogen and sulfur",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\12.1_Nitrogen and sulfur.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\12.1_Nitrogen_and_sulfur.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\12.1_Nitrogen_and_sulfur.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "13.1",
+      "subtopic_name": "Formulas, functional groups and the naming of organic compounds",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\13.1_Formulas, functional groups and the naming of organic compounds.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\13.1_Formulas_functional_groups_and_the_naming_of_organic_compounds.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\13.1_Formulas_functional_groups_and_the_naming_of_organic_compounds_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "13.2",
+      "subtopic_name": "Characteristic organic reactions",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\13.2_Characteristic organic reactions.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\13.2_Characteristic_organic_reactions.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\13.2_Characteristic_organic_reactions_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "13.3",
+      "subtopic_name": "Shapes of organic molecules; σ and π bonds",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\13.3_Shapes of organic molecules; σ and π bonds.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\13.3_Shapes_of_organic_molecules_σ_and_π_bonds.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\13.3_Shapes_of_organic_molecules_σ_and_π_bonds_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "13.4",
+      "subtopic_name": "Isomerism: structural isomerism and stereoisomerism",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\13.4_Isomerism structural isomerism and stereoisomerism.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\13.4_Isomerism_structural_isomerism_and_stereoisomerism.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\13.4_Isomerism_structural_isomerism_and_stereoisomerism.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "14.1",
+      "subtopic_name": "Alkanes",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\14.1_Alkanes.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\14.1_Alkanes.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\14.1_Alkanes.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "14.2",
+      "subtopic_name": "Alkenes",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\14.2_Alkenes.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\14.2_Alkenes.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\14.2_Alkenes_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "15.1",
+      "subtopic_name": "Halogenoalkanes",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\15.1_Halogenoalkanes.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\15.1_Halogenoalkanes.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\15.1_Halogenoalkanes_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "16.1",
+      "subtopic_name": "Alcohols",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\16.1_Alcohols.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\16.1_Alcohols.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\16.1_Alcohols_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "17.1",
+      "subtopic_name": "Aldehydes and ketones",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\17.1_Aldehydes and ketones.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\17.1_Aldehydes_and_ketones.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\17.1_Aldehydes_and_ketones_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "18.1",
+      "subtopic_name": "Carboxylic acids",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\18.1_Carboxylic acids.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\18.1_Carboxylic_acids.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\18.1_Carboxylic_acids.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "18.2",
+      "subtopic_name": "Esters",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\18.2_Esters.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\18.2_Esters.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\18.2_Esters.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "19.1",
+      "subtopic_name": "Primary amines",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\19.1_Primary amines.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\19.1_Primary_amines.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\19.1_Primary_amines.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "19.2",
+      "subtopic_name": "Nitriles and hydroxynitriles",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\19.2_Nitriles and hydroxynitriles.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\19.2_Nitriles_and_hydroxynitriles.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\19.2_Nitriles_and_hydroxynitriles.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Relative masses of atoms and molecules",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\2.1_Relative masses of atoms and molecules.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\2.1_Relative_masses_of_atoms_and_molecules.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\2.1_Relative_masses_of_atoms_and_molecules_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "2.2",
+      "subtopic_name": "The mole and the Avogadro constant",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\2.2_The mole and the Avogadro constant.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\2.2_The_mole_and_the_Avogadro_constant.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\2.2_The_mole_and_the_Avogadro_constant.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "2.3",
+      "subtopic_name": "Formulas",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\2.3_Formulas.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\2.3_Formulas.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\2.3_Formulas.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "2.4",
+      "subtopic_name": "Reacting masses and volumes (of solutions and gases)",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\2.4_Reacting masses and volumes (of solutions and gases).json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\2.4_Reacting_masses_and_volumes_of_solutions_and_gases.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\2.4_Reacting_masses_and_volumes_of_solutions_and_gases_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "20.1",
+      "subtopic_name": "Addition polymerisation",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\20.1_Addition polymerisation.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\20.1_Addition_polymerisation.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\20.1_Addition_polymerisation_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "21.1",
+      "subtopic_name": "Organic synthesis",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\21.1_Organic synthesis.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\21.1_Organic_synthesis.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\21.1_Organic_synthesis.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "22.1",
+      "subtopic_name": "Infrared spectroscopy",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\22.1_Infrared spectroscopy.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\22.1_Infrared_spectroscopy.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\22.1_Infrared_spectroscopy.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "22.2",
+      "subtopic_name": "Mass spectrometry",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\22.2_Mass spectrometry.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\22.2_Mass_spectrometry.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\22.2_Mass_spectrometry.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "3.1",
+      "subtopic_name": "Electronegativity and bonding",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\3.1_Electronegativity and bonding.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\3.1_Electronegativity_and_bonding.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\3.1_Electronegativity_and_bonding.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "3.2",
+      "subtopic_name": "Ionic bonding",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\3.2_Ionic bonding.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\3.2_Ionic_bonding.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\3.2_Ionic_bonding.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "3.3",
+      "subtopic_name": "Metallic bonding",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\3.3_Metallic bonding.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\3.3_Metallic_bonding.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\3.3_Metallic_bonding.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "3.4",
+      "subtopic_name": "Covalent bonding and coordinate (dative covalent) bonding",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\3.4_Covalent bonding and coordinate (dative covalent) bonding.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\3.4_Covalent_bonding_and_coordinate_dative_covalent_bonding.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\3.4_Covalent_bonding_and_coordinate_dative_covalent_bonding.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "3.5",
+      "subtopic_name": "Shapes of molecules",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\3.5_Shapes of molecules.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\3.5_Shapes_of_molecules.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\3.5_Shapes_of_molecules_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "3.6",
+      "subtopic_name": "Intermolecular forces, electronegativity and bond properties",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\3.6_Intermolecular forces, electronegativity and bond properties.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\3.6_Intermolecular_forces_electronegativity_and_bond_properties.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\3.6_Intermolecular_forces_electronegativity_and_bond_properties.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "3.7",
+      "subtopic_name": "Dot-and-cross diagrams",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\3.7_Dot-and-cross diagrams.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\3.7_Dot-and-cross_diagrams.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\3.7_Dot_and_cross_diagrams.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "The gaseous state: ideal and real gases and pV = nRT",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\4.1_The gaseous state ideal and real gases and pV = nRT.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\4.1_The_gaseous_state_ideal_and_real_gases_and_pV_=_nRT.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\4.1_The_gaseous_state_ideal_and_real_gases_and_pV_nRT.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "Bonding and structure",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\4.2_Bonding and structure.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\4.2_Bonding_and_structure.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\4.2_Bonding_and_structure.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "5.1",
+      "subtopic_name": "Enthalpy change, ΔH",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\5.1_Enthalpy change, ΔH.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\5.1_Enthalpy_change_ΔH.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\5.1_Enthalpy_change_ΔH_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "5.2",
+      "subtopic_name": "Hess's law",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\5.2_Hess's law.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\5.2_Hesss_law.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\5.2_Hesss_law.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "6.1",
+      "subtopic_name": "Redox processes: electron transfer and changes in oxidation number (oxidation state)",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\6.1_Redox processes electron transfer and changes in oxidation number (oxidation state).json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\6.1_Redox_processes_electron_transfer_and_changes_in_oxidation_number_oxidation_state.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\6.1_Redox_processes_electron_transfer_and_changes_in_oxidation_number_oxidation_state_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "7.1",
+      "subtopic_name": "Chemical equilibria: reversible reactions, dynamic equilibrium",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\7.1_Chemical equilibria reversible reactions, dynamic equilibrium.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\7.1_Chemical_equilibria_reversible_reactions_dynamic_equilibrium.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\7.1_Chemical_equilibria_reversible_reactions_dynamic_equilibrium.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "7.2",
+      "subtopic_name": "Brønsted–Lowry theory of acids and bases",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\7.2_Brønsted–Lowry theory of acids and bases.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\7.2_Brønsted–Lowry_theory_of_acids_and_bases.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\7.2_BrønstedLowry_theory_of_acids_and_bases_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "8.1",
+      "subtopic_name": "Rate of reaction",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\8.1_Rate of reaction.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\8.1_Rate_of_reaction.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\8.1_Rate_of_reaction_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "8.2",
+      "subtopic_name": "Effect of temperature on reaction rates and the concept of activation energy",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\8.2_Effect of temperature on reaction rates and the concept of activation energy.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\8.2_Effect_of_temperature_on_reaction_rates_and_the_concept_of_activation_energy.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\8.2_Effect_of_temperature_on_reaction_rates_and_the_concept_of_activation_energy.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "8.3",
+      "subtopic_name": "Homogeneous and heterogeneous catalysts",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\8.3_Homogeneous and heterogeneous catalysts.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\8.3_Homogeneous_and_heterogeneous_catalysts.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\8.3_Homogeneous_and_heterogeneous_catalysts_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "9.1",
+      "subtopic_name": "Periodicity of physical properties of the elements in Period 3",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\9.1_Periodicity of physical properties of the elements in Period 3.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\9.1_Periodicity_of_physical_properties_of_the_elements_in_Period_3.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\9.1_Periodicity_of_physical_properties_of_the_elements_in_Period_3.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "9.2",
+      "subtopic_name": "Periodicity of chemical properties of the elements in Period 3",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\9.2_Periodicity of chemical properties of the elements in Period 3.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\9.2_Periodicity_of_chemical_properties_of_the_elements_in_Period_3.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\9.2_Periodicity_of_chemical_properties_of_the_elements_in_Period_3_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "9.3",
+      "subtopic_name": "Chemical periodicity of other elements",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\9.3_Chemical periodicity of other elements.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\9.3_Chemical_periodicity_of_other_elements.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\9.3_Chemical_periodicity_of_other_elements.pdf"
+      ]
+    }
+  ]
+}

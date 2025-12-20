@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Statistics"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.7",
+    "sub_topic_name": "Histograms",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Draw and interpret histograms.",
+        "notes_and_examples": "On histograms, the vertical axis is labelled 'Frequency density'."
+      },
+      {
+        "objective_number": "2",
+        "description": "Calculate with frequency density.",
+        "notes_and_examples": "Frequency density is defined as frequency density = frequency ÷ class width."
+      }
+    ]
+  }
+}

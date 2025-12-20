@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Group 17"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.4",
+    "sub_topic_name": "The reactions of chlorine",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and interpret, in terms of changes in oxidation number, the reaction of chlorine with cold and with hot aqueous sodium hydroxide and recognise these as disproportionation reactions"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain, including by use of an equation, the use of chlorine in water purification to include the production of the active species HOCl and ClO⁻ which kill bacteria"
+      }
+    ]
+  }
+}

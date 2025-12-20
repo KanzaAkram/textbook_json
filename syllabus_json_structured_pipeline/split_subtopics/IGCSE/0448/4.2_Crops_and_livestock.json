@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Agricultural development"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Crops and livestock",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "identify on a map the main areas where cotton, rice, sugar cane and wheat are grown, and the main areas where buffalo, cattle, goats, sheep and poultry are reared"
+      },
+      {
+        "objective_number": 2,
+        "description": "recognise (from photographs) fields of cotton, rice, sugar cane and wheat; recognise (from photographs) buffalo, cattle, goats, sheep and poultry"
+      },
+      {
+        "objective_number": 3,
+        "description": "state the uses of the crops named above"
+      },
+      {
+        "objective_number": 4,
+        "description": "state the main products of the livestock named above and the uses of those products"
+      },
+      {
+        "objective_number": 5,
+        "description": "identify the main areas for the cultivation and growth of each of the following: apples, apricots, bananas, dates, maize, mangoes, millet, oilseeds, oranges, pulses, tobacco and vegetables. Know why they are grown there and state an important use of each."
+      }
+    ]
+  }
+}

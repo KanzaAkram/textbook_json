@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Organic synthesis"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.1",
+    "sub_topic_name": "Organic synthesis",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "for an organic molecule containing several functional groups: (a) identify organic functional groups using the reactions in the syllabus (b) predict properties and reactions"
+      },
+      {
+        "objective_number": 2,
+        "description": "devise multi-step synthetic routes for preparing organic molecules using the reactions in the syllabus"
+      },
+      {
+        "objective_number": 3,
+        "description": "analyse a given synthetic route in terms of type of reaction and reagents used for each step of it, and possible by-products"
+      }
+    ]
+  }
+}

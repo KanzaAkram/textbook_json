@@ -1,0 +1,88 @@
+{
+  "level": "AS'Level",
+  "subject_code": "9706",
+  "generated_at": "2025-12-20T23:04:15.789879",
+  "total_matches": 8,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "Types of business entity",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9706\\1.1_Types_of_business_entity.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "The accounting system",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9706\\1.2_The_accounting_system.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.3",
+      "subtopic_name": "Accounting for non-current assets",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9706\\1.3_Accounting_for_non-current_assets.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.4",
+      "subtopic_name": "Reconciliation and verification",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9706\\1.4_Reconciliation_and_verification.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.5",
+      "subtopic_name": "Preparation of financial statements",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9706\\1.5_Preparation_of_financial_statements.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.6",
+      "subtopic_name": "Analysis and communication of accounting information",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9706\\1.6_Analysis_and_communication_of_accounting_information.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Costs and cost behaviour",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9706\\2.1_Costs_and_cost_behaviour.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.2",
+      "subtopic_name": "Traditional costing methods",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9706\\2.2_Traditional_costing_methods.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

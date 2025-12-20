@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The land of Pakistan"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Climate",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "know the distribution of temperature and rainfall, including monsoon, depressions and convectional rain"
+      },
+      {
+        "objective_number": 2,
+        "description": "know seasonal and regional variations, and the factors contributing to them, including depressions, thunderstorms and cyclones (typhoons)"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the causes of the monsoon (knowledge of the causes of other types of rain is not required)"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe and explain the characteristics of the climate of the arid, semi-arid, humid and highland regions, including seasonal variations"
+      },
+      {
+        "objective_number": 5,
+        "description": "know the influence of latitude and longitude on day length and climate"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand the influence of the climate (both the benefits it brings and the problems it causes) on the economy and on the lives of the people: the influence of low temperature, ice and snow on the lives of people in the mountains; the influence of rain storms and flooding on agriculture, industry and communications; the problems caused by drought and shortage of water supply on agriculture and industry."
+      }
+    ]
+  }
+}

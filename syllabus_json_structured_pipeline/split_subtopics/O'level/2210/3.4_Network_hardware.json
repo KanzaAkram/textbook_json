@@ -1,0 +1,46 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Hardware"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.4",
+    "sub_topic_name": "Network hardware",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand that a network interface card (NIC) is needed to access a network.",
+        "notes_and_guidance": "A NIC is required for a device to connect to a network."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand the purpose and structure of a MAC address.",
+        "notes_and_guidance": "NICs are assigned a MAC address during manufacture. MAC addresses use hexadecimal and have manufacturer and serial codes."
+      },
+      {
+        "objective_number": "3",
+        "description": [
+          "(a) Understand the purpose of an Internet Protocol (IP) address.",
+          "(b) Know different types of IP addresses."
+        ],
+        "notes_and_guidance": "IP addresses can be static or dynamic. Understand characteristics/differences between IPv4 and IPv6."
+      },
+      {
+        "objective_number": "4",
+        "description": "Describe the role of a router in a network.",
+        "notes_and_guidance": "A router sends data to a destination, can assign IP addresses, and connects local networks to the Internet."
+      }
+    ]
+  }
+}

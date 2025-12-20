@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Financial accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1.5",
+    "sub_topic_name": "Limited companies",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "how to prepare for a limited company in line with the relevant international accounting standards and legal requirements: statement of profit or loss, statement of financial position, statement of cash flows, statement of changes in equity, schedule of non-current assets"
+      }
+    ]
+  }
+}

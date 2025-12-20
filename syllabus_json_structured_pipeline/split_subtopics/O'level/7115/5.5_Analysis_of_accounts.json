@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Financial information and decisions"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.5",
+    "sub_topic_name": "Analysis of accounts",
+    "learning_objectives": [
+      {
+        "objective_number": "5.5.1",
+        "description": "Profitability: The concept and importance of profitability"
+      },
+      {
+        "objective_number": "5.5.2",
+        "description": "Liquidity: The concept and importance of liquidity"
+      },
+      {
+        "objective_number": "5.5.3",
+        "description": "How to interpret the financial performance of a business by calculating and analysing profitability ratios and liquidity ratios: Gross profit margin; Profit margin; Return on Capital Employed; Current ratio; Acid test ratio"
+      },
+      {
+        "objective_number": "5.5.4",
+        "description": "Why and how accounts are used: Needs of different users of accounts and ratio analysis; How users of accounts and ratio results might use information to help make decisions, e.g. whether to lend to or invest in the business"
+      }
+    ]
+  }
+}

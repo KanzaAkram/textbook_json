@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Financial information and decisions"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Business finance: needs and sources",
+    "learning_objectives": [
+      {
+        "objective_number": "5.1.1",
+        "description": "The need for business finance: The main reasons why businesses need finance, e.g. start-up capital, capital for expansion and additional working capital; Understand the difference between short-term and long-term finance needs"
+      },
+      {
+        "objective_number": "5.1.2",
+        "description": "The main sources of finance: Internal sources and external sources with examples; Short-term and long-term sources with examples, e.g. overdraft for short-term finance and debt or equity for long-term finance; Importance of alternative sources of capital, e.g. micro-finance, crowd-funding; The main factors considered in making the financial choice, e.g. size and legal form of business, amount required, length of time, existing loans; Recommend and justify appropriate source(s) of finance in given circumstances"
+      }
+    ]
+  }
+}

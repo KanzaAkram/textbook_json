@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Government and the macroeconomy"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "The macroeconomic aims of government",
+    "learning_objectives": [
+      {
+        "objective_number": "4.2.1",
+        "objective_title": "the macroeconomic aims of government",
+        "guidance": "Economic growth, full employment/low unemployment, stable prices/low inflation, balance of payments stability, redistribution of income. Reasons behind the choice of aims and the criteria that governments set for each aim."
+      },
+      {
+        "objective_number": "4.2.2",
+        "objective_title": "possible conflicts between macroeconomic aims",
+        "guidance": "Possible conflicts between aims: full employment versus stable prices; economic growth versus balance of payments stability; and full employment versus balance of payments stability."
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "External influences on business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Environmental and ethical issues",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "How business activity can impact on the environment, e.g. global warming"
+      },
+      {
+        "objective_number": 2,
+        "description": "The concept of externalities: possible external costs and external benefits of business decisions"
+      },
+      {
+        "objective_number": 3,
+        "description": "Sustainable development; how business activity can contribute to this"
+      },
+      {
+        "objective_number": 4,
+        "description": "How and why business might respond to environmental pressures and opportunities, e.g. pressure groups"
+      },
+      {
+        "objective_number": 5,
+        "description": "The role of legal controls over business activity affecting the environment, e.g. pollution controls"
+      },
+      {
+        "objective_number": 6,
+        "description": "Ethical issues a business might face: conflicts between profits and ethics"
+      },
+      {
+        "objective_number": 7,
+        "description": "How business might react and respond to ethical issues, e.g. child labour, paying fair prices to suppliers"
+      }
+    ]
+  }
+}

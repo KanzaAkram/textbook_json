@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Transport in animals"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.3",
+    "sub_topic_name": "Blood vessels",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the structure of arteries, veins and capillaries, limited to: relative thickness of wall, diameter of the lumen and the presence of valves in veins"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the functions of capillaries"
+        },
+        {
+          "objective_number": 3,
+          "description": "Identify in diagrams and images the main blood vessels to and from the: (a) heart, limited to: vena cava, aorta, pulmonary artery and pulmonary vein (b) lungs, limited to: pulmonary artery and pulmonary vein (c) kidney, limited to: renal artery and renal vein"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 4,
+          "description": "Explain how the structure of arteries and veins is related to the pressure of the blood that they transport"
+        },
+        {
+          "objective_number": 5,
+          "description": "Explain how the structure of capillaries is related to their functions"
+        },
+        {
+          "objective_number": 6,
+          "description": "Identify, in diagrams and images, the main blood vessels to and from the liver as: hepatic artery, hepatic veins and hepatic portal vein"
+        }
+      ]
+    }
+  }
+}

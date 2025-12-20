@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Classification, biodiversity and conservation"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.2",
+    "sub_topic_name": "Biodiversity",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the terms ecosystem and niche"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain that biodiversity can be assessed at different levels, including: the number and range of different ecosystems and habitats; the number of species and their relative abundance; the genetic variation within each species"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain the importance of random sampling in determining the biodiversity of an area"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe and use suitable methods to assess the distribution and abundance of organisms in an area, limited to frame quadrats, line transects, belt transects and mark-release-recapture using the Lincoln index (the formula for the Lincoln index will be provided, as shown in the Mathematical requirements)"
+      },
+      {
+        "objective_number": 5,
+        "description": "use Spearman's rank correlation and Pearson's linear correlation to analyse the relationships between two variables, including how biotic and abiotic factors affect the distribution and abundance of species (the formulae for these correlations will be provided, as shown in the Mathematical requirements)"
+      },
+      {
+        "objective_number": 6,
+        "description": "use Simpson's index of diversity (D) to calculate the biodiversity of an area, and state the significance of different values of D (the formula for Simpson's index of diversity will be provided, as shown in the Mathematical requirements)"
+      }
+    ]
+  }
+}

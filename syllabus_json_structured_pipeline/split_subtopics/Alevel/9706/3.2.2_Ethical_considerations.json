@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Financial accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2.2",
+    "sub_topic_name": "Ethical considerations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the need for an ethical framework in accounting"
+      },
+      {
+        "objective_number": 2,
+        "description": "the fundamental principles of: integrity, objectivity, professional competence and due care, confidentiality, professional behaviour"
+      },
+      {
+        "objective_number": 3,
+        "description": "how the ethical behaviour of accountants and auditors impacts the business and other stakeholders"
+      },
+      {
+        "objective_number": 4,
+        "description": "the social implications of decision-making"
+      }
+    ]
+  }
+}

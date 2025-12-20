@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.7",
+    "sub_topic_name": "Circle theorems I",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Calculate unknown angles and give explanations using the following geometrical properties of circles: angle in a semicircle = 90°, angle between tangent and radius = 90°, angle at the centre is twice the angle at the circumference, angles in the same segment are equal, opposite angles of a cyclic quadrilateral sum to 180° (supplementary), alternate segment theorem.",
+        "notes_and_examples": "Candidates are expected to use the geometrical properties listed in the syllabus when giving reasons for answers."
+      }
+    ]
+  }
+}

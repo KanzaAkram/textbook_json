@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Operations management (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.1",
+    "sub_topic_name": "Location and scale",
+    "learning_objectives": [
+      {
+        "objective_number": "9.1.1",
+        "description": "Location: the factors that determine location and relocation; the differences between local, national and international location decisions; the reasons for and impact of offshoring and reshoring; the impact of globalisation on location and relocation decisions."
+      },
+      {
+        "objective_number": "9.1.2",
+        "description": "Scale of operations: the factors that influence the scale of a business; causes and examples of internal and external economies and diseconomies of scale; the links between economies and diseconomies of scale and unit costs."
+      }
+    ]
+  }
+}

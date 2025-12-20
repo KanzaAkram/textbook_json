@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Microeconomic decision makers"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.8",
+    "sub_topic_name": "Market structure",
+    "learning_objectives": [
+      {
+        "objective_number": "3.8.1",
+        "objective_title": "competitive markets",
+        "guidance": "The effect of having a high number of firms on price, quality, choice, profit. Note: the theory of perfect and imperfect competition and diagrams are not required."
+      },
+      {
+        "objective_number": "3.8.2",
+        "objective_title": "monopoly markets",
+        "guidance": "Characteristics, advantages and disadvantages of monopoly. Note: diagrams are not required."
+      }
+    ]
+  }
+}

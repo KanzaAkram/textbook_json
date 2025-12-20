@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Probability & Statistics 2 (for Paper 6)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Linear combinations of random variables",
+    "learning_objectives": [
+      {
+        "description": "use, when solving problems, the results that E(aX + b) = aE(X) + b and Var(aX + b) = a² Var(X)",
+        "notes_and_examples": "Proofs of these results are not required."
+      },
+      {
+        "description": "E(aX+bY) = aE(X) + bE(Y)",
+        "notes_and_examples": "Proofs of these results are not required."
+      },
+      {
+        "description": "Var(aX+bY) = a²Var(X) + b² Var(Y) for independent X and Y",
+        "notes_and_examples": "Proofs of these results are not required."
+      },
+      {
+        "description": "if X has a normal distribution then so does aX + b",
+        "notes_and_examples": "Proofs of these results are not required."
+      },
+      {
+        "description": "if X and Y have independent normal distributions then aX + bY has a normal distribution",
+        "notes_and_examples": "Proofs of these results are not required."
+      },
+      {
+        "description": "if X and Y have independent Poisson distributions then X + Y has a Poisson distribution.",
+        "notes_and_examples": "Proofs of these results are not required."
+      }
+    ]
+  }
+}

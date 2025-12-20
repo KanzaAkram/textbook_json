@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Control and coordination"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.2",
+    "sub_topic_name": "Control and coordination in plants",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the rapid response of the Venus fly trap to stimulation of hairs on the lobes of modified leaves and explain how the closure of the trap is achieved"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the role of auxin in elongation growth by stimulating proton pumping to acidify cell walls"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the role of gibberellin in the germination of barley (see 16.3.4)"
+      }
+    ]
+  }
+}

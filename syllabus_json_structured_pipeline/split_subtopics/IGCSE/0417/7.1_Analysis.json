@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The systems life cycle"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Analysis",
+    "learning_objectives": [
+      {
+        "description": "Analysis of the current system",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of the research methods of observation, interviews, questionnaires and examination of existing documents"
+      },
+      {
+        "description": "Record and analyse information about the current system",
+        "notes_and_guidance": "The need to identify the inputs, outputs and processing of the current system, problems with the current system, the user and information requirements for the new system"
+      },
+      {
+        "description": "System specification",
+        "notes_and_guidance": "Identify and justify suitable hardware and software for the new system"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Thermal physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Thermal properties and temperature",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "2.2.1",
+        "sub_sub_topic_name": "Thermal expansion of solids, liquids and gases",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Explain applications and consequences of thermal expansion in the context of common examples, including the liquid-in-glass thermometer"
+          },
+          {
+            "objective_number": 2,
+            "description": "Explain, in terms of the motion and arrangement of particles, the thermal expansion of solids, liquids and gases, and state the relative order of magnitudes of the expansion of solids, liquids and gases"
+          },
+          {
+            "objective_number": 3,
+            "description": "Convert temperatures between kelvin and degrees Celsius; recall and use the equation T (in K) = θ (in °C) + 273"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "2.2.2",
+        "sub_sub_topic_name": "Specific heat capacity",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Know that an increase in the temperature of an object increases its internal energy"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe an increase in temperature of an object in terms of an increase in the average kinetic energies of all of the particles in the object"
+          },
+          {
+            "objective_number": 3,
+            "description": "Define specific heat capacity as the energy required per unit mass per unit temperature increase; recall and use the equation specific heat capacity = change in energy / (mass × change in temperature), c = ΔE / (mΔθ)"
+          },
+          {
+            "objective_number": 4,
+            "description": "Describe experiments to measure the specific heat capacity of a solid and of a liquid"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "2.2.3",
+        "sub_sub_topic_name": "Melting, boiling and evaporation",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe melting, solidification, boiling and condensation in terms of energy transfer without a change in temperature"
+          },
+          {
+            "objective_number": 2,
+            "description": "Know the melting and boiling temperatures for water at standard atmospheric pressure"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe the differences between boiling and evaporation"
+          },
+          {
+            "objective_number": 4,
+            "description": "Describe evaporation in terms of the escape of more energetic particles from the surface of a liquid"
+          },
+          {
+            "objective_number": 5,
+            "description": "Describe how temperature, surface area and air movement over a surface affect evaporation"
+          },
+          {
+            "objective_number": 6,
+            "description": "Explain how evaporation causes cooling"
+          },
+          {
+            "objective_number": 7,
+            "description": "Describe latent heat as the energy required to change the state of a substance and explain it in terms of particle behaviour and the forces between particles"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.4",
+    "sub_topic_name": "Marketing strategy",
+    "learning_objectives": [
+      {
+        "objective_number": "3.4.1",
+        "description": "Justify marketing strategies appropriate to a given situation: Importance of different elements of the marketing mix in influencing consumer decisions in given circumstances; Recommend and justify an appropriate marketing strategy in given circumstances"
+      },
+      {
+        "objective_number": "3.4.2",
+        "description": "The nature and impact of legal controls related to marketing: Impact of legal controls on marketing strategy, e.g. misleading promotion, faulty and dangerous goods"
+      },
+      {
+        "objective_number": "3.4.3",
+        "description": "The opportunities and problems of entering new foreign markets: Growth potential of new markets in other countries; Problems of entering foreign markets, e.g. cultural differences and lack of knowledge; Benefits and limitations of methods to overcome such problems, e.g. joint ventures, licensing"
+      }
+    ]
+  }
+}

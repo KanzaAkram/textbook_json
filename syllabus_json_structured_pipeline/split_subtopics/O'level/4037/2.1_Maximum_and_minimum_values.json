@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Quadratic functions"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Maximum and minimum values",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Find the maximum or minimum value of the quadratic function f : x ↦ ax² + bx + c by completing the square or by differentiation."
+      }
+    ]
+  }
+}

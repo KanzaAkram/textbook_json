@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "External influences on business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Business and the international economy",
+    "learning_objectives": [
+      {
+        "objective_number": "6.3.1",
+        "description": "The importance of globalisation: The concept of globalisation and the reasons for it; Opportunities and threats of globalisation for businesses; Why governments might introduce import tariffs and import quotas"
+      },
+      {
+        "objective_number": "6.3.2",
+        "description": "Reasons for the importance and growth of multinational companies (MNCs): Benefits to a business of becoming a multinational and the impact on its stakeholders; Potential benefits to a country and/or economy where a MNC is located, e.g. jobs, exports, increased choice, investment; Potential drawbacks to a country and/or economy where a MNC is located, e.g. reduced sales of local businesses, repatriation of profits"
+      },
+      {
+        "objective_number": "6.3.3",
+        "description": "The impact of exchange rate changes: Depreciation and appreciation of an exchange rate; How exchange rate changes can affect businesses as importers and exporters of products, e.g. prices, competitiveness, profitability (exchange rate calculations will not be assessed)"
+      }
+    ]
+  }
+}

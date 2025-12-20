@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Atoms, molecules and stoichiometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Relative masses of atoms and molecules",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the unified atomic mass unit as one twelfth of the mass of a carbon-12 atom"
+      },
+      {
+        "objective_number": 2,
+        "description": "define relative atomic mass, Ar, relative isotopic mass, relative molecular mass, Mr, and relative formula mass in terms of the unified atomic mass unit"
+      }
+    ]
+  }
+}

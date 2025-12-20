@@ -1,0 +1,42 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Movement into and out of cells"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Diffusion",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe diffusion as the net movement of particles from a region of their higher concentration to a region of their lower concentration (i.e. down a concentration gradient), as a result of their random movement"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that the energy for diffusion comes from the kinetic energy of random movement of molecules and ions"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that some substances move into and out of cells by diffusion through the cell membrane"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the importance of diffusion of gases and solutes in living organisms"
+        },
+        {
+          "objective_number": 5,
+          "description": "Investigate the factors that influence diffusion, limited to: surface area, temperature, concentration gradient and distance"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

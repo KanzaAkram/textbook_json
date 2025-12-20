@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "ICT applications"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.9",
+    "sub_topic_name": "Computers in the retail industry",
+    "learning_objectives": [
+      {
+        "description": "Computers in the retail industry",
+        "notes_and_guidance": "Characteristics and uses of computers in the retail industry including point of sale (POS) terminals and electronic funds transfer at point of sale (EFTPOS) terminals\nPoint of sale (POS) terminals including updating stock files automatically and ordering new stock automatically\nElectronic funds transfer at point of sale (EFTPOS) terminals including checking of the validity of cards, the use of chip and PIN, the use of contactless cards, the use of Near Field Communication (NFC) payment, the communication between the supermarket computer and the bank computer"
+      },
+      {
+        "description": "Internet shopping",
+        "notes_and_guidance": "Characteristics, advantages and disadvantages of internet shopping"
+      }
+    ]
+  }
+}

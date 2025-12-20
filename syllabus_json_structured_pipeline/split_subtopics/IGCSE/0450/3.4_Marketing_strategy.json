@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.4",
+    "sub_topic_name": "Marketing strategy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Importance of different elements of the marketing mix in influencing consumer decisions in given circumstances"
+      },
+      {
+        "objective_number": 2,
+        "description": "Recommend and justify an appropriate marketing strategy in given circumstances"
+      },
+      {
+        "objective_number": 3,
+        "description": "Impact of legal controls on marketing strategy, e.g. misleading promotion, faulty and dangerous goods"
+      },
+      {
+        "objective_number": 4,
+        "description": "Growth potential of new markets in other countries"
+      },
+      {
+        "objective_number": 5,
+        "description": "Problems of entering foreign markets, e.g. cultural differences and lack of knowledge"
+      },
+      {
+        "objective_number": 6,
+        "description": "Benefits and limitations of methods to overcome such problems, e.g. joint ventures, licensing"
+      }
+    ]
+  }
+}

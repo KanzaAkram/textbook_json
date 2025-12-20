@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Marketing (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Marketing analysis",
+    "learning_objectives": [
+      {
+        "objective_number": "8.1.1",
+        "description": "Elasticity: the concept of elasticity of demand: price, income and promotional; calculation of price, income and promotional elasticity of demand; interpretation of elasticity results; the impact of elasticity measures on business decisions; the limitations of the concept of elasticity in its various forms."
+      },
+      {
+        "objective_number": "8.1.2",
+        "description": "Product development: the process of product development; sources of new ideas for product development; the importance of Research and Development (R&D)."
+      },
+      {
+        "objective_number": "8.1.3",
+        "description": "Sales forecasting: the need to forecast sales; time series analysis: calculation and use of four period centred moving average method to forecast sales; qualitative sales forecasting; the impact of sales forecasting on business decisions."
+      }
+    ]
+  }
+}

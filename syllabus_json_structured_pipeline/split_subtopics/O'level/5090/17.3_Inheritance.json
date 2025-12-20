@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.3",
+    "sub_topic_name": "Inheritance",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe inheritance as the transmission of genetic information from generation to generation"
+      },
+      {
+        "objective_number": 2,
+        "description": "Define an allele as an alternative form of a gene"
+      },
+      {
+        "objective_number": 3,
+        "description": "Understand and use the terms: dominant, recessive, phenotype, genotype, homozygous and heterozygous"
+      },
+      {
+        "objective_number": 4,
+        "description": "Use genetic diagrams, including Punnett squares, to predict the results of monohybrid crosses and calculate phenotypic ratios, limited to 1:1 and 3:1 ratios"
+      },
+      {
+        "objective_number": 5,
+        "description": "Explain why observed ratios often differ from expected ratios, especially when there are small numbers of offspring"
+      },
+      {
+        "objective_number": 6,
+        "description": "State that two identical homozygous individuals that breed together will be pure-breeding"
+      },
+      {
+        "objective_number": 7,
+        "description": "Explain codominance by reference to the inheritance of the ABO blood groups (phenotypes A, B, AB, O, gene alleles Iᴬ, Iᴮ and I⁰)"
+      },
+      {
+        "objective_number": 8,
+        "description": "Describe the determination of sex in humans (XX and XY chromosomes)"
+      },
+      {
+        "objective_number": 9,
+        "description": "Describe a gene mutation as a random change in the base sequence of DNA, using sickle cell anaemia as an example"
+      },
+      {
+        "objective_number": 10,
+        "description": "Describe a chromosome mutation as a change in the chromosome number or structure, using Down's syndrome as an example (47 chromosomes instead of 46)"
+      },
+      {
+        "objective_number": 11,
+        "description": "State that mutation, meiosis, random mating and random fertilisation are sources of genetic variation in populations"
+      },
+      {
+        "objective_number": 12,
+        "description": "Understand that ionising radiation and some chemicals increase the rate of mutation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "22",
+    "topic_name": "Quantum physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "22.1",
+    "sub_topic_name": "Energy and momentum of a photon",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that electromagnetic radiation has a particulate nature"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that a photon is a quantum of electromagnetic energy"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and use E = hf"
+      },
+      {
+        "objective_number": 4,
+        "description": "use the electronvolt (eV) as a unit of energy"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand that a photon has momentum and that the momentum is given by p = E/c"
+      }
+    ]
+  }
+}

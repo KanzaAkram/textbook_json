@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Databases"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.2",
+    "sub_topic_name": "Manipulate data",
+    "learning_objectives": [
+      {
+        "description": "Perform calculations",
+        "notes_and_guidance": "Use arithmetic operations or numeric functions to perform calculations including calculated fields, calculated controls. Use formulae and functions to perform calculations at run time including addition, subtraction, multiplication, division, sum, average, maximum, minimum, count"
+      },
+      {
+        "description": "Sort data",
+        "notes_and_guidance": "Use a single criterion, or multiple criteria to sort data into ascending or descending order"
+      },
+      {
+        "description": "Search and select data",
+        "notes_and_guidance": "Use a single criterion, or multiple criteria to select subsets of data using a query. perform searches using a variety of operators including AND, OR, NOT, LIKE, >, <, =, >=, <=, <>. perform searches using wildcards"
+      }
+    ]
+  }
+}

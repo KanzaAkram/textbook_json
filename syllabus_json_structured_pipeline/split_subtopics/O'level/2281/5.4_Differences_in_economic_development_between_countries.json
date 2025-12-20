@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Economic development"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4",
+    "sub_topic_name": "Differences in economic development between countries",
+    "learning_objectives": [
+      {
+        "objective_number": "5.4.1",
+        "objective_title": "differences in economic development between countries",
+        "guidance": "Causes and impacts of differences in income; productivity; population growth; size of primary, secondary and tertiary sectors; saving and investment; education; and healthcare."
+      }
+    ]
+  }
+}

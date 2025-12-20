@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Motion in a circle"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.1",
+    "sub_topic_name": "Kinematics of uniform circular motion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the radian and express angular displacement in radians"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand and use the concept of angular speed"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and use ω = 2π/T and v = rω"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Coordinate geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.5",
+    "sub_topic_name": "Equations of linear graphs",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Interpret and obtain the equation of a straight-line graph.",
+        "notes_and_examples": "Questions may: use and request lines in different forms, e.g. ax + by = c, y = mx + c, x = k; involve finding the equation when the graph is given; ask for the gradient or y-intercept of a graph from an equation, e.g. find the gradient and y-intercept of the graph with equation 5x + 4y = 8. Candidates are expected to give equations of a line in a fully simplified form."
+      }
+    ]
+  }
+}

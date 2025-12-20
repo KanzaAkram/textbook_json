@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Biotechnology and genetic modification"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.1",
+    "sub_topic_name": "Biotechnology and genetic modification",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State that bacteria are useful in biotechnology and genetic modification due to their rapid reproduction rate and their ability to make complex molecules"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 2,
+          "description": "Discuss why bacteria are useful in biotechnology and genetic modification, limited to: (a) few ethical concerns over their manipulation and growth (b) the presence of plasmids"
+        }
+      ]
+    }
+  }
+}

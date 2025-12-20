@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Mensuration"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Units of measure",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Use metric units of mass, length, area, volume and capacity in practical situations and convert quantities into larger or smaller units."
+      }
+    ],
+    "notes_and_examples": "Units include: mm, cm, m, km; mm², cm², m², km²; mm³, cm³, m³; ml, l; g, kg.\nConversion between units includes:\n• between different units of area, e.g. cm² ↔ m²\n• between units of volume and capacity, e.g. m³ ↔ litres."
+  }
+}

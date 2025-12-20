@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Population and employment"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Movements of population",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and explain, with reference to both 'push' and 'pull' factors, the main causes of population movements, including rural-urban migration, seasonal migration, emigration and immigration (including refugees)"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe and explain the effects of these population movements, including shanty developments in cities, tent cities and the de-population of rural areas"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the effects of population movements and evaluate the measures which may be taken to help solve the problems created, such as self-help schemes, provision of clean water and other services (including adverse outcomes such as poor housing)."
+      }
+    ]
+  }
+}

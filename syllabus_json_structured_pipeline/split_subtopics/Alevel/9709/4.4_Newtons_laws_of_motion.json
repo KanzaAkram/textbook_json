@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Mechanics (for Paper 4)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.4",
+    "sub_topic_name": "Newton's laws of motion",
+    "learning_objectives": [
+      {
+        "description": "apply Newton's laws of motion to the linear motion of a particle of constant mass moving under the action of constant forces, which may include friction, tension in an inextensible string and thrust in a connecting rod",
+        "notes_and_examples": "If any other forces resisting motion are to be considered (e.g. air resistance) this will be indicated in the question."
+      },
+      {
+        "description": "use the relationship between mass and weight",
+        "notes_and_examples": "W = mg. In this component, questions are mainly numerical, and use of the approximate numerical value 10(ms⁻²) for g is expected."
+      },
+      {
+        "description": "solve simple problems which may be modelled as the motion of a particle moving vertically or on an inclined plane with constant acceleration",
+        "notes_and_examples": "Including, for example, motion of a particle on a rough plane where the acceleration while moving up the plane is different from the acceleration while moving down the plane."
+      },
+      {
+        "description": "solve simple problems which may be modelled as the motion of connected particles.",
+        "notes_and_examples": "e.g. particles connected by a light inextensible string passing over a smooth pulley, or a car towing a trailer by means of either a light rope or a light rigid tow-bar."
+      }
+    ]
+  }
+}

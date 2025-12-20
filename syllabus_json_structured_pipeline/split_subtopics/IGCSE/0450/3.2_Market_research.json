@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Market research",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Market-orientated businesses (uses of market research information to a business)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Primary research and secondary research (benefits and limitations of each)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Methods of primary research, e.g. postal questionnaire, online survey, interviews, focus groups"
+      },
+      {
+        "objective_number": 4,
+        "description": "The need for sampling"
+      },
+      {
+        "objective_number": 5,
+        "description": "Methods of secondary research, e.g. online, accessing government sources, paying for commercial market research reports"
+      },
+      {
+        "objective_number": 6,
+        "description": "Factors influencing the accuracy of market research data"
+      },
+      {
+        "objective_number": 7,
+        "description": "Analyse market research data shown in the form of graphs, charts and diagrams; draw simple conclusions from such data"
+      }
+    ]
+  }
+}

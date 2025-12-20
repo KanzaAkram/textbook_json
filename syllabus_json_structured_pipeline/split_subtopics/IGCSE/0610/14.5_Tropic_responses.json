@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Coordination and response"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.5",
+    "sub_topic_name": "Tropic responses",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe gravitropism as a response in which parts of a plant grow towards or away from gravity"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe phototropism as a response in which parts of a plant grow towards or away from the direction of the light source"
+        },
+        {
+          "objective_number": 3,
+          "description": "Investigate and describe gravitropism and phototropism in shoots and roots"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 4,
+          "description": "Explain phototropism and gravitropism of a shoot as examples of the chemical control of plant growth"
+        },
+        {
+          "objective_number": 5,
+          "description": "Explain the role of auxin in controlling shoot growth, limited to: (a) auxin is made in the shoot tip (b) auxin diffuses through the plant from the shoot tip (c) auxin is unequally distributed in response to light and gravity (d) auxin stimulates cell elongation"
+        }
+      ]
+    }
+  }
+}

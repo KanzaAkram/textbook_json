@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Pure Mathematics 3 (for Paper 3)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Logarithmic and exponential functions",
+    "learning_objectives": [
+      {
+        "description": "understand the relationship between logarithms and indices, and use the laws of logarithms (excluding change of base)",
+        "notes_and_examples": null
+      },
+      {
+        "description": "understand the definition and properties of eˣ and lnx, including their relationship as inverse functions and their graphs",
+        "notes_and_examples": "Including knowledge of the graph of y = eᵏˣ for both positive and negative values of k."
+      },
+      {
+        "description": "use logarithms to solve equations and inequalities in which the unknown appears in indices",
+        "notes_and_examples": "e.g. 2ˣ < 5, 3 × 2³ˣ⁻¹ < 5, 3ˣ⁺¹ = 4²ˣ⁻¹."
+      },
+      {
+        "description": "use logarithms to transform a given relationship to linear form, and hence determine unknown constants by considering the gradient and/or intercept.",
+        "notes_and_examples": "e.g. y = kxⁿ gives lny = lnk + n lnx which is linear in lnx and lny. y = k(aˣ) gives lny = lnk + x lna which is linear in x and lny."
+      }
+    ]
+  }
+}

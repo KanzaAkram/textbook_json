@@ -1,0 +1,44 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Microeconomic decision makers"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.7",
+    "sub_topic_name": "Firms' costs, revenue and objectives",
+    "learning_objectives": [
+      {
+        "objective_number": "3.7.1",
+        "objective_title": "definition of costs of production",
+        "guidance": "Total cost (TC), average total cost (ATC), fixed cost (FC), variable cost (VC), average fixed cost (AFC), average variable cost (AVC). Note: marginal cost is not required."
+      },
+      {
+        "objective_number": "3.7.2",
+        "objective_title": "calculation of costs of production",
+        "guidance": "Calculation of TC, ATC, FC, VC, AFC and AVC. Definition, drawing and interpretation of diagrams that show how changes in output affect costs of production."
+      },
+      {
+        "objective_number": "3.7.3",
+        "objective_title": "definition of revenue",
+        "guidance": "Total revenue (TR) and average revenue (AR). Note: marginal revenue is not required."
+      },
+      {
+        "objective_number": "3.7.4",
+        "objective_title": "calculation of revenue",
+        "guidance": "Calculation of TR and AR. The influence of sales on revenue."
+      },
+      {
+        "objective_number": "3.7.5",
+        "objective_title": "objectives of firms",
+        "guidance": "Survival, social welfare, profit maximisation and growth."
+      }
+    ]
+  }
+}

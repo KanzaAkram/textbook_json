@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Organisms and their environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.4",
+    "sub_topic_name": "Populations",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe a population as a group of organisms of one species, living in the same area, at the same time"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe a community as all of the populations of different species in an ecosystem"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe an ecosystem as a unit containing the community of organisms and their environment, interacting together"
+        },
+        {
+          "objective_number": 4,
+          "description": "Identify and state the factors affecting the rate of population growth for a population of an organism, limited to food supply, competition, predation and disease"
+        },
+        {
+          "objective_number": 5,
+          "description": "Identify the lag, exponential (log), stationary and death phases in the sigmoid curve of population growth for a population growing in an environment with limited resources"
+        },
+        {
+          "objective_number": 6,
+          "description": "Interpret graphs and diagrams of population growth"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 7,
+          "description": "Explain the factors that lead to each phase in the sigmoid curve of population growth, making reference, where appropriate, to the role of limiting factors"
+        }
+      ]
+    }
+  }
+}

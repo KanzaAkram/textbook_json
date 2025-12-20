@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Experimental techniques and chemical analysis"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.3",
+    "sub_topic_name": "Chromatography",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe how paper chromatography is used to separate mixtures of soluble substances, using a suitable solvent"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the use of locating agents when separating mixtures containing colourless substances. Knowledge of specific locating agents is not required"
+      },
+      {
+        "objective_number": 3,
+        "description": "Interpret simple chromatograms to identify: (a) unknown substances by comparison with known substances (b) pure and impure substances"
+      },
+      {
+        "objective_number": 4,
+        "description": "State and use the equation for R₟: R₟ = distance travelled by substance / distance travelled by solvent"
+      }
+    ]
+  }
+}

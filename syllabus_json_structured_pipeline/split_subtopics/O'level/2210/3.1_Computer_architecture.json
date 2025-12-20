@@ -1,0 +1,54 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Hardware"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Computer architecture",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": [
+          "(a) Understand the CPU's role in a computer.",
+          "(b) Understand what is meant by a microprocessor."
+        ],
+        "notes_and_guidance": "The CPU processes instructions and data. A microprocessor is an integrated circuit on a single chip."
+      },
+      {
+        "objective_number": "2",
+        "description": [
+          "(a) Understand the purpose of CPU components in a Von Neumann architecture.",
+          "(b) Describe the fetch-decode-execute (FDE) cycle, including each component's role."
+        ],
+        "notes_and_guidance": "Covers ALU, CU, registers (PC, MAR, MDR, CIR, ACC), buses (address, data, control). Details how data/instructions are fetched from RAM, processed, stored in registers, and executed using buses and units."
+      },
+      {
+        "objective_number": "3",
+        "description": "Understand core, cache, and clock in a CPU and their effect on performance.",
+        "notes_and_guidance": "CPU performance depends on number of cores, cache size, and clock speed."
+      },
+      {
+        "objective_number": "4",
+        "description": "Understand the purpose and use of a CPU instruction set.",
+        "notes_and_guidance": "An instruction set lists all machine code commands a CPU can process."
+      },
+      {
+        "objective_number": "5",
+        "description": "Describe embedded systems, their characteristics, and devices in which they are used.",
+        "notes_and_guidance": "Embedded systems perform dedicated functions (e.g., appliances, cars, security, vending). They differ from general-purpose computers (e.g., PCs, laptops)."
+      }
+    ]
+  }
+}

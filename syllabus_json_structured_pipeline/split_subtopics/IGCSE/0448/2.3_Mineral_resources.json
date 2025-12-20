@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Natural resources – an issue of sustainability"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Mineral resources",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "identify the main locations of limestone, gypsum and rock salt extraction from a map, and understand their uses"
+      },
+      {
+        "objective_number": 2,
+        "description": "identify the main metallic and non-metallic mineral resources of Pakistan, and in what quantities they: are extracted; exist as reserves"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the extent to which these can be exploited"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the environmental problems caused by mineral extraction"
+      },
+      {
+        "objective_number": 5,
+        "description": "evaluate the benefits of developing mineral resources and understand the sustainability of extraction"
+      },
+      {
+        "objective_number": 6,
+        "description": "identify the main imported minerals, where they come from, and in what quantities."
+      }
+    ]
+  }
+}

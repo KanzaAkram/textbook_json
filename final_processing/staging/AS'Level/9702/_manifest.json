@@ -1,0 +1,328 @@
+{
+  "level": "AS'Level",
+  "subject_code": "9702",
+  "generated_at": "2025-12-20T23:04:15.643760",
+  "total_matches": 32,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "Physical quantities",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\1.1_Physical_quantities.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "SI units",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\1.2_SI_units.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.3",
+      "subtopic_name": "Errors and uncertainties",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\1.3_Errors_and_uncertainties.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.4",
+      "subtopic_name": "Scalars and vectors",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\1.4_Scalars_and_vectors.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.1",
+      "subtopic_name": "Practical circuits",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\10.1_Practical_circuits.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.2",
+      "subtopic_name": "Kirchhoff's laws",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\10.2_Kirchhoffs_laws.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.3",
+      "subtopic_name": "Potential dividers",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\10.3_Potential_dividers.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.1",
+      "subtopic_name": "Atoms, nuclei and radiation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\11.1_Atoms_nuclei_and_radiation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.2",
+      "subtopic_name": "Fundamental particles",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\11.2_Fundamental_particles.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Equations of motion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\2.1_Equations_of_motion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.1",
+      "subtopic_name": "Momentum and Newton's laws of motion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\3.1_Momentum_and_Newtons_laws_of_motion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.2",
+      "subtopic_name": "Non-uniform motion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\3.2_Non-uniform_motion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.3",
+      "subtopic_name": "Linear momentum and its conservation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\3.3_Linear_momentum_and_its_conservation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "Turning effects of forces",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\4.1_Turning_effects_of_forces.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "Equilibrium of forces",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\4.2_Equilibrium_of_forces.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.3",
+      "subtopic_name": "Density and pressure",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\4.3_Density_and_pressure.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.1",
+      "subtopic_name": "Energy conservation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\5.1_Energy_conservation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.2",
+      "subtopic_name": "Gravitational potential energy and kinetic energy",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\5.2_Gravitational_potential_energy_and_kinetic_energy.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.1",
+      "subtopic_name": "Stress and strain",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\6.1_Stress_and_strain.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.2",
+      "subtopic_name": "Elastic and plastic behaviour",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\6.2_Elastic_and_plastic_behaviour.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.1",
+      "subtopic_name": "Progressive waves",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\7.1_Progressive_waves.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.2",
+      "subtopic_name": "Transverse and longitudinal waves",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\7.2_Transverse_and_longitudinal_waves.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.3",
+      "subtopic_name": "Doppler effect for sound waves",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\7.3_Doppler_effect_for_sound_waves.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.4",
+      "subtopic_name": "Electromagnetic spectrum",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\7.4_Electromagnetic_spectrum.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.5",
+      "subtopic_name": "Polarisation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\7.5_Polarisation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.1",
+      "subtopic_name": "Stationary waves",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\8.1_Stationary_waves.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.2",
+      "subtopic_name": "Diffraction",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\8.2_Diffraction.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.3",
+      "subtopic_name": "Interference",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\8.3_Interference.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.4",
+      "subtopic_name": "The diffraction grating",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\8.4_The_diffraction_grating.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.1",
+      "subtopic_name": "Electric current",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\9.1_Electric_current.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.2",
+      "subtopic_name": "Potential difference and power",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\9.2_Potential_difference_and_power.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.3",
+      "subtopic_name": "Resistance and resistivity",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9702\\9.3_Resistance_and_resistivity.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "level": "O'level",
+  "subject_code": "2281",
+  "generated_at": "2025-12-20T23:04:35.868919",
+  "total_matches": 39,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "The nature of the economic problem",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\1.1_The_nature_of_the_economic_problem.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "The factors of production",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\1.2_The_factors_of_production.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.3",
+      "subtopic_name": "Opportunity cost",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\1.3_Opportunity_cost.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.4",
+      "subtopic_name": "Production possibility curve (PPC) diagrams",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\1.4_Production_possibility_curve_PPC_diagrams.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Microeconomics and macroeconomics",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.1_Microeconomics_and_macroeconomics.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.10",
+      "subtopic_name": "Market failure",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.10_Market_failure.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.11",
+      "subtopic_name": "Mixed economic system",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.11_Mixed_economic_system.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.2",
+      "subtopic_name": "The role of markets in allocating resources",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.2_The_role_of_markets_in_allocating_resources.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.3",
+      "subtopic_name": "Demand",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.3_Demand.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.4",
+      "subtopic_name": "Supply",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.4_Supply.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.5",
+      "subtopic_name": "Price determination",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.5_Price_determination.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.6",
+      "subtopic_name": "Price changes",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.6_Price_changes.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.7",
+      "subtopic_name": "Price elasticity of demand (PED)",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.7_Price_elasticity_of_demand_PED.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.8",
+      "subtopic_name": "Price elasticity of supply (PES)",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.8_Price_elasticity_of_supply_PES.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.9",
+      "subtopic_name": "Market economic system",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\2.9_Market_economic_system.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.1",
+      "subtopic_name": "Money and banking",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\3.1_Money_and_banking.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.2",
+      "subtopic_name": "Households",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\3.2_Households.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.3",
+      "subtopic_name": "Workers",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\3.3_Workers.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.4",
+      "subtopic_name": "Trade unions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\3.4_Trade_unions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.5",
+      "subtopic_name": "Firms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\3.5_Firms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.6",
+      "subtopic_name": "Firms and production",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\3.6_Firms_and_production.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.7",
+      "subtopic_name": "Firms' costs, revenue and objectives",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\3.7_Firms_costs_revenue_and_objectives.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.8",
+      "subtopic_name": "Market structure",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\3.8_Market_structure.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "The role of government",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\4.1_The_role_of_government.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "The macroeconomic aims of government",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\4.2_The_macroeconomic_aims_of_government.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.3",
+      "subtopic_name": "Fiscal policy",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\4.3_Fiscal_policy.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.4",
+      "subtopic_name": "Monetary policy",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\4.4_Monetary_policy.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.5",
+      "subtopic_name": "Supply-side policy",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\4.5_Supply-side_policy.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.6",
+      "subtopic_name": "Economic growth",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\4.6_Economic_growth.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.7",
+      "subtopic_name": "Employment and unemployment",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\4.7_Employment_and_unemployment.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.8",
+      "subtopic_name": "Inflation and deflation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\4.8_Inflation_and_deflation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.1",
+      "subtopic_name": "Living standards",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\5.1_Living_standards.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.2",
+      "subtopic_name": "Poverty",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\5.2_Poverty.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.3",
+      "subtopic_name": "Population",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\5.3_Population.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.4",
+      "subtopic_name": "Differences in economic development between countries",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\5.4_Differences_in_economic_development_between_countries.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.1",
+      "subtopic_name": "International specialisation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\6.1_International_specialisation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.2",
+      "subtopic_name": "Globalisation, free trade and protection",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\6.2_Globalisation_free_trade_and_protection.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.3",
+      "subtopic_name": "Foreign exchange rates",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\6.3_Foreign_exchange_rates.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.4",
+      "subtopic_name": "Current account of balance of payments",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\2281\\6.4_Current_account_of_balance_of_payments.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

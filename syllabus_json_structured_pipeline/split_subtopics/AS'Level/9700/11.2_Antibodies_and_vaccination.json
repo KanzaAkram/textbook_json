@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Immunity"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.2",
+    "sub_topic_name": "Antibodies and vaccination",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "relate the molecular structure of antibodies to their functions"
+      },
+      {
+        "objective_number": 2,
+        "description": "outline the hybridoma method for the production of monoclonal antibodies"
+      },
+      {
+        "objective_number": 3,
+        "description": "outline the principles of using monoclonal antibodies in the diagnosis of disease and in the treatment of disease"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the differences between active immunity and passive immunity and between natural immunity and artificial immunity"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain that vaccines contain antigens that stimulate immune responses to provide long-term immunity"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain how vaccination programmes can help to control the spread of infectious diseases"
+      }
+    ]
+  }
+}

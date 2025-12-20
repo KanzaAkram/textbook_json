@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Marketing (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Marketing strategy",
+    "learning_objectives": [
+      {
+        "objective_number": "8.2.1",
+        "description": "Planning the marketing strategy: the contents of a marketing plan: objectives, resources, research, marketing mix; the benefits and limitations of marketing planning."
+      },
+      {
+        "objective_number": "8.2.2",
+        "description": "Approaches to marketing strategy: the need for the marketing strategy to be consistent with the business, the product and the market; the need for and development of a coordinated marketing strategy; the development of marketing strategies that are focused towards achieving specific marketing objectives; the changing role of Information Technology (IT) and Artificial Intelligence (AI) in marketing."
+      },
+      {
+        "objective_number": "8.2.3",
+        "description": "Strategies for international marketing: the implications for marketing of increased globalisation and economic collaboration; the importance of international marketing for a business; international markets – identification, selection and entry; whether a business in a given situation should develop an international market through pan-global marketing or maintain local differences; choosing a strategy, in a given situation, to develop a global market; the factors influencing the method of entry into international markets."
+      }
+    ]
+  }
+}

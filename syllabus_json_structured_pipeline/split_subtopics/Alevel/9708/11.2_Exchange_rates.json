@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "International economic issues (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.2",
+    "sub_topic_name": "Exchange rates",
+    "learning_objectives": [
+      {
+        "objective_number": "11.2.1",
+        "description": "measurement of exchange rates: distinction between nominal and real exchange rates, trade-weighted exchange rates"
+      },
+      {
+        "objective_number": "11.2.2",
+        "description": "determination of exchange rates under fixed and managed systems"
+      },
+      {
+        "objective_number": "11.2.3",
+        "description": "distinction between revaluation and devaluation of a fixed exchange rate"
+      },
+      {
+        "objective_number": "11.2.4",
+        "description": "changes in the exchange rate under different exchange rate systems"
+      },
+      {
+        "objective_number": "11.2.5",
+        "description": "the effects of changing exchange rates on the external economy using Marshall-Lerner and J curve analysis"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "The Periodic Table: chemical periodicity"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.2",
+    "sub_topic_name": "Periodicity of chemical properties of the elements in Period 3",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe, and write equations for, the reactions of the elements with oxygen (to give Na₂O, MgO, Al₂O₃, P₄O₁₀, SO₂), chlorine (to give NaCl, MgCl₂, AlCl₃, SiCl₄, PCl₅) and water (Na and Mg only)"
+      },
+      {
+        "objective_number": 2,
+        "description": "state and explain the variation in the oxidation number of the oxides (Na₂O, MgO, Al₂O₃, P₄O₁₀, SO₂ and SO₃ only) and chlorides (NaCl, MgCl₂, AlCl₃, SiCl₄, PCl₅ only) in terms of their outer shell (valence shell) electrons"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe, and write equations for, the reactions, if any, of the oxides Na₂O, MgO, Al₂O₃, SiO₂, P₄O₁₀, SO₂ and SO₃ with water including the likely pHs of the solutions obtained"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe, explain, and write equations for, the acid/base behaviour of the oxides Na₂O, MgO, Al₂O₃, P₄O₁₀, SO₂ and SO₃ and the hydroxides NaOH, Mg(OH)₂ and Al(OH)₃ including, where relevant, amphoteric behaviour in reactions with acids and bases (sodium hydroxide only)"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe, explain, and write equations for, the reactions of the chlorides NaCl, MgCl₂, AlCl₃, SiCl₄, PCl₅ with water including the likely pHs of the solutions obtained"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain the variations and trends in 9.2.2, 9.2.3, 9.2.4 and 9.2.5 in terms of bonding and electronegativity"
+      },
+      {
+        "objective_number": 7,
+        "description": "suggest the types of chemical bonding present in the chlorides and oxides from observations of their chemical and physical properties"
+      }
+    ]
+  }
+}

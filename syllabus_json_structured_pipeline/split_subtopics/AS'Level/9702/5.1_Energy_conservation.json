@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Work, energy and power"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Energy conservation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the concept of work, and recall and use work done = force × displacement in the direction of the force"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and apply the principle of conservation of energy"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and understand that the efficiency of a system is the ratio of useful energy output from the system to the total energy input"
+      },
+      {
+        "objective_number": 4,
+        "description": "use the concept of efficiency to solve problems"
+      },
+      {
+        "objective_number": 5,
+        "description": "define power as work done per unit time"
+      },
+      {
+        "objective_number": 6,
+        "description": "solve problems using P = W/t"
+      },
+      {
+        "objective_number": 7,
+        "description": "derive P = Fv and use it to solve problems"
+      }
+    ]
+  }
+}

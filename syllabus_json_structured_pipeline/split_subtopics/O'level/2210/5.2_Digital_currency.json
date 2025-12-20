@@ -1,0 +1,33 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "The internet and its uses"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Digital currency",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand what digital currency is and how it is used.",
+        "notes_and_guidance": "Digital currency exists electronically only."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand blockchain for tracking digital currency transactions.",
+        "notes_and_guidance": "Blockchain is a digital ledger: a time-stamped, unalterable series of records."
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Atomic structure"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Ionisation energy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define and use the term first ionisation energy, IE"
+      },
+      {
+        "objective_number": 2,
+        "description": "construct equations to represent first, second and subsequent ionisation energies"
+      },
+      {
+        "objective_number": 3,
+        "description": "identify and explain the trends in ionisation energies across a period and down a group of the Periodic Table"
+      },
+      {
+        "objective_number": 4,
+        "description": "identify and explain the variation in successive ionisation energies of an element"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand that ionisation energies are due to the attraction between the nucleus and the outer electron"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain the factors influencing the ionisation energies of elements in terms of nuclear charge, atomic/ionic radius, shielding by inner shells and sub-shells and spin-pair repulsion"
+      },
+      {
+        "objective_number": 7,
+        "description": "deduce the electronic configurations of elements using successive ionisation energy data"
+      },
+      {
+        "objective_number": 8,
+        "description": "deduce the position of an element in the Periodic Table using successive ionisation energy data"
+      }
+    ]
+  }
+}

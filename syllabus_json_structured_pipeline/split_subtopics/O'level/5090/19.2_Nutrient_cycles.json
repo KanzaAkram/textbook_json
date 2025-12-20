@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Relationships of organisms with one another and with the environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.2",
+    "sub_topic_name": "Nutrient cycles",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the carbon cycle, limited to: photosynthesis, respiration, feeding, decomposition, formation of fossil fuels and combustion"
+      },
+      {
+        "objective_number": 2,
+        "description": "Outline the nitrogen cycle in making nitrogen available for plant and animal protein, limited to: (a) decomposition of plant and animal protein to ammonium ions (b) nitrification (c) nitrogen fixation by lightning and bacteria (d) absorption of nitrate ions by plants (e) production of amino acids and protein (f) feeding and digestion of proteins (g) denitrification (the names of individual bacteria are not required)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Outline the role of fungi and bacteria in decomposition"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Agricultural development"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Agricultural systems",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand how small-scale subsistence farming, cash crop farming and livestock farming operate as systems made up of inputs, processes and outputs."
+      }
+    ]
+  }
+}

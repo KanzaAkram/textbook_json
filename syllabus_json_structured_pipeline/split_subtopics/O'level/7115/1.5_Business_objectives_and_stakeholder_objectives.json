@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Understanding business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.5",
+    "sub_topic_name": "Business objectives and stakeholder objectives",
+    "learning_objectives": [
+      {
+        "objective_number": "1.5.1",
+        "description": "Businesses can have several objectives and the importance of them can change: Need for business objectives and the importance of them; Different business objectives, e.g. survival, growth, profit and market share; Objectives of social enterprises"
+      },
+      {
+        "objective_number": "1.5.2",
+        "description": "The role of stakeholder groups involved in business activity: Main internal and external stakeholder groups; Objectives of different stakeholder groups; How these objectives might conflict with each other, use examples"
+      },
+      {
+        "objective_number": "1.5.3",
+        "description": "Differences in the objectives of private sector and public sector enterprises"
+      }
+    ]
+  }
+}

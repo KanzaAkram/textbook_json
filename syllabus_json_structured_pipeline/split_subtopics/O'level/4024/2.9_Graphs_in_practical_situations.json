@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.9",
+    "sub_topic_name": "Graphs in practical situations",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Use and interpret graphs in practical situations including travel graphs and conversion graphs.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "2",
+        "description": "Draw graphs from given data.",
+        "notes_and_examples": "Includes estimation and interpretation of the gradient of a tangent at a point."
+      },
+      {
+        "objective_number": "3",
+        "description": "Apply the idea of rate of change to simple kinematics involving distance-time and speed-time graphs, acceleration and deceleration.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "4",
+        "description": "Calculate distance travelled as area under a speed-time graph.",
+        "notes_and_examples": "Areas will involve linear sections only."
+      }
+    ]
+  }
+}

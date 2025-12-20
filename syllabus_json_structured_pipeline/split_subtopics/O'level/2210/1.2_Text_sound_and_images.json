@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Data representation"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Text, sound and images",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand how text is represented and the use of character sets, including ASCII and Unicode.",
+        "notes_and_guidance": "Text is converted to binary for processing. Unicode supports a larger range of characters (including languages and emojis) than ASCII. Unicode requires more bits per character."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand computer representation of sound, including sample rate and sample resolution.",
+        "notes_and_guidance": "Sound is sampled and converted to binary. Sample rate is number of samples per second, resolution is the bits per sample. Higher values increase accuracy and file size."
+      },
+      {
+        "objective_number": "3",
+        "description": "Understand computer representation of images, including resolution and colour depth.",
+        "notes_and_guidance": "An image is a grid of pixels stored in binary. Resolution is pixel count; colour depth is bits per pixel. Higher values improve size and quality."
+      }
+    ]
+  }
+}

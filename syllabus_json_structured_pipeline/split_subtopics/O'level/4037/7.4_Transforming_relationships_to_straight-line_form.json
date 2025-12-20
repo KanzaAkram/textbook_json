@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Straight-line graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.4",
+    "sub_topic_name": "Transforming relationships to straight-line form",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Transform given relationships to and from straight-line form, including determining unknown constants by calculating the gradient or intercept of the transformed graph. (For example: To straight-line form y = Axⁿ, y = Abˣ. From straight-line form to an equation of the form y² = Ax³ + B, e²ʸ = Ax² + B, y³ = A ln x + B)"
+      }
+    ]
+  }
+}

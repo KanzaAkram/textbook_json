@@ -1,0 +1,32 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Probability"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Introduction to probability",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand and use the probability scale from 0 to 1."
+      },
+      {
+        "objective_number": 2,
+        "description": "Calculate the probability of a single event."
+      },
+      {
+        "objective_number": 3,
+        "description": "Understand that the probability of an event not occurring = 1 – the probability of the event occurring."
+      }
+    ],
+    "notes_and_examples": "Probability notation is not required.\nProbabilities should be given as a fraction, decimal or percentage. Problems may require using information from tables, graphs or Venn diagrams (limited to two sets).\ne.g. The probability that a counter is blue is 0.8. What is the probability that it is not blue?"
+  }
+}

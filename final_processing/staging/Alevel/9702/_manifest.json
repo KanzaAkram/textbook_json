@@ -1,0 +1,448 @@
+{
+  "level": "Alevel",
+  "subject_code": "9702",
+  "generated_at": "2025-12-20T23:04:28.210863",
+  "total_matches": 44,
+  "matches": [
+    {
+      "subtopic_number": "12.1",
+      "subtopic_name": "Kinematics of uniform circular motion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\12.1_Kinematics_of_uniform_circular_motion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.2",
+      "subtopic_name": "Centripetal acceleration",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\12.2_Centripetal_acceleration.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.1",
+      "subtopic_name": "Gravitational field",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\13.1_Gravitational_field.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.2",
+      "subtopic_name": "Gravitational force between point masses",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\13.2_Gravitational_force_between_point_masses.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.3",
+      "subtopic_name": "Gravitational field of a point mass",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\13.3_Gravitational_field_of_a_point_mass.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.4",
+      "subtopic_name": "Gravitational potential",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\13.4_Gravitational_potential.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.1",
+      "subtopic_name": "Thermal equilibrium",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\14.1_Thermal_equilibrium.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.2",
+      "subtopic_name": "Temperature scales",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\14.2_Temperature_scales.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.3",
+      "subtopic_name": "Specific heat capacity and specific latent heat",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\14.3_Specific_heat_capacity_and_specific_latent_heat.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.1",
+      "subtopic_name": "The mole",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\15.1_The_mole.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.2",
+      "subtopic_name": "Equation of state",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\15.2_Equation_of_state.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.3",
+      "subtopic_name": "Kinetic theory of gases",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\15.3_Kinetic_theory_of_gases.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "16.1",
+      "subtopic_name": "Internal energy",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\16.1_Internal_energy.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "16.2",
+      "subtopic_name": "The first law of thermodynamics",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\16.2_The_first_law_of_thermodynamics.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "17.1",
+      "subtopic_name": "Simple harmonic oscillations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\17.1_Simple_harmonic_oscillations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "17.2",
+      "subtopic_name": "Energy in simple harmonic motion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\17.2_Energy_in_simple_harmonic_motion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "17.3",
+      "subtopic_name": "Damped and forced oscillations, resonance",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\17.3_Damped_and_forced_oscillations_resonance.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.1",
+      "subtopic_name": "Electric fields and field lines",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\18.1_Electric_fields_and_field_lines.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.2",
+      "subtopic_name": "Uniform electric fields",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\18.2_Uniform_electric_fields.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.3",
+      "subtopic_name": "Electric force between point charges",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\18.3_Electric_force_between_point_charges.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.4",
+      "subtopic_name": "Electric field of a point charge",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\18.4_Electric_field_of_a_point_charge.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.5",
+      "subtopic_name": "Electric potential",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\18.5_Electric_potential.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "19.1",
+      "subtopic_name": "Capacitors and capacitance",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\19.1_Capacitors_and_capacitance.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "19.2",
+      "subtopic_name": "Energy stored in a capacitor",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\19.2_Energy_stored_in_a_capacitor.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "19.3",
+      "subtopic_name": "Discharging a capacitor",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\19.3_Discharging_a_capacitor.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.1",
+      "subtopic_name": "Concept of a magnetic field",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\20.1_Concept_of_a_magnetic_field.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.2",
+      "subtopic_name": "Force on a current-carrying conductor",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\20.2_Force_on_a_current-carrying_conductor.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.3",
+      "subtopic_name": "Force on a moving charge",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\20.3_Force_on_a_moving_charge.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.4",
+      "subtopic_name": "Magnetic fields due to currents",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\20.4_Magnetic_fields_due_to_currents.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.5",
+      "subtopic_name": "Electromagnetic induction",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\20.5_Electromagnetic_induction.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "21.1",
+      "subtopic_name": "Characteristics of alternating currents",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\21.1_Characteristics_of_alternating_currents.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "21.2",
+      "subtopic_name": "Rectification and smoothing",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\21.2_Rectification_and_smoothing.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "22.1",
+      "subtopic_name": "Energy and momentum of a photon",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\22.1_Energy_and_momentum_of_a_photon.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "22.2",
+      "subtopic_name": "Photoelectric effect",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\22.2_Photoelectric_effect.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "22.3",
+      "subtopic_name": "Wave-particle duality",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\22.3_Wave-particle_duality.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "22.4",
+      "subtopic_name": "Energy levels in atoms and line spectra",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\22.4_Energy_levels_in_atoms_and_line_spectra.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "23.1",
+      "subtopic_name": "Mass defect and nuclear binding energy",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\23.1_Mass_defect_and_nuclear_binding_energy.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "23.2",
+      "subtopic_name": "Radioactive decay",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\23.2_Radioactive_decay.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "24.1",
+      "subtopic_name": "Production and use of ultrasound",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\24.1_Production_and_use_of_ultrasound.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "24.2",
+      "subtopic_name": "Production and use of X-rays",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\24.2_Production_and_use_of_X-rays.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "24.3",
+      "subtopic_name": "PET scanning",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\24.3_PET_scanning.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "25.1",
+      "subtopic_name": "Standard candles",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\25.1_Standard_candles.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "25.2",
+      "subtopic_name": "Stellar radii",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\25.2_Stellar_radii.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "25.3",
+      "subtopic_name": "Hubble's law and the Big Bang theory",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9702\\25.3_Hubbles_law_and_the_Big_Bang_theory.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

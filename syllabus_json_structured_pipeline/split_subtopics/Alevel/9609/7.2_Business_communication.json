@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Human resource management (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Business communication",
+    "learning_objectives": [
+      {
+        "objective_number": "7.2.1",
+        "description": "Purposes of communication: situations in which communication is essential."
+      },
+      {
+        "objective_number": "7.2.2",
+        "description": "Methods of communication: the standard methods of communication used in business: spoken, written, electronic, visual; the strengths and weaknesses of the different methods of communication."
+      },
+      {
+        "objective_number": "7.2.3",
+        "description": "Channels of communication: how communication works within a business; the difference between one- and two-way communication; the difference between vertical and horizontal communication; problems associated with different channels of communication."
+      },
+      {
+        "objective_number": "7.2.4",
+        "description": "Barriers to communication: barriers to communication and how to overcome them."
+      },
+      {
+        "objective_number": "7.2.5",
+        "description": "The role of management in facilitating communication: the role of informal communications within a business; ways in which communication can influence the efficiency of a business; ways of improving communication in a given situation."
+      }
+    ]
+  }
+}

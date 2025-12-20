@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.9",
+    "sub_topic_name": "Market economic system",
+    "learning_objectives": [
+      {
+        "objective_number": "2.9.1",
+        "objective_title": "definition of market economic system",
+        "guidance": "Including examples of how it works in a variety of different countries."
+      },
+      {
+        "objective_number": "2.9.2",
+        "objective_title": "advantages and disadvantages of the market economic system",
+        "guidance": "Including examples of how it works in a variety of different countries."
+      }
+    ]
+  }
+}

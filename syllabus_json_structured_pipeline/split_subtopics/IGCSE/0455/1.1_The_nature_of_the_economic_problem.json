@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The basic economic problem"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "The nature of the economic problem",
+    "learning_objectives": [
+      {
+        "objective_number": "1.1.1",
+        "objective_title": "finite resources and unlimited wants",
+        "guidance": "Definition and examples of the economic problem in the contexts of: consumers; workers; producers; and governments."
+      },
+      {
+        "objective_number": "1.1.2",
+        "objective_title": "economic and free goods",
+        "guidance": "The difference between economic goods and free goods."
+      }
+    ]
+  }
+}

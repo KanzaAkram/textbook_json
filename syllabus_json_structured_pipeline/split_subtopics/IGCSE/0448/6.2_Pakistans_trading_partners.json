@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Trade"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Pakistan's trading partners",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "name and locate Pakistan's main trading partners, and name the goods Pakistan exported to them or imported from them"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the factors which may promote or hinder trade with other countries, and explain why it is difficult for Pakistan as a developing country to maintain or increase its share of trade with other countries"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the factors that may promote and limit trade, including trading blocs, trade barriers and currency exchange rates."
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Electricity"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.2",
+    "sub_topic_name": "Potential difference and power",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the potential difference across a component as the energy transferred per unit charge"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use V = W/Q"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and use P = VI, P = I²R and P = V²/R"
+      }
+    ]
+  }
+}

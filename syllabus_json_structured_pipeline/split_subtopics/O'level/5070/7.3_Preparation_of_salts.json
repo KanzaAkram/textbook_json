@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Acids, bases and salts"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.3",
+    "sub_topic_name": "Preparation of salts",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the preparation, separation and purification of soluble salts by reaction of an acid with: (a) an alkali by titration (b) excess metal (c) excess insoluble base (d) excess insoluble carbonate"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the preparation of insoluble salts by precipitation"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the general solubility rule for salts: (a) sodium, potassium and ammonium salts are soluble (b) nitrates are soluble (c) chlorides are soluble, except lead and silver (d) sulfates are soluble, except barium, calcium and lead (e) carbonates are insoluble, except sodium, potassium and ammonium (f) hydroxides are insoluble, except sodium, potassium, ammonium and calcium (partially)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Define a hydrated substance as a substance that is chemically combined with water and an anhydrous substance as a substance containing no water"
+      },
+      {
+        "objective_number": 5,
+        "description": "Define the term water of crystallisation as the water molecules present in hydrated crystals, including CuSO₄·5H₂O and CoCl₂·6H₂O"
+      }
+    ]
+  }
+}

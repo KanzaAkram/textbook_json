@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Waves"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "General properties of waves",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Know that waves transfer energy without transferring matter"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe what is meant by wave motion as illustrated by vibrations in ropes and springs and by experiments using water waves"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the features of a wave in terms of wavefront, wavelength, frequency, crest (peak), trough, amplitude and wave speed"
+      },
+      {
+        "objective_number": 4,
+        "description": "Define the terms: (a) frequency as the number of wavelengths that pass a point per unit time (b) wavelength as the distance between two consecutive, identical points such as two consecutive crests (c) amplitude as the maximum distance from the mean position"
+      },
+      {
+        "objective_number": 5,
+        "description": "Recall and use the equation wave speed = frequency × wavelength, v = fλ"
+      },
+      {
+        "objective_number": 6,
+        "description": "Know that for a transverse wave, the direction of vibration is at right angles to the direction of the energy transfer, and give examples such as electromagnetic radiation, waves on the surface of water, and seismic S-waves (secondary)"
+      },
+      {
+        "objective_number": 7,
+        "description": "Know that for a longitudinal wave, the direction of vibration is parallel to the direction of the energy transfer, and give examples such as sound waves and seismic P-waves (primary)"
+      },
+      {
+        "objective_number": 8,
+        "description": "Describe how waves can undergo: (a) reflection at a plane surface (b) refraction due to a change of speed (c) diffraction through a gap"
+      },
+      {
+        "objective_number": 9,
+        "description": "Describe how wavelength and gap size affects diffraction through a gap"
+      },
+      {
+        "objective_number": 10,
+        "description": "Describe the use of a ripple tank to show: (a) reflection at a plane surface (b) refraction due to a change in speed caused by a change in depth (c) diffraction due to a gap (d) diffraction due to an edge"
+      },
+      {
+        "objective_number": 11,
+        "description": "Describe how wavelength affects diffraction at an edge"
+      }
+    ]
+  }
+}

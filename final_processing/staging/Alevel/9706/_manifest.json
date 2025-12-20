@@ -1,0 +1,98 @@
+{
+  "level": "Alevel",
+  "subject_code": "9706",
+  "generated_at": "2025-12-20T23:04:28.346520",
+  "total_matches": 9,
+  "matches": [
+    {
+      "subtopic_number": "3.1",
+      "subtopic_name": "Limited companies",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\3.1.5_Limited_companies.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.2",
+      "subtopic_name": "Auditing and stewardship of limited companies",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\3.2.3_Auditing_and_stewardship_of_limited_companies.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.3",
+      "subtopic_name": "Business acquisition and merger",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\3.3.1_Business_acquisition_and_merger.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.4",
+      "subtopic_name": "Computerised accounting systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\3.4.1_Computerised_accounting_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.5",
+      "subtopic_name": "Analysis and communication of accounting information",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\3.5.1_Analysis_and_communication_of_accounting_information.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "Activity based costing",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\4.1.1_Activity_based_costing.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "Standard costing",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\4.2.1_Standard_costing.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.3",
+      "subtopic_name": "Budgeting and budgetary control",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\4.3.1_Budgeting_and_budgetary_control.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.4",
+      "subtopic_name": "Investment appraisal",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9706\\4.4.1_Investment_appraisal.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

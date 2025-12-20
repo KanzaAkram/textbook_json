@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Relationships of organisms with one another and with the environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.5",
+    "sub_topic_name": "Conservation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Discuss reasons for conservation of species with reference to: (a) maintenance of biodiversity (b) reducing extinction (c) protecting vulnerable environments"
+      },
+      {
+        "objective_number": 2,
+        "description": "Explain how forests can be conserved using education, protected areas, quotas and replanting"
+      },
+      {
+        "objective_number": 3,
+        "description": "Explain how fish stocks can be conserved using education, closed seasons, protected areas, controlled net types and mesh size, quotas and monitoring"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe a sustainable resource as one which is produced as rapidly as it is removed from the environment so that it does not run out"
+      }
+    ]
+  }
+}

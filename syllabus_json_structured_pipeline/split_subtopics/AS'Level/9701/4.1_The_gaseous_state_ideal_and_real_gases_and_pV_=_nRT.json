@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "States of matter"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "The gaseous state: ideal and real gases and pV = nRT",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain the origin of pressure in a gas in terms of collisions between gas molecules and the wall of the container"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that ideal gases have zero particle volume and no intermolecular forces of attraction"
+      },
+      {
+        "objective_number": 3,
+        "description": "state and use the ideal gas equation pV = nRT in calculations, including in the determination of Mᵣ"
+      }
+    ]
+  }
+}

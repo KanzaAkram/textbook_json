@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Reaction kinetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "Homogeneous and heterogeneous catalysts",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain and use the terms catalyst and catalysis: (a) explain that, in the presence of a catalyst, a reaction has a different mechanism, i.e. one of lower activation energy (b) explain this catalytic effect in terms of the Boltzmann distribution (c) construct and interpret a reaction pathway diagram, for a reaction in the presence and absence of an effective catalyst"
+      }
+    ]
+  }
+}

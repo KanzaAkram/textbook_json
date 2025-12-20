@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Graphs and charts"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.0",
+    "sub_topic_name": "Graphs and charts",
+    "learning_objectives": [
+      {
+        "description": "Create, label and edit a graph or chart",
+        "notes_and_guidance": "Select data to produce a graph or chart including using contiguous data, non-contiguous data and specified data ranges\nSelect the graph or chart type\nLabel the graph or chart including chart title, legend, sector labels, sector values, percentages, category axis title, value axis title, category axis labels, value axis labels, data value labels\nAdd a second data series\nAdd a second axis\nFormat numerical values to a specified number of decimal places\nFormat numerical values to display currency symbols\nAdjust the maximum and minimum values of an axis scale and set incremental values\nEnhance the appearance of a graph or chart including extracting a pie chart sector, changing the colour scheme or fill patterns"
+      }
+    ]
+  }
+}

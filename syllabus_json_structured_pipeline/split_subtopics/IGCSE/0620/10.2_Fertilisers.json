@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Chemistry of the environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.2",
+    "sub_topic_name": "Fertilisers",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State that ammonium salts and nitrates are used as fertilisers"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the use of NPK fertilisers to provide the elements nitrogen, phosphorus and potassium for improved plant growth"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Ideal gases"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.1",
+    "sub_topic_name": "The mole",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that amount of substance is an SI base quantity with the base unit mol"
+      },
+      {
+        "objective_number": 2,
+        "description": "use molar quantities where one mole of any substance is the amount containing a number of particles of that substance equal to the Avogadro constant NA"
+      }
+    ]
+  }
+}

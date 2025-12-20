@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "International economic issues (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.5",
+    "sub_topic_name": "Policies to correct imbalances in the current account of the balance of payments",
+    "content": [
+      {
+        "point_number": "6.5.1",
+        "description": "government policy objective of stability of the current account"
+      },
+      {
+        "point_number": "6.5.2",
+        "description": "effect of fiscal, monetary, supply-side and protectionist policies on the current account"
+      }
+    ]
+  }
+}

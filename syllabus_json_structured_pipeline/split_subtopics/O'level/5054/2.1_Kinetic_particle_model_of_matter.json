@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Thermal physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Kinetic particle model of matter",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "2.1.1",
+        "sub_sub_topic_name": "States of matter",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Know the distinguishing properties of solids, liquids and gases"
+          },
+          {
+            "objective_number": 2,
+            "description": "Know the terms for the changes in state between solids, liquids and gases (gas to solid and solid to gas transfers are not required)"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "2.1.2",
+        "sub_sub_topic_name": "Particle model",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe, qualitatively, the particle structure of solids, liquids and gases, relating their properties to the forces and distances between particles and to the motion of the particles (atoms, molecules, ions and electrons)"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe the relationship between the motion of particles and temperature, including the idea that there is a lowest possible temperature (–273 °C), known as absolute zero, where the particles have least kinetic energy"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe the pressure and the changes in pressure of a gas in terms of the forces exerted by particles colliding with surfaces, creating a force per unit area"
+          },
+          {
+            "objective_number": 4,
+            "description": "Explain qualitatively, in terms of particles, the relationship between: (a) pressure and temperature at constant volume (b) volume and temperature at constant pressure (c) pressure and volume at constant temperature"
+          },
+          {
+            "objective_number": 5,
+            "description": "Recall and use the equation p₁V₁ = p₂V₂, including a graphical representation of the relationship between pressure and volume for a gas at constant temperature"
+          }
+        ]
+      }
+    ]
+  }
+}

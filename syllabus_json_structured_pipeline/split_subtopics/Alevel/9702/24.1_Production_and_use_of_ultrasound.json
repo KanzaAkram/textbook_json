@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "24",
+    "topic_name": "Medical physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "24.1",
+    "sub_topic_name": "Production and use of ultrasound",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a piezo-electric crystal changes shape when a p.d. is applied across it and that the crystal generates an e.m.f. when its shape changes"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand how ultrasound waves are generated and detected by a piezoelectric transducer"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand how the reflection of pulses of ultrasound at boundaries between tissues can be used to obtain diagnostic information about internal structures"
+      },
+      {
+        "objective_number": 4,
+        "description": "define the specific acoustic impedance of a medium as Z = ρc, where c is the speed of sound in the medium"
+      },
+      {
+        "objective_number": 5,
+        "description": "use IR/I₀ = (Z₁ - Z₂)² / (Z₁ + Z₂)² for the intensity reflection coefficient of a boundary between two media"
+      },
+      {
+        "objective_number": 6,
+        "description": "recall and use I = I₀e⁻μx for the attenuation of ultrasound in matter"
+      }
+    ]
+  }
+}

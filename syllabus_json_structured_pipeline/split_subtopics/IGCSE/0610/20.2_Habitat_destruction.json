@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Human influences on ecosystems"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.2",
+    "sub_topic_name": "Habitat destruction",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe biodiversity as the number of different species that live in an area"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the reasons for habitat destruction, including: (a) increased area for housing, crop plant production and livestock production (b) extraction of natural resources (c) freshwater and marine pollution"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that through altering food webs and food chains, humans can have a negative impact on habitats"
+        },
+        {
+          "objective_number": 4,
+          "description": "Explain the undesirable effects of deforestation as an example of habitat destruction, to include: reducing biodiversity, extinction, loss of soil, flooding and increase of carbon dioxide in the atmosphere"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

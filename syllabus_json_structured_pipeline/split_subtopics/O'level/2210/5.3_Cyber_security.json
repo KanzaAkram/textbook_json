@@ -1,0 +1,33 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "The internet and its uses"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.3",
+    "sub_topic_name": "Cyber security",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Describe the processes and aims of carrying out various cyber security threats.",
+        "notes_and_guidance": "Includes brute-force attack, data interception, DDoS, hacking, malware (virus, worm, Trojan, spyware, adware, ransomware), pharming, phishing, social engineering."
+      },
+      {
+        "objective_number": "2",
+        "description": "Explain how solutions help keep data safe from security threats.",
+        "notes_and_guidance": "Includes access levels, anti-malware (anti-virus, anti-spyware), authentication (password, biometrics, two-step verification), automated updates, checking communications and URLs, firewalls, privacy settings, proxies, SSL."
+      }
+    ]
+  }
+}

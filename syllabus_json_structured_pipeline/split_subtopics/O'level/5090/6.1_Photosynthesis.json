@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Plant nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Photosynthesis",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand that photosynthesis is the process by which plants make carbohydrates from raw materials using energy from light"
+      },
+      {
+        "objective_number": 2,
+        "description": "State that chlorophyll is a green pigment that is found in chloroplasts"
+      },
+      {
+        "objective_number": 3,
+        "description": "State that chlorophyll transfers light energy into chemical energy for the formation of glucose and other carbohydrates"
+      },
+      {
+        "objective_number": 4,
+        "description": "Outline the subsequent use and storage of the carbohydrates made in photosynthesis, limited to: (a) starch as an energy store (b) cellulose to build cell walls (c) glucose used in respiration to provide energy (d) sucrose for transport through the plant"
+      },
+      {
+        "objective_number": 5,
+        "description": "State the word equation and balanced chemical equation for photosynthesis"
+      },
+      {
+        "objective_number": 6,
+        "description": "Investigate the need for chlorophyll, light and carbon dioxide for photosynthesis, using appropriate controls"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe and explain the effect of varying light intensity, carbon dioxide concentration and temperature on the rate of photosynthesis"
+      },
+      {
+        "objective_number": 8,
+        "description": "Investigate the effect of varying light intensity, carbon dioxide concentration and temperature on the rate of photosynthesis using submerged aquatic plants and hydrogencarbonate indicator solution"
+      },
+      {
+        "objective_number": 9,
+        "description": "Identify and explain the limiting factors of photosynthesis in different environmental conditions"
+      }
+    ]
+  }
+}

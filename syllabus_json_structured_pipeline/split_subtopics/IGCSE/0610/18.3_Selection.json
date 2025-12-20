@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Variation and selection"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.3",
+    "sub_topic_name": "Selection",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe natural selection with reference to: (a) genetic variation within populations (b) production of many offspring (c) struggle for survival, including competition for resources (d) a greater chance of reproduction by individuals that are better adapted to the environment than others (e) these individuals pass on their alleles to the next generation"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe selective breeding with reference to: (a) selection by humans of individuals with desirable features (b) crossing these individuals to produce the next generation (c) selection of offspring showing the desirable features"
+        },
+        {
+          "objective_number": 3,
+          "description": "Outline how selective breeding by artificial selection is carried out over many generations to improve crop plants and domesticated animals and apply this to given contexts"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 4,
+          "description": "Describe adaptation as the process, resulting from natural selection, by which populations become more suited to their environment over many generations"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe the development of strains of antibiotic resistant bacteria as an example of natural selection"
+        },
+        {
+          "objective_number": 6,
+          "description": "Outline the differences between natural and artificial selection"
+        }
+      ]
+    }
+  }
+}

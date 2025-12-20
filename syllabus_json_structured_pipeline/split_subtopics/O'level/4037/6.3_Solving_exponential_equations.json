@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Logarithmic and exponential functions"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Solving exponential equations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Solve equations of the form aˣ = b."
+      }
+    ]
+  }
+}

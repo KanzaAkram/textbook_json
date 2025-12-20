@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Networks and the effects of using them"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Network issues and communication",
+    "learning_objectives": [
+      {
+        "description": "Security issues regarding data transfer",
+        "notes_and_guidance": "Privacy and confidentiality of data transfer"
+      },
+      {
+        "description": "Passwords",
+        "notes_and_guidance": "Avoiding password interception by using up to date anti-spyware and regularly changing passwords\nThe differences between strong and weak passwords"
+      },
+      {
+        "description": "Other authentication methods",
+        "notes_and_guidance": "Including: zero login, biometric methods, magnetic stripes, smart cards, physical tokens, electronic tokens"
+      },
+      {
+        "description": "Anti-malware software",
+        "notes_and_guidance": "Including the use of anti-malware and anti-virus software\nThe operation of removing/quarantining viruses using up to date software\nScanning the storage media used to transfer data\nScanning the data/software when downloading"
+      },
+      {
+        "description": "Electronic conferencing",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of video-conferencing, audio-conferencing, web-conferencing\nThe hardware, software and network connection required to set up each type of electronic conference"
+      }
+    ]
+  }
+}

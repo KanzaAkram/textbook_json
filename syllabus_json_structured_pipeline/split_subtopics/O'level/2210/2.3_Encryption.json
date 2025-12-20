@@ -1,0 +1,33 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Data transmission"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Encryption",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand the purpose of encryption when transmitting data.",
+        "notes_and_guidance": "Encryption protects data during transmission."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand symmetric and asymmetric encryption.",
+        "notes_and_guidance": "Asymmetric encryption uses public and private keys."
+      }
+    ]
+  }
+}

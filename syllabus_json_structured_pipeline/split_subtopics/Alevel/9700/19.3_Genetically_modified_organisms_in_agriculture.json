@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Genetic technology"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.3",
+    "sub_topic_name": "Genetically modified organisms in agriculture",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain that genetic engineering may help to solve the global demand for food by improving the quality and productivity of farmed animals and crop plants, using the examples of GM salmon, herbicide resistance in soybean and insect resistance in cotton"
+      },
+      {
+        "objective_number": 2,
+        "description": "discuss the ethical and social implications of using genetically modified organisms (GMOs) in food production"
+      }
+    ]
+  }
+}

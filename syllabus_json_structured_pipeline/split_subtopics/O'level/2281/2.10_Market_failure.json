@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.10",
+    "sub_topic_name": "Market failure",
+    "learning_objectives": [
+      {
+        "objective_number": "2.10.1",
+        "objective_title": "definition of market failure",
+        "guidance": "The key terms associated with market failure: public good, merit good, demerit good, social benefits, external benefits, private benefits, social costs, external costs, private costs."
+      },
+      {
+        "objective_number": "2.10.2",
+        "objective_title": "causes of market failure",
+        "guidance": "With respect to public goods, merit and demerit goods, external costs and external benefits, abuse of monopoly power and factor immobility. Examples of market failure with respect to these areas only."
+      },
+      {
+        "objective_number": "2.10.3",
+        "objective_title": "consequences of market failure",
+        "guidance": "The implications of misallocation of resources in respect of the over consumption of demerit goods and goods with external costs, and the under consumption of merit goods and goods with external benefits. Note: demand and supply diagrams relating to market failure are not required."
+      }
+    ]
+  }
+}

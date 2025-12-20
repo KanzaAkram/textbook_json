@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Human influences on ecosystems"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.1",
+    "sub_topic_name": "Food supply",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe how humans have increased food production, limited to: (a) agricultural machinery to use larger areas of land and improve efficiency (b) chemical fertilisers to improve yields (c) insecticides to improve quality and yield (d) herbicides to reduce competition with weeds (e) selective breeding to improve production by crop plants and livestock"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the advantages and disadvantages of large-scale monocultures of crop plants"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe the advantages and disadvantages of intensive livestock production"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

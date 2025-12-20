@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Selection and evolution"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.2",
+    "sub_topic_name": "Natural and artificial selection",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain that natural selection occurs because populations have the capacity to produce many offspring that compete for resources; in the 'struggle for existence', individuals that are best adapted are most likely to survive to reproduce and pass on their alleles to the next generation"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain how environmental factors can act as stabilising, disruptive and directional forces of natural selection"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain how selection, the founder effect and genetic drift, including the bottleneck effect, may affect allele frequencies in populations"
+      },
+      {
+        "objective_number": 4,
+        "description": "outline how bacteria become resistant to antibiotics as an example of natural selection"
+      },
+      {
+        "objective_number": 5,
+        "description": "use the Hardy-Weinberg principle to calculate allele and genotype frequencies in populations and state the conditions when this principle can be applied (the two equations for the Hardy-Weinberg principle will be provided, as shown in the Mathematical requirements)"
+      },
+      {
+        "objective_number": 6,
+        "description": "describe the principles of selective breeding (artificial selection)"
+      },
+      {
+        "objective_number": 7,
+        "description": "outline the following examples of selective breeding: the introduction of disease resistance to varieties of wheat and rice; inbreeding and hybridisation to produce vigorous, uniform varieties of maize; improving the milk yield of dairy cattle"
+      }
+    ]
+  }
+}

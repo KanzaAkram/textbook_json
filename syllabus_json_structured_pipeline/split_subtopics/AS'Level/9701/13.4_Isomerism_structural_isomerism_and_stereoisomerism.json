@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "An introduction to AS Level organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.4",
+    "sub_topic_name": "Isomerism: structural isomerism and stereoisomerism",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe structural isomerism and its division into chain, positional and functional group isomerism"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe stereoisomerism and its division into geometrical (cis/trans) and optical isomerism (use of E/Z nomenclature is acceptable but is not required)"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe geometrical (cis/trans) isomerism in alkenes, and explain its origin in terms of restricted rotation due to the presence of π bonds"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain what is meant by a chiral centre and that such a centre gives rise to two optical isomers (enantiomers)"
+      },
+      {
+        "objective_number": 5,
+        "description": "identify chiral centres and geometrical (cis/trans) isomerism in a molecule of given structural formula including cyclic compounds"
+      },
+      {
+        "objective_number": 6,
+        "description": "deduce the possible isomers for an organic molecule of known molecular formula"
+      }
+    ]
+  }
+}

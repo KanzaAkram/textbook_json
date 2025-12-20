@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Government macroeconomic intervention (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Fiscal policy",
+    "content": [
+      {
+        "point_number": "5.2.1",
+        "description": "meaning of government budget"
+      },
+      {
+        "point_number": "5.2.2",
+        "description": "distinction between a government budget deficit and a government budget surplus"
+      },
+      {
+        "point_number": "5.2.3",
+        "description": "meaning and significance of the national debt"
+      },
+      {
+        "point_number": "5.2.4",
+        "description": "taxation: types of taxes: direct/indirect, progressive/regressive/proportional; rates of tax: marginal and average rates of taxation (mrt, art); reasons for taxation"
+      },
+      {
+        "point_number": "5.2.5",
+        "description": "government spending: types of spending: capital (investment) and current; reasons for government spending"
+      },
+      {
+        "point_number": "5.2.6",
+        "description": "distinction between expansionary and contractionary fiscal policy"
+      },
+      {
+        "point_number": "5.2.7",
+        "description": "AD/AS analysis of the impact of expansionary and contractionary fiscal policy on the equilibrium level of national income and the level of real output, the price level and employment"
+      }
+    ]
+  }
+}

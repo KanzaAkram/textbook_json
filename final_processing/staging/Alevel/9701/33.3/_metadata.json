@@ -1,0 +1,14 @@
+{
+  "subtopic_number": "33.3",
+  "subtopic_name": "Acyl chlorides",
+  "level": "Alevel",
+  "subject_code": "9701",
+  "sources": {
+    "textbook": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\33.3_Acyl chlorides.json",
+    "syllabus": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\33.3_Acyl_chlorides.json",
+    "save_my_exam": [
+      "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\33.3_Acyl_chlorides.pdf"
+    ]
+  },
+  "confidence": 1.0
+}

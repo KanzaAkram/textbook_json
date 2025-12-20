@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Nuclear physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "The nuclear model of the atom",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "5.1.1",
+        "sub_sub_topic_name": "The atom",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the structure of the atom in terms of a positively charged nucleus and negatively charged electrons in orbit around the nucleus"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe how alpha-particle scattering experiments provide evidence for: (a) a very small nucleus surrounded by mostly empty space (b) a nucleus containing most of the mass of the atom (c) a nucleus that is positively charged"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "5.1.2",
+        "sub_sub_topic_name": "The nucleus",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the composition of the nucleus in terms of protons and neutrons"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe how atoms form positive ions by losing electrons or negative ions by gaining electrons"
+          },
+          {
+            "objective_number": 3,
+            "description": "Define the terms proton number (atomic number) Z and nucleon number (mass number) A and be able to calculate the number of neutrons in a nucleus"
+          },
+          {
+            "objective_number": 4,
+            "description": "Explain the term nuclide and use the nuclide notation A_Z X"
+          },
+          {
+            "objective_number": 5,
+            "description": "Explain what is meant by an isotope and state that an element may have more than one isotope"
+          }
+        ]
+      }
+    ]
+  }
+}

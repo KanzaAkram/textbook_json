@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Storage devices and media"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.0",
+    "sub_topic_name": "Storage devices and media",
+    "learning_objectives": [
+      {
+        "description": "Storage devices",
+        "notes_and_guidance": "Characteristics, uses, media, advantages and disadvantages of storage devices including magnetic, optical and solid-state\nMagnetic drives including fixed and portable magnetic hard drives, magnetic tape drives\nOptical drives including CD, DVD, Blu-ray\nFixed and portable solid-state drive (SSD) including SSD, pen drive, flash drive"
+      },
+      {
+        "description": "Storage media",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of storage media including magnetic, optical and solid-state\nMagnetic drives including magnetic hard disks, magnetic tape\nOptical discs including CD, DVD, Blu-ray\nSolid-state media including memory cards (SD, xD, CFast)"
+      }
+    ]
+  }
+}

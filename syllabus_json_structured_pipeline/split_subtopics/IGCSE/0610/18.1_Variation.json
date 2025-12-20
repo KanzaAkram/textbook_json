@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Variation and selection"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.1",
+    "sub_topic_name": "Variation",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe variation as differences between individuals of the same species"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that continuous variation results in a range of phenotypes between two extremes; examples include body length and body mass"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that discontinuous variation results in a limited number of phenotypes with no intermediates; examples include ABO blood groups, seed shape in peas and seed colour in peas"
+        },
+        {
+          "objective_number": 4,
+          "description": "State that discontinuous variation is usually caused by genes only and continuous variation is caused by both genes and the environment"
+        },
+        {
+          "objective_number": 5,
+          "description": "Investigate and describe examples of continuous and discontinuous variation"
+        },
+        {
+          "objective_number": 6,
+          "description": "Describe mutation as genetic change"
+        },
+        {
+          "objective_number": 7,
+          "description": "State that mutation is the way in which new alleles are formed"
+        },
+        {
+          "objective_number": 8,
+          "description": "State that ionising radiation and some chemicals increase the rate of mutation"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 9,
+          "description": "Describe gene mutation as a random change in the base sequence of DNA"
+        },
+        {
+          "objective_number": 10,
+          "description": "State that mutation, meiosis, random mating and random fertilisation are sources of genetic variation in populations"
+        }
+      ]
+    }
+  }
+}

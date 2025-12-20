@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Coordinate geometry of the circle"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Equation of a circle",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Know and use the equation of a circle with radius r and centre (a, b). (Identify the centre and radius of a circle using a circle equation in any form. For example: (x – a)² + (y – b)² = r², x² + y² + 2gx + 2fy + c = 0. Formula is given in the List of formulas.)"
+      }
+    ]
+  }
+}

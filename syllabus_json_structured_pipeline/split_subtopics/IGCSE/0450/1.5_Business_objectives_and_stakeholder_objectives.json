@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Understanding business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.5",
+    "sub_topic_name": "Business objectives and stakeholder objectives",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Need for business objectives and the importance of them"
+      },
+      {
+        "objective_number": 2,
+        "description": "Different business objectives, e.g. survival, growth, profit and market share"
+      },
+      {
+        "objective_number": 3,
+        "description": "Objectives of social enterprises"
+      },
+      {
+        "objective_number": 4,
+        "description": "Main internal and external stakeholder groups"
+      },
+      {
+        "objective_number": 5,
+        "description": "Objectives of different stakeholder groups"
+      },
+      {
+        "objective_number": 6,
+        "description": "How these objectives might conflict with each other, use examples"
+      },
+      {
+        "objective_number": 7,
+        "description": "Differences in the objectives of private sector and public sector enterprises"
+      }
+    ]
+  }
+}

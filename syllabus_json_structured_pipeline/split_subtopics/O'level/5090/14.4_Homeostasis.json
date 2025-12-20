@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Coordination and control"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.4",
+    "sub_topic_name": "Homeostasis",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe homeostasis as the maintenance of a constant internal environment"
+      },
+      {
+        "objective_number": 2,
+        "description": "Explain the concept of control by negative feedback with reference to a set point"
+      }
+    ]
+  }
+}

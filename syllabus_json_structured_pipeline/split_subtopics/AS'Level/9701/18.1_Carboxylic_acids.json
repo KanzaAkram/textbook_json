@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Carboxylic acids and derivatives"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.1",
+    "sub_topic_name": "Carboxylic acids",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions by which carboxylic acids can be produced: (a) oxidation of primary alcohols and aldehydes with acidified K₂Cr₂O₇ or acidified KMnO₄ and refluxing (b) hydrolysis of nitriles with dilute acid or dilute alkali followed by acidification (c) hydrolysis of esters with dilute acid or dilute alkali and heat followed by acidification"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe: (a) the redox reaction with reactive metals to produce a salt and H₂(g) (b) the neutralisation reaction with alkalis to produce a salt and H₂O(l) (c) the acid-base reaction with carbonates to produce a salt and H₂O(l) and CO₂(g) (d) esterification with alcohols with concentrated H₂SO₄ as catalyst (e) reduction by LiAlH₄ to form a primary alcohol"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Quadratic functions"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Solving quadratic equations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Solve quadratic equations for real roots. (Formula is given in the List of formulas. Students are expected to be able to use factorisation, the quadratic formula and completing the square. On the calculator paper, correct answers are acceptable without working.)"
+      }
+    ]
+  }
+}

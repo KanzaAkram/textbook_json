@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "D.C. circuits"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.2",
+    "sub_topic_name": "Kirchhoff's laws",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall Kirchhoff's first law and understand that it is a consequence of conservation of charge"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall Kirchhoff's second law and understand that it is a consequence of conservation of energy"
+      },
+      {
+        "objective_number": 3,
+        "description": "derive, using Kirchhoff's laws, a formula for the combined resistance of two or more resistors in series"
+      },
+      {
+        "objective_number": 4,
+        "description": "use the formula for the combined resistance of two or more resistors in series"
+      },
+      {
+        "objective_number": 5,
+        "description": "derive, using Kirchhoff's laws, a formula for the combined resistance of two or more resistors in parallel"
+      },
+      {
+        "objective_number": 6,
+        "description": "use the formula for the combined resistance of two or more resistors in parallel"
+      },
+      {
+        "objective_number": 7,
+        "description": "use Kirchhoff's laws to solve simple circuit problems"
+      }
+    ]
+  }
+}

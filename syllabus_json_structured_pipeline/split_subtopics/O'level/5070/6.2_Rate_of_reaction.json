@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Chemical reactions"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Rate of reaction",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe collision theory in terms of: (a) number of particles per unit volume (b) frequency of collisions between particles (c) kinetic energy of particles (d) activation energy, Eₐ"
+      },
+      {
+        "objective_number": 2,
+        "description": "State that a catalyst increases the rate of a reaction, decreases the activation energy, Eₐ, of a reaction and is unchanged at the end of a reaction"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe and explain the effect on the rate of reactions of: (a) changing the concentration of solutions (b) changing the pressure of gases (c) changing the surface area of solids (d) changing the temperature (e) adding or removing a catalyst, including enzymes using collision theory"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe and evaluate practical methods for investigating the rate of a reaction, including change in mass of a reactant or a product and the formation of a gas"
+      },
+      {
+        "objective_number": 5,
+        "description": "Interpret data, including graphs, from rate of reaction experiments"
+      }
+    ]
+  }
+}

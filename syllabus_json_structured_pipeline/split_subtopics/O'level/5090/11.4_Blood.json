@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Transport in humans"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.4",
+    "sub_topic_name": "Blood",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify red and white blood cells (lymphocytes and phagocytes) as seen under the light microscope on prepared slides, and in diagrams and photomicrographs"
+      },
+      {
+        "objective_number": 2,
+        "description": "List the components of blood as red blood cells, white blood cells, platelets and plasma"
+      },
+      {
+        "objective_number": 3,
+        "description": "State the functions of the components of blood: (a) red blood cells – oxygen transport (b) white blood cells – antibody production by lymphocytes and engulfing pathogens by phagocytes (c) platelets – clotting by converting soluble fibrinogen to insoluble fibrin to prevent blood loss and the entry of pathogens (d) plasma – transport, limited to: blood cells, ions, glucose, amino acids, hormones, carbon dioxide, urea, vitamins and plasma proteins"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe the transfer of substances between blood in capillaries, tissue fluid and body cells"
+      }
+    ]
+  }
+}

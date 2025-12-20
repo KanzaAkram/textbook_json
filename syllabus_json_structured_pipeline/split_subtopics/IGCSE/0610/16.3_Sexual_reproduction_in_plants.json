@@ -1,0 +1,71 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Reproduction"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.3",
+    "sub_topic_name": "Sexual reproduction in plants",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Identify in diagrams and images and draw the following parts of an insect-pollinated flower: sepals, petals, stamens, filaments, anthers, carpels, style, stigma, ovary and ovules"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the functions of the structures listed in 16.3.1"
+        },
+        {
+          "objective_number": 3,
+          "description": "Identify in diagrams and images and describe the anthers and stigmas of a wind-pollinated flower"
+        },
+        {
+          "objective_number": 4,
+          "description": "Distinguish between the pollen grains of insect-pollinated and wind-pollinated flowers"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe pollination as the transfer of pollen grains from an anther to a stigma"
+        },
+        {
+          "objective_number": 6,
+          "description": "State that fertilisation occurs when a pollen nucleus fuses with a nucleus in an ovule"
+        },
+        {
+          "objective_number": 7,
+          "description": "Describe the structural adaptations of insect-pollinated and wind-pollinated flowers"
+        },
+        {
+          "objective_number": 8,
+          "description": "Investigate and describe the environmental conditions that affect germination of seeds, limited to the requirement for: water, oxygen and a suitable temperature"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 9,
+          "description": "Describe self-pollination as the transfer of pollen grains from the anther of a flower to the stigma of the same flower or a different flower on the same plant"
+        },
+        {
+          "objective_number": 10,
+          "description": "Describe cross-pollination as the transfer of pollen grains from the anther of a flower to the stigma of a flower on a different plant of the same species"
+        },
+        {
+          "objective_number": 11,
+          "description": "Discuss the potential effects of self-pollination and cross-pollination on a population, in terms of variation, capacity to respond to changes in the environment and reliance on pollinators"
+        },
+        {
+          "objective_number": 12,
+          "description": "Describe the growth of the pollen tube and its entry into the ovule followed by fertilisation (details of production of endosperm and development are not required)"
+        }
+      ]
+    }
+  }
+}

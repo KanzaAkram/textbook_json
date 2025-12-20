@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Physical quantities and units"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "SI units",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the following SI base quantities and their units: mass (kg), length (m), time (s), current (A), temperature (K)"
+      },
+      {
+        "objective_number": 2,
+        "description": "express derived units as products or quotients of the SI base units and use the derived units for quantities listed in this syllabus as appropriate"
+      },
+      {
+        "objective_number": 3,
+        "description": "use SI base units to check the homogeneity of physical equations"
+      },
+      {
+        "objective_number": 4,
+        "description": "recall and use the following prefixes and their symbols to indicate decimal submultiples or multiples of both base and derived units: pico (p), nano (n), micro (μ), milli (m), centi (c), deci (d), kilo (k), mega (M), giga (G), tera (T)"
+      }
+    ]
+  }
+}

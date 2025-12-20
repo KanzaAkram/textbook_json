@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Oscillations"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.1",
+    "sub_topic_name": "Simple harmonic oscillations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand and use the terms displacement, amplitude, period, frequency, angular frequency and phase difference in the context of oscillations, and express the period in terms of both frequency and angular frequency"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that simple harmonic motion occurs when acceleration is proportional to displacement from a fixed point and in the opposite direction"
+      },
+      {
+        "objective_number": 3,
+        "description": "use a = −ω²x and recall and use, as a solution to this equation, x = x₀ sin ωt"
+      },
+      {
+        "objective_number": 4,
+        "description": "use the equations v = v₀ cos ωt and v = ±ω√(x₀² − x²)"
+      },
+      {
+        "objective_number": 5,
+        "description": "analyse and interpret graphical representations of the variations of displacement, velocity and acceleration for simple harmonic motion"
+      }
+    ]
+  }
+}

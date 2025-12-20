@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.7",
+    "sub_topic_name": "Indices I",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand and use indices (positive, zero, negative and fractional).",
+        "notes_and_examples": "Examples include: 6^(1/2) = √6, 16^(1/4) = ⁴√16, find the value of 7⁻², 81^(1/2), 8^(2/3)."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand and use the rules of indices.",
+        "notes_and_examples": "e.g. find the value of 2⁻³ × 2⁴, (2³)², 2³ ÷ 2⁻⁴."
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Finance and accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4.1",
+    "sub_topic_name": "Costs: Cost information",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the need for accurate cost information"
+      },
+      {
+        "objective_number": 2,
+        "description": "different types of costs: fixed, variable, direct and indirect"
+      }
+    ]
+  }
+}

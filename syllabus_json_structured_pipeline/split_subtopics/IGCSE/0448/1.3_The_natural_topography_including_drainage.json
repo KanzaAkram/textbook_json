@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The land of Pakistan"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.3",
+    "sub_topic_name": "The natural topography, including drainage",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "identify on a map: named landforms: Balochistan Plateau, Sulaiman Range, Safed Koh, Potwar Plateau, Salt Range, Hindu Kush, Karakoram and Himalaya mountain ranges"
+      },
+      {
+        "objective_number": 2,
+        "description": "identify on a map: named rivers: Indus, Jhelum, Chenab, Ravi, Sutlej, Kabul, Hab and Dasht"
+      },
+      {
+        "objective_number": 3,
+        "description": "identify on a map: named deserts: Thar, Thal and Kharan."
+      },
+      {
+        "objective_number": 4,
+        "description": "use the appropriate vocabulary when describing the distinguishing features of mountains, plateaux, floodplains and deserts (knowledge of the formation of the natural topography of Pakistan is not required)"
+      },
+      {
+        "objective_number": 5,
+        "description": "identify and name the above features on a photograph or drawing"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand the influence of the natural topography on human activities: steep slopes and flat land on the way that the land is used; mountains and deserts on the road and rail networks."
+      }
+    ]
+  }
+}

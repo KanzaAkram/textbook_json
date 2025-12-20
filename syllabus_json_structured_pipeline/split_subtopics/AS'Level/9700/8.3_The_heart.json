@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Transport in mammals"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "The heart",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the external and internal structure of the mammalian heart"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the differences in the thickness of the walls of the: atria and ventricles, left ventricle and right ventricle"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the cardiac cycle, with reference to the relationship between blood pressure changes during systole and diastole and the opening and closing of valves"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain the roles of the sinoatrial node, the atrioventricular node and the Purkyne tissue in the cardiac cycle (knowledge of nervous and hormonal control is not expected)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Government microeconomy intervention (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Reasons for government intervention in markets",
+    "content": [
+      {
+        "point_number": "3.1.1",
+        "description": "addressing the non-provision of public goods"
+      },
+      {
+        "point_number": "3.1.2",
+        "description": "addressing the over-consumption of demerit goods and the under-consumption of merit goods"
+      },
+      {
+        "point_number": "3.1.3",
+        "description": "controlling prices in markets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Relationships of organisms with one another and with the environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.1",
+    "sub_topic_name": "Energy flow",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand that the Sun is the principal source of energy input to most biological systems"
+      },
+      {
+        "objective_number": 2,
+        "description": "Explain why most forms of life are completely dependent on photosynthesis"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the flow of energy through food chains and webs including energy from light and energy in living organisms and its eventual transfer to the environment"
+      },
+      {
+        "objective_number": 4,
+        "description": "Construct and interpret simple food chains"
+      },
+      {
+        "objective_number": 5,
+        "description": "Understand the terms producer, consumer, herbivore, carnivore and decomposer"
+      },
+      {
+        "objective_number": 6,
+        "description": "Describe food webs as networks of interconnected food chains and construct and interpret them"
+      },
+      {
+        "objective_number": 7,
+        "description": "Explain why the transfer of energy from one trophic level to another is inefficient"
+      },
+      {
+        "objective_number": 8,
+        "description": "Explain why food chains usually have fewer than five trophic levels"
+      },
+      {
+        "objective_number": 9,
+        "description": "Explain why it is more energy efficient for humans to eat crop plants than to eat livestock that have been fed on crop plants"
+      },
+      {
+        "objective_number": 10,
+        "description": "Construct and interpret pyramids of numbers, biomass and energy"
+      }
+    ]
+  }
+}

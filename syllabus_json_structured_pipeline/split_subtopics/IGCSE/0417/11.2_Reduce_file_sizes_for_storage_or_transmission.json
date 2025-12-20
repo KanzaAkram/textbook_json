@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "File management"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.2",
+    "sub_topic_name": "Reduce file sizes for storage or transmission",
+    "learning_objectives": [
+      {
+        "description": "Compress files",
+        "notes_and_guidance": "Reduce file sizes for storage or transmission where necessary using file compression including .zip, .rar"
+      },
+      {
+        "description": "File compression",
+        "notes_and_guidance": "The need to reduce file sizes for storage or transmission"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Variation and selection"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.2",
+    "sub_topic_name": "Adaptive features",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe an adaptive feature as an inherited feature that helps an organism to survive and reproduce in its environment"
+        },
+        {
+          "objective_number": 2,
+          "description": "Interpret images or other information about a species to describe its adaptive features"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "Explain the adaptive features of hydrophytes and xerophytes to their environments"
+        }
+      ]
+    }
+  }
+}

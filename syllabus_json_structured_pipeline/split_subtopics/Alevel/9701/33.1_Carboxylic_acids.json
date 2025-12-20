@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "33",
+    "topic_name": "Carboxylic acids and derivatives"
+  },
+  "subtopic": {
+    "sub_topic_number": "33.1",
+    "sub_topic_name": "Carboxylic acids",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reaction by which benzoic acid can be produced: (a) reaction of an alkylbenzene with hot alkaline KMnO₄ and then dilute acid, exemplified by methylbenzene"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the reaction of carboxylic acids with PCl₃ and heat, PCl₅ or SOCl₂ to form acyl chlorides"
+      },
+      {
+        "objective_number": 3,
+        "description": "recognise that some carboxylic acids can be further oxidised: (a) the oxidation of methanoic acid, HCOOH, with Fehling's reagent or Tollens' reagent or acidified KMnO₄ or acidified K₂Cr₂O₇ to carbon dioxide and water (b) the oxidation of ethanedioic acid, HOOCCOOH, with warm acidified KMnO₄ to carbon dioxide"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe and explain the relative acidities of carboxylic acids, phenols and alcohols"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe and explain the relative acidities of chlorine-substituted carboxylic acids"
+      }
+    ]
+  }
+}

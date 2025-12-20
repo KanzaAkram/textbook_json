@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Excretion"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.1",
+    "sub_topic_name": "Excretion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe excretion as the removal of toxic materials and the waste products of metabolism from organisms"
+      },
+      {
+        "objective_number": 2,
+        "description": "State that carbon dioxide is a waste product of respiration, which is excreted through the lungs"
+      },
+      {
+        "objective_number": 3,
+        "description": "State that urea is a toxic waste product produced in the liver from the breakdown of excess amino acids"
+      }
+    ]
+  }
+}

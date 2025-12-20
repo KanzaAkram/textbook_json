@@ -1,0 +1,32 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.14",
+    "sub_topic_name": "Using a calculator",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Use a calculator efficiently."
+      },
+      {
+        "objective_number": 2,
+        "description": "Enter values appropriately on a calculator."
+      },
+      {
+        "objective_number": 3,
+        "description": "Interpret the calculator display appropriately."
+      }
+    ],
+    "notes_and_examples": "e.g. know not to round values within a calculation and to only round the final answer.\ne.g. enter 2 hours 30 minutes as 2.5 hours or 2° 30' 0\".\ne.g. in money 4.8 means $4.80; in time 3.25 means 3 hours 15 minutes."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Development of organisms and continuity of life"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.4",
+    "sub_topic_name": "Sexual reproduction in humans",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify, on diagrams of the male reproductive system: the testes, scrotum, sperm ducts, prostate gland, urethra and penis, and describe their functions"
+      },
+      {
+        "objective_number": 2,
+        "description": "Identify, on diagrams of the female reproductive system: the ovaries, oviducts, uterus, cervix and vagina, and describe their functions"
+      },
+      {
+        "objective_number": 3,
+        "description": "Explain how the structure of a sperm cell is related to its function, limited to: flagellum, mitochondria and enzymes in the acrosome"
+      },
+      {
+        "objective_number": 4,
+        "description": "Explain how the structure of an egg cell is related to its function, limited to energy stores and the jelly coat that changes at fertilisation"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe fertilisation as the fusion of the nuclei from a male gamete (sperm) and a female gamete (egg cell)"
+      },
+      {
+        "objective_number": 6,
+        "description": "Compare male and female gametes in terms of size, structure, numbers and motility"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe the roles of testosterone and oestrogen in the development and regulation of secondary sexual characteristics during puberty"
+      },
+      {
+        "objective_number": 8,
+        "description": "Describe the menstrual cycle in terms of development and release of an egg and changes in the lining of the uterus"
+      },
+      {
+        "objective_number": 9,
+        "description": "Explain the roles of follicle-stimulating hormone (FSH), luteinising hormone (LH), oestrogen and progesterone in controlling the menstrual cycle"
+      },
+      {
+        "objective_number": 10,
+        "description": "Describe the early development of the zygote, limited to the formation of a ball of cells (embryo) that becomes implanted in the lining of the uterus"
+      },
+      {
+        "objective_number": 11,
+        "description": "State the functions of the amniotic sac and the amniotic fluid"
+      },
+      {
+        "objective_number": 12,
+        "description": "Identify, on diagrams, the placenta and umbilical cord and describe their functions in relation to the exchange of dissolved nutrients, gases and excretory products between the blood of the mother and the blood of the fetus (structural details are not required)"
+      },
+      {
+        "objective_number": 13,
+        "description": "State that some viruses can pass across the placenta and affect the fetus"
+      }
+    ]
+  }
+}

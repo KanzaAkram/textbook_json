@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Trigonometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.6",
+    "sub_topic_name": "Proving trigonometric relationships",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Prove trigonometric relationships involving the six trigonometric functions. (Includes the use of the relationships in 10.4. For example: sin x tan x + cos x = sec x, sin θ / (1 + cos θ) + (1 + cos θ) / sin θ = 2 cosec θ)"
+      }
+    ]
+  }
+}

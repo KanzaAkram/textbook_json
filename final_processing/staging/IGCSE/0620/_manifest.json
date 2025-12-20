@@ -1,0 +1,498 @@
+{
+  "level": "IGCSE",
+  "subject_code": "0620",
+  "generated_at": "2025-12-20T23:04:34.627809",
+  "total_matches": 49,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "Solids, liquids and gases",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\1.1_Solids_liquids_and_gases.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "Diffusion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\1.2_Diffusion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.1",
+      "subtopic_name": "Water",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\10.1_Water.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.2",
+      "subtopic_name": "Fertilisers",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\10.2_Fertilisers.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.3",
+      "subtopic_name": "Air quality and climate",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\10.3_Air_quality_and_climate.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.1",
+      "subtopic_name": "Formulae, functional groups and terminology",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\11.1_Formulae_functional_groups_and_terminology.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.2",
+      "subtopic_name": "Naming organic compounds",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\11.2_Naming_organic_compounds.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.3",
+      "subtopic_name": "Fuels",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\11.3_Fuels.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.4",
+      "subtopic_name": "Alkanes",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\11.4_Alkanes.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.5",
+      "subtopic_name": "Alkenes",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\11.5_Alkenes.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.6",
+      "subtopic_name": "Alcohols",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\11.6_Alcohols.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.7",
+      "subtopic_name": "Carboxylic acids",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\11.7_Carboxylic_acids.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.8",
+      "subtopic_name": "Polymers",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\11.8_Polymers.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.1",
+      "subtopic_name": "Experimental design",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\12.1_Experimental_design.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.2",
+      "subtopic_name": "Acid-base titrations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\12.2_Acid-base_titrations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.3",
+      "subtopic_name": "Chromatography",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\12.3_Chromatography.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.4",
+      "subtopic_name": "Separation and purification",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\12.4_Separation_and_purification.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.5",
+      "subtopic_name": "Identification of ions and gases",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\12.5_Identification_of_ions_and_gases.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Elements, compounds and mixtures",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\2.1_Elements_compounds_and_mixtures.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.2",
+      "subtopic_name": "Atomic structure and the Periodic Table",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\2.2_Atomic_structure_and_the_Periodic_Table.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.3",
+      "subtopic_name": "Isotopes",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\2.3_Isotopes.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.4",
+      "subtopic_name": "Ions and ionic bonds",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\2.4_Ions_and_ionic_bonds.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.5",
+      "subtopic_name": "Simple molecules and covalent bonds",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\2.5_Simple_molecules_and_covalent_bonds.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.6",
+      "subtopic_name": "Giant covalent structures",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\2.6_Giant_covalent_structures.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.7",
+      "subtopic_name": "Metallic bonding",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\2.7_Metallic_bonding.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.1",
+      "subtopic_name": "Formulae",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\3.1_Formulae.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.2",
+      "subtopic_name": "Relative masses of atoms and molecules",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\3.2_Relative_masses_of_atoms_and_molecules.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.3",
+      "subtopic_name": "The mole and the Avogadro constant",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\3.3_The_mole_and_the_Avogadro_constant.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "Electrolysis",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\4.1_Electrolysis.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "Hydrogen-oxygen fuel cells",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\4.2_Hydrogen-oxygen_fuel_cells.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.1",
+      "subtopic_name": "Exothermic and endothermic reactions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\5.1_Exothermic_and_endothermic_reactions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.1",
+      "subtopic_name": "Physical and chemical changes",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\6.1_Physical_and_chemical_changes.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.2",
+      "subtopic_name": "Rate of reaction",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\6.2_Rate_of_reaction.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.3",
+      "subtopic_name": "Reversible reactions and equilibrium",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\6.3_Reversible_reactions_and_equilibrium.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.4",
+      "subtopic_name": "Redox",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\6.4_Redox.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.1",
+      "subtopic_name": "The characteristic properties of acids and bases",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\7.1_The_characteristic_properties_of_acids_and_bases.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.2",
+      "subtopic_name": "Oxides",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\7.2_Oxides.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.3",
+      "subtopic_name": "Preparation of salts",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\7.3_Preparation_of_salts.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.1",
+      "subtopic_name": "Arrangement of elements",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\8.1_Arrangement_of_elements.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.2",
+      "subtopic_name": "Group I properties",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\8.2_Group_I_properties.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.3",
+      "subtopic_name": "Group VII properties",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\8.3_Group_VII_properties.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.4",
+      "subtopic_name": "Transition elements",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\8.4_Transition_elements.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.5",
+      "subtopic_name": "Noble gases",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\8.5_Noble_gases.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.1",
+      "subtopic_name": "Properties of metals",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\9.1_Properties_of_metals.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.2",
+      "subtopic_name": "Uses of metals",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\9.2_Uses_of_metals.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.3",
+      "subtopic_name": "Alloys and their properties",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\9.3_Alloys_and_their_properties.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.4",
+      "subtopic_name": "Reactivity series",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\9.4_Reactivity_series.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.5",
+      "subtopic_name": "Corrosion of metals",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\9.5_Corrosion_of_metals.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.6",
+      "subtopic_name": "Extraction of metals",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0620\\9.6_Extraction_of_metals.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

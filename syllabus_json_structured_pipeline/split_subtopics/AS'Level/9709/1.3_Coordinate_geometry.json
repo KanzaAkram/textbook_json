@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Pure Mathematics 1 (for Paper 1)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.3",
+    "sub_topic_name": "Coordinate geometry",
+    "learning_objectives": [
+      {
+        "description": "find the equation of a straight line given sufficient information",
+        "notes_and_examples": "e.g. given two points, or one point and the gradient."
+      },
+      {
+        "description": "interpret and use any of the forms y = mx + c, y - y₁ = m(x - x₁), ax + by + c = 0 in solving problems",
+        "notes_and_examples": "Including calculations of distances, gradients, midpoints, points of intersection and use of the relationship between the gradients of parallel and perpendicular lines."
+      },
+      {
+        "description": "understand that the equation (x – a)² + (y - b)² = r² represents the circle with centre (a, b) and radius r",
+        "notes_and_examples": "Including use of the expanded form x² + y² + 2gx + 2fy + c = 0."
+      },
+      {
+        "description": "use algebraic methods to solve problems involving lines and circles",
+        "notes_and_examples": "Including use of elementary geometrical properties of circles, e.g. tangent perpendicular to radius, angle in a semicircle, symmetry. Implicit differentiation is not included."
+      },
+      {
+        "description": "understand the relationship between a graph and its associated algebraic equation, and use the relationship between points of intersection of graphs and solutions of equations.",
+        "notes_and_examples": "e.g. to determine the set of values of k for which the line y = x + k intersects, touches or does not meet a quadratic curve."
+      }
+    ]
+  }
+}

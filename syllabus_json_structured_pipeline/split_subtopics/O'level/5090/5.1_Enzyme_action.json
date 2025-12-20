@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Enzymes"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Enzyme action",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe a catalyst as a substance that increases the rate of a chemical reaction and is not changed by the reaction"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe enzymes as proteins that function as biological catalysts and are involved in all metabolic reactions"
+      },
+      {
+        "objective_number": 3,
+        "description": "Explain enzyme action with reference to the substrate, active site, enzyme-substrate complex, and product"
+      },
+      {
+        "objective_number": 4,
+        "description": "Explain the specificity of enzymes in terms of the complementary shape and fit of the active site with the substrate ('lock and key' hypothesis)"
+      }
+    ]
+  }
+}

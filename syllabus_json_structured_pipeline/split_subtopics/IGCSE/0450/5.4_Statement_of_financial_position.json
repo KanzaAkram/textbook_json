@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Financial information and decisions"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4",
+    "sub_topic_name": "Statement of financial position",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "The main classifications of assets and liabilities, using examples"
+      },
+      {
+        "objective_number": 2,
+        "description": "Interpret a simple statement of financial position and make deductions from it, e.g. how a business is financing its activities and what assets it owns, sale of inventories to raise finance (constructing statements of financial position will not be assessed)"
+      }
+    ]
+  }
+}

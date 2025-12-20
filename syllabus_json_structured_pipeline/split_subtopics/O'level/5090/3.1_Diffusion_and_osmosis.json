@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Movement into and out of cells"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Diffusion and osmosis",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the role of water as a solvent in organisms with reference to digestion, excretion and transport"
+      },
+      {
+        "objective_number": 2,
+        "description": "Understand that the energy for diffusion and osmosis comes from the kinetic energy of random movement of molecules and ions"
+      },
+      {
+        "objective_number": 3,
+        "description": "Understand diffusion as the net movement of molecules or ions from a region of their higher concentration to a region of their lower concentration (i.e. down a concentration gradient), as a result of their random movement"
+      },
+      {
+        "objective_number": 4,
+        "description": "Investigate the factors that influence diffusion, limited to: surface area, temperature, concentration gradient and distance"
+      },
+      {
+        "objective_number": 5,
+        "description": "Understand osmosis as the net movement of water molecules from a region of higher water potential to a region of lower water potential, through a partially permeable membrane"
+      },
+      {
+        "objective_number": 6,
+        "description": "Understand that plants are supported by the pressure of water inside the cells pressing outwards on the cell wall"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe the effects of osmosis on plant and animal tissues and explain the importance of water potential gradient and osmosis in the uptake and loss of water"
+      },
+      {
+        "objective_number": 8,
+        "description": "Investigate and explain the effects on plant tissues of immersing them in solutions of different concentrations, using the terms turgid, turgor pressure, plasmolysis and flaccid"
+      },
+      {
+        "objective_number": 9,
+        "description": "Investigate osmosis using materials such as dialysis tubing"
+      }
+    ]
+  }
+}

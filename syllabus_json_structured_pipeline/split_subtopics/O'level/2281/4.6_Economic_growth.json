@@ -1,0 +1,49 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Government and the macroeconomy"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.6",
+    "sub_topic_name": "Economic growth",
+    "learning_objectives": [
+      {
+        "objective_number": "4.6.1",
+        "objective_title": "definition of economic growth",
+        "guidance": "Real Gross Domestic Product (GDP) and how it can be used to measure economic growth. GDP per head (capita)."
+      },
+      {
+        "objective_number": "4.6.2",
+        "objective_title": "measurement of economic growth",
+        "guidance": "Real Gross Domestic Product (GDP) and how it can be used to measure economic growth. GDP per head (capita)."
+      },
+      {
+        "objective_number": "4.6.3",
+        "objective_title": "causes and consequences of recession",
+        "guidance": "Meaning of recession and how a recession moves the economy within its PPC."
+      },
+      {
+        "objective_number": "4.6.4",
+        "objective_title": "causes of economic growth",
+        "guidance": "How changes in total demand may increase the utilisation of resources and GDP – resulting in a movement from inside toward the PPC. How economic growth shifts the economy's PPC to the right and is caused by changes in investment, technology, and the quantity and quality of the factors of production."
+      },
+      {
+        "objective_number": "4.6.5",
+        "objective_title": "consequences of economic growth",
+        "guidance": "The costs and benefits of economic growth in the context of different economies."
+      },
+      {
+        "objective_number": "4.6.6",
+        "objective_title": "policies to promote economic growth",
+        "guidance": "The range of policies available to promote economic growth and how effective they might be."
+      }
+    ]
+  }
+}

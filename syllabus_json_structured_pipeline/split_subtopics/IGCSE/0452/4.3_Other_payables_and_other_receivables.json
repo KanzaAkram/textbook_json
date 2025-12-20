@@ -1,0 +1,22 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Accounting procedures"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Other payables and other receivables",
+    "learning_objectives": [
+      "recognise the importance of matching costs and revenues",
+      "prepare ledger accounts and journal entries to record accrued and prepaid expenses",
+      "prepare ledger accounts and journal entries to record accrued and prepaid incomes."
+    ]
+  }
+}

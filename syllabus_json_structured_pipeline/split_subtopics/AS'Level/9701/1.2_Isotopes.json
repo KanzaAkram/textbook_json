@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Atomic structure"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Isotopes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the term isotope in terms of numbers of protons and neutrons"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the notation A_y X for isotopes, where x is the mass or nucleon number and y is the atomic or proton number"
+      },
+      {
+        "objective_number": 3,
+        "description": "state that and explain why isotopes of the same element have the same chemical properties"
+      },
+      {
+        "objective_number": 4,
+        "description": "state that and explain why isotopes of the same element have different physical properties, limited to mass and density"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Data Representation"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.1",
+    "sub_topic_name": "User-defined data types",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of why user-defined types are necessary"
+      },
+      {
+        "objective_number": 2,
+        "description": "Define and use non-composite types (Including enumerated, pointer)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Define and use composite data types (Including set, record and class/object)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Choose and design an appropriate user-defined data type for a given problem"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "International economic issues (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.6",
+    "sub_topic_name": "Globalisation",
+    "learning_objectives": [
+      {
+        "objective_number": "11.6.1",
+        "description": "meaning of globalisation and its causes and consequences"
+      },
+      {
+        "objective_number": "11.6.2",
+        "description": "distinction between a free trade area, a customs union, a monetary union and full economic union"
+      },
+      {
+        "objective_number": "11.6.3",
+        "description": "trade creation and trade diversion"
+      }
+    ]
+  }
+}

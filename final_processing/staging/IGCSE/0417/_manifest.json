@@ -1,0 +1,568 @@
+{
+  "level": "IGCSE",
+  "subject_code": "0417",
+  "generated_at": "2025-12-20T23:04:29.896366",
+  "total_matches": 56,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "Hardware and software",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\1.1_Hardware_and_software.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "The main components of computer systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\1.2_The_main_components_of_computer_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.3",
+      "subtopic_name": "Operating systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\1.3_Operating_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.4",
+      "subtopic_name": "Types of computer",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\1.4_Types_of_computer.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.5",
+      "subtopic_name": "Emerging technologies",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\1.5_Emerging_technologies.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.1",
+      "subtopic_name": "Communication with other ICT users using email",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\10.1_Communication_with_other_ICT_users_using_email.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.2",
+      "subtopic_name": "Effective use of the internet",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\10.2_Effective_use_of_the_internet.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.1",
+      "subtopic_name": "Manage files effectively",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\11.1_Manage_files_effectively.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.2",
+      "subtopic_name": "Reduce file sizes for storage or transmission",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\11.2_Reduce_file_sizes_for_storage_or_transmission.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.0",
+      "subtopic_name": "Images",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\12.0_Images.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.1",
+      "subtopic_name": "Create or edit a document",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\13.1_Create_or_edit_a_document.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.2",
+      "subtopic_name": "Tables",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\13.2_Tables.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.3",
+      "subtopic_name": "Headers and footers",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\13.3_Headers_and_footers.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.0",
+      "subtopic_name": "Styles",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\14.0_Styles.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.1",
+      "subtopic_name": "Software tools",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\15.1_Software_tools.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.2",
+      "subtopic_name": "Proofing techniques",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\15.2_Proofing_techniques.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "16.0",
+      "subtopic_name": "Graphs and charts",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\16.0_Graphs_and_charts.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.1",
+      "subtopic_name": "Create a database structure",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\18.1_Create_a_database_structure.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.2",
+      "subtopic_name": "Manipulate data",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\18.2_Manipulate_data.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.3",
+      "subtopic_name": "Present data",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\18.3_Present_data.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Input devices and their uses",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\2.1_Input_devices_and_their_uses.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.2",
+      "subtopic_name": "Direct data entry and associated devices",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\2.2_Direct_data_entry_and_associated_devices.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.3",
+      "subtopic_name": "Output devices and their uses",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\2.3_Output_devices_and_their_uses.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.1",
+      "subtopic_name": "Create a data model",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\20.1_Create_a_data_model.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.2",
+      "subtopic_name": "Manipulate data",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\20.2_Manipulate_data.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.3",
+      "subtopic_name": "Present data",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\20.3_Present_data.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "21.1",
+      "subtopic_name": "Web development layers",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\21.1_Web_development_layers.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "21.2",
+      "subtopic_name": "Create a web page",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\21.2_Create_a_web_page.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "21.3",
+      "subtopic_name": "Use stylesheets",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\21.3_Use_stylesheets.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.0",
+      "subtopic_name": "Storage devices and media",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\3.0_Storage_devices_and_media.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "Networks",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\4.1_Networks.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "Network issues and communication",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\4.2_Network_issues_and_communication.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.1",
+      "subtopic_name": "Microprocessor-controlled devices",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\5.1_Microprocessor-controlled_devices.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.2",
+      "subtopic_name": "Potential health problems related to the prolonged use of IT equipment",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\5.2_Potential_health_problems_related_to_the_prolonged_use_of_IT_equipment.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.1",
+      "subtopic_name": "Communication",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.1_Communication.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.10",
+      "subtopic_name": "Recognition systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.10_Recognition_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.11",
+      "subtopic_name": "Satellite systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.11_Satellite_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.2",
+      "subtopic_name": "Modelling applications",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.2_Modelling_applications.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.3",
+      "subtopic_name": "Computer controlled systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.3_Computer_controlled_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.4",
+      "subtopic_name": "School management systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.4_School_management_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.5",
+      "subtopic_name": "Booking systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.5_Booking_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.6",
+      "subtopic_name": "Banking applications",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.6_Banking_applications.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.7",
+      "subtopic_name": "Computers in medicine",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.7_Computers_in_medicine.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.8",
+      "subtopic_name": "Expert systems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.8_Expert_systems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.9",
+      "subtopic_name": "Computers in the retail industry",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\6.9_Computers_in_the_retail_industry.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.1",
+      "subtopic_name": "Analysis",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\7.1_Analysis.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.2",
+      "subtopic_name": "Design",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\7.2_Design.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.3",
+      "subtopic_name": "Development and testing",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\7.3_Development_and_testing.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.4",
+      "subtopic_name": "Implementation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\7.4_Implementation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.5",
+      "subtopic_name": "Documentation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\7.5_Documentation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.6",
+      "subtopic_name": "Evaluation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\7.6_Evaluation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.1",
+      "subtopic_name": "Physical safety",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\8.1_Physical_safety.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.2",
+      "subtopic_name": "eSafety",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\8.2_eSafety.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.3",
+      "subtopic_name": "Security of data",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\8.3_Security_of_data.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.1",
+      "subtopic_name": "Audience appreciation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\9.1_Audience_appreciation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.2",
+      "subtopic_name": "Copyright",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\IGCSE\\0417\\9.2_Copyright.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

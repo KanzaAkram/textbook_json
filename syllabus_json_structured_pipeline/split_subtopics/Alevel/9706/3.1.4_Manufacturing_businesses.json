@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Financial accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1.4",
+    "sub_topic_name": "Manufacturing businesses",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "how to prepare a manufacturing account, to differentiate between direct and indirect expenses and to include factory profit"
+      },
+      {
+        "objective_number": 2,
+        "description": "how to prepare, for a manufacturing business, a statement of profit or loss and a statement of financial position"
+      },
+      {
+        "objective_number": 3,
+        "description": "how to account for manufacturing profit and the elimination of unrealised profit from unsold inventory"
+      },
+      {
+        "objective_number": 4,
+        "description": "the reasons why a business may account for manufacturing profit"
+      }
+    ]
+  }
+}

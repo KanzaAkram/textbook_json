@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "ICT applications"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Computer controlled systems",
+    "learning_objectives": [
+      {
+        "description": "Computer controlled systems",
+        "notes_and_guidance": "Including: robotics in manufacture, production line control, autonomous vehicles\nAdvantages and disadvantages of using computer controlled systems rather than humans"
+      }
+    ]
+  }
+}

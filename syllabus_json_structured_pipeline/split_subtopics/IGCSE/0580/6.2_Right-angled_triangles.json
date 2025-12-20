@@ -1,0 +1,28 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Trigonometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Right-angled triangles",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Know and use the sine, cosine and tangent ratios for acute angles in calculations involving sides and angles of a right-angled triangle."
+      },
+      {
+        "objective_number": 2,
+        "description": "Solve problems in two dimensions using Pythagoras' theorem and trigonometry."
+      }
+    ],
+    "notes_and_examples": "Angles will be given in degrees and answers should be written in degrees, with decimals correct to one decimal place.\nKnowledge of bearings may be required."
+  }
+}

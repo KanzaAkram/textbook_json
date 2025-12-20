@@ -1,0 +1,44 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Government and the macroeconomy"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.8",
+    "sub_topic_name": "Inflation and deflation",
+    "learning_objectives": [
+      {
+        "objective_number": "4.8.1",
+        "objective_title": "definition of inflation and deflation",
+        "guidance": "Measurement of inflation and deflation using the Consumer Prices Index (CPI)."
+      },
+      {
+        "objective_number": "4.8.2",
+        "objective_title": "measurement of inflation and deflation",
+        "guidance": "Measurement of inflation and deflation using the Consumer Prices Index (CPI)."
+      },
+      {
+        "objective_number": "4.8.3",
+        "objective_title": "causes of inflation and deflation",
+        "guidance": "Causes of inflation: demand-pull and cost-push. Causes of deflation: demand-side and supply-side."
+      },
+      {
+        "objective_number": "4.8.4",
+        "objective_title": "consequences of inflation and deflation",
+        "guidance": "The consequences of inflation and deflation for consumers, workers, savers, lenders, firms and the economy as a whole."
+      },
+      {
+        "objective_number": "4.8.5",
+        "objective_title": "policies to control inflation and deflation",
+        "guidance": "The range of policies available to control inflation and deflation and how effective they might be."
+      }
+    ]
+  }
+}

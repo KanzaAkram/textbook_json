@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "23",
+    "topic_name": "Nuclear physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "23.1",
+    "sub_topic_name": "Mass defect and nuclear binding energy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the equivalence between energy and mass as represented by E = mc² and recall and use this equation"
+      },
+      {
+        "objective_number": 2,
+        "description": "represent simple nuclear reactions by nuclear equations of the form ¹⁴N + ⁴He → ¹⁷O + ¹H"
+      },
+      {
+        "objective_number": 3,
+        "description": "define and use the terms mass defect and binding energy"
+      },
+      {
+        "objective_number": 4,
+        "description": "sketch the variation of binding energy per nucleon with nucleon number"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain what is meant by nuclear fusion and nuclear fission"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain the relevance of binding energy per nucleon to nuclear reactions, including nuclear fusion and nuclear fission"
+      },
+      {
+        "objective_number": 7,
+        "description": "calculate the energy released in nuclear reactions using E = c²Δm"
+      }
+    ]
+  }
+}

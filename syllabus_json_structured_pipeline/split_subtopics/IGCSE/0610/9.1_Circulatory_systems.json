@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Transport in animals"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.1",
+    "sub_topic_name": "Circulatory systems",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the circulatory system as a system of blood vessels with a pump and valves to ensure one-way flow of blood"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 2,
+          "description": "Describe the single circulation of a fish"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe the double circulation of a mammal"
+        },
+        {
+          "objective_number": 4,
+          "description": "Explain the advantages of a double circulation"
+        }
+      ]
+    }
+  }
+}

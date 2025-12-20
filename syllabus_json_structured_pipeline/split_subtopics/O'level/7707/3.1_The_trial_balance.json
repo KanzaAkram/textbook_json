@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Verification of accounting records"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "The trial balance",
+    "learning_objectives": [
+      "understand that a trial balance is a statement of ledger balances on a particular date",
+      "outline the uses and limitations of a trial balance",
+      "prepare a trial balance from a given list of balances and amend a trial balance which contains errors",
+      "identify and explain those errors which do not affect the trial balance: commission, compensating, complete reversal, omission, original entry, principle."
+    ]
+  }
+}

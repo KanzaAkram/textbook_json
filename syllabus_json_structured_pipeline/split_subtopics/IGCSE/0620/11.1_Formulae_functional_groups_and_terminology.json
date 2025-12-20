@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.1",
+    "sub_topic_name": "Formulae, functional groups and terminology",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Draw and interpret the displayed formula of a molecule to show all the atoms and all the bonds"
+        },
+        {
+          "objective_number": 2,
+          "description": "Write and interpret general formulae of compounds in the same homologous series, limited to: (a) alkanes, CnH2n+2 (b) alkenes, CnH2n (c) alcohols, CnH2n+1OH (d) carboxylic acids, CnH2n+1COOH"
+        },
+        {
+          "objective_number": 3,
+          "description": "Identify a functional group as an atom or group of atoms that determine the chemical properties of a homologous series"
+        },
+        {
+          "objective_number": 4,
+          "description": "State that a homologous series is a family of similar compounds with similar chemical properties due to the presence of the same functional group"
+        },
+        {
+          "objective_number": 5,
+          "description": "State that a saturated compound has molecules in which all carbon-carbon bonds are single bonds"
+        },
+        {
+          "objective_number": 6,
+          "description": "State that an unsaturated compound has molecules in which one or more carbon-carbon bonds are not single bonds"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 7,
+          "description": "State that a structural formula is an unambiguous description of the way the atoms in a molecule are arranged, including CH2=CH2, CH3CH2OH, CH3COOCH3"
+        },
+        {
+          "objective_number": 8,
+          "description": "Define structural isomers as compounds with the same molecular formula, but different structural formulae, including C4H10 as CH3CH2CH2CH3 and CH3CH(CH3)CH3 and C4H8 as CH3CH2CH=CH2 and CH3CH=CHCH3"
+        },
+        {
+          "objective_number": 9,
+          "description": "Describe the general characteristics of a homologous series as: (a) having the same functional group (b) having the same general formula (c) differing from one member to the next by a -CH2- unit (d) displaying a trend in physical properties (e) sharing similar chemical properties"
+        }
+      ]
+    }
+  }
+}

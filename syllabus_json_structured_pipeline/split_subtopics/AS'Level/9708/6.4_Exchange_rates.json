@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "International economic issues (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.4",
+    "sub_topic_name": "Exchange rates",
+    "content": [
+      {
+        "point_number": "6.4.1",
+        "description": "definition of exchange rate"
+      },
+      {
+        "point_number": "6.4.2",
+        "description": "determination of a floating exchange rate"
+      },
+      {
+        "point_number": "6.4.3",
+        "description": "distinction between depreciation and appreciation of a floating exchange rate"
+      },
+      {
+        "point_number": "6.4.4",
+        "description": "causes of changes in a floating exchange rate: demand and supply of the currency"
+      },
+      {
+        "point_number": "6.4.5",
+        "description": "AD/AS analysis of the impact of exchange rate changes on the domestic economy's equilibrium national income and the level of real output, the price level and employment"
+      }
+    ]
+  }
+}

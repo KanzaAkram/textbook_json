@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Electricity and magnetism"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.6",
+    "sub_topic_name": "Uses of an oscilloscope",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the use of an oscilloscope to display waveforms (the structure of an oscilloscope is not required)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe how to measure p.d. and short intervals of time with an oscilloscope using the Y-gain and timebase"
+      }
+    ]
+  }
+}

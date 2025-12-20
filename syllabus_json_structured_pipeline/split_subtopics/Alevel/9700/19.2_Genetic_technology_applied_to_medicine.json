@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Genetic technology"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.2",
+    "sub_topic_name": "Genetic technology applied to medicine",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain the advantages of using recombinant human proteins to treat disease, using the examples insulin, factor VIII and adenosine deaminase"
+      },
+      {
+        "objective_number": 2,
+        "description": "outline the advantages of genetic screening, using the examples of breast cancer (BRCA1 and BRCA2), Huntington's disease and cystic fibrosis"
+      },
+      {
+        "objective_number": 3,
+        "description": "outline how genetic diseases can be treated with gene therapy, using the examples severe combined immunodeficiency (SCID) and inherited eye diseases"
+      },
+      {
+        "objective_number": 4,
+        "description": "discuss the social and ethical considerations of using genetic screening and gene therapy in medicine"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Metals"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.2",
+    "sub_topic_name": "Uses of metals",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the uses of metals in terms of their physical properties, including: (a) aluminium in the manufacture of aircraft because of its low density (b) aluminium in the manufacture of overhead electrical cables because of its low density and good electrical conductivity (c) aluminium in food containers because of its resistance to corrosion (d) copper in electrical wiring because of its good electrical conductivity and ductility"
+      }
+    ]
+  }
+}

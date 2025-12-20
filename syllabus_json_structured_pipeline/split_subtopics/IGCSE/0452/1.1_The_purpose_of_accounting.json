@@ -1,0 +1,22 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The fundamentals of accounting"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "The purpose of accounting",
+    "learning_objectives": [
+      "understand and explain the difference between book-keeping and accounting",
+      "state the purposes of measuring business profit and loss",
+      "explain the role of accounting in providing information for monitoring progress and decision-making."
+    ]
+  }
+}

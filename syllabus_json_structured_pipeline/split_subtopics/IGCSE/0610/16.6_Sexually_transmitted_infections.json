@@ -1,0 +1,42 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Reproduction"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.6",
+    "sub_topic_name": "Sexually transmitted infections",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe a sexually transmitted infection (STI) as an infection that is transmitted through sexual contact"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that human immunodeficiency virus (HIV) is a pathogen that causes an STI"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that HIV infection may lead to AIDS"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the methods of transmission of HIV"
+        },
+        {
+          "objective_number": 5,
+          "description": "Explain how the spread of STIs is controlled"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

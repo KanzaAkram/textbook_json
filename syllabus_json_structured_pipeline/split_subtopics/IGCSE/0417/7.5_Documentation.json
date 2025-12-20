@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The systems life cycle"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.5",
+    "sub_topic_name": "Documentation",
+    "learning_objectives": [
+      {
+        "description": "Documentation",
+        "notes_and_guidance": "Characteristics, uses and purpose of technical and user documentation\nComponents of technical documentation including: purpose of the system/program, limitations of the system, program listing, program language, program flowcharts/algorithms, system flowcharts, hardware and software requirements, file structures, list of variables, input format, output format, sample runs/test runs, validation routines\nComponents of user documentation including: purpose of the system, limitations of the system, hardware and software requirements, how to load/run/install software, how to save a file, how to print data, how to add records, how to delete/edit records, input format, output format, sample runs, error messages, error handling, troubleshooting guide/helpline, frequently asked questions, glossary of terms"
+      }
+    ]
+  }
+}

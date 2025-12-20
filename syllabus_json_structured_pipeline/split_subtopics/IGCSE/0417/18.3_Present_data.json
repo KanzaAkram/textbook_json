@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Databases"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.3",
+    "sub_topic_name": "Present data",
+    "learning_objectives": [
+      {
+        "description": "Display data",
+        "notes_and_guidance": "Produce reports to display data including displaying all the required data and labels in full. Use appropriate headers and footers within a database report including report header, report footer, page header, page footer. Set report titles. Produce different output layouts including controlling the display of data, labels, tabular or columnar format. Align data and labels appropriately including right aligning numeric data and decimal alignment. Control the display format of numeric data including number of decimal places, currency symbol, percentage"
+      }
+    ]
+  }
+}

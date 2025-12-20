@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Input and output devices"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Output devices and their uses",
+    "learning_objectives": [
+      {
+        "description": "Output devices",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of output devices including: monitors, touch screen (as an output device), multimedia projector, laser printer, inkjet printer, dot matrix printer, plotter, 3D printers, speaker, actuator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.8",
+    "sub_topic_name": "Standard form",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Use the standard form A × 10ⁿ where n is a positive or negative integer and 1 ≤ A < 10."
+      },
+      {
+        "objective_number": 2,
+        "description": "Convert numbers into and out of standard form."
+      },
+      {
+        "objective_number": 3,
+        "description": "Calculate with values in standard form."
+      }
+    ],
+    "notes_and_examples": "Core candidates are expected to calculate with standard form only on Paper 3."
+  }
+}

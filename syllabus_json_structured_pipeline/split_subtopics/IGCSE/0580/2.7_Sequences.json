@@ -1,0 +1,32 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.7",
+    "sub_topic_name": "Sequences",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Continue a given number sequence or pattern."
+      },
+      {
+        "objective_number": 2,
+        "description": "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences."
+      },
+      {
+        "objective_number": 3,
+        "description": "Find and use the nth term of the following sequences: (a) linear, (b) simple quadratic, (c) simple cubic."
+      }
+    ],
+    "notes_and_examples": "e.g. write the next two terms in this sequence: 1, 3, 6, 10, 15, ..., ...\ne.g. find the nth term of 2, 5, 10, 17"
+  }
+}

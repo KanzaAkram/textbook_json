@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "The Periodic Table"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Group I properties",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the Group I alkali metals, lithium, sodium and potassium, as relatively soft metals with general trends down the group, limited to: (a) decreasing melting point (b) increasing density (c) increasing reactivity"
+      },
+      {
+        "objective_number": 2,
+        "description": "Predict the properties of other elements in Group I, given information about the elements"
+      }
+    ]
+  }
+}

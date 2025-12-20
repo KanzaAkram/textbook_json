@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Motion, forces and energy"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.3",
+    "sub_topic_name": "Mass and weight",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State that mass is a measure of the quantity of matter in an object at rest relative to the observer"
+      },
+      {
+        "objective_number": 2,
+        "description": "State that the mass of an object resists change from its state of rest or motion (inertia)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Know that weights, and therefore masses, may be compared using a beam balance or equal-arm balance"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe how to determine mass using an electronic balance"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe how to measure weight using a force meter"
+      },
+      {
+        "objective_number": 6,
+        "description": "Define gravitational field strength as force per unit mass; recall and use the equation gravitational field strength = weight / mass, g = W / m and know that this is equivalent to the acceleration of free fall"
+      },
+      {
+        "objective_number": 7,
+        "description": "State that a gravitational field is a region in which a mass experiences a force due to gravitational attraction"
+      }
+    ]
+  }
+}

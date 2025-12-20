@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Cell structure"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "The microscope in cell studies",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "make temporary preparations of cellular material suitable for viewing with a light microscope"
+      },
+      {
+        "objective_number": 2,
+        "description": "draw cells from microscope slides and photomicrographs"
+      },
+      {
+        "objective_number": 3,
+        "description": "calculate magnifications of images and actual sizes of specimens from drawings, photomicrographs and electron micrographs (scanning and transmission)"
+      },
+      {
+        "objective_number": 4,
+        "description": "use an eyepiece graticule and stage micrometer scale to make measurements and use the appropriate units, millimetre (mm), micrometre (µm) and nanometre (nm)"
+      },
+      {
+        "objective_number": 5,
+        "description": "define resolution and magnification and explain the differences between these terms, with reference to light microscopy and electron microscopy"
+      }
+    ]
+  }
+}

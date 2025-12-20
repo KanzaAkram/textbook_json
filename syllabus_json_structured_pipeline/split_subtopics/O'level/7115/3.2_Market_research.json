@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Market research",
+    "learning_objectives": [
+      {
+        "objective_number": "3.2.1",
+        "description": "The role of market research and methods used: Market-orientated businesses (uses of market research information to a business); Primary research and secondary research (benefits and limitations of each); Methods of primary research, e.g. postal questionnaire, online survey, interviews, focus groups; The need for sampling; Methods of secondary research, e.g. online, accessing government sources, paying for commercial market research reports; Factors influencing the accuracy of market research data"
+      },
+      {
+        "objective_number": "3.2.2",
+        "description": "Presentation and use of market research results: Analyse market research data shown in the form of graphs, charts and diagrams; draw simple conclusions from such data"
+      }
+    ]
+  }
+}

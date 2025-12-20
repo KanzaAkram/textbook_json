@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Calculus"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.14",
+    "sub_topic_name": "Kinematics",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Apply differentiation and integration to kinematics problems that involve displacement, velocity and acceleration of a particle moving in a straight line with variable or constant acceleration. (For example: Given the velocity of a particle is v = 3t² – 30t + 72 find its acceleration when t = 2.)"
+      }
+    ]
+  }
+}

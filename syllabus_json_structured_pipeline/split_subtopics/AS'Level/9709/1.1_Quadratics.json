@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Pure Mathematics 1 (for Paper 1)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Quadratics",
+    "learning_objectives": [
+      {
+        "description": "carry out the process of completing the square for a quadratic polynomial ax² + bx + c and use a completed square form",
+        "notes_and_examples": "e.g. to locate the vertex of the graph of y = ax² + bx + c or to sketch the graph"
+      },
+      {
+        "description": "find the discriminant of a quadratic polynomial ax² + bx + c and use the discriminant",
+        "notes_and_examples": "e.g. to determine the number of real roots of the equation ax² + bx + c = 0. Knowledge of the term 'repeated root' is included."
+      },
+      {
+        "description": "solve quadratic equations, and quadratic inequalities, in one unknown",
+        "notes_and_examples": "By factorising, completing the square and using the formula."
+      },
+      {
+        "description": "solve by substitution a pair of simultaneous equations of which one is linear and one is quadratic",
+        "notes_and_examples": "e.g. x + y + 1 = 0 and x² + y² = 25, 2x + 3y = 7 and 3x² = 4 + 4xy."
+      },
+      {
+        "description": "recognise and solve equations in x which are quadratic in some function of x.",
+        "notes_and_examples": "e.g. x⁴ – 5x² + 4 = 0, 6x + √x − 1 = 0, tan²x = 1 + tanx."
+      }
+    ]
+  }
+}

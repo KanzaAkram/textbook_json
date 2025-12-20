@@ -1,0 +1,93 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Motion, forces and energy"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.7",
+    "sub_topic_name": "Energy, work and power",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "1.7.1",
+        "sub_sub_topic_name": "Energy",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "State that energy may be stored as kinetic, gravitational potential, chemical, elastic (strain), nuclear, electrostatic and internal (thermal)"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe how energy is transferred between stores during events and processes, including examples of transfer by forces (mechanical work done), electrical currents (electrical work done), heating, and by electromagnetic, sound and other waves"
+          },
+          {
+            "objective_number": 3,
+            "description": "Know the principle of the conservation of energy and apply this principle to the transfer of energy between stores during events and processes"
+          },
+          {
+            "objective_number": 4,
+            "description": "Recall and use the equation for kinetic energy Ek = ½mv²"
+          },
+          {
+            "objective_number": 5,
+            "description": "Recall and use the equation for the change in gravitational potential energy ΔEp = mgΔh"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.7.2",
+        "sub_sub_topic_name": "Work",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Recall and use the equation work done = force × distance moved in the direction of the force, W = Fd"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.7.3",
+        "sub_sub_topic_name": "Energy resources",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "List renewable and non-renewable energy sources"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe how useful energy may be obtained, or electrical power generated, from: (a) chemical energy stored in fossil fuels (b) chemical energy stored in biofuels (c) hydroelectric resources (d) solar radiation (e) nuclear fuel (f) geothermal resources (g) wind (h) tides (i) waves in the sea, including references to a boiler, turbine and generator where they are used"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe advantages and disadvantages of each method limited to whether it is renewable, when and whether it is available, and its impact on the environment"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.7.4",
+        "sub_sub_topic_name": "Efficiency",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Define efficiency as: (a) (%) efficiency = (useful energy output) / (total energy input) (× 100%) (b) (%) efficiency = (useful power output) / (total power input) (× 100%) and recall and use these equations"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "1.7.5",
+        "sub_sub_topic_name": "Power",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Define power as work done per unit time and also as energy transferred per unit time; recall and use the equations (a) power = work done / time taken, P = W/t (b) power = energy transferred / time taken, P = ΔE/t"
+          }
+        ]
+      }
+    ]
+  }
+}

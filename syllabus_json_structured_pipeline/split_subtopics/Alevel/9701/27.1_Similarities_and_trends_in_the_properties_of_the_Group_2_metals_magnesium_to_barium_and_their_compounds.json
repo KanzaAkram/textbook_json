@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "27",
+    "topic_name": "Group 2"
+  },
+  "subtopic": {
+    "sub_topic_number": "27.1",
+    "sub_topic_name": "Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and explain qualitatively the trend in the thermal stability of the nitrates and carbonates including the effect of ionic radius on the polarisation of the large anion"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe and explain qualitatively the variation in solubility and of enthalpy change of solution, ΔH°sol, of the hydroxides and sulfates in terms of relative magnitudes of the enthalpy change of hydration and the lattice energy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "ICT applications"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.5",
+    "sub_topic_name": "Booking systems",
+    "learning_objectives": [
+      {
+        "description": "Online booking systems",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of online booking systems including travel industry, concerts, cinemas, sporting events"
+      }
+    ]
+  }
+}

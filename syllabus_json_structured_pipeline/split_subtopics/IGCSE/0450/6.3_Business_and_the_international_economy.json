@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "External influences on business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Business and the international economy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "The concept of globalisation and the reasons for it"
+      },
+      {
+        "objective_number": 2,
+        "description": "Opportunities and threats of globalisation for businesses"
+      },
+      {
+        "objective_number": 3,
+        "description": "Why governments might introduce import tariffs and import quotas"
+      },
+      {
+        "objective_number": 4,
+        "description": "Benefits to a business of becoming a multinational and the impact on its stakeholders"
+      },
+      {
+        "objective_number": 5,
+        "description": "Potential benefits to a country and/or economy where a MNC is located, e.g. jobs, exports, increased choice, investment"
+      },
+      {
+        "objective_number": 6,
+        "description": "Potential drawbacks to a country and/or economy where a MNC is located, e.g. reduced sales of local businesses, repatriation of profits"
+      },
+      {
+        "objective_number": 7,
+        "description": "Depreciation and appreciation of an exchange rate"
+      },
+      {
+        "objective_number": 8,
+        "description": "How exchange rate changes can affect businesses as importers and exporters of products, e.g. prices, competitiveness, profitability (exchange rate calculations will not be assessed)"
+      }
+    ]
+  }
+}

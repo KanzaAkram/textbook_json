@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Transformations and vectors"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Vectors in two dimensions",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Describe a translation using a vector represented by (x y), AB or a.",
+        "notes_and_examples": "Vectors will be printed as AB or a."
+      },
+      {
+        "objective_number": "2",
+        "description": "Add and subtract vectors.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "3",
+        "description": "Multiply a vector by a scalar.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

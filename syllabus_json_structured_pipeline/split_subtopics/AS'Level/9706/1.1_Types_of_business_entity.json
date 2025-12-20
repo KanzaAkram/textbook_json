@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Accounting 9706",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Financial accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Types of business entity",
+    "learning_objectives": [
+      {
+        "objective_number": "1.1.1",
+        "objective_title": "Types of business entity",
+        "description": "Candidates should have an understanding of: the different types of business entity: sole trader, partnership, limited company (including public limited company (plc)); the advantages and disadvantages of these types of business entity; sources of finance and methods of funding for these types of business entity including: loans (secured and unsecured), bank overdrafts, payment by instalments, rental/leasing as an alternative to purchase, trade credit, sources of finance for limited companies as in 1.5.4. Candidates are expected to use their understanding of types of business entity to take relevant decisions. Note: Questions on Limited Liability Partnerships will not be set."
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.3",
+    "sub_topic_name": "Fuels",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Name the fossil fuels: coal, natural gas and petroleum"
+      },
+      {
+        "objective_number": 2,
+        "description": "Name methane as the main constituent of natural gas"
+      },
+      {
+        "objective_number": 3,
+        "description": "State that hydrocarbons are compounds that contain hydrogen and carbon only"
+      },
+      {
+        "objective_number": 4,
+        "description": "State that petroleum is a mixture of hydrocarbons"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe the separation of petroleum into useful fractions by fractional distillation"
+      },
+      {
+        "objective_number": 6,
+        "description": "Describe how the properties of fractions obtained from petroleum change from the bottom to the top of the fractionating column, limited to: (a) decreasing chain length (b) higher volatility (c) lower boiling points (d) lower viscosity"
+      },
+      {
+        "objective_number": 7,
+        "description": "Name the uses of the fractions as: (a) refinery gas fraction for gas used in heating and cooking (b) gasoline/petrol fraction for fuel used in cars (c) naphtha fraction as a chemical feedstock (d) kerosene/paraffin fraction for jet fuel (e) diesel oil/gas oil fraction for fuel used in diesel engines (f) fuel oil fraction for fuel used in ships and home heating systems (g) lubricating oil fraction for lubricants, waxes and polishes (h) bitumen fraction for making roads"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Government macroeconomic intervention (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.1",
+    "sub_topic_name": "Government macroeconomic policy objectives",
+    "learning_objectives": [
+      {
+        "objective_number": "10.1.1",
+        "description": "objectives in terms of inflation, balance of payments, unemployment, growth, development, sustainability and redistribution of income and wealth"
+      }
+    ]
+  }
+}

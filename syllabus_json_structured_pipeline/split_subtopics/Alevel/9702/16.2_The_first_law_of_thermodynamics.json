@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Thermodynamics"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.2",
+    "sub_topic_name": "The first law of thermodynamics",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall and use W = pΔV for the work done when the volume of a gas changes at constant pressure and understand the difference between the work done by the gas and the work done on the gas"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use the first law of thermodynamics ΔU = q + W expressed in terms of the increase in internal energy, the heating of the system (energy transferred to the system by heating) and the work done on the system"
+      }
+    ]
+  }
+}

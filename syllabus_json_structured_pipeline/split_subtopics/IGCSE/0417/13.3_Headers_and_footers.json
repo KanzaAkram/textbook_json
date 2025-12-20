@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Layout"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.3",
+    "sub_topic_name": "Headers and footers",
+    "learning_objectives": [
+      {
+        "description": "Use headers and footers appropriately within a range of software packages",
+        "notes_and_guidance": "Create or edit headers and footers\nAlign the contents of the header and footer consistently within a document including to left margin, right margin and centred within margins\nPlace text and automated objects in headers and footers including file information, page numbering, total number of pages, date, time"
+      },
+      {
+        "description": "The purpose of headers and footers",
+        "notes_and_guidance": null
+      }
+    ]
+  }
+}

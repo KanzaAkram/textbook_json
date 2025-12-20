@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Verification of accounting records"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Correction of errors",
+    "learning_objectives": [
+      "correct errors by means of journal entries",
+      "explain the use of a suspense account as a temporary measure to balance the trial balance",
+      "correct errors by means of suspense accounts",
+      "adjust a profit or loss for an accounting period after the correction of errors",
+      "understand the effect of correction of errors on a statement of financial position."
+    ]
+  }
+}

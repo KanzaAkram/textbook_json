@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.6",
+    "sub_topic_name": "Inequalities",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Represent and interpret inequalities, including on a number line.",
+        "notes_and_examples": "When representing and interpreting inequalities on a number line: open circles should be used to represent strict inequalities (<, >), closed circles should be used to represent inclusive inequalities (≤, ≥). e.g. -3 ≤ x < 1."
+      },
+      {
+        "objective_number": "2",
+        "description": "Construct, solve and interpret linear inequalities.",
+        "notes_and_examples": "Examples include: 3x < 2x + 4, -3 ≤ 3x - 2 < 7."
+      },
+      {
+        "objective_number": "3",
+        "description": "Represent and interpret linear inequalities in two variables graphically.",
+        "notes_and_examples": "The following conventions should be used: broken lines should be used to represent strict inequalities (<, >), solid lines should be used to represent inclusive inequalities (≤, ≥), shading should be used to represent unwanted regions (unless otherwise directed in the question)."
+      },
+      {
+        "objective_number": "4",
+        "description": "List inequalities that define a given region.",
+        "notes_and_examples": "Linear programming problems are not included."
+      }
+    ]
+  }
+}

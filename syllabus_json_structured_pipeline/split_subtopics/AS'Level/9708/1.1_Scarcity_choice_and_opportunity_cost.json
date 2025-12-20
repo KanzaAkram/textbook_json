@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Basic economic ideas and resource allocation (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Scarcity, choice and opportunity cost",
+    "content": [
+      {
+        "point_number": "1.1.1",
+        "description": "fundamental economic problem of scarcity"
+      },
+      {
+        "point_number": "1.1.2",
+        "description": "need to make choices at all levels (individuals, firms, governments)"
+      },
+      {
+        "point_number": "1.1.3",
+        "description": "nature and definition of opportunity cost, arising from choices"
+      },
+      {
+        "point_number": "1.1.4",
+        "description": "basic questions of resource allocation: what to produce, how to produce, for whom to produce"
+      }
+    ]
+  }
+}

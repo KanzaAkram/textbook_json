@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Electric fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.4",
+    "sub_topic_name": "Electric field of a point charge",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall and use E = Q/(4πε₀r²) for the electric field strength due to a point charge in free space"
+      }
+    ]
+  }
+}

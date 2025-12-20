@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Pure Mathematics 3 (for Paper 3)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Algebra",
+    "learning_objectives": [
+      {
+        "description": "understand the meaning of |x|, sketch the graph of y = |ax + b| and use relations such as |a| = |b| ⇔ a² = b² and |x - a| < b ⇔ a - b < x < a + b when solving equations and inequalities",
+        "notes_and_examples": "Graphs of y = |f(x)| and y = f(|x|) for non-linear functions f are not included. e.g. |3x - 2| = |2x + 7|, 2x + 5 < |x + 1|."
+      },
+      {
+        "description": "divide a polynomial, of degree not exceeding 4, by a linear or quadratic polynomial, and identify the quotient and remainder (which may be zero)",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use the factor theorem and the remainder theorem",
+        "notes_and_examples": "e.g. to find factors and remainders, solve polynomial equations or evaluate unknown coefficients. Including factors of the form (ax + b) in which the coefficient of x is not unity, and including calculation of remainders."
+      },
+      {
+        "description": "recall an appropriate form for expressing rational functions in partial fractions, and carry out the decomposition, in cases where the denominator is no more complicated than (ax + b)(cx + d)(ex + f), (ax + b)(cx + d)², (ax + b)(cx² + d)",
+        "notes_and_examples": "Excluding cases where the degree of the numerator exceeds that of the denominator"
+      },
+      {
+        "description": "use the expansion of (1 + x)ⁿ, where n is a rational number and |x| < 1.",
+        "notes_and_examples": "Finding the general term in an expansion is not included. Adapting the standard series to expand e.g. (2 - 3x)⁻¹ is included, and determining the set of values of x for which the expansion is valid in such cases is also included."
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Business and its environment (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "External influences on business activity",
+    "learning_objectives": [
+      {
+        "objective_number": "6.1.1",
+        "description": "Political and legal: the advantages and disadvantages of privatisation in a given situation; the advantages and disadvantages of nationalisation in a given situation; how a government might use the law to seek to control: employment practices, conditions of work (including health and safety), wage levels, marketing behaviour, competition, location decisions, particular goods and services; the impact of changes in political and legal factors on business and business decisions."
+      },
+      {
+        "objective_number": "6.1.2",
+        "description": "Economic: how government might intervene to help businesses and encourage enterprise; how government might intervene to constrain business activity; how government might deal with market failure; the key macroeconomic objectives of governments: low unemployment, low inflation, economic growth; how macroeconomic objectives and performance of an economy can have an impact on business activity; government policies used to achieve macroeconomic objectives: monetary, fiscal, supply-side and exchange rate policies; the impact of changes in these government policies on business and business decisions."
+      },
+      {
+        "objective_number": "6.1.3",
+        "description": "Social and demographic: the impact of and issues associated with corporate social responsibility (CSR), e.g. accounting practices, paying incentives for the award of contracts, social auditing; why businesses need to consider the needs of the community including pressure groups; demographic changes at a local, national and global level; the impact of social and demographic change on business and business decisions."
+      },
+      {
+        "objective_number": "6.1.4",
+        "description": "Technological: the impact of technological change on business and business decisions."
+      },
+      {
+        "objective_number": "6.1.5",
+        "description": "Competitors and suppliers: the impact of competitors and suppliers on business and business decisions."
+      },
+      {
+        "objective_number": "6.1.6",
+        "description": "International: the importance of international trading links and their impact on business and business decisions; how international trade agreements might have an impact on businesses; the role of technology in international trade; the advantages and disadvantages that a multinational might bring to a country; relationships between multinationals and governments."
+      },
+      {
+        "objective_number": "6.1.7",
+        "description": "Environmental: how physical environmental issues might influence business behaviour; how a business and its stakeholders may use an environmental audit; the impact of the growing importance of sustainability on business and business decisions."
+      }
+    ]
+  }
+}

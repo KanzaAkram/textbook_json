@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Agricultural development"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Factors affecting production",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain how natural and human factors affect production on small-scale subsistence farms, including: rice grown using traditional methods of ploughing, transplanting, irrigating, harvesting and threshing on small, fragmented holdings using family labour; wheat grown in areas dependent upon rainfall (barani farming areas); dates and vegetables grown using karez irrigation in a desert oasis"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain how natural factors, including climatic requirements, and human factors affect the production of cotton, rice, sugar cane (kharif crops) and of wheat (a rabi crop) under the cash crop farming system"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain how natural and human factors affect livestock farming (poultry farming, the keeping of buffalo and cattle, the keeping of livestock) on small-scale subsistence farms and the keeping of cattle, goats and sheep on a nomadic or semi-nomadic basis, including transhumance"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the different types of irrigation and explain the advantages and disadvantages of each for small-scale subsistence farming, and for the growing of cotton, rice, sugar cane and wheat: canal irrigation – karez, inundation and perennial canal; lift irrigation - Persian wheel and tubewell; understand the roles of dams, barrages, link canals, distribution canals, field channels and bunds"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain the causes of waterlogging and salinity, and: explain how land damaged by it can be restored; evaluate how agricultural practice and water management can be improved to prevent it happening"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand how government action has helped to increase production through land reforms, the promotion of training and the use of machinery, chemicals, improved seeds and other means"
+      },
+      {
+        "objective_number": 7,
+        "description": "understand and evaluate the possibilities for and problems of the development of agriculture and its sustainability."
+      }
+    ]
+  }
+}

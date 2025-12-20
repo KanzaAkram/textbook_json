@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Respiration"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.3",
+    "sub_topic_name": "Anaerobic respiration",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe anaerobic respiration as the chemical reactions in cells that break down nutrient molecules to release energy without using oxygen"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that anaerobic respiration releases much less energy per glucose molecule than aerobic respiration"
+        },
+        {
+          "objective_number": 3,
+          "description": "State the word equation for anaerobic respiration in yeast as: glucose → alcohol + carbon dioxide"
+        },
+        {
+          "objective_number": 4,
+          "description": "State the word equation for anaerobic respiration in muscles during vigorous exercise as: glucose → lactic acid"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 5,
+          "description": "State the balanced chemical equation for anaerobic respiration in yeast as: C6H12O6 → 2C2H5OH + 2CO2"
+        },
+        {
+          "objective_number": 6,
+          "description": "State that lactic acid builds up in muscles and blood during vigorous exercise causing an oxygen debt"
+        },
+        {
+          "objective_number": 7,
+          "description": "Outline how the oxygen debt is removed after exercise, limited to: (a) continuation of fast heart rate to transport lactic acid in the blood from the muscles to the liver (b) continuation of deeper and faster breathing to supply oxygen for aerobic respiration of lactic acid (c) aerobic respiration of lactic acid in the liver"
+        }
+      ]
+    }
+  }
+}

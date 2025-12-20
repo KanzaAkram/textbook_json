@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Temperature"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.2",
+    "sub_topic_name": "Temperature scales",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a physical property that varies with temperature may be used for the measurement of temperature and state examples of such properties, including the density of a liquid, volume of a gas at constant pressure, resistance of a metal, e.m.f. of a thermocouple"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that the scale of thermodynamic temperature does not depend on the property of any particular substance"
+      },
+      {
+        "objective_number": 3,
+        "description": "convert temperatures between kelvin and degrees Celsius and recall that T/K = θ/°C + 273.15"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand that the lowest possible temperature is zero kelvin on the thermodynamic temperature scale and that this is known as absolute zero"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Biological molecules"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Proteins",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and draw the general structure of an amino acid and the formation and breakage of a peptide bond"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the meaning of the terms primary structure, secondary structure, tertiary structure and quaternary structure of proteins"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the types of interaction that hold protein molecules in shape: hydrophobic interactions, hydrogen bonding, ionic bonding, covalent bonding, including disulfide bonds"
+      },
+      {
+        "objective_number": 4,
+        "description": "state that globular proteins are generally soluble and have physiological roles and fibrous proteins are generally insoluble and have structural roles"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe the structure of a molecule of haemoglobin as an example of a globular protein, including the formation of its quaternary structure from two alpha (α) chains (α-globin), two beta (β) chains (β-globin) and a haem group"
+      },
+      {
+        "objective_number": 6,
+        "description": "relate the structure of haemoglobin to its function, including the importance of iron in the haem group"
+      },
+      {
+        "objective_number": 7,
+        "description": "describe the structure of a molecule of collagen as an example of a fibrous protein, and the arrangement of collagen molecules to form collagen fibres"
+      },
+      {
+        "objective_number": 8,
+        "description": "relate the structures of collagen molecules and collagen fibres to their function"
+      }
+    ]
+  }
+}

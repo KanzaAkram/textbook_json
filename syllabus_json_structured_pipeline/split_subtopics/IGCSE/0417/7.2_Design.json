@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The systems life cycle"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Design",
+    "learning_objectives": [
+      {
+        "description": "Design",
+        "notes_and_guidance": "Design file/data structures, input formats, output formats and validation routines\nFile/data structures including field length, field name, data type, coding of data for example M for male, F for female\nValidation routines including range check, character check, length check, type check, format check, presence check, check digit\nInput formats including data capture forms\nOutput formats including screen layouts and report layouts"
+      }
+    ]
+  }
+}

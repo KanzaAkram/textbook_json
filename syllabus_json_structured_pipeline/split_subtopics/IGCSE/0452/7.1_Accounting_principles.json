@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Accounting principles and policies"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Accounting principles",
+    "learning_objectives": [
+      "Candidates should be able to explain and recognise the application of the following accounting principles:",
+      "matching",
+      "business entity",
+      "consistency",
+      "duality",
+      "going concern",
+      "historic cost",
+      "materiality",
+      "money measurement",
+      "prudence",
+      "realisation"
+    ]
+  }
+}

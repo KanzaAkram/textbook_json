@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Acids, bases and salts"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Oxides",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Classify oxides as acidic, including SO2 and CO2, or basic, including CuO and CaO, related to metallic and non-metallic character"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 2,
+          "description": "Describe amphoteric oxides as oxides that react with acids and with bases to produce a salt and water"
+        },
+        {
+          "objective_number": 3,
+          "description": "Classify Al2O3 and ZnO as amphoteric oxides"
+        }
+      ]
+    }
+  }
+}

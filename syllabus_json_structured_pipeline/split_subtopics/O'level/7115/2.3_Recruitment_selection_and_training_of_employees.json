@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "People in business"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Recruitment, selection and training of employees",
+    "learning_objectives": [
+      {
+        "objective_number": "2.3.1",
+        "description": "Recruitment and selecting employees: Recruitment and selection methods; Difference between internal recruitment and external recruitment; Main stages in recruitment and selection of employees; Recommend and justify who to employ in given circumstances; Benefits and limitations of part-time employees and full-time employees"
+      },
+      {
+        "objective_number": "2.3.2",
+        "description": "The importance of training and the methods of training: Importance of training to a business and to employees; Benefits and limitations of induction training, on-the-job training and off-the-job training"
+      },
+      {
+        "objective_number": "2.3.3",
+        "description": "Why reducing the size of the workforce might be necessary: Difference between dismissal and redundancy with examples; Understand situations in which downsizing the workforce might be necessary, e.g. automation or reduced demand for products; Recommend and justify which employees to make redundant in given circumstances"
+      },
+      {
+        "objective_number": "2.3.4",
+        "description": "Legal controls over employment issues and their impact on employers and employees: Legal controls over employment contracts, unfair dismissal, discrimination, health and safety, legal minimum wage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Functions"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.5",
+    "sub_topic_name": "Inverse functions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Explain in words why a given function does not have an inverse."
+      }
+    ]
+  }
+}

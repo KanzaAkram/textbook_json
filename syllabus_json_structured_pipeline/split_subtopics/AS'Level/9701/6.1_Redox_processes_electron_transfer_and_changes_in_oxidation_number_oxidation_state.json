@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Electrochemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Redox processes: electron transfer and changes in oxidation number (oxidation state)",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "calculate oxidation numbers of elements in compounds and ions"
+      },
+      {
+        "objective_number": 2,
+        "description": "use changes in oxidation numbers to help balance chemical equations"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain and use the terms redox, oxidation, reduction and disproportionation in terms of electron transfer and changes in oxidation number"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain and use the terms oxidising agent and reducing agent"
+      },
+      {
+        "objective_number": 5,
+        "description": "use a Roman numeral to indicate the magnitude of the oxidation number of an element"
+      }
+    ]
+  }
+}

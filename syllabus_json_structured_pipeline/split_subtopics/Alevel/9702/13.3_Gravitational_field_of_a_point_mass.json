@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Gravitational fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.3",
+    "sub_topic_name": "Gravitational field of a point mass",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "derive, from Newton's law of gravitation and the definition of gravitational field, the equation g = GM/r² for the gravitational field strength due to a point mass"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use g = GM/r²"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand why g is approximately constant for small changes in height near the Earth's surface"
+      }
+    ]
+  }
+}

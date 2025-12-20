@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "28",
+    "topic_name": "Chemistry of transition elements"
+  },
+  "subtopic": {
+    "sub_topic_number": "28.1",
+    "sub_topic_name": "General physical and chemical properties of the first row of transition elements, titanium to copper",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define a transition element as a d-block element which forms one or more stable ions with incomplete d orbitals"
+      },
+      {
+        "objective_number": 2,
+        "description": "sketch the shape of a 3dxy orbital and 3dz² orbital"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand that transition elements have the following properties: (a) they have variable oxidation states (b) they behave as catalysts (c) they form complex ions (d) they form coloured compounds"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain why transition elements have variable oxidation states in terms of the similarity in energy of the 3d and the 4s sub-shells"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain why transition elements behave as catalysts in terms of having more than one stable oxidation state, and vacant d orbitals that are energetically accessible and can form dative bonds with ligands"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain why transition elements form complex ions in terms of vacant d orbitals that are energetically accessible"
+      }
+    ]
+  }
+}

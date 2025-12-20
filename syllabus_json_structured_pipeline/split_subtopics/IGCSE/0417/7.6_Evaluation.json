@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The systems life cycle"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.6",
+    "sub_topic_name": "Evaluation",
+    "learning_objectives": [
+      {
+        "description": "Evaluate a solution",
+        "notes_and_guidance": "Evaluate a solution including the efficiency of the solution, the ease of use of the solution, and the appropriateness of the solution\nCompare the solution with the original task requirements, identify any limitations and necessary improvements to the system, evaluate the users' responses to the results of testing the system"
+      }
+    ]
+  }
+}

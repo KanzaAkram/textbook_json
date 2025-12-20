@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Mechanics (for Paper 4)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Kinematics of motion in a straight line",
+    "learning_objectives": [
+      {
+        "description": "understand the concepts of distance and speed as scalar quantities, and of displacement, velocity and acceleration as vector quantities",
+        "notes_and_examples": "Restricted to motion in one dimension only. The term 'deceleration' may sometimes be used in the context of decreasing speed."
+      },
+      {
+        "description": "sketch and interpret displacement-time graphs and velocity-time graphs, and in particular appreciate that the area under a velocity-time graph represents displacement, the gradient of a displacement-time graph represents velocity, the gradient of a velocity-time graph represents acceleration",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use differentiation and integration with respect to time to solve simple problems concerning displacement, velocity and acceleration",
+        "notes_and_examples": "Calculus required is restricted to techniques from the content for Paper 1: Pure Mathematics 1."
+      },
+      {
+        "description": "use appropriate formulae for motion with constant acceleration in a straight line.",
+        "notes_and_examples": "Questions may involve setting up more than one equation, using information about the motion of different particles."
+      }
+    ]
+  }
+}

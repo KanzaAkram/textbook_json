@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Data transmission"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Methods of error detection",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand the need to check for errors after data transmission and how errors can occur.",
+        "notes_and_guidance": "Errors may result from interference (data loss, gain, or change)."
+      },
+      {
+        "objective_number": "2",
+        "description": "Describe error detection: parity check (odd/even), checksum, and echo check.",
+        "notes_and_guidance": "Includes parity byte and parity block check."
+      },
+      {
+        "objective_number": "3",
+        "description": "Describe use of check digits to detect data entry errors and give examples such as ISBN and bar codes.",
+        "notes_and_guidance": "Check digits help detect errors in manual data entry (e.g. ISBN, bar codes)."
+      },
+      {
+        "objective_number": "4",
+        "description": "Describe ARQ (Automatic Repeat Query) to establish error-free data receipt.",
+        "notes_and_guidance": "Includes positive/negative acknowledgements and timeouts."
+      }
+    ]
+  }
+}

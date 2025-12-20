@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Databases"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.1",
+    "sub_topic_name": "Create a database structure",
+    "learning_objectives": [
+      {
+        "description": "Create an appropriate database structure",
+        "notes_and_guidance": "Import data from existing files (including .csv, .txt) using specified field names to create tables. Set appropriate data types to fields including text, numeric (integer, decimal, currency), date/time, Boolean/logical. Set sub-types of numeric data including percentage, number of decimal places. Set display format of Boolean/logical field (yes/no, true/false, checkbox). Set display format of date/time data. Create and edit primary and foreign keys. Create relationships between tables"
+      },
+      {
+        "description": "Create and use a data entry form",
+        "notes_and_guidance": "Create a data entry form including specified fields, appropriate font styles and sizes, appropriate spacing between fields, character spacing of individual fields, use of white space, radio buttons, check boxes, drop down menus"
+      },
+      {
+        "description": "Types of database",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of a flat file and a relational database"
+      },
+      {
+        "description": "Primary and foreign keys",
+        "notes_and_guidance": "Characteristics of primary key and foreign keys"
+      },
+      {
+        "description": "Form design",
+        "notes_and_guidance": "Characteristics of good form design"
+      }
+    ]
+  }
+}

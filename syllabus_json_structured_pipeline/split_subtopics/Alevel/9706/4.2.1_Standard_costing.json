@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Cost and management accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2.1",
+    "sub_topic_name": "Standard costing",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the meaning of a system of standard costing in an organisation"
+      },
+      {
+        "objective_number": 2,
+        "description": "the advantages and disadvantages of a standard costing system"
+      },
+      {
+        "objective_number": 3,
+        "description": "how standard costing can be used as an aid to improve the performance of a business"
+      },
+      {
+        "objective_number": 4,
+        "description": "how to calculate the following variances: direct material price and usage, direct labour rate and efficiency, fixed overhead expenditure and volume, fixed overhead capacity and efficiency sub-variances, sales price and volume"
+      },
+      {
+        "objective_number": 5,
+        "description": "possible causes of favourable or adverse variances and their relationship to each other"
+      },
+      {
+        "objective_number": 6,
+        "description": "how to make business decisions and recommendations using supporting data"
+      },
+      {
+        "objective_number": 7,
+        "description": "the significance of non-financial factors"
+      }
+    ]
+  }
+}

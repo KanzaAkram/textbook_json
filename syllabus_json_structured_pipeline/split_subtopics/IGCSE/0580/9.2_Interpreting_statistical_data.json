@@ -1,0 +1,32 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Statistics"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.2",
+    "sub_topic_name": "Interpreting statistical data",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Read, interpret and draw inferences from tables and statistical diagrams."
+      },
+      {
+        "objective_number": 2,
+        "description": "Compare sets of data using tables, graphs and statistical measures."
+      },
+      {
+        "objective_number": 3,
+        "description": "Appreciate restrictions on drawing conclusions from given data."
+      }
+    ],
+    "notes_and_examples": "e.g. compare averages and ranges between two data sets."
+  }
+}

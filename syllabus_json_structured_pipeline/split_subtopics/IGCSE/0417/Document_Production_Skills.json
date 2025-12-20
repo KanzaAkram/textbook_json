@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Document production"
+  },
+  "subtopic": {
+    "sub_topic_number": null,
+    "sub_topic_name": "Document Production Skills",
+    "learning_objectives": [
+      {
+        "description": "Organise page layout",
+        "notes_and_guidance": "Edit page layout including page size, page orientation, page margins, number of columns, column width, spacing between columns, set and remove breaks (page, section and column breaks)"
+      },
+      {
+        "description": "Format text",
+        "notes_and_guidance": "Set line spacing including: single, 1.5 times, double, multiple, spacing before and after paragraphs. Set tabulation including: left, right, centred and decimal tabs, indented paragraphs and hanging paragraphs. Text enhancement including bold, underline, italic, superscript and subscript, changes in case. Create or edit lists including bulleted, numbered"
+      },
+      {
+        "description": "Find and replace text",
+        "notes_and_guidance": "Including matching case, whole words"
+      },
+      {
+        "description": "Navigation",
+        "notes_and_guidance": "Add and delete bookmarks/hyperlinks"
+      },
+      {
+        "description": "Pagination",
+        "notes_and_guidance": "The purpose of setting page, section and column breaks"
+      },
+      {
+        "description": "Gutter margin",
+        "notes_and_guidance": "The purpose of setting gutter margins"
+      }
+    ]
+  }
+}

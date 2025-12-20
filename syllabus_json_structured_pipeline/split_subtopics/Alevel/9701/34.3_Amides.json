@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "34",
+    "topic_name": "Nitrogen compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "34.3",
+    "sub_topic_name": "Amides",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions (reagents and conditions) by which amides are produced: (a) the reaction between ammonia and an acyl chloride at room temperature (b) the reaction between a primary amine and an acyl chloride at room temperature"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the reactions of amides: (a) hydrolysis with aqueous alkali or aqueous acid (b) the reduction of the CO group in amides with LiAlH₄ to form an amine"
+      },
+      {
+        "objective_number": 3,
+        "description": "state and explain why amides are much weaker bases than amines"
+      }
+    ]
+  }
+}

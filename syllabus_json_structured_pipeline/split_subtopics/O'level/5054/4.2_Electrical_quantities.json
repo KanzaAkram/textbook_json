@@ -1,0 +1,155 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Electricity and magnetism"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Electrical quantities",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "4.2.1",
+        "sub_sub_topic_name": "Electrical charge",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "State that there are positive and negative charges and that charge is measured in coulombs"
+          },
+          {
+            "objective_number": 2,
+            "description": "State that unlike charges attract and like charges repel"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe experiments to show electrostatic charging by friction"
+          },
+          {
+            "objective_number": 4,
+            "description": "Explain that charging of solids by friction involves only a transfer of negative charge (electrons)"
+          },
+          {
+            "objective_number": 5,
+            "description": "Describe an electric field as a region in which an electric charge experiences a force"
+          },
+          {
+            "objective_number": 6,
+            "description": "State that the direction of an electric field line at a point is the direction of the force on a positive charge at that point"
+          },
+          {
+            "objective_number": 7,
+            "description": "Describe simple electric field patterns, including the direction of the field: (a) around a point charge (b) around a charged conducting sphere (c) between two oppositely charged parallel conducting plates (end effects will not be examined)"
+          },
+          {
+            "objective_number": 8,
+            "description": "State examples of electrical conductors and insulators"
+          },
+          {
+            "objective_number": 9,
+            "description": "Describe an experiment to distinguish between electrical conductors and insulators"
+          },
+          {
+            "objective_number": 10,
+            "description": "Recall and use a simple electron model to explain the difference between electrical conductors and insulators"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.2.2",
+        "sub_sub_topic_name": "Electrical current",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Define electric current as the charge passing a point per unit time; recall and use the equation electric current = charge / time, I = Q / t"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe electrical conduction in metals in terms of the movement of free electrons"
+          },
+          {
+            "objective_number": 3,
+            "description": "Know that current is measured in amps (amperes) and that the amp is given by coulomb per second (C/s)"
+          },
+          {
+            "objective_number": 4,
+            "description": "Know the difference between direct current (d.c.) and alternating current (a.c.)"
+          },
+          {
+            "objective_number": 5,
+            "description": "State that conventional current is from positive to negative and that the flow of free electrons is from negative to positive"
+          },
+          {
+            "objective_number": 6,
+            "description": "Describe the use of ammeters (analogue and digital) with different ranges"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.2.3",
+        "sub_sub_topic_name": "Electromotive force and potential difference",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Define e.m.f. (electromotive force) as the electrical work done by a source in moving a unit charge around a complete circuit; recall and use the equation e.m.f. = work done (by a source) / charge, E = W / Q"
+          },
+          {
+            "objective_number": 2,
+            "description": "Define p.d. (potential difference) as the work done by a unit charge passing through a component; recall and use the equation p.d. = work done (on a component) / charge, V = W / Q"
+          },
+          {
+            "objective_number": 3,
+            "description": "Know that e.m.f. and p.d. are measured in volts and that the volt is given by joule per coulomb (J/C)"
+          },
+          {
+            "objective_number": 4,
+            "description": "Describe the use of voltmeters (analogue and digital) with different ranges"
+          },
+          {
+            "objective_number": 5,
+            "description": "Calculate the total e.m.f. where several sources are arranged in series"
+          },
+          {
+            "objective_number": 6,
+            "description": "State that the e.m.f of identical sources connected in parallel is equal to the e.m.f. of one of the sources"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.2.4",
+        "sub_sub_topic_name": "Resistance",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Recall and use the equation resistance = p.d. / current, R = V / I"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe an experiment to determine resistance using a voltmeter and an ammeter and do the appropriate calculations"
+          },
+          {
+            "objective_number": 3,
+            "description": "Recall and use, for a wire, the direct proportionality between resistance and length, and the inverse proportionality between resistance and cross-sectional area"
+          },
+          {
+            "objective_number": 4,
+            "description": "State Ohm's law, including reference to constant temperature"
+          },
+          {
+            "objective_number": 5,
+            "description": "Sketch and explain the current-voltage graphs for a resistor of constant resistance, a filament lamp and a diode"
+          },
+          {
+            "objective_number": 6,
+            "description": "Describe the effect of temperature increase on the resistance of a resistor, such as the filament in a filament lamp"
+          }
+        ]
+      }
+    ]
+  }
+}

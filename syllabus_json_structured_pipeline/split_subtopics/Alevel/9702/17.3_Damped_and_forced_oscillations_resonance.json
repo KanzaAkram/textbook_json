@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Oscillations"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.3",
+    "sub_topic_name": "Damped and forced oscillations, resonance",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a resistive force acting on an oscillating system causes damping"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand and use the terms light, critical and heavy damping and sketch displacement-time graphs illustrating these types of damping"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand that resonance involves a maximum amplitude of oscillations and that this occurs when an oscillating system is forced to oscillate at its natural frequency"
+      }
+    ]
+  }
+}

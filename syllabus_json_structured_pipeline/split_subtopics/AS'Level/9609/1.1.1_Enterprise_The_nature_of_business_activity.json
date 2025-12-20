@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Business and its environment (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1.1",
+    "sub_topic_name": "Enterprise: The nature of business activity",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the purpose of business activity"
+      },
+      {
+        "objective_number": 2,
+        "description": "the factors of production needed for business activity: land, labour, capital and enterprise"
+      },
+      {
+        "objective_number": 3,
+        "description": "the concept of adding value"
+      },
+      {
+        "objective_number": 4,
+        "description": "the nature of economic activity, the problem of choice and opportunity cost"
+      },
+      {
+        "objective_number": 5,
+        "description": "the dynamic business environment"
+      },
+      {
+        "objective_number": 6,
+        "description": "why businesses succeed or fail"
+      },
+      {
+        "objective_number": 7,
+        "description": "differences between local, national, international and multinational businesses"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Government microeconomy intervention (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Addressing income and wealth inequality",
+    "content": [
+      {
+        "point_number": "3.3.1",
+        "description": "difference between income as a flow concept and wealth as a stock concept"
+      },
+      {
+        "point_number": "3.3.2",
+        "description": "measuring income and wealth inequality: Gini coefficient (calculation not required)"
+      },
+      {
+        "point_number": "3.3.3",
+        "description": "economic reasons for inequality of income and wealth"
+      },
+      {
+        "point_number": "3.3.4",
+        "description": "policies to redistribute income and wealth: minimum wage, transfer payments, progressive income taxes, inheritance and capital taxes, state provision of essential goods and services"
+      }
+    ]
+  }
+}

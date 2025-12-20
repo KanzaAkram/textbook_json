@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "24",
+    "topic_name": "Medical physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "24.2",
+    "sub_topic_name": "Production and use of X-rays",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain that X-rays are produced by electron bombardment of a metal target and calculate the minimum wavelength of X-rays produced from the accelerating p.d."
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the use of X-rays in imaging internal body structures, including an understanding of the term contrast in X-ray imaging"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and use I = I₀e⁻μx for the attenuation of X-rays in matter"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand that computed tomography (CT) scanning produces a 3D image of an internal structure by first combining multiple X-ray images taken in the same section from different angles to obtain a 2D image of the section, then repeating this process along an axis and combining 2D images of multiple sections"
+      }
+    ]
+  }
+}

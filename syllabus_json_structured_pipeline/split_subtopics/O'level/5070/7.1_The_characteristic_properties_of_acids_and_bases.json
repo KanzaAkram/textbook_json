@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Acids, bases and salts"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "The characteristic properties of acids and bases",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State that aqueous solutions of acids contain H⁺ ions and aqueous solutions of alkalis contain OH⁻ ions"
+      },
+      {
+        "objective_number": 2,
+        "description": "Define acids as proton donors and bases as proton acceptors"
+      },
+      {
+        "objective_number": 3,
+        "description": "State that bases are oxides or hydroxides of metals and that alkalis are soluble bases"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe the characteristic properties of acids in terms of their reactions with: (a) metals (b) bases (c) carbonates"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe the characteristic properties of bases in terms of their reactions with: (a) acids (b) ammonium salts"
+      },
+      {
+        "objective_number": 6,
+        "description": "State that a neutralisation reaction occurs between an acid and a base"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe the neutralisation reaction between an acid and an alkali to produce water, H⁺(aq) + OH⁻(aq) → H₂O(l)"
+      },
+      {
+        "objective_number": 8,
+        "description": "Describe acids and alkalis in terms of their effects on: (a) litmus (b) thymolphthalein (c) methyl orange"
+      },
+      {
+        "objective_number": 9,
+        "description": "Define a strong acid as an acid that is completely dissociated in aqueous solution and a weak acid as an acid that is partially dissociated in aqueous solution"
+      },
+      {
+        "objective_number": 10,
+        "description": "State examples of strong acids, including hydrochloric acid, nitric acid and sulfuric acid and construct the symbol equations to show their complete dissociation, e.g. HCl(aq) → H⁺(aq) + Cl⁻(aq)"
+      },
+      {
+        "objective_number": 11,
+        "description": "State examples of weak acids, including carboxylic acids and construct the symbol equations to show their partial dissociation, e.g. for ethanoic acid, CH₃COOH(aq) ⇌ H⁺(aq) + CH₃COO⁻(aq)"
+      },
+      {
+        "objective_number": 12,
+        "description": "Describe how to compare hydrogen ion concentration, neutrality, relative acidity and relative alkalinity in terms of colour and pH using universal indicator paper"
+      }
+    ]
+  }
+}

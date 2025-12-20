@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "26",
+    "topic_name": "Reaction kinetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "26.1",
+    "sub_topic_name": "Simple rate equations, orders of reaction and rate constants",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain and use the terms rate equation, order of reaction, overall order of reaction, rate constant, half-life, rate-determining step and intermediate"
+      },
+      {
+        "objective_number": 2,
+        "description": "(a) understand and use rate equations of the form rate = k[A]ᵐ[B]ⁿ (for which m and n are 0, 1 or 2) (b) deduce the order of a reaction from concentration-time graphs or from experimental data relating to the initial rates method and half-life method (c) interpret experimental data in graphical form, including concentration-time and rate-concentration graphs (d) calculate an initial rate using concentration data (e) construct a rate equation"
+      },
+      {
+        "objective_number": 3,
+        "description": "(a) show understanding that the half-life of a first-order reaction is independent of concentration (b) use the half-life of a first-order reaction in calculations"
+      },
+      {
+        "objective_number": 4,
+        "description": "calculate the numerical value of a rate constant, for example by: (a) using the initial rates and the rate equation (b) using the half-life, t½, and the equation k = 0.693/t½"
+      },
+      {
+        "objective_number": 5,
+        "description": "for a multi-step reaction: (a) suggest a reaction mechanism that is consistent with the rate equation and the equation for the overall reaction (b) predict the order that would result from a given reaction mechanism and rate-determining step (c) deduce a rate equation using a given reaction mechanism and rate-determining step for a given reaction (d) identify an intermediate or catalyst from a given reaction mechanism (e) identify the rate determining step from a rate equation and a given reaction mechanism"
+      },
+      {
+        "objective_number": 6,
+        "description": "describe qualitatively the effect of temperature change on the rate constant and hence the rate of a reaction"
+      }
+    ]
+  }
+}

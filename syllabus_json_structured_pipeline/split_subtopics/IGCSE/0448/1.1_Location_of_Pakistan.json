@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The land of Pakistan"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Location of Pakistan",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "identify on a map: the Tropic of Cancer, latitudes 30°N, 36°N, longitudes 64°E, 70°E and 76°E"
+      },
+      {
+        "objective_number": 2,
+        "description": "identify on a map: the Arabian Sea"
+      },
+      {
+        "objective_number": 3,
+        "description": "identify on a map: the countries sharing a border with Pakistan, and Pakistan's position in relation to others in South and Central Asia."
+      }
+    ]
+  }
+}

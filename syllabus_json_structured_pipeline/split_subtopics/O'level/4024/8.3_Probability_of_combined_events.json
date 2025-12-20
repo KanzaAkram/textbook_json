@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Probability"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "Probability of combined events",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Calculate the probability of combined events using, where appropriate: sample space diagrams, Venn diagrams, tree diagrams.",
+        "notes_and_examples": "Combined events could be with or without replacement. The notation P(A ∩ B) and P(A ∪ B) may be used in the context of Venn diagrams. On tree diagrams outcomes will be written at the end of the branches and probabilities by the side of the branches."
+      }
+    ]
+  }
+}

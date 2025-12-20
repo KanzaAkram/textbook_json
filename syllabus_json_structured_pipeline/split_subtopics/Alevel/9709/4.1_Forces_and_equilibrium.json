@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Mechanics (for Paper 4)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Forces and equilibrium",
+    "learning_objectives": [
+      {
+        "description": "identify the forces acting in a given situation",
+        "notes_and_examples": "e.g. by drawing a force diagram."
+      },
+      {
+        "description": "understand the vector nature of force, and find and use components and resultants",
+        "notes_and_examples": "Calculations are always required, not approximate solutions by scale drawing."
+      },
+      {
+        "description": "use the principle that, when a particle is in equilibrium, the vector sum of the forces acting is zero, or equivalently, that the sum of the components in any direction is zero",
+        "notes_and_examples": "Solutions by resolving are usually expected, but equivalent methods (e.g. triangle of forces, Lami's Theorem, where suitable) are also acceptable; these other methods are not required knowledge, and will not be referred to in questions."
+      },
+      {
+        "description": "understand that a contact force between two surfaces can be represented by two components, the normal component and the frictional component",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use the model of a 'smooth' contact, and understand the limitations of this model",
+        "notes_and_examples": null
+      },
+      {
+        "description": "understand the concepts of limiting friction and limiting equilibrium, recall the definition of coefficient of friction, and use the relationship F = μR or F < μR, as appropriate",
+        "notes_and_examples": "Terminology such as 'about to slip' may be used to mean 'in limiting equilibrium' in questions."
+      },
+      {
+        "description": "use Newton's third law.",
+        "notes_and_examples": "e.g. the force exerted by a particle on the ground is equal and opposite to the force exerted by the ground on the particle."
+      }
+    ]
+  }
+}

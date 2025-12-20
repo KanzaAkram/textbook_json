@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "24",
+    "topic_name": "Medical physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "24.3",
+    "sub_topic_name": "PET scanning",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a tracer is a substance containing radioactive nuclei that can be introduced into the body and is then absorbed by the tissue being studied"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall that a tracer that decays by β⁺ decay is used in positron emission tomography (PET scanning)"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand that annihilation occurs when a particle interacts with its antiparticle and that mass-energy and momentum are conserved in the process"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain that, in PET scanning, positrons emitted by the decay of the tracer annihilate when they interact with electrons in the tissue, producing a pair of gamma-ray photons travelling in opposite directions"
+      },
+      {
+        "objective_number": 5,
+        "description": "calculate the energy of the gamma-ray photons emitted during the annihilation of an electron-positron pair"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand that the gamma-ray photons from an annihilation event travel outside the body and can be detected, and an image of the tracer concentration in the tissue can be created by processing the arrival times of the gamma-ray photons"
+      }
+    ]
+  }
+}

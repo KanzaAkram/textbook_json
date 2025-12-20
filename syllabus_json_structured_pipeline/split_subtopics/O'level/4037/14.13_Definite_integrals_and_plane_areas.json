@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Calculus"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.13",
+    "sub_topic_name": "Definite integrals and plane areas",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Evaluate definite integrals and apply integration to the evaluation of plane areas. (Plane areas include: between a line and a curve, between two curves, a sum of two areas.)"
+      }
+    ]
+  }
+}

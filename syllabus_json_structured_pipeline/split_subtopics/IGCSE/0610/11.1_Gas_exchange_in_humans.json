@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Gas exchange in humans"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.1",
+    "sub_topic_name": "Gas exchange in humans",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the features of gas exchange surfaces in humans, limited to: large surface area, thin surface, good blood supply and good ventilation with air"
+        },
+        {
+          "objective_number": 2,
+          "description": "Identify in diagrams and images the following parts of the breathing system: lungs, diaphragm, ribs, intercostal muscles, larynx, trachea, bronchi, bronchioles, alveoli and associated capillaries"
+        },
+        {
+          "objective_number": 3,
+          "description": "Investigate the differences in composition between inspired and expired air using limewater as a test for carbon dioxide"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the differences in composition between inspired and expired air, limited to: oxygen, carbon dioxide and water vapour"
+        },
+        {
+          "objective_number": 5,
+          "description": "Investigate and describe the effects of physical activity on the rate and depth of breathing"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 6,
+          "description": "Identify in diagrams and images the internal and external intercostal muscles"
+        },
+        {
+          "objective_number": 7,
+          "description": "State the function of cartilage in the trachea"
+        },
+        {
+          "objective_number": 8,
+          "description": "Explain the role of the ribs, the internal and external intercostal muscles and the diaphragm in producing volume and pressure changes in the thorax leading to the ventilation of the lungs"
+        },
+        {
+          "objective_number": 9,
+          "description": "Explain the differences in composition between inspired and expired air"
+        },
+        {
+          "objective_number": 10,
+          "description": "Explain the link between physical activity and the rate and depth of breathing in terms of: an increased carbon dioxide concentration in the blood, which is detected by the brain, leading to an increased rate and greater depth of breathing"
+        },
+        {
+          "objective_number": 11,
+          "description": "Explain the role of goblet cells, mucus and ciliated cells in protecting the breathing system from pathogens and particles"
+        }
+      ]
+    }
+  }
+}

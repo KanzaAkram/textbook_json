@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Computational thinking and Problem-solving"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.2",
+    "sub_topic_name": "Recursion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of recursion (Essential features of recursion; How recursion is expressed in a programming language; Write and trace recursive algorithms; When the use of recursion is beneficial)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show awareness of what a compiler has to do to translate recursive programming code (Use of stacks and unwinding)"
+      }
+    ]
+  }
+}

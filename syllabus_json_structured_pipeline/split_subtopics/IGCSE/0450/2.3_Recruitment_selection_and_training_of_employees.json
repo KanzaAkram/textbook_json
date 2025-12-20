@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "People in business"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Recruitment, selection and training of employees",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Recruitment and selection methods"
+      },
+      {
+        "objective_number": 2,
+        "description": "Difference between internal recruitment and external recruitment"
+      },
+      {
+        "objective_number": 3,
+        "description": "Main stages in recruitment and selection of employees"
+      },
+      {
+        "objective_number": 4,
+        "description": "Recommend and justify who to employ in given circumstances"
+      },
+      {
+        "objective_number": 5,
+        "description": "Benefits and limitations of part-time employees and full-time employees"
+      },
+      {
+        "objective_number": 6,
+        "description": "Importance of training to a business and to employees"
+      },
+      {
+        "objective_number": 7,
+        "description": "Benefits and limitations of induction training, on-the-job training and off-the-job training"
+      },
+      {
+        "objective_number": 8,
+        "description": "Difference between dismissal and redundancy with examples"
+      },
+      {
+        "objective_number": 9,
+        "description": "Understand situations in which downsizing the workforce might be necessary, e.g. automation or reduced demand for products"
+      },
+      {
+        "objective_number": 10,
+        "description": "Recommend and justify which employees to make redundant in given circumstances"
+      },
+      {
+        "objective_number": 11,
+        "description": "Legal controls over employment contracts, unfair dismissal, discrimination, health and safety, legal minimum wage"
+      }
+    ]
+  }
+}

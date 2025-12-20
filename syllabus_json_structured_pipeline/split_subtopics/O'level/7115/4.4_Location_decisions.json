@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.4",
+    "sub_topic_name": "Location decisions",
+    "learning_objectives": [
+      {
+        "objective_number": "4.4.1",
+        "description": "The main factors influencing the location and relocation decisions of a business: Factors relevant to the location decision of manufacturing businesses and service businesses; Factors that a business could consider when deciding which country to locate operations in; The role of legal controls on location decisions; Recommend and justify an appropriate location for a business in given circumstances"
+      }
+    ]
+  }
+}

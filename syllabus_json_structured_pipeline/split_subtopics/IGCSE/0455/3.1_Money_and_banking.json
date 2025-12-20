@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Microeconomic decision makers"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Money and banking",
+    "learning_objectives": [
+      {
+        "objective_number": "3.1.1",
+        "objective_title": "money",
+        "guidance": "The forms, functions and characteristics of money."
+      },
+      {
+        "objective_number": "3.1.2",
+        "objective_title": "banking",
+        "guidance": "The role and importance of central banks and commercial banks for government, producers and consumers."
+      }
+    ]
+  }
+}

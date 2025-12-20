@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Waves"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.3",
+    "sub_topic_name": "Doppler effect for sound waves",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that when a source of sound waves moves relative to a stationary observer, the observed frequency is different from the source frequency (understanding of the Doppler effect for a stationary source and a moving observer is not required)"
+      },
+      {
+        "objective_number": 2,
+        "description": "use the expression fo = fsv/(v ± vs) for the observed frequency when a source of sound waves moves relative to a stationary observer"
+      }
+    ]
+  }
+}

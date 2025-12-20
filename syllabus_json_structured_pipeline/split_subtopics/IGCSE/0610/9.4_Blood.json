@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Transport in animals"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.4",
+    "sub_topic_name": "Blood",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "List the components of blood as: red blood cells, white blood cells, platelets and plasma"
+        },
+        {
+          "objective_number": 2,
+          "description": "Identify red and white blood cells in photomicrographs and diagrams"
+        },
+        {
+          "objective_number": 3,
+          "description": "State the functions of the following components of blood: (a) red blood cells in transporting oxygen, including the role of haemoglobin (b) white blood cells in phagocytosis and antibody production (c) platelets in clotting (details are not required) (d) plasma in the transport of blood cells, ions, nutrients, urea, hormones and carbon dioxide"
+        },
+        {
+          "objective_number": 4,
+          "description": "State the roles of blood clotting as preventing blood loss and the entry of pathogens"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 5,
+          "description": "Identify lymphocytes and phagocytes in photomicrographs and diagrams"
+        },
+        {
+          "objective_number": 6,
+          "description": "State the functions of: (a) lymphocytes – antibody production (b) phagocytes – engulfing pathogens by phagocytosis"
+        },
+        {
+          "objective_number": 7,
+          "description": "Describe the process of clotting as the conversion of fibrinogen to fibrin to form a mesh"
+        }
+      ]
+    }
+  }
+}

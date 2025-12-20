@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Analysis and interpretation"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.5",
+    "sub_topic_name": "Limitations of accounting statements",
+    "learning_objectives": [
+      "Candidates should be able to recognise the limitations of accounting statements due to such factors as:",
+      "historic cost",
+      "difficulties of definition",
+      "non-financial aspects"
+    ]
+  }
+}

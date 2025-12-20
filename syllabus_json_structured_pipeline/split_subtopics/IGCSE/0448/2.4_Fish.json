@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Natural resources – an issue of sustainability"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Fish",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the fishing methods used in both marine and inland waters, including fish farms"
+      },
+      {
+        "objective_number": 2,
+        "description": "give examples of the fish caught in both marine and inland waters, and of the fish reared on fish farms"
+      },
+      {
+        "objective_number": 3,
+        "description": "give examples of the fishing ports on both the Balochistan and Sindh coasts"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the uses of the fish caught"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain improvements in fishing methods and processing techniques"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand the problems facing the fishing industry and evaluate the possibilities for its further development and sustainability."
+      }
+    ]
+  }
+}

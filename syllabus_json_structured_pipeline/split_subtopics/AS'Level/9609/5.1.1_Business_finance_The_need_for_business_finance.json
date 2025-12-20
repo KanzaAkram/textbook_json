@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Finance and accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1.1",
+    "sub_topic_name": "Business finance: The need for business finance",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "reasons why businesses need finance to start up, to grow and to survive"
+      },
+      {
+        "objective_number": 2,
+        "description": "the distinction between short and long term need for finance"
+      },
+      {
+        "objective_number": 3,
+        "description": "the difference between cash and profits"
+      },
+      {
+        "objective_number": 4,
+        "description": "business failure as a consequence of lack of finance: bankruptcy, liquidation and administration"
+      }
+    ]
+  }
+}

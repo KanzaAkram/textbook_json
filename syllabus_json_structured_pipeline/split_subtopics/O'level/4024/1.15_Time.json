@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.15",
+    "sub_topic_name": "Time",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Calculate with time: seconds (s), minutes (min), hours (h), days, weeks, months, years, including the relationship between units.",
+        "notes_and_examples": "1 year = 365 days."
+      },
+      {
+        "objective_number": "2",
+        "description": "Calculate times in terms of the 24-hour and 12-hour clock.",
+        "notes_and_examples": "In the 24-hour clock, for example, 3.15 a.m. will be denoted by 03 15 and 3.15 p.m. by 15 15."
+      },
+      {
+        "objective_number": "3",
+        "description": "Read clocks and timetables.",
+        "notes_and_examples": "Includes problems involving time zones, local times and time differences."
+      }
+    ]
+  }
+}

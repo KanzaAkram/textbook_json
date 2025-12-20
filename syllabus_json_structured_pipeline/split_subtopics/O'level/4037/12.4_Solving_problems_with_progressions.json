@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Series"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.4",
+    "sub_topic_name": "Solving problems with progressions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Use the formulas for the nth term and for the sum of the first n terms to solve problems involving arithmetic or geometric progressions. (Problems may be in context. Formulas are given in the List of formulas.)"
+      }
+    ]
+  }
+}

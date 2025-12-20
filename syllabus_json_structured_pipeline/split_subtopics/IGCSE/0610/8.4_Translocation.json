@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Transport in plants"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.4",
+    "sub_topic_name": "Translocation",
+    "learning_objectives": {
+      "core": [],
+      "supplement": [
+        {
+          "objective_number": 1,
+          "description": "Describe translocation as the movement of sucrose and amino acids in phloem from sources to sinks"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe: (a) sources as the parts of plants that release sucrose or amino acids (b) sinks as the parts of plants that use or store sucrose or amino acids"
+        },
+        {
+          "objective_number": 3,
+          "description": "Explain why some parts of a plant may act as a source and a sink at different times"
+        }
+      ]
+    }
+  }
+}

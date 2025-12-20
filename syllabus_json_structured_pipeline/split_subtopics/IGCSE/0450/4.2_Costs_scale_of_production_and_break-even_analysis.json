@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Costs, scale of production and break-even analysis",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Classifying costs using examples, e.g. fixed, variable, average, total"
+      },
+      {
+        "objective_number": 2,
+        "description": "Use cost data to help make simple cost-based decisions, e.g. to stop production or continue"
+      },
+      {
+        "objective_number": 3,
+        "description": "The concept of economies of scale with examples, e.g. purchasing, marketing, financial, managerial, technical"
+      },
+      {
+        "objective_number": 4,
+        "description": "The concept of diseconomies of scale with examples, e.g. poor communication, lack of commitment from employees, weak coordination"
+      },
+      {
+        "objective_number": 5,
+        "description": "The concept of break-even"
+      },
+      {
+        "objective_number": 6,
+        "description": "Construct, complete or amend a simple break-even chart"
+      },
+      {
+        "objective_number": 7,
+        "description": "Interpret a given chart and use it to analyse a situation"
+      },
+      {
+        "objective_number": 8,
+        "description": "Calculate break-even output from given data"
+      },
+      {
+        "objective_number": 9,
+        "description": "Define, calculate and interpret the margin of safety"
+      },
+      {
+        "objective_number": 10,
+        "description": "Use break-even analysis to help make simple decisions, e.g. impact of higher price"
+      },
+      {
+        "objective_number": 11,
+        "description": "Understand the limitations of break-even analysis"
+      }
+    ]
+  }
+}

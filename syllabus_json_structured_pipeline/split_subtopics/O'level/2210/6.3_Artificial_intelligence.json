@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Automated and emerging technologies"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Artificial intelligence",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand what artificial intelligence (AI) means.",
+        "notes_and_guidance": "AI is the simulation of intelligent behaviour by computers."
+      },
+      {
+        "objective_number": "2",
+        "description": "Describe the main characteristics of AI: data collection, rules for use, reasoning, learning, and adaptation.",
+        "notes_and_guidance": "AI can use data, apply rules, reason, and learn/adapt."
+      },
+      {
+        "objective_number": "3",
+        "description": "Explain the operation and components of AI systems simulating intelligent behaviour.",
+        "notes_and_guidance": "Covers expert systems (knowledge base, rules, inference engine, interface) and machine learning (programs that adapt and learn)."
+      }
+    ]
+  }
+}

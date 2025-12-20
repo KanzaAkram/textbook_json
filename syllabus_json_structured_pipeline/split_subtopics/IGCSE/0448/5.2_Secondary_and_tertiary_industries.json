@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Industrial development"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Secondary and tertiary industries",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the definitions used in Pakistan to distinguish between large-scale industry, small-scale industry and cottage industry"
+      },
+      {
+        "objective_number": 2,
+        "description": "state the main products of the listed industries and whether they are destined for the domestic market and/or for the export market"
+      },
+      {
+        "objective_number": 3,
+        "description": "state the main locations of the listed industries and explain the factors influencing location and development – capital, site, sources of raw materials, power, water, labour, communications, government policy and other means"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand the differences between the formal sector and informal sector of industry"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand the range of services provided by the informal sector, and their advantages and disadvantages to the development of Pakistan"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand the importance of both the formal and informal sectors, and evaluate the contributions of both sectors to the development of the listed industries"
+      },
+      {
+        "objective_number": 7,
+        "description": "understand sources of capital and labour"
+      },
+      {
+        "objective_number": 8,
+        "description": "state and explain how the governing authorities promote industrial growth"
+      },
+      {
+        "objective_number": 9,
+        "description": "name examples of export processing zones and other industrial estates, explain the reasons for their development and describe their characteristics"
+      },
+      {
+        "objective_number": 10,
+        "description": "assess the feasibility of using global communications to enhance employment opportunities in service industries, e.g. call centres"
+      },
+      {
+        "objective_number": 11,
+        "description": "state and describe briefly, with an example of each, some of the natural and cultural attractions of Pakistan that are, or could be made available to tourists"
+      },
+      {
+        "objective_number": 12,
+        "description": "assess the feasibility of developing tourism as a means of increasing employment, development, gross national product (GNP) and gross domestic product (GDP)."
+      }
+    ]
+  }
+}

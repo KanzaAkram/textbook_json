@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Ideal gases"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.3",
+    "sub_topic_name": "Kinetic theory of gases",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state the basic assumptions of the kinetic theory of gases"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain how molecular movement causes the pressure exerted by a gas and derive and use the relationship pV = ⅓Nm<c²>, where <c²> is the mean-square speed (a simple model considering one-dimensional collisions and then extending to three dimensions using ⅓<c²> = <cx²> is sufficient)"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand that the root-mean-square speed cr.m.s. is given by √<c²>"
+      },
+      {
+        "objective_number": 4,
+        "description": "compare pV = ⅓Nm<c²> with pV = NkT to deduce that the average translational kinetic energy of a molecule is ³/₂kT, and recall and use this expression"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Spreadsheets"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.1",
+    "sub_topic_name": "Create a data model",
+    "learning_objectives": [
+      {
+        "description": "Create and edit a spreadsheet model",
+        "notes_and_guidance": "Insert cell(s), row(s) and column(s), delete cell(s), row(s) and column(s), merge cells. Create formulae using cell references. Replicate formulae using absolute and relative cell references where appropriate. Use arithmetic operators in formulae including add, subtract, multiply, divide, indices. Use named cells and named ranges. Use functions including sum, average, maximum, minimum, integer, rounding, counting, LOOKUP, VLOOKUP, HLOOKUP, XLOOKUP, IF. Use external data sources within functions. Use nested functions."
+      },
+      {
+        "description": "Formulae and functions",
+        "notes_and_guidance": "The difference between a formula and a function."
+      },
+      {
+        "description": "Order of operations",
+        "notes_and_guidance": "The order in which mathematical operations are performed including the use brackets to make sure that formulae work."
+      },
+      {
+        "description": "Cell referencing",
+        "notes_and_guidance": "Characteristics and use of absolute and relative cell referencing."
+      }
+    ]
+  }
+}

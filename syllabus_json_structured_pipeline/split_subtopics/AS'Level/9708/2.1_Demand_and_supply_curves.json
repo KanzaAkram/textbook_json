@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The price system and the microeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Demand and supply curves",
+    "content": [
+      {
+        "point_number": "2.1.1",
+        "description": "effective demand"
+      },
+      {
+        "point_number": "2.1.2",
+        "description": "individual and market demand and supply"
+      },
+      {
+        "point_number": "2.1.3",
+        "description": "determinants of demand"
+      },
+      {
+        "point_number": "2.1.4",
+        "description": "determinants of supply"
+      },
+      {
+        "point_number": "2.1.5",
+        "description": "causes of a shift in the demand curve (D)"
+      },
+      {
+        "point_number": "2.1.6",
+        "description": "causes of a shift in the supply curve (S)"
+      },
+      {
+        "point_number": "2.1.7",
+        "description": "distinction between the shift in the demand or supply curve and the movement along these curves"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.3",
+    "sub_topic_name": "Powers and roots",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Calculate with squares"
+      },
+      {
+        "objective_number": 2,
+        "description": "Calculate with square roots"
+      },
+      {
+        "objective_number": 3,
+        "description": "Calculate with cubes"
+      },
+      {
+        "objective_number": 4,
+        "description": "Calculate with cube roots"
+      },
+      {
+        "objective_number": 5,
+        "description": "Calculate with other powers and roots of numbers."
+      }
+    ],
+    "notes_and_examples": "Includes recall of squares and their corresponding roots from 1 to 15, and recall of cubes and their corresponding roots of 1, 2, 3, 4, 5 and 10, e.g.:\n• Write down the value of √169.\n• Work out 5² × ³√8."
+  }
+}

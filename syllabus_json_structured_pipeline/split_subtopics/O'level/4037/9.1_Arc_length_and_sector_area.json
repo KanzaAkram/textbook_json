@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Circular measure"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.1",
+    "sub_topic_name": "Arc length and sector area",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Solve problems involving the arc length and sector area of a circle, including knowledge and use of radian measure. (Use of radian measure is expected in the solution of problems which may involve compound shapes. Formulas are not given.)"
+      }
+    ]
+  }
+}

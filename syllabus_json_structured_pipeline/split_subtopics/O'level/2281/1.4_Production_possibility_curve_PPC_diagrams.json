@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The basic economic problem"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Production possibility curve (PPC) diagrams",
+    "learning_objectives": [
+      {
+        "objective_number": "1.4.1",
+        "objective_title": "definition of PPC",
+        "guidance": "Definition, drawing and interpretation of appropriate diagrams."
+      },
+      {
+        "objective_number": "1.4.2",
+        "objective_title": "points under, on and beyond a PPC",
+        "guidance": "The significance of the location of production points."
+      },
+      {
+        "objective_number": "1.4.3",
+        "objective_title": "movements along a PPC",
+        "guidance": "Movements along a PPC and opportunity cost."
+      },
+      {
+        "objective_number": "1.4.4",
+        "objective_title": "shifts in a PPC",
+        "guidance": "The causes and consequences of shifts in a PPC in terms of an economy's growth."
+      }
+    ]
+  }
+}

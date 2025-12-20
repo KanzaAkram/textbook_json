@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Analysis and interpretation"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Interpretation of accounting ratios",
+    "learning_objectives": [
+      "prepare and comment on simple statements showing comparison of results for different years",
+      "make recommendations and suggestions for improving profitability and working capital",
+      "understand the significance of the difference between the gross margin and the profit margin as an indicator of a business's efficiency",
+      "explain the relationship of gross profit and profit for the year to the valuation of inventory, rate of inventory turnover, revenue, expenses, and equity."
+    ]
+  }
+}

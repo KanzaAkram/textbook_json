@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Financial accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2.3",
+    "sub_topic_name": "Auditing and stewardship of limited companies",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the role and responsibilities of the auditor"
+      },
+      {
+        "objective_number": 2,
+        "description": "the differences between an external audit and an internal audit"
+      },
+      {
+        "objective_number": 3,
+        "description": "the difference between a qualified and unqualified audit report"
+      },
+      {
+        "objective_number": 4,
+        "description": "stewardship and the role of directors and their responsibilities to shareholders"
+      },
+      {
+        "objective_number": 5,
+        "description": "the importance of a true and fair view in respect of financial statements"
+      }
+    ]
+  }
+}

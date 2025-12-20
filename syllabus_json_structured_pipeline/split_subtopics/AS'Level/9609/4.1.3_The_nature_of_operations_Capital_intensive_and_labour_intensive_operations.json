@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1.3",
+    "sub_topic_name": "The nature of operations: Capital intensive and labour intensive operations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the benefits and limitations of capital intensive operations"
+      },
+      {
+        "objective_number": 2,
+        "description": "the benefits and limitations of labour intensive operations"
+      }
+    ]
+  }
+}

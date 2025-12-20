@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Scale drawings",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Draw and interpret scale drawings.",
+        "notes_and_examples": "A ruler must be used for all straight edges."
+      },
+      {
+        "objective_number": "2",
+        "description": "Use and interpret three-figure bearings.",
+        "notes_and_examples": "Bearings are measured clockwise from north (000° to 360°), e.g. Find the bearing of A from B if the bearing of B from A is 025°. Includes an understanding of the terms north, east, south and west, e.g. point D is due east of point C."
+      }
+    ]
+  }
+}

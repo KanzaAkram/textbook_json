@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Spreadsheets"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.3",
+    "sub_topic_name": "Present data",
+    "learning_objectives": [
+      {
+        "description": "Adjust the display features",
+        "notes_and_guidance": "Display either formulae or values. Adjust row height, column width and cell sizes so that all data, labels, and formulae is fully visible. Wrap text within cells so that all data is fully visible. Hide and display rows and columns."
+      },
+      {
+        "description": "Format a spreadsheet",
+        "notes_and_guidance": "Enhance a spreadsheet including text colour, cell colour, bold, underline, italic, shading. Format numeric data appropriately including to display the number of decimal places, different currency symbols, percentages. Use conditional formatting to change the display format depending on the contents of a cell."
+      },
+      {
+        "description": "Set page layout",
+        "notes_and_guidance": "Set the orientation to portrait or landscape. Control the page layout to print including specified number of pages, print area, display or hide gridlines, display or hide row and column headings."
+      }
+    ]
+  }
+}

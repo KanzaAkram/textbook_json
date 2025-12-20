@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.6",
+    "sub_topic_name": "Alcohols",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the manufacture of ethanol by: (a) fermentation of aqueous glucose at 25–35 °C in the presence of yeast and in the absence of oxygen (b) catalytic addition of steam to ethene at 300 °C and 6000 kPa/60 atm in the presence of an acid catalyst including a comparison of the advantages and disadvantages of the two methods"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the combustion of alcohols"
+      },
+      {
+        "objective_number": 3,
+        "description": "State the uses of ethanol as: (a) a solvent (b) a fuel"
+      }
+    ]
+  }
+}

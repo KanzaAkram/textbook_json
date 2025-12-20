@@ -1,0 +1,71 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Cost and management accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3.1",
+    "sub_topic_name": "Budgeting and budgetary control",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the advantages and disadvantages of a budgetary control system to an organisation"
+      },
+      {
+        "objective_number": 2,
+        "description": "the advantages and disadvantages of preparing budgets using spreadsheets"
+      },
+      {
+        "objective_number": 3,
+        "description": "what is meant by a master budget"
+      },
+      {
+        "objective_number": 4,
+        "description": "how to prepare the following budgets: sales, production, purchases, labour, trade receivables, trade payables, cash, budgeted statement of profit or loss, budgeted statement of financial position"
+      },
+      {
+        "objective_number": 5,
+        "description": "the effect of limiting factors on the preparation of budgets"
+      },
+      {
+        "objective_number": 6,
+        "description": "the benefits of flexible budgeting over fixed budgeting"
+      },
+      {
+        "objective_number": 7,
+        "description": "how to prepare a flexible budget statement"
+      },
+      {
+        "objective_number": 8,
+        "description": "possible causes of differences between actual and flexible budgeted data"
+      },
+      {
+        "objective_number": 9,
+        "description": "how to prepare a statement reconciling the flexible budgeted cost of production with the actual cost of production"
+      },
+      {
+        "objective_number": 10,
+        "description": "how to prepare a statement reconciling the flexible budgeted profit with the actual profit"
+      },
+      {
+        "objective_number": 11,
+        "description": "how to make business decisions and recommendations using supporting data"
+      },
+      {
+        "objective_number": 12,
+        "description": "the behavioural aspects of budgeting, including targets, incentives and motivation"
+      },
+      {
+        "objective_number": 13,
+        "description": "the significance of non-financial factors"
+      }
+    ]
+  }
+}

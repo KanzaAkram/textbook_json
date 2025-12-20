@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Trigonometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.2",
+    "sub_topic_name": "Amplitude and period",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand and use the amplitude and period of a trigonometric function, including the relationship between graphs of related trigonometric functions. (For example: y = sin x and y = 3sin 2x. The period may be in either degrees or radians.)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Pure Mathematics 3 (for Paper 3)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.8",
+    "sub_topic_name": "Differential equations",
+    "learning_objectives": [
+      {
+        "description": "formulate a simple statement involving a rate of change as a differential equation",
+        "notes_and_examples": "The introduction and evaluation of a constant of proportionality, where necessary, is included."
+      },
+      {
+        "description": "find by integration a general form of solution for a first order differential equation in which the variables are separable",
+        "notes_and_examples": "Including any of the integration techniques from topic 3.5 above."
+      },
+      {
+        "description": "use an initial condition to find a particular solution",
+        "notes_and_examples": null
+      },
+      {
+        "description": "interpret the solution of a differential equation in the context of a problem being modelled by the equation.",
+        "notes_and_examples": "Where a differential equation is used to model a 'real-life' situation, no specialised knowledge of the context will be required."
+      }
+    ]
+  }
+}

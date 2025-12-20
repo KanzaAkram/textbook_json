@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Transport in mammals"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Transport of oxygen and carbon dioxide",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the role of red blood cells in transporting oxygen and carbon dioxide with reference to the roles of: haemoglobin, carbonic anhydrase, the formation of haemoglobinic acid, the formation of carbaminohaemoglobin"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the chloride shift and explain the importance of the chloride shift"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the role of plasma in the transport of carbon dioxide"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe and explain the oxygen dissociation curve of adult haemoglobin"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues"
+      },
+      {
+        "objective_number": 6,
+        "description": "describe the Bohr shift and explain the importance of the Bohr shift"
+      }
+    ]
+  }
+}

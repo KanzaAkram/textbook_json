@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "The macroeconomy (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.2",
+    "sub_topic_name": "Economic growth and sustainability",
+    "learning_objectives": [
+      {
+        "objective_number": "9.2.1",
+        "description": "actual growth versus potential growth in national output"
+      },
+      {
+        "objective_number": "9.2.2",
+        "description": "positive and negative output gaps"
+      },
+      {
+        "objective_number": "9.2.3",
+        "description": "business (trade) cycle: phases of the cycle, causes of the cycle, role of automatic stabilisers"
+      },
+      {
+        "objective_number": "9.2.4",
+        "description": "policies to promote economic growth and their effectiveness"
+      },
+      {
+        "objective_number": "9.2.5",
+        "description": "inclusive economic growth: definition of inclusive economic growth, impact of economic growth on equity and equality, policies to promote inclusive growth"
+      },
+      {
+        "objective_number": "9.2.6",
+        "description": "sustainable economic growth: definition of sustainable economic growth, using and conserving resources, impact of economic growth on the environment and climate change, policies to mitigate the impact of economic growth on the environment and climate change"
+      }
+    ]
+  }
+}

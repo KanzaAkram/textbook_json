@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Magnetic fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.3",
+    "sub_topic_name": "Force on a moving charge",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "determine the direction of the force on a charge moving in a magnetic field"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use F = BQv sin θ"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the origin of the Hall voltage and derive and use the expression VH = BI/(ntq), where t = thickness"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand the use of a Hall probe to measure magnetic flux density"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe the motion of a charged particle moving in a uniform magnetic field perpendicular to the direction of motion of the particle"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain how electric and magnetic fields can be used in velocity selection"
+      }
+    ]
+  }
+}

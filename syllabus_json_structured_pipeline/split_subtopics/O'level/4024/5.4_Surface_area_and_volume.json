@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Mensuration"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4",
+    "sub_topic_name": "Surface area and volume",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Carry out calculations and solve problems involving the surface area and volume of a: cuboid, prism, cylinder, sphere, pyramid, cone.",
+        "notes_and_examples": "Answers may be asked for in terms of π. The following formulas are given in the List of formulas: curved surface area of a cylinder, curved surface area of a cone, surface area of a sphere, volume of a prism, volume of a pyramid, volume of a cylinder, volume of a cone, volume of a sphere. The term prism refers to any solid with a uniform cross-section, e.g. a cylindrical sector."
+      }
+    ]
+  }
+}

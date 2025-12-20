@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Pure Mathematics 1 (for Paper 1)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Circular measure",
+    "learning_objectives": [
+      {
+        "description": "understand the definition of a radian, and use the relationship between radians and degrees",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use the formulae s = rθ and A = 1/2 r²θ in solving problems concerning the arc length and sector area of a circle.",
+        "notes_and_examples": "Including calculation of lengths and angles in triangles and areas of triangles."
+      }
+    ]
+  }
+}

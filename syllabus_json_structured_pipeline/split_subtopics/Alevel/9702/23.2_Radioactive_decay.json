@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "23",
+    "topic_name": "Nuclear physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "23.2",
+    "sub_topic_name": "Radioactive decay",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that fluctuations in count rate provide evidence for the random nature of radioactive decay"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that radioactive decay is both spontaneous and random"
+      },
+      {
+        "objective_number": 3,
+        "description": "define activity and decay constant, and recall and use A = λN"
+      },
+      {
+        "objective_number": 4,
+        "description": "define half-life"
+      },
+      {
+        "objective_number": 5,
+        "description": "use λ = 0.693/t½"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand the exponential nature of radioactive decay, and sketch and use the relationship x = x₀e⁻λᵗ, where x could represent activity, number of undecayed nuclei or received count rate"
+      }
+    ]
+  }
+}

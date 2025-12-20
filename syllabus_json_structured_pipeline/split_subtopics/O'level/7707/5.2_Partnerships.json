@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Preparation of financial statements"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Partnerships",
+    "learning_objectives": [
+      "explain the advantages and disadvantages of forming a partnership",
+      "outline the importance and contents of a partnership agreement",
+      "explain the purpose of an appropriation account",
+      "prepare income statements, appropriation accounts and statements of financial position",
+      "record interest on partners' loans, interest on capital, interest on drawings, partners' salaries and the division of the balance of profit or loss",
+      "make adjustments to financial statements as detailed in 5.1 (sole traders)",
+      "explain the uses of and differences between capital and current accounts",
+      "draw up partners' capital and current accounts in ledger account form and as part of a statement of financial position."
+    ],
+    "notes": [
+      "Candidates will not be required to answer questions on the admission/departure of a partner, the dissolution of a partnership or changes to a profit sharing ratio."
+    ]
+  }
+}

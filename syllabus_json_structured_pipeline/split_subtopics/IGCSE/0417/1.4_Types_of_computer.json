@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Types and components of computer systems"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Types of computer",
+    "learning_objectives": [
+      {
+        "description": "Desktop computer",
+        "notes_and_guidance": "Characteristics of a desktop computer\nUses of a desktop computer including office and business management, education, gaming and entertainment"
+      },
+      {
+        "description": "Mobile computers",
+        "notes_and_guidance": "Characteristics of mobile computers including laptop computers, smartphones, tablet and phablet computers\nUses of mobile computers including office and business management, education, gaming, entertainment and remotely controlled devices\nAdvantages and disadvantages of the different types of computer including portability and expandability"
+      }
+    ]
+  }
+}

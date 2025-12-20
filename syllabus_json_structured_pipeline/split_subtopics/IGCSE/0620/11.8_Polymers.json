@@ -1,0 +1,75 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.8",
+    "sub_topic_name": "Polymers",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Define polymers as large molecules built up from many smaller molecules called monomers"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the formation of poly(ethene) as an example of addition polymerisation using ethene monomers"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that plastics are made from polymers"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe how the properties of plastics have implications for their disposal"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe the environmental challenges caused by plastics, limited to: (a) disposal in landfill sites (b) accumulation in oceans (c) formation of toxic gases from burning"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 6,
+          "description": "Identify the repeat units and/or linkages in addition polymers and in condensation polymers"
+        },
+        {
+          "objective_number": 7,
+          "description": "Deduce the structure or repeat unit of an addition polymer from a given alkene and vice versa"
+        },
+        {
+          "objective_number": 8,
+          "description": "Deduce the structure or repeat unit of a condensation polymer from given monomers and vice versa, limited to: (a) polyamides from a dicarboxylic acid and a diamine (b) polyesters from a dicarboxylic acid and a diol"
+        },
+        {
+          "objective_number": 9,
+          "description": "Describe the differences between addition and condensation polymerisation"
+        },
+        {
+          "objective_number": 10,
+          "description": "Describe and draw the structure of: (a) nylon, a polyamide (b) PET, a polyester The full name for PET, polyethylene terephthalate, is not required"
+        },
+        {
+          "objective_number": 11,
+          "description": "State that PET can be converted back into monomers and re-polymerised"
+        },
+        {
+          "objective_number": 12,
+          "description": "Describe proteins as natural polyamides and that they are formed from amino acid monomers with the general structure where R represents different types of side-chain"
+        },
+        {
+          "objective_number": 13,
+          "description": "Describe and draw the structure of proteins as a polyamide"
+        }
+      ]
+    }
+  }
+}

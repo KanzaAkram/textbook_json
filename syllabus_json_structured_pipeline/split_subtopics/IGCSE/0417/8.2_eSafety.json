@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Safety and security"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "eSafety",
+    "learning_objectives": [
+      {
+        "description": "Data protection",
+        "notes_and_guidance": "The principles of a typical data protection act and why data protection legislation is required"
+      },
+      {
+        "description": "Personal data",
+        "notes_and_guidance": "Characteristics of personal and sensitive data including personal name, address, date of birth, a photograph in school uniform, medical history\nThe need for personal data to be kept confidential and protected to avoid inappropriate disclosure"
+      },
+      {
+        "description": "eSafety",
+        "notes_and_guidance": "The need for eSafety when using the internet, email, social media, online gaming\nMinimise the potential danger of using:\nThe internet including only using trusted websites recommended by teachers, using a search engine that only allows access to age appropriate websites\nEmail including an awareness of the potential dangers of opening or replying to an email from an unknown person. An awareness of the risks associated with sending personal identifiable data or images via email\nSocial media including knowing how to block and report unwanted users, an awareness of the potential dangers of meeting an online contact face to face, avoiding the distribution of inappropriate images, avoiding the use of inappropriate language, respecting confidentiality of personal data of other people\nOnline gaming including not using real names, not giving out personal or financial data"
+      }
+    ]
+  }
+}

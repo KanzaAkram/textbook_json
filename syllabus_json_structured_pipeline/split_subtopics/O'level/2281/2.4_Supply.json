@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Supply",
+    "learning_objectives": [
+      {
+        "objective_number": "2.4.1",
+        "objective_title": "definition of supply",
+        "guidance": "Definition, drawing and interpretation of appropriate diagrams."
+      },
+      {
+        "objective_number": "2.4.2",
+        "objective_title": "price, supply and quantity",
+        "guidance": "A supply curve to be drawn and used to illustrate movements along a supply curve with appropriate terminology, for example extensions and contractions in supply."
+      },
+      {
+        "objective_number": "2.4.3",
+        "objective_title": "individual and market supply",
+        "guidance": "The link between individual and market supply in terms of aggregation."
+      },
+      {
+        "objective_number": "2.4.4",
+        "objective_title": "conditions of supply",
+        "guidance": "The causes of shifts in a supply curve with appropriate terminology, for example increase and decrease in supply."
+      }
+    ]
+  }
+}

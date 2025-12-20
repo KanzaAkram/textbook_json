@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Transport in humans"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.2",
+    "sub_topic_name": "Heart",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify the structures of the mammalian heart, limited to: the muscular wall, the septum, the left and right ventricles and atria, atrioventricular and semilunar valves and coronary arteries"
+      },
+      {
+        "objective_number": 2,
+        "description": "Explain the relative thickness: (a) of the muscle walls of the left and right ventricles (b) of the muscle walls of the atria compared to those of the ventricles"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the functioning of the heart in terms of the contraction of muscles of the atria and ventricles and the action of the valves in a heartbeat"
+      },
+      {
+        "objective_number": 4,
+        "description": "State that blood is pumped away from the heart in arteries and returns to the heart in veins"
+      },
+      {
+        "objective_number": 5,
+        "description": "State that the activity of the heart may be monitored by electrocardiogram (ECG), pulse rate and listening to sounds of valves closing"
+      },
+      {
+        "objective_number": 6,
+        "description": "Investigate and explain the effect of physical activity on heart rate"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe coronary heart disease in terms of the blockage of coronary arteries and state the possible risk factors including diet, sedentary lifestyle, stress, smoking, genetic predisposition, age and gender"
+      },
+      {
+        "objective_number": 8,
+        "description": "Discuss the role of diet and exercise in reducing the risk of coronary heart disease"
+      }
+    ]
+  }
+}

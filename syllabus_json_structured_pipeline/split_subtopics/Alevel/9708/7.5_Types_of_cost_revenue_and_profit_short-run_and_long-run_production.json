@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The price system and the microeconomy (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.5",
+    "sub_topic_name": "Types of cost, revenue and profit, short-run and long-run production",
+    "learning_objectives": [
+      {
+        "objective_number": "7.5.1",
+        "description": "short-run production function: fixed and variable factors of production, definition and calculation of total product, average product and marginal product, law of diminishing returns (law of variable proportions)"
+      },
+      {
+        "objective_number": "7.5.2",
+        "description": "short-run cost function: definition and calculation of fixed costs (FC) and variable costs (VC), definition and calculation of total, average and marginal costs (TC, AC, MC), including average total cost (ATC), total and average fixed costs (TFC, AFC) and total and average variable costs (TVC, AVC), explanation of shape of short-run average cost and marginal cost curves"
+      },
+      {
+        "objective_number": "7.5.3",
+        "description": "long-run production function: no fixed factors of production, returns to scale"
+      },
+      {
+        "objective_number": "7.5.4",
+        "description": "long-run cost function: explanation of shape of long-run average cost curve, concept of minimum efficient scale"
+      },
+      {
+        "objective_number": "7.5.5",
+        "description": "relationship between economies of scale and decreasing average costs"
+      },
+      {
+        "objective_number": "7.5.6",
+        "description": "internal and external economies of scale"
+      },
+      {
+        "objective_number": "7.5.7",
+        "description": "internal and external diseconomies of scale"
+      },
+      {
+        "objective_number": "7.5.8",
+        "description": "definition and calculation of revenue: total, average and marginal revenue (TR, AR, MR)"
+      },
+      {
+        "objective_number": "7.5.9",
+        "description": "definition of normal, subnormal and supernormal profit"
+      },
+      {
+        "objective_number": "7.5.10",
+        "description": "calculation of supernormal and subnormal profit"
+      }
+    ]
+  }
+}

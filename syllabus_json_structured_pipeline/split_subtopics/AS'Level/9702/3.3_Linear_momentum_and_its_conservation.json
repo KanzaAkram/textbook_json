@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Dynamics"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Linear momentum and its conservation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state the principle of conservation of momentum"
+      },
+      {
+        "objective_number": 2,
+        "description": "apply the principle of conservation of momentum to solve simple problems, including elastic and inelastic interactions between objects in both one and two dimensions (knowledge of the concept of coefficient of restitution is not required)"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall that, for an elastic collision, total kinetic energy is conserved and the relative speed of approach is equal to the relative speed of separation"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand that, while momentum of a system is always conserved in interactions between objects, some change in kinetic energy may take place"
+      }
+    ]
+  }
+}

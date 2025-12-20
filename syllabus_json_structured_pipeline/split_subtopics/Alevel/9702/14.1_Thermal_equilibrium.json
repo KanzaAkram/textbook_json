@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Temperature"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.1",
+    "sub_topic_name": "Thermal equilibrium",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that (thermal) energy is transferred from a region of higher temperature to a region of lower temperature"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that regions of equal temperature are in thermal equilibrium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Chemical energetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Exothermic and endothermic reactions",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State that an exothermic reaction transfers thermal energy to the surroundings leading to an increase in the temperature of the surroundings"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that an endothermic reaction takes in thermal energy from the surroundings leading to a decrease in the temperature of the surroundings"
+        },
+        {
+          "objective_number": 3,
+          "description": "Interpret reaction pathway diagrams showing exothermic and endothermic reactions"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 4,
+          "description": "State that the transfer of thermal energy during a reaction is called the enthalpy change, ΔH, of the reaction. ΔH is negative for exothermic reactions and positive for endothermic reactions"
+        },
+        {
+          "objective_number": 5,
+          "description": "Define activation energy, Ea, as the minimum energy that colliding particles must have to react"
+        },
+        {
+          "objective_number": 6,
+          "description": "Draw and label reaction pathway diagrams for exothermic and endothermic reactions using information provided, to include: (a) reactants (b) products (c) enthalpy change of the reaction, ΔH (d) activation energy, Ea"
+        },
+        {
+          "objective_number": 7,
+          "description": "State that bond breaking is an endothermic process and bond making is an exothermic process and explain the enthalpy change of a reaction in terms of bond breaking and bond making"
+        },
+        {
+          "objective_number": 8,
+          "description": "Calculate the enthalpy change of a reaction using bond energies"
+        }
+      ]
+    }
+  }
+}

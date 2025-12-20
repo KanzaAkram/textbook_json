@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "People in business"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Internal and external communication",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Effective communication and its importance to business"
+      },
+      {
+        "objective_number": 2,
+        "description": "Benefits and limitations of different communication methods including those based on information technology (IT)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Recommend and justify which communication method to use in given circumstances"
+      },
+      {
+        "objective_number": 4,
+        "description": "How communication barriers arise and problems of ineffective communication; how communication barriers can be reduced or removed"
+      }
+    ]
+  }
+}

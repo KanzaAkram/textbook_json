@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Waves"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Progressive waves",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe what is meant by wave motion as illustrated by vibration in ropes, springs and ripple tanks"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand and use the terms displacement, amplitude, phase difference, period, frequency, wavelength and speed"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the use of the time-base and y-gain of a cathode-ray oscilloscope (CRO) to determine frequency and amplitude"
+      },
+      {
+        "objective_number": 4,
+        "description": "derive, using the definitions of speed, frequency and wavelength, the wave equation v = fλ"
+      },
+      {
+        "objective_number": 5,
+        "description": "recall and use v = fλ"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand that energy is transferred by a progressive wave"
+      },
+      {
+        "objective_number": 7,
+        "description": "recall and use intensity = power/area and intensity ∝ (amplitude)² for a progressive wave"
+      }
+    ]
+  }
+}

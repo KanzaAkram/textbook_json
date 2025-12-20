@@ -1,0 +1,14 @@
+{
+  "subtopic_number": "1.3",
+  "subtopic_name": "Electrons, energy levels and atomic orbitals",
+  "level": "AS'Level",
+  "subject_code": "9701",
+  "sources": {
+    "textbook": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\1.3_Electrons, energy levels and atomic orbitals.json",
+    "syllabus": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\1.3_Electrons_energy_levels_and_atomic_orbitals.json",
+    "save_my_exam": [
+      "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\1.3_Electrons_energy_levels_and_atomic_orbitals.pdf"
+    ]
+  },
+  "confidence": 1.0
+}

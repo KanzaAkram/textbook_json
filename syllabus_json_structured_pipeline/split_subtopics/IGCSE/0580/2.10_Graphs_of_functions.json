@@ -1,0 +1,28 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.10",
+    "sub_topic_name": "Graphs of functions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms:\n• ax + b\n• ± x² + ax + b\n• a/x (x ≠ 0)\nwhere a and b are integer constants."
+      },
+      {
+        "objective_number": 2,
+        "description": "Solve associated equations graphically, including finding and interpreting roots by graphical methods."
+      }
+    ],
+    "notes_and_examples": "e.g. find the intersection of a line and a curve."
+  }
+}

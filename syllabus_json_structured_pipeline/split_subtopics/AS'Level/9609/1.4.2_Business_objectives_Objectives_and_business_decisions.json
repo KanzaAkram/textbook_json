@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Business and its environment (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4.2",
+    "sub_topic_name": "Business objectives: Objectives and business decisions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the different stages of business decision-making and the role of objectives in the stages of business decision-making"
+      },
+      {
+        "objective_number": 2,
+        "description": "how objectives might change over time"
+      },
+      {
+        "objective_number": 3,
+        "description": "the translation of objectives into targets and budgets"
+      },
+      {
+        "objective_number": 4,
+        "description": "the need for communication of objectives and their likely impact on the workforce"
+      },
+      {
+        "objective_number": 5,
+        "description": "SMART (specific, measurable, achievable, realistic, time-limited) objectives"
+      },
+      {
+        "objective_number": 6,
+        "description": "how ethics may influence business objectives and activities"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.10",
+    "sub_topic_name": "Limits of accuracy",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Give upper and lower bounds for data rounded to a specified accuracy.",
+        "notes_and_examples": "e.g. write down the upper bound of a length measured correct to the nearest metre."
+      },
+      {
+        "objective_number": "2",
+        "description": "Find upper and lower bounds of the results of calculations which have used data rounded to a specified accuracy.",
+        "notes_and_examples": "Example calculations include: calculate the upper bound of the perimeter or the area of a rectangle given dimensions measured to the nearest centimetre; find the lower bound of the speed given rounded values of distance and time."
+      }
+    ]
+  }
+}

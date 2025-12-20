@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Chemical energetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Hess's law",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "apply Hess's law to construct simple energy cycles"
+      },
+      {
+        "objective_number": 2,
+        "description": "carry out calculations using cycles and relevant energy terms, including: (a) determining enthalpy changes that cannot be found by direct experiment (b) use of bond energy data"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3.5",
+    "sub_topic_name": "The marketing mix: Promotion methods",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the objectives and usefulness of different promotion methods"
+      },
+      {
+        "objective_number": 2,
+        "description": "advertising promotion"
+      },
+      {
+        "objective_number": 3,
+        "description": "sales promotion"
+      },
+      {
+        "objective_number": 4,
+        "description": "direct promotion"
+      },
+      {
+        "objective_number": 5,
+        "description": "developments in digital promotion"
+      },
+      {
+        "objective_number": 6,
+        "description": "the role of packaging in promotion"
+      },
+      {
+        "objective_number": 7,
+        "description": "the role of branding in promotion"
+      }
+    ]
+  }
+}

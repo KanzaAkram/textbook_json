@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Energy and respiration"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.1",
+    "sub_topic_name": "Energy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "outline the need for energy in living organisms, as illustrated by active transport, movement and anabolic reactions, such as those occurring in DNA replication and protein synthesis"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the features of ATP that make it suitable as the universal energy currency"
+      },
+      {
+        "objective_number": 3,
+        "description": "state that ATP is synthesised by: transfer of phosphate in substrate-linked reactions; chemiosmosis in membranes of mitochondria and chloroplasts"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain the relative energy values of carbohydrates, lipids and proteins as respiratory substrates"
+      },
+      {
+        "objective_number": 5,
+        "description": "state that the respiratory quotient (RQ) is the ratio of the number of molecules of carbon dioxide produced to the number of molecules of oxygen taken in, as a result of respiration"
+      },
+      {
+        "objective_number": 6,
+        "description": "calculate RQ values of different respiratory substrates from equations for respiration"
+      },
+      {
+        "objective_number": 7,
+        "description": "describe and carry out investigations, using simple respirometers, to determine the RQ of germinating seeds or small invertebrates (e.g. blowfly larvae)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "level": "Alevel",
+  "subject_code": "9618",
+  "generated_at": "2025-12-20T23:04:23.276893",
+  "total_matches": 15,
+  "matches": [
+    {
+      "subtopic_number": "13.1",
+      "subtopic_name": "User-defined data types",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\13.1_User-defined_data_types.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.2",
+      "subtopic_name": "File organisation and access",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\13.2_File_organisation_and_access.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.3",
+      "subtopic_name": "Floating-point numbers, representation and manipulation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\13.3_Floating-point_numbers_representation_and_manipulation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.1",
+      "subtopic_name": "Protocols",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\14.1_Protocols.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.2",
+      "subtopic_name": "Circuit switching, packet switching",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\14.2_Circuit_switching_packet_switching.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.1",
+      "subtopic_name": "Processors, Parallel Processing and Virtual Machines",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\15.1_Processors_Parallel_Processing_and_Virtual_Machines.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.2",
+      "subtopic_name": "Boolean Algebra and Logic Circuits",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\15.2_Boolean_Algebra_and_Logic_Circuits.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "16.1",
+      "subtopic_name": "Purposes of an Operating System (OS)",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\16.1_Purposes_of_an_Operating_System_OS.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "16.2",
+      "subtopic_name": "Translation Software",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\16.2_Translation_Software.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "17.1",
+      "subtopic_name": "Encryption, Encryption Protocols and Digital Certificates",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\17.1_Encryption_Encryption_Protocols_and_Digital_Certificates.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.1",
+      "subtopic_name": "Artificial Intelligence (AI)",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\18.1_Artificial_Intelligence_AI.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "19.1",
+      "subtopic_name": "Algorithms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\19.1_Algorithms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "19.2",
+      "subtopic_name": "Recursion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\19.2_Recursion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.1",
+      "subtopic_name": "Programming Paradigms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\20.1_Programming_Paradigms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "20.2",
+      "subtopic_name": "File Processing and Exception Handling",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9618\\20.2_File_Processing_and_Exception_Handling.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

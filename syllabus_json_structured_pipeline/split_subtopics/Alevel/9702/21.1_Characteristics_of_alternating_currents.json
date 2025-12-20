@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Alternating currents"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.1",
+    "sub_topic_name": "Characteristics of alternating currents",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand and use the terms period, frequency and peak value as applied to an alternating current or voltage"
+      },
+      {
+        "objective_number": 2,
+        "description": "use equations of the form x = x₀ sin ωt representing a sinusoidally alternating current or voltage"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and use the fact that the mean power in a resistive load is half the maximum power for a sinusoidal alternating current"
+      },
+      {
+        "objective_number": 4,
+        "description": "distinguish between root-mean-square (r.m.s.) and peak values and recall and use Ir.m.s. = I₀/√2 and Vr.m.s. = V₀/√2 for a sinusoidal alternating current"
+      }
+    ]
+  }
+}

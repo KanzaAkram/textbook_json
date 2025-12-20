@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Population and employment"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Structure and growth",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the changing population structures (both age and sex) as shown by population pyramids for Pakistan"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain and evaluate the effects of the present and projected population structures on the economy and development of Pakistan"
+      },
+      {
+        "objective_number": 3,
+        "description": "interpret graphs and statistics illustrating birth rates, death rates and the rates of natural increase in Pakistan, and identify trends in population growth"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain the social, educational, economic and political factors which contribute to population growth over time"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain the problems for development caused by population growth over time, consider its sustainability and evaluate possible solutions to these problems."
+      }
+    ]
+  }
+}

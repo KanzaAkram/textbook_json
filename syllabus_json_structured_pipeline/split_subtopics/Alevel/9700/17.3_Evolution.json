@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Selection and evolution"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.3",
+    "sub_topic_name": "Evolution",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "outline the theory of evolution as a process leading to the formation of new species from pre-existing species over time, as a result of changes to gene pools from generation to generation"
+      },
+      {
+        "objective_number": 2,
+        "description": "discuss how DNA sequence data can show evolutionary relationships between species"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain how speciation may occur as a result of genetic isolation by: geographical separation (allopatric speciation); ecological and behavioural separation (sympatric speciation)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "25",
+    "topic_name": "Equilibria"
+  },
+  "subtopic": {
+    "sub_topic_number": "25.1",
+    "sub_topic_name": "Acids and bases",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand and use the terms conjugate acid and conjugate base"
+      },
+      {
+        "objective_number": 2,
+        "description": "define conjugate acid-base pairs, identifying such pairs in reactions"
+      },
+      {
+        "objective_number": 3,
+        "description": "define mathematically the terms pH, Ka, pKa and Kw and use them in calculations (Kb and the equation Kw = Ka × Kb will not be tested)"
+      },
+      {
+        "objective_number": 4,
+        "description": "calculate [H⁺(aq)] and pH values for: (a) strong acids (b) strong alkalis (c) weak acids"
+      },
+      {
+        "objective_number": 5,
+        "description": "(a) define a buffer solution (b) explain how a buffer solution can be made (c) explain how buffer solutions control pH; use chemical equations in these explanations (d) describe and explain the uses of buffer solutions, including the role of HCO₃⁻ in controlling pH in blood"
+      },
+      {
+        "objective_number": 6,
+        "description": "calculate the pH of buffer solutions, given appropriate data"
+      },
+      {
+        "objective_number": 7,
+        "description": "understand and use the term solubility product, Ksp"
+      },
+      {
+        "objective_number": 8,
+        "description": "write an expression for Ksp"
+      },
+      {
+        "objective_number": 9,
+        "description": "calculate Ksp from concentrations and vice versa"
+      },
+      {
+        "objective_number": 10,
+        "description": "(a) understand and use the common ion effect to explain the different solubility of a compound in a solution containing a common ion (b) perform calculations using Ksp values and concentration of a common ion"
+      }
+    ]
+  }
+}

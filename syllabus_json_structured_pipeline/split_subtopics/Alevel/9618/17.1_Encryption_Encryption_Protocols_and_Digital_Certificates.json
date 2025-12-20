@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Security"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.1",
+    "sub_topic_name": "Encryption, Encryption Protocols and Digital Certificates",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of how encryption works (Including the use of public key, private key, plain text, cipher text, encryption, symmetric key cryptography and asymmetric key cryptography; How the keys can be used to send a private message from the public to an individual/ organisation; How the keys can be used to send a verified message to the public; How data is encrypted and decrypted, using symmetric and asymmetric cryptography; Purpose, benefits and drawbacks of quantum cryptography)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show awareness of the Secure Socket Layer (SSL)/ Transport Layer Security (TLS) (Purpose of SSL/TLS; Use of SSL/TLS in client-server communication; Situations where the use of SSL/TLS would be appropriate)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Show understanding of digital certification (How a digital certificate is acquired; How a digital certificate is used to produce digital signatures)"
+      }
+    ]
+  }
+}

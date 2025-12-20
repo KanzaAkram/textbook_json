@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Accounting procedures"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.4",
+    "sub_topic_name": "Irrecoverable debts and provision for doubtful debts",
+    "learning_objectives": [
+      "understand the meaning of irrecoverable debts and recovery of debts written off",
+      "prepare ledger accounts and journal entries to record irrecoverable debts",
+      "prepare ledger accounts and journal entries to record recovery of debts written off",
+      "explain the reasons for maintaining a provision for doubtful debts",
+      "prepare ledger accounts and journal entries to record the creation of, and adjustments to, a provision for doubtful debts."
+    ]
+  }
+}

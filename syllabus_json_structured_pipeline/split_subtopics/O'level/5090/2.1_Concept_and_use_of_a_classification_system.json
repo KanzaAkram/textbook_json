@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Classification"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Concept and use of a classification system",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand that organisms can be classified into groups by the features they share"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe a species as a group of organisms that can reproduce to produce fertile offspring"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the binomial system of naming species as an internationally agreed system in which the scientific name of an organism is made up of two parts showing the genus and species"
+      },
+      {
+        "objective_number": 4,
+        "description": "Construct and use dichotomous keys based on identifiable features"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Coordinate geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Gradient of linear graphs",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Find the gradient of a straight line.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "2",
+        "description": "Calculate the gradient of a straight line from the coordinates of two points on it.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

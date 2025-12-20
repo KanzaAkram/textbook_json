@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1.3",
+    "sub_topic_name": "The nature of marketing: Markets",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "how markets may differ: consumer and industrial markets; local, national and international markets"
+      },
+      {
+        "objective_number": 2,
+        "description": "the difference between product orientation and customer (market) orientation"
+      },
+      {
+        "objective_number": 3,
+        "description": "measurement of market share and market growth"
+      },
+      {
+        "objective_number": 4,
+        "description": "the implications of changes in market share and market growth"
+      }
+    ]
+  }
+}

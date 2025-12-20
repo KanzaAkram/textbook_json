@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Experimental techniques and chemical analysis"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.4",
+    "sub_topic_name": "Separation and purification",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe and explain methods of separation and purification using: (a) a suitable solvent (b) filtration (c) crystallisation (d) simple distillation (e) fractional distillation"
+      },
+      {
+        "objective_number": 2,
+        "description": "Suggest suitable separation and purification techniques, given information about the substances involved"
+      },
+      {
+        "objective_number": 3,
+        "description": "Identify substances and assess their purity using melting point and boiling point information"
+      }
+    ]
+  }
+}

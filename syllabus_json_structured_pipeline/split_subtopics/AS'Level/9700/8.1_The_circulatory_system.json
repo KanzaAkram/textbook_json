@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Transport in mammals"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "The circulatory system",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state that the mammalian circulatory system is a closed double circulation consisting of a heart, blood and blood vessels including arteries, arterioles, capillaries, venules and veins"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the functions of the main blood vessels of the pulmonary and systemic circulations, limited to pulmonary artery, pulmonary vein, aorta and vena cava"
+      },
+      {
+        "objective_number": 3,
+        "description": "recognise arteries, veins and capillaries from microscope slides, photomicrographs and electron micrographs and make plan diagrams showing the structure of arteries and veins in transverse section (TS) and longitudinal section (LS)"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain how the structure of muscular arteries, elastic arteries, veins and capillaries are each related to their functions"
+      },
+      {
+        "objective_number": 5,
+        "description": "recognise and draw red blood cells, monocytes, neutrophils and lymphocytes from microscope slides, photomicrographs and electron micrographs"
+      },
+      {
+        "objective_number": 6,
+        "description": "state that water is the main component of blood and tissue fluid and relate the properties of water to its role in transport in mammals, limited to solvent action and high specific heat capacity"
+      },
+      {
+        "objective_number": 7,
+        "description": "state the functions of tissue fluid and describe the formation of tissue fluid in a capillary network"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Human gas exchange"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.1",
+    "sub_topic_name": "Human gas exchange",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the features of gas exchange surfaces in humans, limited to: large surface area, thin surface, good blood and air supply"
+      },
+      {
+        "objective_number": 2,
+        "description": "State the percentages of the gases in atmospheric air"
+      },
+      {
+        "objective_number": 3,
+        "description": "Investigate and explain the differences between inspired and expired air"
+      },
+      {
+        "objective_number": 4,
+        "description": "Identify, on diagrams and images, the larynx, trachea, lungs, bronchi, bronchioles, alveoli and associated capillaries"
+      },
+      {
+        "objective_number": 5,
+        "description": "State the characteristics of, and describe the role of, the exchange surface of the alveoli in gas exchange"
+      },
+      {
+        "objective_number": 6,
+        "description": "Identify, on diagrams and images, the ribs, internal and external intercostal muscles and the diaphragm"
+      },
+      {
+        "objective_number": 7,
+        "description": "Explain the role of the ribs, the internal and external intercostal muscles and the diaphragm in producing volume and pressure changes in the thorax, causing the movement of air into and out of the lungs (breathing)"
+      },
+      {
+        "objective_number": 8,
+        "description": "Investigate and explain the effect of physical activity on rate and depth of breathing"
+      },
+      {
+        "objective_number": 9,
+        "description": "Explain the role of goblet cells, ciliated cells and mucus in protecting the gas exchange system from pathogens and particles"
+      }
+    ]
+  }
+}

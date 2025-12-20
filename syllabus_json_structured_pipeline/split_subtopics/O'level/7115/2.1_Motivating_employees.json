@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "People in business"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Motivating employees",
+    "learning_objectives": [
+      {
+        "objective_number": "2.1.1",
+        "description": "The importance of a well-motivated workforce: Why people work and what motivation means; The benefits of a well-motivated workforce: labour productivity, reduced absenteeism and labour turnover; The concept of human needs, e.g. Maslow's hierarchy; Key motivational theories: Taylor and Herzberg"
+      },
+      {
+        "objective_number": "2.1.2",
+        "description": "Methods of motivation: Financial rewards, e.g. wage, salary, bonus, commission and profit sharing; Non-financial methods, e.g. job enrichment, job rotation, teamworking, training, opportunities for promotion; Recommend and justify appropriate method(s) of motivation in given circumstances"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Transport and telecommunications"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Internal transport",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "interpret maps to describe the regional variations in the density and pattern of the road, rail and air transport networks within Pakistan"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the factors which help and hinder the location, maintenance and development of roads, railways and airports"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe improvements that have recently taken place in road, rail and air communications, and consider the feasibility of new developments"
+      },
+      {
+        "objective_number": 4,
+        "description": "compare the advantages and disadvantages of road, rail and air transport within Pakistan for both goods and people"
+      },
+      {
+        "objective_number": 5,
+        "description": "evaluate the development of new transport schemes, including motorway and airport development."
+      }
+    ]
+  }
+}

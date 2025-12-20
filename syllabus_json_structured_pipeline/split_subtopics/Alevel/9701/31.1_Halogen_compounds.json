@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "31",
+    "topic_name": "Halogen compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "31.1",
+    "sub_topic_name": "Halogen compounds",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions by which halogenoarenes can be produced: substitution of an arene with Cl₂ or Br₂ in the presence of a catalyst, AlCl₃ or AlBr₃ to form a halogenoarene, exemplified by benzene to form chlorobenzene and methylbenzene to form 2-chloromethylbenzene and 4-chloromethylbenzene"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the difference in reactivity between a halogenoalkane and a halogenoarene as exemplified by chloroethane and chlorobenzene"
+      }
+    ]
+  }
+}

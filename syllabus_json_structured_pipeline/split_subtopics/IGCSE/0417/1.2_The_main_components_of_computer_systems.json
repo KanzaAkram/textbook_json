@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Types and components of computer systems"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "The main components of computer systems",
+    "learning_objectives": [
+      {
+        "description": "Central Processing Unit (CPU)",
+        "notes_and_guidance": "The role of the CPU in processing instructions entered into the computer in order to produce an output"
+      },
+      {
+        "description": "Internal memory",
+        "notes_and_guidance": "Characteristics of ROM and RAM\nDifferences between ROM and RAM"
+      },
+      {
+        "description": "Input and output devices",
+        "notes_and_guidance": "Characteristics of input and output devices\nDifferences between input and output devices"
+      },
+      {
+        "description": "Backing storage",
+        "notes_and_guidance": "Characteristics of backing storage\nDifferences between backing storage and internal memory"
+      }
+    ]
+  }
+}

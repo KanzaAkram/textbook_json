@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Islamiyat 2058",
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5.2",
+    "topic_name": "Paper 2"
+  },
+  "subtopic": {
+    "sub_topic_number": "3",
+    "sub_topic_name": "The period of rule of the Rightly Guided Caliphs and their importance as leaders",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "The main events of the rules of the four Caliphs"
+      },
+      {
+        "objective_number": 2,
+        "description": "Their policies in maintaining and expanding the state"
+      },
+      {
+        "objective_number": 3,
+        "description": "Their approaches to leading the community"
+      },
+      {
+        "objective_number": 4,
+        "description": "Their main achievements"
+      },
+      {
+        "objective_number": 5,
+        "description": "The main difficulties they encountered"
+      },
+      {
+        "objective_number": 6,
+        "description": "Their significance as examples of leadership"
+      },
+      {
+        "objective_number": 7,
+        "description": "The importance of their rules as models for government today"
+      },
+      {
+        "objective_number": 8,
+        "description": "Their importance as examples for Muslim communities in their relations with other states"
+      }
+    ]
+  }
+}

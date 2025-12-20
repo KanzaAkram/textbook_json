@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Input and output devices"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Direct data entry and associated devices",
+    "learning_objectives": [
+      {
+        "description": "Direct data entry",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of direct data entry devices including: magnetic stripe reader, chip and PIN reader, Radio Frequency Identification (RFID) reader, Optical Mark Recognition/Reader (OMR), Optical Character Recognition/Reader (OCR), bar code reader, QR scanner"
+      }
+    ]
+  }
+}

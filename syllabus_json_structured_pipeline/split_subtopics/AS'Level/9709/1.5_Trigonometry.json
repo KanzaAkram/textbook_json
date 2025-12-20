@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Pure Mathematics 1 (for Paper 1)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.5",
+    "sub_topic_name": "Trigonometry",
+    "learning_objectives": [
+      {
+        "description": "sketch and use graphs of the sine, cosine and tangent functions (for angles of any size, and using either degrees or radians)",
+        "notes_and_examples": "Including e.g. y = 3 sinx, y = 1 − cos 2x, y = tan(x + 1/4 π)."
+      },
+      {
+        "description": "use the exact values of the sine, cosine and tangent of 30°, 45°, 60°, and related angles",
+        "notes_and_examples": "e.g. cos 150° = -√3/2, sin(π/4) = 1/√2"
+      },
+      {
+        "description": "use the notations sin⁻¹x, cos⁻¹x, tan⁻¹x to denote the principal values of the inverse trigonometric relations",
+        "notes_and_examples": "No specialised knowledge of these functions is required, but understanding of them as examples of inverse functions is expected."
+      },
+      {
+        "description": "use the identities sinθ/cosθ = tanθ and sin²θ + cos²θ = 1",
+        "notes_and_examples": "e.g. in proving identities, simplifying expressions and solving equations."
+      },
+      {
+        "description": "find all the solutions of simple trigonometrical equations lying in a specified interval (general forms of solution are not included).",
+        "notes_and_examples": "e.g. solve 3 sin 2x + 1 = 0 for -π < x < π, 3 sin²θ - 5 cosθ - 1 = 0 for 0° ≤ θ ≤ 360°."
+      }
+    ]
+  }
+}

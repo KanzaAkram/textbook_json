@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Metals"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.3",
+    "sub_topic_name": "Alloys and their properties",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe an alloy as a mixture of a metal with other elements, including: (a) brass as a mixture of copper and zinc (b) stainless steel as a mixture of iron and other elements such as chromium, nickel and carbon"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that alloys can be harder and stronger than the pure metals and are more useful"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe the uses of alloys in terms of their physical properties, including stainless steel in cutlery because of its hardness and resistance to rusting"
+        },
+        {
+          "objective_number": 4,
+          "description": "Identify representations of alloys from diagrams of structure"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 5,
+          "description": "Explain in terms of structure how alloys can be harder and stronger than the pure metals because the different sized atoms in alloys mean the layers can no longer slide over each other"
+        }
+      ]
+    }
+  }
+}

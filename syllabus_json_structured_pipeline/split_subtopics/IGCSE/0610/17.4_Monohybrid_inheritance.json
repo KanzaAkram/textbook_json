@@ -1,0 +1,95 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.4",
+    "sub_topic_name": "Monohybrid inheritance",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe inheritance as the transmission of genetic information from generation to generation"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe genotype as the genetic make-up of an organism and in terms of the alleles present"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe phenotype as the observable features of an organism"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe homozygous as having two identical alleles of a particular gene"
+        },
+        {
+          "objective_number": 5,
+          "description": "State that two identical homozygous individuals that breed together will be pure-breeding"
+        },
+        {
+          "objective_number": 6,
+          "description": "Describe heterozygous as having two different alleles of a particular gene"
+        },
+        {
+          "objective_number": 7,
+          "description": "State that a heterozygous individual will not be pure-breeding"
+        },
+        {
+          "objective_number": 8,
+          "description": "Describe a dominant allele as an allele that is expressed if it is present in the genotype"
+        },
+        {
+          "objective_number": 9,
+          "description": "Describe a recessive allele as an allele that is only expressed when there is no dominant allele of the gene present in the genotype"
+        },
+        {
+          "objective_number": 10,
+          "description": "Interpret pedigree diagrams for the inheritance of a given characteristic"
+        },
+        {
+          "objective_number": 11,
+          "description": "Use genetic diagrams to predict the results of monohybrid crosses and calculate phenotypic ratios, limited to 1:1 and 3:1 ratios"
+        },
+        {
+          "objective_number": 12,
+          "description": "Use Punnett squares in crosses which result in more than one genotype to work out and show the possible different genotypes"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 13,
+          "description": "Explain how to use a test cross to identify an unknown genotype"
+        },
+        {
+          "objective_number": 14,
+          "description": "Describe codominance as a situation in which both alleles in heterozygous organisms contribute to the phenotype"
+        },
+        {
+          "objective_number": 15,
+          "description": "Explain the inheritance of ABO blood groups: phenotypes are A, B, AB and O blood groups and alleles are IA, IB and I0"
+        },
+        {
+          "objective_number": 16,
+          "description": "Describe a sex-linked characteristic as a feature in which the gene responsible is located on a sex chromosome and that this makes the characteristic more common in one sex than in the other"
+        },
+        {
+          "objective_number": 17,
+          "description": "Describe red-green colour blindness as an example of sex linkage"
+        },
+        {
+          "objective_number": 18,
+          "description": "Use genetic diagrams to predict the results of monohybrid crosses involving codominance or sex linkage and calculate phenotypic ratios"
+        }
+      ]
+    }
+  }
+}

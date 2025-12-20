@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Trade"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Major exports and imports",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "name the main exports and imports"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the changes in the types/amounts/value of goods exported and imported in recent years"
+      },
+      {
+        "objective_number": 3,
+        "description": "know and understand the meaning of GNP and GDP and the difference between them"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain the effect of changing trends in exports and imports on Pakistan's balance of trade and economy."
+      }
+    ]
+  }
+}

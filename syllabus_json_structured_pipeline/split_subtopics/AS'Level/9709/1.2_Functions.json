@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Pure Mathematics 1 (for Paper 1)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Functions",
+    "learning_objectives": [
+      {
+        "description": "understand the terms function, domain, range, one-one function, inverse function and composition of functions",
+        "notes_and_examples": null
+      },
+      {
+        "description": "identify the range of a given function in simple cases, and find the composition of two given functions",
+        "notes_and_examples": "e.g. range of f : x → 1/x for x ≥ 1 and range of g: x → x² + 1 for x ∈ ℝ. Including the condition that a composite function gf can only be formed when the range of f is within the domain of g."
+      },
+      {
+        "description": "determine whether or not a given function is one-one, and find the inverse of a one-one function in simple cases",
+        "notes_and_examples": "e.g. finding the inverse of h : x → (2x + 3)² - 4 for x < -3/2."
+      },
+      {
+        "description": "illustrate in graphical terms the relation between a one-one function and its inverse",
+        "notes_and_examples": "Sketches should include an indication of the mirror line y = x."
+      },
+      {
+        "description": "understand and use the transformations of the graph of y = f(x) given by y = f(x) + a, y = f(x + a), y = af(x), y = f(ax) and simple combinations of these.",
+        "notes_and_examples": "Including use of the terms 'translation', 'reflection' and 'stretch' in describing transformations. Questions may involve algebraic or trigonometric functions, or other graphs with given features."
+      }
+    ]
+  }
+}

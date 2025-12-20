@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Mechanics (for Paper 4)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Momentum",
+    "learning_objectives": [
+      {
+        "description": "use the definition of linear momentum and show understanding of its vector nature",
+        "notes_and_examples": "For motion in one dimension only."
+      },
+      {
+        "description": "use conservation of linear momentum to solve problems that may be modelled as the direct impact of two bodies.",
+        "notes_and_examples": "Including direct impact of two bodies where the bodies coalesce on impact. Knowledge of impulse and the coefficient of restitution is not required."
+      }
+    ]
+  }
+}

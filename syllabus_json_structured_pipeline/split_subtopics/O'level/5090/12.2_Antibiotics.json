@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Disease and immunity"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.2",
+    "sub_topic_name": "Antibiotics",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe a drug as any substance taken into the body that modifies or affects chemical reactions in the body"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the use of antibiotics for the treatment of bacterial infection"
+      },
+      {
+        "objective_number": 3,
+        "description": "State that antibiotics kill bacteria but do not affect viruses"
+      },
+      {
+        "objective_number": 4,
+        "description": "Explain how development of antibiotic-resistant bacteria, including MRSA, can be minimised by using antibiotics only when essential"
+      }
+    ]
+  }
+}

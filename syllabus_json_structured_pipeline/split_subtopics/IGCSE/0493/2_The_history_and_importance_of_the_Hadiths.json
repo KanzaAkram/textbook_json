@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Islamiyat 0493",
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5.2",
+    "topic_name": "Paper 2"
+  },
+  "subtopic": {
+    "sub_topic_number": "2",
+    "sub_topic_name": "The history and importance of the Hadiths",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "The history of the compilation of the Hadiths."
+      },
+      {
+        "objective_number": 2,
+        "description": "The earliest collections."
+      },
+      {
+        "objective_number": 3,
+        "description": "The main musnad and musannaf collections."
+      },
+      {
+        "objective_number": 4,
+        "description": "The main compilers and their activities."
+      },
+      {
+        "objective_number": 5,
+        "description": "The methods based on examination of the chain of transmitters (isnad) and the text (matn) of a Hadith to test the reliability of the Hadith."
+      },
+      {
+        "objective_number": 6,
+        "description": "The main features of the six collections of Sunni Hadiths and the four collections of Shi'a Hadiths."
+      },
+      {
+        "objective_number": 7,
+        "description": "The major themes of the Hadiths as these are contained both in the passages set for special study and in other similar passages."
+      },
+      {
+        "objective_number": 8,
+        "description": "Their use in legal thinking, and their relationship with the Qur'an, consensus (ijma') and analogy (qiyas)."
+      },
+      {
+        "objective_number": 9,
+        "description": "Their significance in thought and action in Islam."
+      }
+    ]
+  }
+}

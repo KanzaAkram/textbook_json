@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Coordination and response"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.2",
+    "sub_topic_name": "Sense organs",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe sense organs as groups of receptor cells responding to specific stimuli: light, sound, touch, temperature and chemicals"
+        },
+        {
+          "objective_number": 2,
+          "description": "Identify in diagrams and images the structures of the eye, limited to: cornea, iris, pupil, lens, retina, optic nerve and blind spot"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe the function of each part of the eye, limited to: (a) cornea – refracts light (b) iris – controls how much light enters the pupil (c) lens – focuses light on to the retina (d) retina – contains light receptors, some sensitive to light of different colours (e) optic nerve – carries impulses to the brain"
+        },
+        {
+          "objective_number": 4,
+          "description": "Explain the pupil reflex, limited to changes in light intensity and pupil diameter"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 5,
+          "description": "Explain the pupil reflex in terms of the antagonistic action of circular and radial muscles in the iris"
+        },
+        {
+          "objective_number": 6,
+          "description": "Explain accommodation to view near and distant objects in terms of the contraction and relaxation of the ciliary muscles, tension in the suspensory ligaments, shape of the lens and refraction of light"
+        },
+        {
+          "objective_number": 7,
+          "description": "Describe the distribution of rods and cones in the retina of a human"
+        },
+        {
+          "objective_number": 8,
+          "description": "Outline the function of rods and cones, limited to: (a) greater sensitivity of rods for night vision (b) three different kinds of cones, absorbing light of different colours, for colour vision"
+        },
+        {
+          "objective_number": 9,
+          "description": "Identify in diagrams and images the position of the fovea and state its function"
+        }
+      ]
+    }
+  }
+}

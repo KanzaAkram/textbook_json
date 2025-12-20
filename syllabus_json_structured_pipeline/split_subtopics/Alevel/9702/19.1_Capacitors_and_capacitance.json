@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Capacitance"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.1",
+    "sub_topic_name": "Capacitors and capacitance",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define capacitance, as applied to both isolated spherical conductors and to parallel plate capacitors"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use C = Q/V"
+      },
+      {
+        "objective_number": 3,
+        "description": "derive, using C = Q/V, formulae for the combined capacitance of capacitors in series and in parallel"
+      },
+      {
+        "objective_number": 4,
+        "description": "use the capacitance formulae for capacitors in series and in parallel"
+      }
+    ]
+  }
+}

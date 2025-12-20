@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Government macroeconomic intervention (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4",
+    "sub_topic_name": "Supply-side policy",
+    "content": [
+      {
+        "point_number": "5.4.1",
+        "description": "meaning of supply-side policy, in terms of its effect on LRAS curves"
+      },
+      {
+        "point_number": "5.4.2",
+        "description": "objectives of supply-side policy: increasing productivity and productive capacity"
+      },
+      {
+        "point_number": "5.4.3",
+        "description": "tools of supply-side policy, for example training, infrastructure development, support for technological improvement"
+      },
+      {
+        "point_number": "5.4.4",
+        "description": "AD/AS analysis of the impact of supply-side policy on the equilibrium national income and the level of real output, the price level and employment"
+      }
+    ]
+  }
+}

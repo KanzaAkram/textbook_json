@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Financial information and decisions"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Cash-flow forecasting and working capital",
+    "learning_objectives": [
+      {
+        "objective_number": "5.2.1",
+        "description": "The importance of cash and of cash-flow forecasting: Why cash is important to a business; What a cash-flow forecast is, how a simple one is constructed and the importance of it; Amend or complete a simple cash-flow forecast; How to interpret a simple cash-flow forecast; How a short-term cash-flow problem might be overcome, e.g. overdraft, delaying supplier payments, asking debtors to pay more quickly"
+      },
+      {
+        "objective_number": "5.2.2",
+        "description": "Working capital: The concept and importance of working capital"
+      }
+    ]
+  }
+}

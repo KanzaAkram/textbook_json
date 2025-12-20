@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Preparation of financial statements"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.6",
+    "sub_topic_name": "Incomplete records",
+    "learning_objectives": [
+      "explain the disadvantages of not maintaining a full set of accounting records",
+      "prepare opening and closing statements of affairs",
+      "calculate profit or loss for the year from changes in capital over time",
+      "calculate sales, purchases, gross profit, trade receivables and trade payables and other figures from incomplete information",
+      "prepare income statements and statements of financial position from incomplete records",
+      "make adjustments to financial statements as detailed in 5.1 (sole traders)",
+      "apply the techniques of mark-up, margin and inventory turnover to arrive at missing figures."
+    ],
+    "notes": [
+      "Candidates will only be asked questions on incomplete records in relation to sole trader businesses."
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "States of matter"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Diffusion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe and explain diffusion in terms of kinetic particle theory"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe and explain the effect of relative molecular mass on the rate of diffusion of gases"
+      }
+    ]
+  }
+}

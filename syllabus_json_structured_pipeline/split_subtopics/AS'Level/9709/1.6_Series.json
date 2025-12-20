@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Pure Mathematics 1 (for Paper 1)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.6",
+    "sub_topic_name": "Series",
+    "learning_objectives": [
+      {
+        "description": "use the expansion of (a + b)ⁿ, where n is a positive integer",
+        "notes_and_examples": "Including the notations (n r) and n! Knowledge of the greatest term and properties of the coefficients are not required."
+      },
+      {
+        "description": "recognise arithmetic and geometric progressions",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use the formulae for the nth term and for the sum of the first n terms to solve problems involving arithmetic or geometric progressions",
+        "notes_and_examples": "Including knowledge that numbers a, b, c are 'in arithmetic progression' if 2b = a + c (or equivalent) and are 'in geometric progression' if b² = ac (or equivalent). Questions may involve more than one progression."
+      },
+      {
+        "description": "use the condition for the convergence of a geometric progression, and the formula for the sum to infinity of a convergent geometric progression.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

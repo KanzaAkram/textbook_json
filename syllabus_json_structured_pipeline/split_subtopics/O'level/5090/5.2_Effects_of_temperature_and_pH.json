@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Enzymes"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Effects of temperature and pH",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand that the progress of enzyme-catalysed reactions can be followed by measuring the concentrations of reactants and products"
+      },
+      {
+        "objective_number": 2,
+        "description": "Investigate and describe the effects of temperature and pH on enzyme activity"
+      },
+      {
+        "objective_number": 3,
+        "description": "Explain the effect of changes in temperature and pH on enzyme activity in terms of kinetic energy, shape and fit, denaturation and the frequency of effective collisions"
+      }
+    ]
+  }
+}

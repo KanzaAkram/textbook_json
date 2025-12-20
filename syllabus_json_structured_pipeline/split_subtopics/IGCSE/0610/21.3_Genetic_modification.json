@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Biotechnology and genetic modification"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.3",
+    "sub_topic_name": "Genetic modification",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe genetic modification as changing the genetic material of an organism by removing, changing or inserting individual genes"
+        },
+        {
+          "objective_number": 2,
+          "description": "Outline examples of genetic modification: (a) the insertion of human genes into bacteria to produce human proteins (b) the insertion of genes into crop plants to confer resistance to herbicides (c) the insertion of genes into crop plants to confer resistance to insect pests (d) the insertion of genes into crop plants to improve nutritional qualities"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "Outline the process of genetic modification using bacterial production of a human protein as an example, limited to: (a) isolation of the DNA making up a human gene using restriction enzymes, forming sticky ends (b) cutting of bacterial plasmid DNA with the same restriction enzymes, forming complementary sticky ends (c) insertion of human DNA into bacterial plasmid DNA using DNA ligase to form a recombinant plasmid (d) insertion of recombinant plasmids into bacteria (specific details are not required) (e) multiplication of bacteria containing recombinant plasmids (f) expression in bacteria of the human gene to make the human protein"
+        },
+        {
+          "objective_number": 4,
+          "description": "Discuss the advantages and disadvantages of genetically modifying crops, including soya, maize and rice"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Atoms, elements and compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Atomic structure and the Periodic Table",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the structure of the atom as a central nucleus containing neutrons and protons surrounded by electrons in shells"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the relative charges and relative masses of a proton, a neutron and an electron"
+        },
+        {
+          "objective_number": 3,
+          "description": "Define proton number/atomic number as the number of protons in the nucleus of an atom"
+        },
+        {
+          "objective_number": 4,
+          "description": "Define mass number/nucleon number as the total number of protons and neutrons in the nucleus of an atom"
+        },
+        {
+          "objective_number": 5,
+          "description": "Determine the electronic configuration of elements and their ions with proton number 1 to 20, e.g. 2,8,3"
+        },
+        {
+          "objective_number": 6,
+          "description": "State that: (a) Group VIII noble gases have a full outer electron shell (b) the number of outer shell electrons is equal to the group number in Groups I to VII (c) the number of occupied electron shells is equal to the period number"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

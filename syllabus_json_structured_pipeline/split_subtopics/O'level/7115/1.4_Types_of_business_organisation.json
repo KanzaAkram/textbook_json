@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Understanding business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Types of business organisation",
+    "learning_objectives": [
+      {
+        "objective_number": "1.4.1",
+        "description": "The main features of different forms of business organisation: Sole traders, partnerships, private and public limited companies, franchises and joint ventures; Differences between unincorporated businesses and limited companies; Concepts of risk, ownership and limited liability; Recommend and justify a suitable form of business organisation to owners/management in a given situation; Business organisations in the public sector, e.g. public corporations"
+      }
+    ]
+  }
+}

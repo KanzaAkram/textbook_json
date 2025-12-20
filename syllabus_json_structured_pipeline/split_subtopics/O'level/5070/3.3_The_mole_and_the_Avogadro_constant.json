@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Stoichiometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "The mole and the Avogadro constant",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State that the mole, mol, is the unit of amount of substance and that one mole contains 6.02 × 10²³ particles, e.g. atoms, ions, molecules; this number is the Avogadro constant"
+      },
+      {
+        "objective_number": 2,
+        "description": "Use the relationship amount of substance (mol) = mass (g) / molar mass (g/mol) to calculate: (a) amount of substance (b) mass (c) molar mass (d) relative atomic mass or relative molecular/formula mass (e) number of particles, using the value of the Avogadro constant"
+      },
+      {
+        "objective_number": 3,
+        "description": "Use the molar gas volume, taken as 24 dm³ at room temperature and pressure, r.t.p., in calculations involving gases"
+      },
+      {
+        "objective_number": 4,
+        "description": "State that concentration can be measured in g/dm³ or mol/dm³"
+      },
+      {
+        "objective_number": 5,
+        "description": "Calculate stoichiometric reacting masses, limiting reactants, volumes of gases at r.t.p., volumes of solutions and concentrations of solutions expressed in g/dm³ and mol/dm³, including conversion between cm³ and dm³"
+      },
+      {
+        "objective_number": 6,
+        "description": "Use experimental data to calculate the concentration of a solution in a titration"
+      },
+      {
+        "objective_number": 7,
+        "description": "Calculate empirical formulae and molecular formulae, given appropriate data"
+      },
+      {
+        "objective_number": 8,
+        "description": "Calculate percentage yield, percentage composition by mass and percentage purity, given appropriate data"
+      }
+    ]
+  }
+}

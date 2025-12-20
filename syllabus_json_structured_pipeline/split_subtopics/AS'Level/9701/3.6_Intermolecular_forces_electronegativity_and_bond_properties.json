@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Chemical bonding"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.6",
+    "sub_topic_name": "Intermolecular forces, electronegativity and bond properties",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "(a) describe hydrogen bonding, limited to molecules containing N-H and O-H groups, including ammonia and water as simple examples (b) use the concept of hydrogen bonding to explain the anomalous properties of H₂O (ice and water): its relatively high melting and boiling points; its relatively high surface tension; the density of the solid ice compared with the liquid water"
+      },
+      {
+        "objective_number": 2,
+        "description": "use the concept of electronegativity to explain bond polarity and dipole moments of molecules"
+      },
+      {
+        "objective_number": 3,
+        "description": "(a) describe van der Waals' forces as the intermolecular forces between molecular entities other than those due to bond formation, and use the term van der Waals' forces as a generic term to describe all intermolecular forces (b) describe the types of van der Waals' forces: instantaneous dipole-induced dipole (id-id) forces, also called London dispersion forces; permanent dipole-permanent dipole (pd-pd) forces, including hydrogen bonding (c) describe hydrogen bonding and understand that hydrogen bonding is a special case of permanent dipole-permanent dipole forces between molecules where hydrogen is bonded to a highly electronegative atom"
+      },
+      {
+        "objective_number": 4,
+        "description": "state that, in general, ionic, covalent and metallic bonding are stronger than intermolecular forces"
+      }
+    ]
+  }
+}

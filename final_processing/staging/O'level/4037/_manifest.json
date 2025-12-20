@@ -1,0 +1,678 @@
+{
+  "level": "O'level",
+  "subject_code": "4037",
+  "generated_at": "2025-12-20T23:04:38.522021",
+  "total_matches": 67,
+  "matches": [
+    {
+      "subtopic_number": "1.1",
+      "subtopic_name": "Function terminology",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\1.1_Function_terminology.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.2",
+      "subtopic_name": "Domain and range",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\1.2_Domain_and_range.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.3",
+      "subtopic_name": "Function notation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\1.3_Function_notation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.4",
+      "subtopic_name": "Modulus function",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\1.4_Modulus_function.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.5",
+      "subtopic_name": "Inverse functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\1.5_Inverse_functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.6",
+      "subtopic_name": "Finding the inverse of a one-one function",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\1.6_Finding_the_inverse_of_a_one-one_function.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.7",
+      "subtopic_name": "Composite functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\1.7_Composite_functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "1.8",
+      "subtopic_name": "Graphs of functions and their inverses",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\1.8_Graphs_of_functions_and_their_inverses.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.1",
+      "subtopic_name": "Six trigonometric functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\10.1_Six_trigonometric_functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.2",
+      "subtopic_name": "Amplitude and period",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\10.2_Amplitude_and_period.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.3",
+      "subtopic_name": "Graphs of trigonometric functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\10.3_Graphs_of_trigonometric_functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.4",
+      "subtopic_name": "Trigonometric identities",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\10.4_Trigonometric_identities.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.5",
+      "subtopic_name": "Solving trigonometric equations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\10.5_Solving_trigonometric_equations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "10.6",
+      "subtopic_name": "Proving trigonometric relationships",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\10.6_Proving_trigonometric_relationships.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.1",
+      "subtopic_name": "Permutations and combinations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\11.1_Permutations_and_combinations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.2",
+      "subtopic_name": "Notation and expressions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\11.2_Notation_and_expressions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "11.3",
+      "subtopic_name": "Solving problems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\11.3_Solving_problems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.1",
+      "subtopic_name": "Binomial theorem",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\12.1_Binomial_theorem.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.2",
+      "subtopic_name": "General term in binomial expansion",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\12.2_General_term_in_binomial_expansion.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.3",
+      "subtopic_name": "Arithmetic and geometric progressions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\12.3_Arithmetic_and_geometric_progressions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.4",
+      "subtopic_name": "Solving problems with progressions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\12.4_Solving_problems_with_progressions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.5",
+      "subtopic_name": "Convergence of geometric progressions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\12.5_Convergence_of_geometric_progressions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.1",
+      "subtopic_name": "Vector notation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\13.1_Vector_notation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.2",
+      "subtopic_name": "Position and unit vectors",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\13.2_Position_and_unit_vectors.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.3",
+      "subtopic_name": "Vector operations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\13.3_Vector_operations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.4",
+      "subtopic_name": "Velocity vectors",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\13.4_Velocity_vectors.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.1",
+      "subtopic_name": "Derived function",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.1_Derived_function.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.10",
+      "subtopic_name": "Integration as reverse of differentiation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.10_Integration_as_reverse_of_differentiation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.11",
+      "subtopic_name": "Integration of powers of x",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.11_Integration_of_powers_of_x.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.12",
+      "subtopic_name": "Integration of standard functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.12_Integration_of_standard_functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.13",
+      "subtopic_name": "Definite integrals and plane areas",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.13_Definite_integrals_and_plane_areas.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.14",
+      "subtopic_name": "Kinematics",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.14_Kinematics.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.15",
+      "subtopic_name": "Kinematics graphs",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.15_Kinematics_graphs.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.2",
+      "subtopic_name": "Differentiation notation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.2_Differentiation_notation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.3",
+      "subtopic_name": "Derivatives of standard functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.3_Derivatives_of_standard_functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.4",
+      "subtopic_name": "Differentiation of products and quotients",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.4_Differentiation_of_products_and_quotients.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.5",
+      "subtopic_name": "Gradients, tangents and normals",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.5_Gradients_tangents_and_normals.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.6",
+      "subtopic_name": "Stationary points",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.6_Stationary_points.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.7",
+      "subtopic_name": "Rates of change",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.7_Rates_of_change.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.8",
+      "subtopic_name": "Maxima and minima problems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.8_Maxima_and_minima_problems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.9",
+      "subtopic_name": "First and second derivative tests",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\14.9_First_and_second_derivative_tests.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.1",
+      "subtopic_name": "Maximum and minimum values",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\2.1_Maximum_and_minimum_values.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.2",
+      "subtopic_name": "Graphs of quadratic functions",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\2.2_Graphs_of_quadratic_functions.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.3",
+      "subtopic_name": "Discriminant of a quadratic",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\2.3_Discriminant_of_a_quadratic.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.4",
+      "subtopic_name": "Solving quadratic equations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\2.4_Solving_quadratic_equations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "2.5",
+      "subtopic_name": "Solving quadratic inequalities",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\2.5_Solving_quadratic_inequalities.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.1",
+      "subtopic_name": "Remainder and factor theorems",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\3.1_Remainder_and_factor_theorems.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.2",
+      "subtopic_name": "Factorising polynomials",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\3.2_Factorising_polynomials.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "3.3",
+      "subtopic_name": "Solving cubic equations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\3.3_Solving_cubic_equations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.1",
+      "subtopic_name": "Solving modulus equations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\4.1_Solving_modulus_equations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.2",
+      "subtopic_name": "Solving modulus inequalities",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\4.2_Solving_modulus_inequalities.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.3",
+      "subtopic_name": "Solving equations by substitution",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\4.3_Solving_equations_by_substitution.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.4",
+      "subtopic_name": "Graphs of cubic polynomials",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\4.4_Graphs_of_cubic_polynomials.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "4.5",
+      "subtopic_name": "Solving cubic inequalities graphically",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\4.5_Solving_cubic_inequalities_graphically.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "5.1",
+      "subtopic_name": "Solving simultaneous equations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\5.1_Solving_simultaneous_equations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.1",
+      "subtopic_name": "Properties and graphs",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\6.1_Properties_and_graphs.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.2",
+      "subtopic_name": "Laws of logarithms",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\6.2_Laws_of_logarithms.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "6.3",
+      "subtopic_name": "Solving exponential equations",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\6.3_Solving_exponential_equations.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.1",
+      "subtopic_name": "Equation of a straight line",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\7.1_Equation_of_a_straight_line.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.2",
+      "subtopic_name": "Parallel and perpendicular lines",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\7.2_Parallel_and_perpendicular_lines.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.3",
+      "subtopic_name": "Midpoint and length of a line",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\7.3_Midpoint_and_length_of_a_line.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "7.4",
+      "subtopic_name": "Transforming relationships to straight-line form",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\7.4_Transforming_relationships_to_straight-line_form.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.1",
+      "subtopic_name": "Equation of a circle",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\8.1_Equation_of_a_circle.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.2",
+      "subtopic_name": "Intersection of a circle and a straight line",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\8.2_Intersection_of_a_circle_and_a_straight_line.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.3",
+      "subtopic_name": "Tangents to a circle",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\8.3_Tangents_to_a_circle.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "8.4",
+      "subtopic_name": "Intersection of two circles",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\8.4_Intersection_of_two_circles.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "9.1",
+      "subtopic_name": "Arc length and sector area",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\O'level\\4037\\9.1_Arc_length_and_sector_area.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

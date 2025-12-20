@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Plant nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Leaf structure",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State that most leaves have a large surface area and are thin, and explain how these features are adaptations for photosynthesis"
+      },
+      {
+        "objective_number": 2,
+        "description": "Identify and label the cuticle, cellular and tissue structures of a dicotyledonous leaf, as seen in diagrams or photomicrographs, and explain how these structures are adaptations for photosynthesis and gas exchange, limited to: (a) stomata and guard cells (b) spongy and palisade mesophyll cells (c) air spaces (d) vascular bundles (xylem and phloem) (e) distribution of chloroplasts (f) upper and lower epidermis"
+      }
+    ]
+  }
+}

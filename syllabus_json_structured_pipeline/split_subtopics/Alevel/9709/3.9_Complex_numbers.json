@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Pure Mathematics 3 (for Paper 3)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.9",
+    "sub_topic_name": "Complex numbers",
+    "learning_objectives": [
+      {
+        "description": "understand the idea of a complex number, recall the meaning of the terms real part, imaginary part, modulus, argument, conjugate, and use the fact that two complex numbers are equal if and only if both real and imaginary parts are equal",
+        "notes_and_examples": "Notations Rez, Imz, |z|, argz, z* should be known. The argument of a complex number will usually refer to an angle θ such that -π < θ ≤ π, but in some cases the interval 0 ≤ θ < 2π may be more convenient. Answers may use either interval unless the question specifies otherwise."
+      },
+      {
+        "description": "carry out operations of addition, subtraction, multiplication and division of two complex numbers expressed in Cartesian form x + iy",
+        "notes_and_examples": "For calculations involving multiplication or division, full details of the working should be shown."
+      },
+      {
+        "description": "use the result that, for a polynomial equation with real coefficients, any non-real roots occur in conjugate pairs",
+        "notes_and_examples": "e.g. in solving a cubic or quartic equation where one complex root is given."
+      },
+      {
+        "description": "represent complex numbers geometrically by means of an Argand diagram",
+        "notes_and_examples": null
+      },
+      {
+        "description": "carry out operations of multiplication and division of two complex numbers expressed in polar form r(cosθ + i sinθ) = reⁱᶿ",
+        "notes_and_examples": "Including the results |z₁z₂| = |z₁||z₂| and arg(z₁z₂) = arg(z₁) + arg(z₂), and corresponding results for division."
+      },
+      {
+        "description": "find the two square roots of a complex number",
+        "notes_and_examples": "e.g. the square roots of 5 + 12i in exact Cartesian form. Full details of the working should be shown."
+      },
+      {
+        "description": "understand in simple terms the geometrical effects of conjugating a complex number and of adding, subtracting, multiplying and dividing two complex numbers",
+        "notes_and_examples": null
+      },
+      {
+        "description": "illustrate simple equations and inequalities involving complex numbers by means of loci in an Argand diagram",
+        "notes_and_examples": "e.g. |z – a| < k, |z – a| = |z – b|, arg(z – a) = α."
+      }
+    ]
+  }
+}

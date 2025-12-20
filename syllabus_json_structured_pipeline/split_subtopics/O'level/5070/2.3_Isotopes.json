@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Atoms, elements and compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Isotopes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Define isotopes as different atoms of the same element that have the same number of protons but different numbers of neutrons"
+      },
+      {
+        "objective_number": 2,
+        "description": "State that isotopes of the same element have the same chemical properties because they have the same number of electrons and therefore the same electronic configuration"
+      },
+      {
+        "objective_number": 3,
+        "description": "Interpret and use symbols for atoms, e.g. ¹²C, and ions, e.g. ³⁵Cl⁻"
+      },
+      {
+        "objective_number": 4,
+        "description": "Calculate the relative atomic mass of an element from the relative masses and abundances of its isotopes"
+      }
+    ]
+  }
+}

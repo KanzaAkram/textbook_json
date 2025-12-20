@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Statistics"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.5",
+    "sub_topic_name": "Scatter diagrams",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Draw and interpret scatter diagrams.",
+        "notes_and_examples": "Plotted points should be clearly marked, for example as small crosses (x)."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand what is meant by positive, negative and zero correlation.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "3",
+        "description": "Draw by eye, interpret and use a straight line of best fit.",
+        "notes_and_examples": "A line of best fit: should be a single ruled line drawn by inspection, should extend across the full data set, does not need to coincide exactly with any of the points but there should be a roughly even distribution of points either side of the line over its entire length."
+      }
+    ]
+  }
+}

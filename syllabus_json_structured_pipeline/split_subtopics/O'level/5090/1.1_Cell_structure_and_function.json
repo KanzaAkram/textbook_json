@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Cells"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Cell structure and function",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Examine under the microscope, animal cells and plant cells from any suitable locally available material, using an appropriate temporary staining technique, such as methylene blue or iodine solution"
+      },
+      {
+        "objective_number": 2,
+        "description": "Draw diagrams to represent observations of the animal and plant cells examined above"
+      },
+      {
+        "objective_number": 3,
+        "description": "Identify on diagrams, photomicrographs or electron micrographs, the ribosomes, mitochondria, nucleus, cytoplasm and cell membrane in an animal cell"
+      },
+      {
+        "objective_number": 4,
+        "description": "Identify on diagrams, photomicrographs or electron micrographs, the ribosomes, mitochondria, chloroplasts, nucleus, sap vacuole, cytoplasm, cell membrane and cellulose cell wall in a plant cell"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe the structure of a bacterial cell, limited to: ribosomes, circular deoxyribonucleic acid (DNA) and plasmids, cytoplasm, cell membrane and cell wall"
+      },
+      {
+        "objective_number": 6,
+        "description": "Describe the functions of the above structures in animal, plant and bacterial cells"
+      }
+    ]
+  }
+}

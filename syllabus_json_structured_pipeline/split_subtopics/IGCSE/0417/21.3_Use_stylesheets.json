@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Website authoring"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.3",
+    "sub_topic_name": "Use stylesheets",
+    "learning_objectives": [
+      {
+        "description": "Use CSS in the presentation layer",
+        "notes_and_guidance": "Create the presentation layer of a web page. Create generic external styles and inline style attributes including: background properties including colour, images; font properties; table, table row, table header and table data properties including size, background colour, horizontal and vertical alignment, spacing, padding, borders: including collapsed, colour, thickness, visible/invisible. Create classes including: background properties including colour, images; font properties; table, table row and table data properties including size, background colour, horizontal and vertical alignment, spacing, padding, borders: including collapsed, colour, thickness, visible/invisible. Create external styles to be tagged in a web page including h1, h2, h3, p, li. Specify the font properties including font family, size, colour, alignment, bold, italic. Attach comments to an external stylesheet. Save styles in cascading stylesheet format."
+      },
+      {
+        "description": "The use of CSS in the presentation layer",
+        "notes_and_guidance": "Characteristics of cascading stylesheets including the difference between attached stylesheets and inline style attributes, the hierarchy of multiple attached stylesheets and inline styles within a web page. Characteristics of a style and a class including the difference between them. Reason relative file paths must be used for attached stylesheets."
+      }
+    ]
+  }
+}

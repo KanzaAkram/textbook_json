@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Communication"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.1",
+    "sub_topic_name": "Communication with other ICT users using email",
+    "learning_objectives": [
+      {
+        "description": "email",
+        "notes_and_guidance": "Characteristics, uses and constraints of email communication including acceptable language, guidelines set by an employer, the need for security, netiquette, email groups, carbon copy (cc), blind carbon copy (bcc), forward, attachments\nCharacteristics and effects of spam email including the methods which can be used to help prevent spam"
+      }
+    ]
+  }
+}

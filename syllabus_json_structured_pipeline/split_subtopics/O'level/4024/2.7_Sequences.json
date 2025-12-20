@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.7",
+    "sub_topic_name": "Sequences",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Continue a given number sequence or pattern.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "2",
+        "description": "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences.",
+        "notes_and_examples": "Subscript notation may be used, e.g. Tₙ is the nth term of sequence T."
+      },
+      {
+        "objective_number": "3",
+        "description": "Find and use the nth term of sequences.",
+        "notes_and_examples": "Includes linear, quadratic, cubic and exponential sequences and simple combinations of these."
+      }
+    ]
+  }
+}

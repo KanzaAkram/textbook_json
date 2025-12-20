@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Motion, forces and energy"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Physical quantities and measurement techniques",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe how to measure a variety of time intervals using clocks and digital timers"
+      },
+      {
+        "objective_number": 4,
+        "description": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum)"
+      },
+      {
+        "objective_number": 5,
+        "description": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction"
+      },
+      {
+        "objective_number": 6,
+        "description": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature"
+      },
+      {
+        "objective_number": 7,
+        "description": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength"
+      },
+      {
+        "objective_number": 8,
+        "description": "Determine, by calculation or graphically, the resultant of two vectors at right angles"
+      }
+    ]
+  }
+}

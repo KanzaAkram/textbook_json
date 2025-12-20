@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The price system and the microeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "The interaction of demand and supply",
+    "content": [
+      {
+        "point_number": "2.4.1",
+        "description": "definition of market equilibrium and disequilibrium"
+      },
+      {
+        "point_number": "2.4.2",
+        "description": "effects of shifts in demand and supply curves on equilibrium price and quantity"
+      },
+      {
+        "point_number": "2.4.3",
+        "description": "relationships between different markets: joint demand (complements), alternative demand (substitutes), derived demand, joint supply"
+      },
+      {
+        "point_number": "2.4.4",
+        "description": "functions of price in resource allocation; rationing, signalling (transmission of preferences) and incentivising"
+      }
+    ]
+  }
+}

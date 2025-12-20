@@ -1,0 +1,71 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Acids, bases and salts"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "The characteristic properties of acids and bases",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the characteristic properties of acids in terms of their reactions with: (a) metals (b) bases (c) carbonates"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe acids in terms of their effect on: (a) litmus (b) thymolphthalein (c) methyl orange"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that bases are oxides or hydroxides of metals and that alkalis are soluble bases"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the characteristic properties of bases in terms of their reactions with: (a) acids (b) ammonium salts"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe alkalis in terms of their effect on: (a) litmus (b) thymolphthalein (c) methyl orange"
+        },
+        {
+          "objective_number": 6,
+          "description": "State that aqueous solutions of acids contain H+ ions and aqueous solutions of alkalis contain OH- ions"
+        },
+        {
+          "objective_number": 7,
+          "description": "Describe how to compare hydrogen ion concentration, neutrality, relative acidity and relative alkalinity in terms of colour and pH using universal indicator paper"
+        },
+        {
+          "objective_number": 8,
+          "description": "Describe the neutralisation reaction between an acid and an alkali to produce water, H+(aq) + OH-(aq) → H2O(l)"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 9,
+          "description": "Define acids as proton donors and bases as proton acceptors"
+        },
+        {
+          "objective_number": 10,
+          "description": "Define a strong acid as an acid that is completely dissociated in aqueous solution and a weak acid as an acid that is partially dissociated in aqueous solution"
+        },
+        {
+          "objective_number": 11,
+          "description": "State that hydrochloric acid is a strong acid, as shown by the symbol equation, HCl(aq) → H+(aq) + Cl-(aq)"
+        },
+        {
+          "objective_number": 12,
+          "description": "State that ethanoic acid is a weak acid, as shown by the symbol equation, CH3COOH(aq) ⇌ H+(aq) + CH3COO-(aq)"
+        }
+      ]
+    }
+  }
+}

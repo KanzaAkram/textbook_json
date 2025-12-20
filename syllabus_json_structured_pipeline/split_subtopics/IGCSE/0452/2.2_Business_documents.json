@@ -1,0 +1,22 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Sources and recording of data"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Business documents",
+    "learning_objectives": [
+      "recognise and understand the following business documents: invoice, debit note, credit note, statement of account, cheque, receipt",
+      "complete pro-forma business documents",
+      "understand the use of business documents as sources of information: invoice, credit note, cheque counterfoil, paying-in slip, receipt, bank statement."
+    ]
+  }
+}

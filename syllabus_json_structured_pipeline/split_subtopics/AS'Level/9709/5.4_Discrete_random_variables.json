@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Probability & Statistics 1 (for Paper 5)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4",
+    "sub_topic_name": "Discrete random variables",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "draw up a probability distribution table relating to a given situation involving a discrete random variable X, and calculate E(X) and Var(X)"
+      },
+      {
+        "objective_number": 2,
+        "description": "use formulae for probabilities for the binomial and geometric distributions, and recognise practical situations where these distributions are suitable models (Including the notations B(n, p) and Geo(p). Geo(p) denotes the distribution in which pr = p(1 – p)r–1 for r = 1, 2, 3, ....)"
+      },
+      {
+        "objective_number": 3,
+        "description": "use formulae for the expectation and variance of the binomial distribution and for the expectation of the geometric distribution. (Proofs of formulae are not required.)"
+      }
+    ]
+  }
+}

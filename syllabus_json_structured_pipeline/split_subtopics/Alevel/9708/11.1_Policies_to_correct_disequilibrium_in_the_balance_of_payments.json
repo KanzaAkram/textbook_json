@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "International economic issues (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.1",
+    "sub_topic_name": "Policies to correct disequilibrium in the balance of payments",
+    "learning_objectives": [
+      {
+        "objective_number": "11.1.1",
+        "description": "components of the balance of payments accounts: current account, financial account and capital account"
+      },
+      {
+        "objective_number": "11.1.2",
+        "description": "effect of fiscal, monetary, supply-side, protectionist and exchange rate policies on the balance of payments"
+      },
+      {
+        "objective_number": "11.1.3",
+        "description": "difference between expenditure-switching and expenditure-reducing policies"
+      }
+    ]
+  }
+}

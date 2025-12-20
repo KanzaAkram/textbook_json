@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Group 17"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.1",
+    "sub_topic_name": "Physical properties of the Group 17 elements",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the colours and the trend in volatility of chlorine, bromine and iodine"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe and explain the trend in the bond strength of the halogen molecules"
+      },
+      {
+        "objective_number": 3,
+        "description": "interpret the volatility of the elements in terms of instantaneous dipole-induced dipole forces"
+      }
+    ]
+  }
+}

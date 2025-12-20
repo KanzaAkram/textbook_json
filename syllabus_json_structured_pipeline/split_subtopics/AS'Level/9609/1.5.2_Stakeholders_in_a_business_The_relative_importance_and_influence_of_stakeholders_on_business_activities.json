@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Business and its environment (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.5.2",
+    "sub_topic_name": "Stakeholders in a business: The relative importance and influence of stakeholders on business activities",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the impact of business decisions on stakeholders, and their reactions"
+      },
+      {
+        "objective_number": 2,
+        "description": "the impact of stakeholder aims on business decisions"
+      },
+      {
+        "objective_number": 3,
+        "description": "how and why a business needs to be accountable to its stakeholders"
+      },
+      {
+        "objective_number": 4,
+        "description": "how conflict might arise from stakeholders having different aims and objectives"
+      },
+      {
+        "objective_number": 5,
+        "description": "how changing business objectives might affect its stakeholders"
+      }
+    ]
+  }
+}

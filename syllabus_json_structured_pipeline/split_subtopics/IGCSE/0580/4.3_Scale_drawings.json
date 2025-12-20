@@ -1,0 +1,28 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Scale drawings",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Draw and interpret scale drawings."
+      },
+      {
+        "objective_number": 2,
+        "description": "Use and interpret three-figure bearings."
+      }
+    ],
+    "notes_and_examples": "A ruler must be used for all straight edges.\nBearings are measured clockwise from north (000° to 360°).\ne.g. find the bearing of A from B if the bearing of B from A is 025°.\nIncludes an understanding of the terms north, east, south and west.\ne.g. point D is due east of point C."
+  }
+}

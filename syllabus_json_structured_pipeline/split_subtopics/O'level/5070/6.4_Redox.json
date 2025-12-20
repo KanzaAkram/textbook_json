@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Chemical reactions"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.4",
+    "sub_topic_name": "Redox",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Use a Roman numeral to indicate the oxidation number of an element in a compound"
+      },
+      {
+        "objective_number": 2,
+        "description": "Define redox reactions as involving simultaneous reduction and oxidation"
+      },
+      {
+        "objective_number": 3,
+        "description": "Define oxidation in terms of: (a) gain of oxygen (b) loss of electrons (c) an increase in oxidation number"
+      },
+      {
+        "objective_number": 4,
+        "description": "Define reduction in terms of: (a) loss of oxygen (b) gain of electrons (c) a decrease in oxidation number"
+      },
+      {
+        "objective_number": 5,
+        "description": "Identify redox reactions as reactions involving gain and loss of oxygen, or gain and loss of electrons"
+      },
+      {
+        "objective_number": 6,
+        "description": "Identify redox reactions by changes in oxidation number using: (a) the oxidation number of elements in their uncombined state is zero (b) the oxidation number of a monatomic ion is the same as the charge on the ion (c) the sum of the oxidation numbers in a compound is zero (d) the sum of the oxidation numbers in an ion is equal to the charge on the ion"
+      },
+      {
+        "objective_number": 7,
+        "description": "Identify redox reactions by the colour changes involved when using acidified aqueous potassium manganate(VII) or aqueous potassium iodide"
+      },
+      {
+        "objective_number": 8,
+        "description": "Define an oxidising agent as a substance that oxidises another substance and is itself reduced"
+      },
+      {
+        "objective_number": 9,
+        "description": "Define a reducing agent as a substance that reduces another substance and is itself oxidised"
+      },
+      {
+        "objective_number": 10,
+        "description": "Identify oxidation, oxidising agents, reduction and reducing agents in redox reactions"
+      }
+    ]
+  }
+}

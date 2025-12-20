@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "28",
+    "topic_name": "Chemistry of transition elements"
+  },
+  "subtopic": {
+    "sub_topic_number": "28.5",
+    "sub_topic_name": "Stability constants, Kstab",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the stability constant, Kstab, of a complex as the equilibrium constant for the formation of the complex ion in a solvent (from its constituent ions or molecules)"
+      },
+      {
+        "objective_number": 2,
+        "description": "write an expression for a Kstab of a complex ([H₂O] should not be included)"
+      },
+      {
+        "objective_number": 3,
+        "description": "use Kstab expressions to perform calculations"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe and explain ligand exchanges in terms of Kstab values and understand that a large Kstab is due to the formation of a stable complex ion"
+      }
+    ]
+  }
+}

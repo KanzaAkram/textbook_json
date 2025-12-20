@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "People in business"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Internal and external communication",
+    "learning_objectives": [
+      {
+        "objective_number": "2.4.1",
+        "description": "Why effective communication is important and the methods used to achieve it: Effective communication and its importance to business; Benefits and limitations of different communication methods including those based on information technology (IT); Recommend and justify which communication method to use in given circumstances"
+      },
+      {
+        "objective_number": "2.4.2",
+        "description": "Demonstrate an awareness of communication barriers: How communication barriers arise and problems of ineffective communication; how communication barriers can be reduced or removed"
+      }
+    ]
+  }
+}

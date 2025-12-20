@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Atoms, elements and compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.7",
+    "sub_topic_name": "Metallic bonding",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe metallic bonding as the electrostatic attraction between the positive ions in a giant metallic lattice and a 'sea' of delocalised electrons"
+      },
+      {
+        "objective_number": 2,
+        "description": "Explain in terms of structure and bonding the properties of metals: (a) good electrical conductivity (b) malleability and ductility"
+      }
+    ]
+  }
+}

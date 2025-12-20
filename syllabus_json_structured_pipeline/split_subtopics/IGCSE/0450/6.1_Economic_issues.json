@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "External influences on business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Economic issues",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Main stages of the business cycle, e.g. growth, boom, recession, slump"
+      },
+      {
+        "objective_number": 2,
+        "description": "Impact on businesses of changes in employment levels, inflation and Gross Domestic Product (GDP)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Identify government economic objectives, e.g. increasing Gross Domestic Product (GDP)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Impact of changes in taxes and government spending"
+      },
+      {
+        "objective_number": 5,
+        "description": "Impact of changes in interest rates"
+      },
+      {
+        "objective_number": 6,
+        "description": "How businesses might respond to these changes"
+      }
+    ]
+  }
+}

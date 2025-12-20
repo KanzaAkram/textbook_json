@@ -1,0 +1,468 @@
+{
+  "level": "Alevel",
+  "subject_code": "9701",
+  "generated_at": "2025-12-20T23:04:24.293947",
+  "total_matches": 39,
+  "matches": [
+    {
+      "subtopic_number": "23.1",
+      "subtopic_name": "Lattice energy and Born-Haber cycles",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\23.1_Lattice energy and Born-Haber cycles.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\23.1_Lattice_energy_and_Born-Haber_cycles.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\23.1_Lattice_energy_and_Born_Haber_cycles_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "23.2",
+      "subtopic_name": "Enthalpies of solution and hydration",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\23.2_Enthalpies of solution and hydration.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\23.2_Enthalpies_of_solution_and_hydration.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\23.2_Enthalpies_of_solution_and_hydration_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "23.3",
+      "subtopic_name": "Entropy change, ΔS",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\23.3_Entropy change, ΔS.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\23.3_Entropy_change_ΔS.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\23.3_Entropy_change_ΔS_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "23.4",
+      "subtopic_name": "Gibbs free energy change, ΔG",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\23.4_Gibbs free energy change, ΔG.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\23.4_Gibbs_free_energy_change_ΔG.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\23.4_Gibbs_free_energy_change_ΔG_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "24.1",
+      "subtopic_name": "Electrolysis",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\24.1_Electrolysis.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\24.1_Electrolysis.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\24.1_Electrolysis_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "24.2",
+      "subtopic_name": "Standard electrode potentials E°, standard cell potentials E°cell and the Nernst equation",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\24.2_Standard electrode potentials E°, standard cell potentials E°cell and the Nernst equation.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\24.2_Standard_electrode_potentials_E°_standard_cell_potentials_E°cell_and_the_Nernst_equation.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\24.2_Standard_electrode_potentials_E_standard_cell_potentials_Ecell_and_the_Nernst_equation_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "25.1",
+      "subtopic_name": "Acids and bases",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\25.1_Acids and bases.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\25.1_Acids_and_bases.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\25.1_Acids_and_bases_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "25.2",
+      "subtopic_name": "Partition coefficients",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\25.2_Partition coefficients.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\25.2_Partition_coefficients.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\25.2_Partition_coefficients.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "26.1",
+      "subtopic_name": "Simple rate equations, orders of reaction and rate constants",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\26.1_Simple rate equations, orders of reaction and rate constants.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\26.1_Simple_rate_equations_orders_of_reaction_and_rate_constants.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\26.1_Simple_rate_equations_orders_of_reaction_and_rate_constants.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "26.2",
+      "subtopic_name": "Homogeneous and heterogeneous catalysts",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\26.2_Homogeneous and heterogeneous catalysts.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\26.2_Homogeneous_and_heterogeneous_catalysts.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\26.2_Homogeneous_and_heterogeneous_catalysts_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "27.1",
+      "subtopic_name": "Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\27.1_Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\27.1_Similarities_and_trends_in_the_properties_of_the_Group_2_metals_magnesium_to_barium_and_their_compounds.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\27.1_Similarities_and_trends_in_the_properties_of_the_Group_2_metals_magnesium_to_barium_and_their_compounds_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "28.1",
+      "subtopic_name": "General physical and chemical properties of the first row of transition elements, titanium to copper",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\28.1_General physical and chemical properties of the first row of transition elements, titanium to copper.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\28.1_General_physical_and_chemical_properties_of_the_first_row_of_transition_elements_titanium_to_copper.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\28.1_General_physical_and_chemical_properties_of_the_first_row_of_transition_elements_titanium_to_copper_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "28.2",
+      "subtopic_name": "General characteristic chemical properties of the first set of transition elements, titanium to copper",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\28.2_General characteristic chemical properties of the first set of transition elements, titanium to copper.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\28.2_General_characteristic_chemical_properties_of_the_first_set_of_transition_elements_titanium_to_copper.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\28.2_General_characteristic_chemical_properties_of_the_first_set_of_transition_elements_titanium_to_copper_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "28.3",
+      "subtopic_name": "Colour of complexes",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\28.3_Colour of complexes.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\28.3_Colour_of_complexes.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\28.3_Colour_of_complexes.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "28.4",
+      "subtopic_name": "Stereoisomerism in transition element complexes",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\28.4_Stereoisomerism in transition element complexes.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\28.4_Stereoisomerism_in_transition_element_complexes.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\28.4_Stereoisomerism_in_transition_element_complexes.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "28.5",
+      "subtopic_name": "Stability constants, Kstab",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\28.5_Stability constants, Kstab.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\28.5_Stability_constants_Kstab.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\28.5_Stability_constants_Kstab.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "29.1",
+      "subtopic_name": "Formulas, functional groups and the naming of organic compounds",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\29.1_Formulas, functional groups and the naming of organic compounds.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\29.1_Formulas_functional_groups_and_the_naming_of_organic_compounds.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\29.1_Formulas_functional_groups_and_the_naming_of_organic_compounds_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "29.2",
+      "subtopic_name": "Characteristic organic reactions",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\29.2_Characteristic organic reactions.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\29.2_Characteristic_organic_reactions.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\29.2_Characteristic_organic_reactions_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "29.3",
+      "subtopic_name": "Shapes of aromatic organic molecules; σ and π bonds",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\29.3_Shapes of aromatic organic molecules; σ and π bonds.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\29.3_Shapes_of_aromatic_organic_molecules_σ_and_π_bonds.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\29.3_Shapes_of_aromatic_organic_molecules_σ_and_π_bonds_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "29.4",
+      "subtopic_name": "Isomerism: optical",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\29.4_Isomerism optical.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\29.4_Isomerism_optical.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\29.4_Isomerism_optical_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "30.1",
+      "subtopic_name": "Arenes",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\30.1_Arenes.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\30.1_Arenes.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\30.1_Arenes_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "31.1",
+      "subtopic_name": "Halogen compounds",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\31.1_Halogen compounds.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\31.1_Halogen_compounds.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\31.1_Halogen_compounds_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "32.1",
+      "subtopic_name": "Alcohols",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\32.1_Alcohols.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\32.1_Alcohols.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\32.1_Alcohols_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "32.2",
+      "subtopic_name": "Phenol",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\32.2_Phenol.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\32.2_Phenol.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\32.2_Phenol_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "33.1",
+      "subtopic_name": "Carboxylic acids",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\33.1_Carboxylic acids.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\33.1_Carboxylic_acids.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\33.1_Carboxylic_acids.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "33.2",
+      "subtopic_name": "Esters",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\33.2_Esters.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\33.2_Esters.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\33.2_Esters.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "33.3",
+      "subtopic_name": "Acyl chlorides",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\33.3_Acyl chlorides.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\33.3_Acyl_chlorides.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\33.3_Acyl_chlorides.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "34.1",
+      "subtopic_name": "Primary and secondary amines",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\34.1_Primary and secondary amines.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\34.1_Primary_and_secondary_amines.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\34.1_Primary_and_secondary_amines_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "34.2",
+      "subtopic_name": "Phenylamine and azo compounds",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\34.2_Phenylamine and azo compounds.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\34.2_Phenylamine_and_azo_compounds.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "34.3",
+      "subtopic_name": "Amides",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\34.3_Amides.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\34.3_Amides.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\34.3_Amides.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "34.4",
+      "subtopic_name": "Amino acids",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\34.4_Amino acids.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\34.4_Amino_acids.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\34.4_Amino_acids.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "35.1",
+      "subtopic_name": "Condensation polymerisation",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\35.1_Condensation polymerisation.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\35.1_Condensation_polymerisation.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\35.1_Condensation_polymerisation_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "35.2",
+      "subtopic_name": "Predicting the type of polymerisation",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\35.2_Predicting the type of polymerisation.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\35.2_Predicting_the_type_of_polymerisation.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\35.2_Predicting_the_type_of_polymerisation.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "35.3",
+      "subtopic_name": "Degradable polymers",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\35.3_Degradable polymers.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\35.3_Degradable_polymers.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "36.1",
+      "subtopic_name": "Organic synthesis",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\36.1_Organic synthesis.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\36.1_Organic_synthesis.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\36.1_Organic_synthesis_1.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "37.1",
+      "subtopic_name": "Thin-layer chromatography",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\37.1_Thin-layer chromatography.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\37.1_Thin-layer_chromatography.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "37.2",
+      "subtopic_name": "Gas/liquid chromatography",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\37.2_Gas_liquid chromatography.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\37.2_Gasliquid_chromatography.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\37.2_Gasliquid_chromatography.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "37.3",
+      "subtopic_name": "Carbon-13 NMR spectroscopy",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 1,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\37.3_Carbon-13 NMR spectroscopy.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\37.3_Carbon-13_NMR_spectroscopy.json",
+      "save_my_exam_files": [
+        "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\37.3_Carbon_13_NMR_spectroscopy.pdf"
+      ]
+    },
+    {
+      "subtopic_number": "37.4",
+      "subtopic_name": "Proton (¹H) NMR spectroscopy",
+      "has_textbook": true,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\37.4_Proton (¹H) NMR spectroscopy.json",
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\37.4_Proton_¹H_NMR_spectroscopy.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

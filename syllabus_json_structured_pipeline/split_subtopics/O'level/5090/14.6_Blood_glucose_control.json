@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Coordination and control"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.6",
+    "sub_topic_name": "Blood glucose control",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Explain the need to control blood glucose concentration"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the control of blood glucose concentration by the liver and pancreas and the roles of insulin and glucagon"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the signs of Type 1 diabetes (limited to increased blood glucose concentration and glucose in urine) and its treatment (administration of insulin)"
+      }
+    ]
+  }
+}

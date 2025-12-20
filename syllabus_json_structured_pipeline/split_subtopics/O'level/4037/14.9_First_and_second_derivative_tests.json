@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Calculus"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.9",
+    "sub_topic_name": "First and second derivative tests",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Use the first and second derivative tests to discriminate between maxima and minima. (Points of inflexion are not included. Full justification of conclusions is expected. An explanation of how to distinguish between a maximum point and a minimum point may be required. Unless specified otherwise, any valid method is allowed.)"
+      }
+    ]
+  }
+}

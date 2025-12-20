@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1.2",
+    "sub_topic_name": "The nature of marketing: Demand and supply",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the factors influencing the demand for and supply of the products of a business"
+      },
+      {
+        "objective_number": 2,
+        "description": "interactions between demand, supply and price"
+      }
+    ]
+  }
+}

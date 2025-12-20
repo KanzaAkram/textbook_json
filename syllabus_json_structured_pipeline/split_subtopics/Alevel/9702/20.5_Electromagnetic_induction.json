@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Magnetic fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.5",
+    "sub_topic_name": "Electromagnetic induction",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define magnetic flux as the product of the magnetic flux density and the cross-sectional area perpendicular to the direction of the magnetic flux density"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use Φ = BA"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand and use the concept of magnetic flux linkage"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand and explain experiments that demonstrate:\n• that a changing magnetic flux can induce an e.m.f. in a circuit\n• that the induced e.m.f. is in such a direction as to oppose the change producing it\n• the factors affecting the magnitude of the induced e.m.f."
+      },
+      {
+        "objective_number": 5,
+        "description": "recall and use Faraday's and Lenz's laws of electromagnetic induction"
+      }
+    ]
+  }
+}

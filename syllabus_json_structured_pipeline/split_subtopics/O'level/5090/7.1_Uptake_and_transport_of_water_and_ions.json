@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Transport in flowering plants"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Uptake and transport of water and ions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Relate the structure of root hair cells to their function of water and ion uptake"
+      },
+      {
+        "objective_number": 2,
+        "description": "Outline the pathway taken by water through the root, stem and leaf, limited to: root hair cells, root cortex cells, xylem and mesophyll cells"
+      },
+      {
+        "objective_number": 3,
+        "description": "Investigate, using a suitable stain, the pathway of water in a cut stem"
+      }
+    ]
+  }
+}

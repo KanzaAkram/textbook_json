@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Movement into and out of cells"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Osmosis",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the role of water as a solvent in organisms with reference to digestion, excretion and transport"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that water diffuses through partially permeable membranes by osmosis"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that water moves into and out of cells by osmosis through the cell membrane"
+        },
+        {
+          "objective_number": 4,
+          "description": "Investigate osmosis using materials such as dialysis tubing"
+        },
+        {
+          "objective_number": 5,
+          "description": "Investigate and describe the effects on plant tissues of immersing them in solutions of different concentrations"
+        },
+        {
+          "objective_number": 6,
+          "description": "State that plants are supported by the pressure of water inside the cells pressing outwards on the cell wall"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 7,
+          "description": "Describe osmosis as the net movement of water molecules from a region of higher water potential (dilute solution) to a region of lower water potential (concentrated solution), through a partially permeable membrane"
+        },
+        {
+          "objective_number": 8,
+          "description": "Explain the effects on plant cells of immersing them in solutions of different concentrations by using the terms: turgid, turgor pressure, plasmolysis, flaccid"
+        },
+        {
+          "objective_number": 9,
+          "description": "Explain the importance of water potential and osmosis in the uptake and loss of water by organisms"
+        }
+      ]
+    }
+  }
+}

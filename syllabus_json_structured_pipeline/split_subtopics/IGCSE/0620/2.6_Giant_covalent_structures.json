@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Atoms, elements and compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.6",
+    "sub_topic_name": "Giant covalent structures",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the giant covalent structures of graphite and diamond"
+        },
+        {
+          "objective_number": 2,
+          "description": "Relate the structures and bonding of graphite and diamond to their uses, limited to: (a) graphite as a lubricant and as an electrode (b) diamond in cutting tools"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "Describe the giant covalent structure of silicon(IV) oxide, SiO2"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the similarity in properties between diamond and silicon(IV) oxide, related to their structures"
+        }
+      ]
+    }
+  }
+}

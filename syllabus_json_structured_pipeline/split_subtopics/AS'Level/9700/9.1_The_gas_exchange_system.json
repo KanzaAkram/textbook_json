@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Gas exchange"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.1",
+    "sub_topic_name": "The gas exchange system",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the structure of the human gas exchange system, limited to: lungs, trachea, bronchi, bronchioles, alveoli, capillary network"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the distribution in the gas exchange system of cartilage, ciliated epithelium, goblet cells, squamous epithelium of alveoli, smooth muscle and capillaries"
+      },
+      {
+        "objective_number": 3,
+        "description": "recognise cartilage, ciliated epithelium, goblet cells, squamous epithelium of alveoli, smooth muscle and capillaries in microscope slides, photomicrographs and electron micrographs"
+      },
+      {
+        "objective_number": 4,
+        "description": "recognise trachea, bronchi, bronchioles and alveoli in microscope slides, photomicrographs and electron micrographs and make plan diagrams of transverse sections of the walls of the trachea and bronchus"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe the functions of ciliated epithelial cells, goblet cells and mucous glands in maintaining the health of the gas exchange system"
+      },
+      {
+        "objective_number": 6,
+        "description": "describe the functions in the gas exchange system of cartilage, smooth muscle, elastic fibres and squamous epithelium"
+      },
+      {
+        "objective_number": 7,
+        "description": "describe gas exchange between air in the alveoli and blood in the capillaries"
+      }
+    ]
+  }
+}

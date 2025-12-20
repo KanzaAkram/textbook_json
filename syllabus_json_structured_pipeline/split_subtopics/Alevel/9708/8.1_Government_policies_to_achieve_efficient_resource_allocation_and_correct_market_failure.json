@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Government microeconomic intervention (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Government policies to achieve efficient resource allocation and correct market failure",
+    "learning_objectives": [
+      {
+        "objective_number": "8.1.1",
+        "description": "application and effectiveness of measures to tackle different forms of market failure: specific and ad valorem indirect taxes, subsidies, price controls, production quotas, prohibitions and licences, regulation and deregulation, direct provision, pollution permits, property rights, nationalisation and privatisation, provision of information, behavioural insights and 'nudge' theory"
+      },
+      {
+        "objective_number": "8.1.2",
+        "description": "government failure in microeconomic intervention: definition of government failure, causes of government failure, consequences of government failure"
+      }
+    ]
+  }
+}

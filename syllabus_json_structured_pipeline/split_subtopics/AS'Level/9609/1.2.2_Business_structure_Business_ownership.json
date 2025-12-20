@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Business and its environment (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2.2",
+    "sub_topic_name": "Business structure: Business ownership",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the main features of different types of business ownership: sole traders, partnerships, private limited companies, public limited companies, franchises, co-operatives, joint ventures and social enterprises"
+      },
+      {
+        "objective_number": 2,
+        "description": "the appropriateness of different types of business ownership"
+      },
+      {
+        "objective_number": 3,
+        "description": "the concepts of unlimited liability and limited liability and their importance"
+      },
+      {
+        "objective_number": 4,
+        "description": "the advantages and disadvantages of changing from one type of business ownership to another"
+      }
+    ]
+  }
+}

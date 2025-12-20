@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "The Macroeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Introduction to the circular flow of income",
+    "content": [
+      {
+        "point_number": "4.2.1",
+        "description": "circular flow of income in a closed economy and an open economy: the flow of income between households, firms and government and the international economy"
+      },
+      {
+        "point_number": "4.2.2",
+        "description": "injections and leakages (multiplier not required)"
+      },
+      {
+        "point_number": "4.2.3",
+        "description": "equilibrium and disequilibrium (marginal and average propensities not required)"
+      }
+    ]
+  }
+}

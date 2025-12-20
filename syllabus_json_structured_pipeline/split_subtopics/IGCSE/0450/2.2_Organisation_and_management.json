@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "People in business"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Organisation and management",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Simple hierarchical structures: levels of hierarchy, span of control, chain of command e.g. tall/short"
+      },
+      {
+        "objective_number": 2,
+        "description": "Roles and responsibilities of directors, managers, supervisors, other employees in an organisation and inter-relationships between them"
+      },
+      {
+        "objective_number": 3,
+        "description": "Functions of management, e.g. planning, organising, coordinating, commanding and controlling"
+      },
+      {
+        "objective_number": 4,
+        "description": "Importance of delegation; trust versus control"
+      },
+      {
+        "objective_number": 5,
+        "description": "Features of the main leadership styles, e.g. autocratic, democratic and laissez-faire"
+      },
+      {
+        "objective_number": 6,
+        "description": "Recommend and justify an appropriate leadership style in given circumstances"
+      },
+      {
+        "objective_number": 7,
+        "description": "What a trade union is and the effects of employees being union members"
+      }
+    ]
+  }
+}

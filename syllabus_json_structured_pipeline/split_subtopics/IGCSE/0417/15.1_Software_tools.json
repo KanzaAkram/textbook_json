@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Proofing"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.1",
+    "sub_topic_name": "Software tools",
+    "learning_objectives": [
+      {
+        "description": "Reduce errors",
+        "notes_and_guidance": "Use automated software tools (spell check, grammar check) and make appropriate changes to ensure all work produced contains as few errors as possible\nUse validation routines to minimise data entry errors"
+      },
+      {
+        "description": "Spell check software",
+        "notes_and_guidance": "Automated suggestions given by spell check software do not always give the correct response"
+      },
+      {
+        "description": "Validation checks",
+        "notes_and_guidance": "Importance, characteristics and uses of appropriate validation including range check, character check, length check, type check, format check, presence check"
+      }
+    ]
+  }
+}

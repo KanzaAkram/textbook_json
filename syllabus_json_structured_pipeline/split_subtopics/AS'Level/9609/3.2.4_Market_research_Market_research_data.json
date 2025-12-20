@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2.4",
+    "sub_topic_name": "Market research: Market research data",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the reliability of the data collected"
+      },
+      {
+        "objective_number": 2,
+        "description": "analysis of quantitative and qualitative data"
+      },
+      {
+        "objective_number": 3,
+        "description": "interpretation of information presented in tables, charts and graphs"
+      }
+    ]
+  }
+}

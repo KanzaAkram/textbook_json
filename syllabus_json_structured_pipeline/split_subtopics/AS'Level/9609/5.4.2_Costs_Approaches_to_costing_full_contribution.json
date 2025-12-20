@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Finance and accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4.2",
+    "sub_topic_name": "Costs: Approaches to costing: full, contribution",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the differences between full and contribution costing"
+      },
+      {
+        "objective_number": 2,
+        "description": "the uses and limitations of the full costing method"
+      },
+      {
+        "objective_number": 3,
+        "description": "the nature of the technique of contribution costing"
+      },
+      {
+        "objective_number": 4,
+        "description": "the difference between contribution and profit"
+      },
+      {
+        "objective_number": 5,
+        "description": "the limitations of contribution costing"
+      },
+      {
+        "objective_number": 6,
+        "description": "situations in which contribution costing would be and would not be used"
+      }
+    ]
+  }
+}

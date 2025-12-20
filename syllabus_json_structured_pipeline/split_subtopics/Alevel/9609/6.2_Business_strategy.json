@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Business and its environment (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Business strategy",
+    "learning_objectives": [
+      {
+        "objective_number": "6.2.1",
+        "description": "Developing business strategy: the meaning and purpose of business strategy; the meaning and purpose of strategic management: analysis, choice and implementation; approaches to develop business strategy, including: blue ocean strategy, scenario planning, SWOT analysis, PEST analysis, Porter's five forces, core competence framework, Ansoff matrix, force field analysis, decision trees."
+      },
+      {
+        "objective_number": "6.2.2",
+        "description": "Corporate planning and implementation: the meaning and importance of corporate planning; the meaning of corporate culture and its impact on business decision-making; the meaning and importance of transformational leadership; the management and control of strategic change; the meaning and importance of contingency planning and crisis management."
+      }
+    ]
+  }
+}

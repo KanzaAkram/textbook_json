@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Human resource management (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.4",
+    "sub_topic_name": "Human resource management (HRM) strategy",
+    "learning_objectives": [
+      {
+        "objective_number": "7.4.1",
+        "description": "Approaches to human resource management (HRM): the difference between 'hard' and 'soft' HRM; flexible working contracts: advantages and disadvantages of temporary contracts or flexible contracts including zero hours contracts, part-time, full-time, annualised hours, flexi-time, home working, shift working, job sharing, compressed working hours, the gig economy; the measurement, causes and consequences of poor employee performance; strategies for improving employee performance; Management by Objectives (MBO) – implementation and usefulness; the changing role of Information Technology (IT) and Artificial Intelligence (AI) in HRM."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Marketing"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Marketing, competition and the customer",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identifying customer needs"
+      },
+      {
+        "objective_number": 2,
+        "description": "Satisfying customer needs"
+      },
+      {
+        "objective_number": 3,
+        "description": "Maintaining customer loyalty"
+      },
+      {
+        "objective_number": 4,
+        "description": "Building customer relationships"
+      },
+      {
+        "objective_number": 5,
+        "description": "Why customer/consumer spending patterns may change"
+      },
+      {
+        "objective_number": 6,
+        "description": "The importance of changing customer needs"
+      },
+      {
+        "objective_number": 7,
+        "description": "Why some markets have become more competitive"
+      },
+      {
+        "objective_number": 8,
+        "description": "How businesses can respond to changing spending patterns and increased competition"
+      },
+      {
+        "objective_number": 9,
+        "description": "Benefits and limitations of both approaches to marketing"
+      },
+      {
+        "objective_number": 10,
+        "description": "How markets can be segmented, e.g. according to age, socio-economic grouping, location, gender"
+      },
+      {
+        "objective_number": 11,
+        "description": "Potential benefits of segmentation to business"
+      },
+      {
+        "objective_number": 12,
+        "description": "Recommend and justify an appropriate method of segmentation in given circumstances"
+      }
+    ]
+  }
+}

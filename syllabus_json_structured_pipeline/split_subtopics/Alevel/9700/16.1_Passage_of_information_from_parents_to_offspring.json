@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.1",
+    "sub_topic_name": "Passage of information from parents to offspring",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain the meanings of the terms haploid (n) and diploid (2n)"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain what is meant by homologous pairs of chromosomes"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain the need for a reduction division during meiosis in the production of gametes"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the behaviour of chromosomes in plant and animal cells during meiosis and the associated behaviour of the nuclear envelope, the cell surface membrane and the spindle (names of the main stages of meiosis, but not the sub-divisions of prophase I, are expected: prophase I, metaphase I, anaphase I, telophase I, prophase II, metaphase II, anaphase II and telophase II)"
+      },
+      {
+        "objective_number": 5,
+        "description": "interpret photomicrographs and diagrams of cells in different stages of meiosis and identify the main stages of meiosis"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain that crossing over and random orientation (independent assortment) of pairs of homologous chromosomes and sister chromatids during meiosis produces genetically different gametes"
+      },
+      {
+        "objective_number": 7,
+        "description": "explain that the random fusion of gametes at fertilisation produces genetically different individuals"
+      }
+    ]
+  }
+}

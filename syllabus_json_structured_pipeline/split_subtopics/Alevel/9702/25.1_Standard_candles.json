@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "25",
+    "topic_name": "Astronomy and cosmology"
+  },
+  "subtopic": {
+    "sub_topic_number": "25.1",
+    "sub_topic_name": "Standard candles",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the term luminosity as the total power of radiation emitted by a star"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use the inverse square law for radiant flux intensity F in terms of the luminosity L of the source F = L/(4πd²)"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand that an object of known luminosity is called a standard candle"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand the use of standard candles to determine distances to galaxies"
+      }
+    ]
+  }
+}

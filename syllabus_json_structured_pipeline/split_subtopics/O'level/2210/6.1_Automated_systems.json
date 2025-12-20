@@ -1,0 +1,33 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Automated and emerging technologies"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Automated systems",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Describe how sensors, microprocessors, and actuators collaborate in automated systems.",
+        "notes_and_guidance": "Automated systems involve sensors gathering data, microprocessors processing, and actuators carrying out actions."
+      },
+      {
+        "objective_number": "2",
+        "description": "Describe advantages/disadvantages of automated systems for different scenarios.",
+        "notes_and_guidance": "Scenarios: industry, transport, agriculture, weather, gaming, lighting, science."
+      }
+    ]
+  }
+}

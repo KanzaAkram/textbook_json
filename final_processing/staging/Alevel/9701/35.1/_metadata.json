@@ -1,0 +1,14 @@
+{
+  "subtopic_number": "35.1",
+  "subtopic_name": "Condensation polymerisation",
+  "level": "Alevel",
+  "subject_code": "9701",
+  "sources": {
+    "textbook": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\35.1_Condensation polymerisation.json",
+    "syllabus": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\35.1_Condensation_polymerisation.json",
+    "save_my_exam": [
+      "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\35.1_Condensation_polymerisation_1.pdf"
+    ]
+  },
+  "confidence": 1.0
+}

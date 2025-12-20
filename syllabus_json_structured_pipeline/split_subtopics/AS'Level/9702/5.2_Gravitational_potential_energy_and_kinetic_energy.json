@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Work, energy and power"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Gravitational potential energy and kinetic energy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "derive, using W = Fs, the formula ΔEp = mgΔh for gravitational potential energy changes in a uniform gravitational field"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use the formula ΔEp = mgΔh for gravitational potential energy changes in a uniform gravitational field"
+      },
+      {
+        "objective_number": 3,
+        "description": "derive, using the equations of motion, the formula for kinetic energy EK = ½mv²"
+      },
+      {
+        "objective_number": 4,
+        "description": "recall and use EK = ½mv²"
+      }
+    ]
+  }
+}

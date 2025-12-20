@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Probability & Statistics 2 (for Paper 6)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Continuous random variables",
+    "learning_objectives": [
+      {
+        "description": "understand the concept of a continuous random variable, and recall and use properties of a probability density function",
+        "notes_and_examples": "For density functions defined over a single interval only; the domain may be infinite, e.g. 3/x⁴ for x ≥ 1."
+      },
+      {
+        "description": "use a probability density function to solve problems involving probabilities, and to calculate the mean and variance of a distribution.",
+        "notes_and_examples": "Including location of the median or other percentiles of a distribution by direct consideration of an area using the density function. Explicit knowledge of the cumulative distribution function is not included."
+      }
+    ]
+  }
+}

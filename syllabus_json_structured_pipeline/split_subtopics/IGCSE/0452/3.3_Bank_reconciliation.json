@@ -1,0 +1,22 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Verification of accounting records"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Bank reconciliation",
+    "learning_objectives": [
+      "understand the use and purpose of a bank statement",
+      "update the cash book for bank charges, bank interest paid and received, correction of errors, credit transfers, direct debits, dividends, and standing orders",
+      "understand the purpose of and prepare a bank reconciliation statement to include bank errors, uncredited deposits and unpresented cheques."
+    ]
+  }
+}

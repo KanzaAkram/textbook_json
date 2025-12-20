@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Atoms, elements and compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Ion and ionic bonds",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the formation of positive ions, known as cations, and negative ions, known as anions"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the giant lattice structure of ionic compounds as a regular arrangement of alternating positive and negative ions"
+      },
+      {
+        "objective_number": 3,
+        "description": "State that an ionic bond is a strong electrostatic attraction between oppositely charged ions"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe the formation of ionic bonds between ions of metallic and non-metallic elements, including the use of dot-and-cross diagrams"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe and explain in terms of structure and bonding the properties of ionic compounds: (a) high melting points and boiling points (b) good electrical conductivity when aqueous or molten and poor when solid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Accounting procedures"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Accounting for depreciation and disposal of non-current assets",
+    "learning_objectives": [
+      "define depreciation",
+      "explain the reasons for accounting for depreciation",
+      "name and describe the straight-line, reducing balance and revaluation methods of depreciation",
+      "prepare ledger accounts and journal entries for the provision of depreciation",
+      "prepare ledger accounts and journal entries to record the sale of non-current assets, including the use of disposal accounts."
+    ]
+  }
+}

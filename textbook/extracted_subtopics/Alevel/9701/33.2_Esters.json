@@ -1,0 +1,18 @@
+{
+  "syllabus_info": {
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "syllabus_years": "2025, 2026 and 2027"
+  },
+  "subtopic": {
+    "subtopic_number": "33.2",
+    "subtopic_name": "Esters",
+    "topic_number": "33",
+    "topic_name": "Carboxylic acids and derivatives",
+    "start_page": 398,
+    "end_page": 398,
+    "content": "Cambridge International A Level Chemistry\nto an oxygen atom. It has two strongly electronegative \natoms pulling electrons away from it. Therefore the attack \nby the nucleophile is much more rapid.\nAryl chlorides, such as chlorobenzene, will not \nundergo hydrolysis. The carbon atom bonded to the \nchlorine atom is part of the delocalised π bonding system \nof the benzene ring. The p orbitals from the Cl atom tend \nto overlap with the delocalised p electrons in the benzene \nring. This causes the C — Cl bond to have some double \nbond character, making it stronger, and hydrolysis does \nnot occur.\nThe ease of hydrolysis, starting with the compounds most \nreadily broken down, is:\nacyl chloride > chloroalkane > aryl chloride\nquestions\n4\t \u0007In its reaction with a nucleophile, explain why an acyl \nchloride reacts faster than an alcohol.\n5\t \u0007a\t \u0007Name the products of the hydrolysis of  \npropanoyl chloride.\n398\n\u0007b\t \u0007i\t\n\u0007Place the following compounds in order of  \nease of hydrolysis, starting with the most \nreactive first.\n\u0007C6H5Cl    \u0007CH3CH2COCl    \u0007CH3CH2CH2Cl\n\u0007\t\n\u0007ii\t \u0007Explain your answer to part i.\n\u0007\t\n\u0007iii\t \u0007If a reaction occurs with water, what will you \nsee in part i?\nQuestion\nReaction with alcohols and phenol\nWhen acyl chlorides react with alcohols and phenol, we \nget esters (and HCl) formed. The reactions happen more \nquickly than the reactions of alcohols or phenol with \ncarboxylic acids. The acyl chloride reactions also go to \ncompletion and do not form an equilibrium mixture. \nTherefore they are useful in the synthesis of esters in the \nchemical industry.\nEthanoyl chloride will react vigorously with ethanol to \nform an ester:\nO\nO\nCH3C\nC2H5OH\n+  HCl\n+\nCH3C\nCl\nOC2H5\nethanol\nethyl\nethanoate\nethanoyl\nchloride\n\nWith phenol, the reaction with an acyl chloride proceeds \nif warmed. There is no reaction between phenol and \ncarboxylic acids, so acyl chlorides must be used if you \nwant to make phenyl esters. The reaction takes place in the \npresence of a base. The initial reaction between phenol and \nthe base creates the phenoxide ion, C6H5O–, which acts as \nthe nucleophile to attack the acyl chloride.\nO\nO\nCH3C\nNa+O–\n+\n+ NaCl\nCH3C\nCl\nO\nphenyl ethanoate\n+ NaCl\nO\nO\n+   Na+O–\nC\nC\nCl\nO\nsodium\nphenoxide\nbenzoyl\nchloride\nphenyl\nbenzoate\nReaction with amines\nAmines contain nitrogen atoms with a lone pair of \nelectrons. This lone pair of electrons is available to attack \nthe carbonyl carbon atom in acyl chlorides. The reaction \nis vigorous and the organic product is a substituted amide. \nFor example:\nO\nO\n+  HCl\nCH3C\nCH3C\n+  CH3NH2\nCl\nNHCH3\nN-methylethanamide\n6\t \u0007a\t \u0007Using an acyl chloride as a starting compound in \neach case, name the reactants you would use to \nmake:\n\u0007\t\n\u0007i\t\n\u0007ethyl ethanoate\n\u0007\t\n\u0007ii\t \u0007methyl butanoate\n\u0007\t\n\u0007iii\t \u0007phenyl benzoate.\n\u0007b\t \u0007Complete the following equation:\nCH3CH2COCl  +  CH3CH2CH2NH2\n+",
+    "content_length": 2835,
+    "pages_extracted": "408-408",
+    "layout_detected": "2 column(s)"
+  }
+}

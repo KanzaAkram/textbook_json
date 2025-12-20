@@ -1,0 +1,49 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Government and the macroeconomy"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.7",
+    "sub_topic_name": "Employment and unemployment",
+    "learning_objectives": [
+      {
+        "objective_number": "4.7.1",
+        "objective_title": "definition of employment, unemployment and full employment",
+        "guidance": "The nature and causes of changes in the pattern of employment, for example increase in proportion of workers employed in the tertiary sector and formal economy as an economy develops; a greater proportion of women in the labour force due to changes in social attitudes; decline in the proportion employed in the public sector as a country moves towards a market economy."
+      },
+      {
+        "objective_number": "4.7.2",
+        "objective_title": "changing patterns and level of employment",
+        "guidance": "The nature and causes of changes in the pattern of employment, for example increase in proportion of workers employed in the tertiary sector and formal economy as an economy develops; a greater proportion of women in the labour force due to changes in social attitudes; decline in the proportion employed in the public sector as a country moves towards a market economy."
+      },
+      {
+        "objective_number": "4.7.3",
+        "objective_title": "measurement of unemployment",
+        "guidance": "How unemployment is measured – claimant count and labour force survey - and the formula for the unemployment rate."
+      },
+      {
+        "objective_number": "4.7.4",
+        "objective_title": "causes/types of unemployment",
+        "guidance": "Frictional, structural and cyclical unemployment."
+      },
+      {
+        "objective_number": "4.7.5",
+        "objective_title": "consequences of unemployment",
+        "guidance": "The consequences of unemployment for the individual, firms and the economy as a whole."
+      },
+      {
+        "objective_number": "4.7.6",
+        "objective_title": "policies to reduce unemployment",
+        "guidance": "The range of policies available to reduce unemployment and how effective they might be."
+      }
+    ]
+  }
+}

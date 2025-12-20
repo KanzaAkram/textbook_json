@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Probability & Statistics 2 (for Paper 6)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "The Poisson distribution",
+    "learning_objectives": [
+      {
+        "description": "use formulae to calculate probabilities for the distribution Po(λ)",
+        "notes_and_examples": "Proofs are not required."
+      },
+      {
+        "description": "use the fact that if X ~ Po(λ) then the mean and variance of X are each equal to λ",
+        "notes_and_examples": "Proofs are not required."
+      },
+      {
+        "description": "understand the relevance of the Poisson distribution to the distribution of random events, and use the Poisson distribution as a model",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use the Poisson distribution as an approximation to the binomial distribution where appropriate",
+        "notes_and_examples": "The conditions that n is large and p is small should be known; n > 50 and np < 5, approximately."
+      },
+      {
+        "description": "use the normal distribution, with continuity correction, as an approximation to the Poisson distribution where appropriate.",
+        "notes_and_examples": "The condition that λ is large should be known; λ > 15, approximately."
+      }
+    ]
+  }
+}

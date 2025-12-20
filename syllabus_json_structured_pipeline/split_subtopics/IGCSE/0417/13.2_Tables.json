@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Layout"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.2",
+    "sub_topic_name": "Tables",
+    "learning_objectives": [
+      {
+        "description": "Work with tables within documents",
+        "notes_and_guidance": "Create a table with a specified number of rows and columns\nPlace text or objects in a table\nEdit a table and its contents including insert row(s) and column(s), delete row(s) and column(s), merge cells\nFormat a table including to set horizontal cell alignment (left, right, centre, fully justified), set vertical cell alignment (top, middle, bottom), show gridlines, hide gridlines, wrap text within a cell, shading/colouring cells, adjust row height, adjust column width"
+      }
+    ]
+  }
+}

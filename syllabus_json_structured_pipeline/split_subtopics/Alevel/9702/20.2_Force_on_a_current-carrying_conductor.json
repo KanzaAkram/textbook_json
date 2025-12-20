@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Magnetic fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.2",
+    "sub_topic_name": "Force on a current-carrying conductor",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a force might act on a current-carrying conductor placed in a magnetic field"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use the equation F = BIL sin θ, with directions as interpreted by Fleming's left-hand rule"
+      },
+      {
+        "objective_number": 3,
+        "description": "define magnetic flux density as the force acting per unit current per unit length on a wire placed at right-angles to the magnetic field"
+      }
+    ]
+  }
+}

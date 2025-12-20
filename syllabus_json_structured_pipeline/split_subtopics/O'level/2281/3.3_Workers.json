@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Microeconomic decision makers"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Workers",
+    "learning_objectives": [
+      {
+        "objective_number": "3.3.1",
+        "objective_title": "factors affecting an individual's choice of occupation",
+        "guidance": "Wage and non-wage factors."
+      },
+      {
+        "objective_number": "3.3.2",
+        "objective_title": "wage determination",
+        "guidance": "The influences of demand and supply, relative bargaining power and government policy, including minimum wage."
+      },
+      {
+        "objective_number": "3.3.3",
+        "objective_title": "reasons for differences in earnings",
+        "guidance": "How changes in demand and supply, relative bargaining strengths, discrimination and government policy can all influence differences in earnings between workers whether they are: skilled/unskilled; primary/secondary/tertiary; male/female; private sector/public sector. Definition, drawing and interpretation of diagrams that illustrate the effects of changes in demand and supply in the labour market."
+      },
+      {
+        "objective_number": "3.3.4",
+        "objective_title": "division of labour/specialisation",
+        "guidance": "Advantages and disadvantages for workers, firms and the economy."
+      }
+    ]
+  }
+}

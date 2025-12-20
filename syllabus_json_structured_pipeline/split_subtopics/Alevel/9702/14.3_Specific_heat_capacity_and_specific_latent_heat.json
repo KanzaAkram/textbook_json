@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Temperature"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.3",
+    "sub_topic_name": "Specific heat capacity and specific latent heat",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define and use specific heat capacity"
+      },
+      {
+        "objective_number": 2,
+        "description": "define and use specific latent heat and distinguish between specific latent heat of fusion and specific latent heat of vaporisation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Organisms and their environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.3",
+    "sub_topic_name": "Nutrient cycles",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the carbon cycle, limited to: photosynthesis, respiration, feeding, decomposition, formation of fossil fuels and combustion"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 2,
+          "description": "Describe the nitrogen cycle with reference to: decomposition of plant and animal protein to ammonium ions; nitrification; nitrogen fixation by lightning and bacteria; absorption of nitrate ions by plants; production of amino acids and proteins; feeding and digestion of proteins; deamination; denitrification"
+        },
+        {
+          "objective_number": 3,
+          "description": "State the roles of microorganisms in the nitrogen cycle, limited to: decomposition, nitrification, nitrogen fixation and denitrification (generic names of individual bacteria, e.g. Rhizobium, are not required)"
+        }
+      ]
+    }
+  }
+}

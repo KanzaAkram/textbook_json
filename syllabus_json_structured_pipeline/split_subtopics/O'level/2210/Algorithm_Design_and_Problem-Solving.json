@@ -1,0 +1,68 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Algorithm design and problem-solving"
+  },
+  "subtopic": {
+    "sub_topic_number": null,
+    "sub_topic_name": "Algorithm Design and Problem-Solving",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand the program development life cycle, limited to: analysis, design, coding and testing",
+        "notes_and_guidance": "Including identifying each stage and performing these tasks for each stage: analysis: abstraction, decomposition of the problem, identification of the problem and requirements; design: decomposition, structure diagrams, flowcharts, pseudocode; coding: writing program code and iterative testing; testing: testing program code with the use of test data."
+      },
+      {
+        "objective_number": "2",
+        "description": "(a) Understand that every computer system is made up of sub-systems, which are made up of further sub-systems\n(b) Understand how a problem can be decomposed into its component parts\n(c) Use different methods to design and construct a solution to a problem",
+        "notes_and_guidance": "Including: inputs, processes, outputs, storage. Including: structure diagrams, flowcharts, pseudocode."
+      },
+      {
+        "objective_number": "3",
+        "description": "Explain the purpose of a given algorithm",
+        "notes_and_guidance": "Including: stating the purpose of an algorithm, describing the processes involved in an algorithm."
+      },
+      {
+        "objective_number": "4",
+        "description": "Understand standard methods of solution",
+        "notes_and_guidance": "Limited to: linear search, bubble sort, totalling, counting, finding maximum, minimum and average values."
+      },
+      {
+        "objective_number": "5",
+        "description": "(a) Understand the need for validation checks to be made on input data and the different types of validation check\n(b) Understand the need for verification checks to be made on input data and the different types of verification check",
+        "notes_and_guidance": "Validation checks including: range check, length check, type check, presence check, format check, check digit. Verification checks including: visual check, double entry check."
+      },
+      {
+        "objective_number": "6",
+        "description": "Suggest and apply suitable test data",
+        "notes_and_guidance": "Limited to: normal, abnormal, extreme, boundary. Extreme data is the largest/smallest acceptable value. Boundary data is the largest/smallest acceptable value and the corresponding smallest/largest rejected value."
+      },
+      {
+        "objective_number": "7",
+        "description": "Complete a trace table to document a dry-run of an algorithm",
+        "notes_and_guidance": "Including, at each step in an algorithm: variables, outputs, user prompts."
+      },
+      {
+        "objective_number": "8",
+        "description": "Identify errors in given algorithms and suggest ways of correcting these errors",
+        "notes_and_guidance": null
+      },
+      {
+        "objective_number": "9",
+        "description": "Write and amend algorithms for given problems or scenarios, using: pseudocode, program code and flowcharts",
+        "notes_and_guidance": "Precision is required when writing algorithms, e.g. x > y is acceptable but x is greater than y is not acceptable. See section 4 for flowchart symbols. See section 4 for pseudocode."
+      }
+    ]
+  }
+}

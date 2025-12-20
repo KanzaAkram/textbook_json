@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Superposition"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.4",
+    "sub_topic_name": "The diffraction grating",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall and use d sin θ = nλ"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the use of a diffraction grating to determine the wavelength of light (the structure and use of the spectrometer are not included)"
+      }
+    ]
+  }
+}

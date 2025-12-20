@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Enzymes"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Mode of action of enzymes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state that enzymes are globular proteins that catalyse reactions inside cells (intracellular enzymes) or are secreted to catalyse reactions outside cells (extracellular enzymes)"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the mode of action of enzymes in terms of an active site, enzyme-substrate complex, lowering of activation energy and enzyme specificity, including the lock-and-key hypothesis and the induced-fit hypothesis"
+      },
+      {
+        "objective_number": 3,
+        "description": "investigate the progress of enzyme-catalysed reactions by measuring rates of formation of products using catalase and rates of disappearance of substrate using amylase"
+      },
+      {
+        "objective_number": 4,
+        "description": "outline the use of a colorimeter for measuring the progress of enzyme-catalysed reactions that involve colour changes"
+      }
+    ]
+  }
+}

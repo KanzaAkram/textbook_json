@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Oscillations"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.2",
+    "sub_topic_name": "Energy in simple harmonic motion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the interchange between kinetic and potential energy during simple harmonic motion"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use E = ½mω²x₀² for the total energy of a system undergoing simple harmonic motion"
+      }
+    ]
+  }
+}

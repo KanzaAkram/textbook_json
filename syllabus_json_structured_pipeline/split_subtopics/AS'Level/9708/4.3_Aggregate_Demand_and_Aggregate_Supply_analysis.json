@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "The Macroeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Aggregate Demand and Aggregate Supply analysis",
+    "content": [
+      {
+        "point_number": "4.3.1",
+        "description": "definition of Aggregate Demand (AD)"
+      },
+      {
+        "point_number": "4.3.2",
+        "description": "components of AD and their meanings: AD = C + I + G + (X – M)"
+      },
+      {
+        "point_number": "4.3.3",
+        "description": "determinants of AD (detailed knowledge of the components of AD is not required)"
+      },
+      {
+        "point_number": "4.3.4",
+        "description": "shape of the AD curve (downward sloping)"
+      },
+      {
+        "point_number": "4.3.5",
+        "description": "causes of a shift in the AD curve"
+      },
+      {
+        "point_number": "4.3.6",
+        "description": "definition of Aggregate Supply (AS)"
+      },
+      {
+        "point_number": "4.3.7",
+        "description": "determinants of AS"
+      },
+      {
+        "point_number": "4.3.8",
+        "description": "shape of the AS curve in the short run (SRAS, upward sloping line or sweeping curve) and the long run (LRAS, either a vertical line or in three sections – highly elastic, upward sloping, vertical)"
+      },
+      {
+        "point_number": "4.3.9",
+        "description": "causes of a shift in the AS curve in the short run (SRAS) and in the long run (LRAS)"
+      },
+      {
+        "point_number": "4.3.10",
+        "description": "distinction between a movement along and a shift in AD and AS"
+      },
+      {
+        "point_number": "4.3.11",
+        "description": "establishment of equilibrium in the AD/AS model and the determination of the level of real output, the price level and employment"
+      },
+      {
+        "point_number": "4.3.12",
+        "description": "effects of shifts in the AD curve and the AS curve on the level of real output, the price level and employment"
+      }
+    ]
+  }
+}

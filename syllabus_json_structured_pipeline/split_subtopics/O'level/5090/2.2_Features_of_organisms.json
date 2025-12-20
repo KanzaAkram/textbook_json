@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Classification"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Features of organisms",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State the main features used to place all organisms into one of the five kingdoms: Animal, Plant, Fungus, Prokaryote, Protoctist"
+      },
+      {
+        "objective_number": 2,
+        "description": "State the main features used to place organisms into groups within the animal kingdom, limited to: (a) the main groups of vertebrates: mammals, birds, reptiles, amphibians, fish (b) the main groups of arthropods: myriapods, insects, arachnids, crustaceans"
+      },
+      {
+        "objective_number": 3,
+        "description": "State the main features used to place organisms into groups within the plant kingdom, limited to ferns and flowering plants (dicotyledons and monocotyledons)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Classify organisms using the features identified in 2.2.1, 2.2.2 and 2.2.3"
+      },
+      {
+        "objective_number": 5,
+        "description": "State the main features of viruses, limited to protein coat and genetic material"
+      },
+      {
+        "objective_number": 6,
+        "description": "Understand that viruses can only replicate in living cells"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Motion in a circle"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.2",
+    "sub_topic_name": "Centripetal acceleration",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a force of constant magnitude that is always perpendicular to the direction of motion causes centripetal acceleration"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that centripetal acceleration causes circular motion with a constant angular speed"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall and use a = rω² and a = v²/r"
+      },
+      {
+        "objective_number": 4,
+        "description": "recall and use F = mrω² and F = mv²/r"
+      }
+    ]
+  }
+}

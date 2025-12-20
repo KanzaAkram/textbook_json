@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Hydrocarbons"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.1",
+    "sub_topic_name": "Alkanes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions (reagents and conditions) by which alkanes can be produced: (a) addition of hydrogen to an alkene in a hydrogenation reaction, H₂(g) and Pt/Ni catalyst and heat (b) cracking of a longer chain alkane, heat with Al₂O₃"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe: (a) the complete and incomplete combustion of alkanes (b) the free-radical substitution of alkanes by Cl₂ or Br₂ in the presence of ultraviolet light, as exemplified by the reactions of ethane"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the mechanism of free-radical substitution with reference to the initiation, propagation and termination steps"
+      },
+      {
+        "objective_number": 4,
+        "description": "suggest how cracking can be used to obtain more useful alkanes and alkenes of lower Mᵣ from heavier crude oil fractions"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand the general unreactivity of alkanes, including towards polar reagents in terms of the strength of the C-H bonds and their relative lack of polarity"
+      },
+      {
+        "objective_number": 6,
+        "description": "recognise the environmental consequences of carbon monoxide, oxides of nitrogen and unburnt hydrocarbons arising from the combustion of alkanes in the internal combustion engine and of their catalytic removal"
+      }
+    ]
+  }
+}

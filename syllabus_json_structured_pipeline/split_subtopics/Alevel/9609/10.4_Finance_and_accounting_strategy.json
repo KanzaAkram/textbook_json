@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Finance and accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.4",
+    "sub_topic_name": "Finance and accounting strategy",
+    "learning_objectives": [
+      {
+        "objective_number": "10.4.1",
+        "description": "The use of accounting data to enable strategic decision-making: the use of financial statements in developing strategies; the contents of an annual report and their usefulness to business and other stakeholders."
+      },
+      {
+        "objective_number": "10.4.2",
+        "description": "The use of accounting data and ratio analysis in strategic decision-making: assessment of business performance over time and against competitors; the impact of accounting data including ratio results on business strategy; the impact of debt or equity decisions on ratio results; the impact of changes in dividend strategy on ratio results; the impact of business growth on ratio results; the impact of other business strategies on ratio results; the limitations of using published accounts and ratio analyses."
+      }
+    ]
+  }
+}

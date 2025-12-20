@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Reproduction"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.1",
+    "sub_topic_name": "Asexual reproduction",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe asexual reproduction as a process resulting in the production of genetically identical offspring from one parent"
+        },
+        {
+          "objective_number": 2,
+          "description": "Identify examples of asexual reproduction in diagrams, images and information provided"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "Discuss the advantages and disadvantages of asexual reproduction: (a) to a population of a species in the wild (b) to crop production"
+        }
+      ]
+    }
+  }
+}

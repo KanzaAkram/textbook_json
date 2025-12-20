@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Human resource management (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Organisational structure",
+    "learning_objectives": [
+      {
+        "objective_number": "7.1.1",
+        "description": "The relationship between business objectives and organisational structure: the purpose and attributes of an organisational structure such as flexibility, meeting the needs of the business, allowing for growth and development and encouraging intrapreneurship."
+      },
+      {
+        "objective_number": "7.1.2",
+        "description": "Types of structure: functional, hierarchical (flat and narrow), matrix: the advantages and disadvantages of the different types of structure; why some organisations are structured by product and others by function or geographical area; the reasons and ways structures change e.g. due to growth or delayering; the features of a formal structure: levels of hierarchy, chain of command, span of control, responsibility, authority, delegation, accountability, centralised, decentralised."
+      },
+      {
+        "objective_number": "7.1.3",
+        "description": "Delegation and accountability: the relationship between delegation and accountability; the processes of accountability in a business; the impact of delegation on a business."
+      },
+      {
+        "objective_number": "7.1.4",
+        "description": "Control, authority and trust: the relationship between span of control and levels of hierarchy; the difference between authority and responsibility; the conflicts between control and trust that might arise when delegating."
+      },
+      {
+        "objective_number": "7.1.5",
+        "description": "Centralisation and decentralisation: the impact of centralisation and decentralisation on a business."
+      },
+      {
+        "objective_number": "7.1.6",
+        "description": "Line and staff: examples of and distinctions between line and staff functions and the conflicts between them."
+      }
+    ]
+  }
+}

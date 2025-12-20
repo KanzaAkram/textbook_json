@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.4",
+    "sub_topic_name": "Alkanes",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State that the bonding in alkanes is single covalent and that alkanes are saturated hydrocarbons"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the properties of alkanes as being generally unreactive, except in terms of combustion and substitution by chlorine"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "State that in a substitution reaction one atom or group of atoms is replaced by another atom or group of atoms"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the substitution reaction of alkanes with chlorine as a photochemical reaction, with ultraviolet light providing the activation energy, Ea, and draw the structural or displayed formulae of the products, limited to monosubstitution"
+        }
+      ]
+    }
+  }
+}

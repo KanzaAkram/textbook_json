@@ -1,0 +1,18 @@
+{
+  "syllabus_info": {
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "syllabus_years": "2025, 2026 and 2027"
+  },
+  "subtopic": {
+    "subtopic_number": "28.4",
+    "subtopic_name": "Stereoisomerism in transition element complexes",
+    "topic_number": "28",
+    "topic_name": "Chemistry of transition elements",
+    "start_page": 373,
+    "end_page": 373,
+    "content": "Question\n4\t a\t \u0007What is the oxidation number of the transition \nmetal in each of the following complexes?\ni\t\n[Co(NH3)6]3+\nii\t [Ni(CN)4]2–\niii\t [Cr(OH)6]3–\niv\t [Co(en)3]3+\nv\t Cu(OH)2(H2O)4\n\t\nb\t \u0007EDTA4– ions can act as ligands. A single EDTA4– \nion can form six co-ordinate bonds to a central \ntransition metal ion to form an octahedral \ncomplex. It is called a hexadentate ligand. Give the \nformula of such a complex formed between Ni2+ \nand EDTA4–.\nc\t\nWhich ligands in Table 24.4 are bidentate?\nStereoisomerism in transition metal \ncomplexes\nIn Chapter 14 (pages 195–6) we learnt about two \ntypes of stereoisomerism: geometric isomerism and \noptical isomerism. The presence of a double bond in \n1,2-dibromoethane means that two geometrical isomers \n(cis-trans isomers) are possible. Geometric isomerism \nis also possible in transition metal complexes, where\nCH2\nNH2\nH2C\nH2N\nNH2\nNi\nCH2\nH2N\nNH2\nNH2\nH2C\nCH2\nen\nb\nen\nen\nNi\n\nChapter 24: Transition elements\nno double bond exists. In this case, the term geometric \nisomerism refers to complexes with the same molecular \nformula but different geometrical arrangements of their \natoms. Examples are cis- and trans-platin (Figure 24.8).  \nIn cis-platin, the chlorine atoms are next to each other  \nin the square complex but in trans-platin, they are \nopposite. The properties of these geometrical isomers  \nare slightly different.\nNH3\nCI\nCl\nNH3\nPt\nPt\nNH3\nCI\nH3N\nCl\ncis-platin\ntrans-platin\nFigure 24.8  The geometrical isomers, cis-platin and  \ntrans-platin.\nCis-platin has been used as an anti-cancer drug. It acts by \nbinding to sections of the DNA in cancer cells, preventing \ncell division.\nStereoisomerism is commonly shown by octahedral \n(six co-ordinate) complexes associated with bidentate \nligands. An example is the complex containing \nnickel as the transition metal and 1,2-diaminoethane \n(NH2CH2CH2NH2) as the bidentate ligand (Figure \n24.9). The two isomers are stereoisomers because the two \ndifferent molecules are mirror images of each other and \ncannot be superimposed.\n373\n2+\n2+\na\nCH2\nCH2\nH2N\nNH2\nH2N\nCH2\nNi\nH2C\nH2C\nNH2\nH2N\nH2N\nCH2\nCH2\n2+\n2+\nen\nNi\nen\nen\nFigure 24.9  The two non-superimposable optical isomers of Ni(NH2CH2CH2NH2)3\n2+: a  the full structure; b  a simplified structure \nwith ‘en’ representing a molecule of 1,2-diaminoethane.",
+    "content_length": 2298,
+    "pages_extracted": "383-383",
+    "layout_detected": "2 column(s)"
+  }
+}

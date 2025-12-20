@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Chemical bonding"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Electronegativity and bonding",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define electronegativity as the power of an atom to attract electrons to itself"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the factors influencing the electronegativities of the elements in terms of nuclear charge, atomic radius and shielding by inner shells and sub-shells"
+      },
+      {
+        "objective_number": 3,
+        "description": "state and explain the trends in electronegativity across a period and down a group of the Periodic Table"
+      },
+      {
+        "objective_number": 4,
+        "description": "use the differences in Pauling electronegativity values to predict the formation of ionic and covalent bonds (the presence of covalent character in some ionic compounds will not be assessed) (Pauling electronegativity values will be given where necessary)"
+      }
+    ]
+  }
+}

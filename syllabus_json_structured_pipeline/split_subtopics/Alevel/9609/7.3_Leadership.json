@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Human resource management (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.3",
+    "sub_topic_name": "Leadership",
+    "learning_objectives": [
+      {
+        "objective_number": "7.3.1",
+        "description": "Leadership: the purpose of leadership; leadership roles in business (directors, managers, supervisors, worker representatives); the qualities of a good leader."
+      },
+      {
+        "objective_number": "7.3.2",
+        "description": "Theories of leadership: key leadership theories: trait, behavioural, contingency, power and influence and transformational."
+      },
+      {
+        "objective_number": "7.3.3",
+        "description": "Emotional intelligence/emotional quotient (EQ): Goleman's four competencies of emotional intelligence: self-awareness, social awareness, self-management and social skills."
+      }
+    ]
+  }
+}

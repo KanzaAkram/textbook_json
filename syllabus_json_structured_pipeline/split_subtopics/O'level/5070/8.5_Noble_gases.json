@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "The Periodic Table"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.5",
+    "sub_topic_name": "Noble gases",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the Group VIII noble gases as unreactive, monatomic gases and explain this in terms of electronic configuration"
+      }
+    ]
+  }
+}

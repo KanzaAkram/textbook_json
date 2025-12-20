@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "The Periodic Table"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Arrangement of elements",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the Periodic Table as an arrangement of elements in periods and groups and in order of increasing proton number/atomic number"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the change from metallic to non-metallic character across a period"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the relationship between group number and the charge of the ions formed from elements in that group"
+      },
+      {
+        "objective_number": 4,
+        "description": "Explain similarities in the chemical properties of elements in the same group of the Periodic Table in terms of their electronic configuration"
+      },
+      {
+        "objective_number": 5,
+        "description": "Explain how the position of an element in the Periodic Table can be used to predict its properties"
+      },
+      {
+        "objective_number": 6,
+        "description": "Identify trends in groups, given information about the elements"
+      }
+    ]
+  }
+}

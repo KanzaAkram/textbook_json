@@ -1,0 +1,26 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Verification of accounting records"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.4",
+    "sub_topic_name": "Control accounts",
+    "learning_objectives": [
+      "understand the purposes of purchases ledger and sales ledger control accounts",
+      "identify the books of prime entry as sources of information for the control account entries",
+      "prepare purchases ledger and sales ledger control accounts to include credit purchases and sales, receipts and payments, cash discounts, returns, irrecoverable debts, dishonoured cheques, interest on overdue accounts, contra entries, refunds, opening and closing balances (debit and credit within each account)."
+    ],
+    "notes": [
+      "Candidates do not need to prepare control accounts which are part of the double entry system.",
+      "Candidates do not need to reconcile control account balances with the sales and purchases ledger balances."
+    ]
+  }
+}

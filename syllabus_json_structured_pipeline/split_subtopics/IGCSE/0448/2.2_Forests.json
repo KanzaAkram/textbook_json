@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Natural resources – an issue of sustainability"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Forests",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the different types of forest and identify, on a map, their main locations"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the physical factors that control the distribution of the different types of forest, and the human factors which have reduced their extent"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the reasons for: the development of plantations in the Indus Plain; afforestation on mountain slopes and plateaux"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand the value of forests as a resource for development, and the importance of their sustainability"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain the effects of deforestation, such as soil erosion, silting and flooding"
+      },
+      {
+        "objective_number": 6,
+        "description": "evaluate possible solutions to the problems caused by deforestation."
+      }
+    ]
+  }
+}

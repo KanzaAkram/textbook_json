@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Finance and accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4.3",
+    "sub_topic_name": "Costs: Uses of cost information",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "cost information for decision-making purposes, e.g. average, marginal, total costs"
+      },
+      {
+        "objective_number": 2,
+        "description": "how costs can be used for pricing decisions"
+      },
+      {
+        "objective_number": 3,
+        "description": "how costs can be used to monitor and improve business performance, including using cost information to calculate profits"
+      },
+      {
+        "objective_number": 4,
+        "description": "contribution costing as a means to help make special order decisions"
+      }
+    ]
+  }
+}

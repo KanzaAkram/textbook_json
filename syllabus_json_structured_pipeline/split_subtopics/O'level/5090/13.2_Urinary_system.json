@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Excretion"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.2",
+    "sub_topic_name": "Urinary system",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify, on diagrams, the kidneys, ureters, bladder and urethra and state the function of each (the function of the kidney should be described simply as removing urea and excess salts and water from the blood as urine)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Explain the need for excretion, limited to toxicity of urea"
+      },
+      {
+        "objective_number": 3,
+        "description": "Outline the structure of a nephron and its associated blood vessels, limited to: Bowman's capsule, glomerulus, tubules, loop of Henle and collecting duct"
+      },
+      {
+        "objective_number": 4,
+        "description": "Outline the function of a nephron and its associated blood vessels, limited to: (a) the role of the glomerulus in the filtration from the blood of water, glucose, urea and ions (b) the role of the nephron in the reabsorption of all of the glucose, some of the ions and most of the water back into the blood (c) the formation of urine containing urea, excess water and excess ions (details of these processes are not required)"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe the role of the liver in the assimilation of amino acids by converting them to proteins"
+      },
+      {
+        "objective_number": 6,
+        "description": "Describe deamination in the liver as the removal of the nitrogen-containing part of amino acids, resulting in the formation of urea"
+      }
+    ]
+  }
+}

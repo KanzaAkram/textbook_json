@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.9",
+    "sub_topic_name": "Estimation",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Round values to a specified degree of accuracy.",
+        "notes_and_examples": "Includes decimal places and significant figures. e.g. Write 5764 correct to the nearest thousand."
+      },
+      {
+        "objective_number": "2",
+        "description": "Make estimates for calculations involving numbers, quantities and measurements.",
+        "notes_and_examples": "e.g. By writing each number correct to 1 significant figure, estimate the value of 41.3 / (9.79 × 0.765)."
+      },
+      {
+        "objective_number": "3",
+        "description": "Round answers to a reasonable degree of accuracy in the context of a given problem.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

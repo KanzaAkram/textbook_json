@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Trigonometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Right-angled triangles",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Know and use the sine, cosine and tangent ratios for acute angles in calculations involving sides and angles of a right-angled triangle.",
+        "notes_and_examples": "Angles will be given in degrees and answers should be written in degrees, with decimals correct to one decimal place."
+      },
+      {
+        "objective_number": "2",
+        "description": "Solve problems in two dimensions using Pythagoras' theorem and trigonometry.",
+        "notes_and_examples": "Knowledge of bearings may be required."
+      },
+      {
+        "objective_number": "3",
+        "description": "Know that the perpendicular distance from a point to a line is the shortest distance to the line.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "4",
+        "description": "Carry out calculations involving angles of elevation and depression.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

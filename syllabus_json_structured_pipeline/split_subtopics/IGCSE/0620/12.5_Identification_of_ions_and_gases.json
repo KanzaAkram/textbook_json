@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Experimental techniques and chemical analysis"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.5",
+    "sub_topic_name": "Identification of ions and gases",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe tests to identify the anions: (a) carbonate, CO3^2-, by reaction with dilute acid and then testing for carbon dioxide gas (b) chloride, Cl-, bromide, Br-, and iodide, I-, by acidifying with dilute nitric acid then adding aqueous silver nitrate (c) nitrate, NO3-, reduction with aluminium foil and aqueous sodium hydroxide and then testing for ammonia gas (d) sulfate, SO4^2-, by acidifying with dilute nitric acid and then adding aqueous barium nitrate (e) sulfite, SO3^2-, by reaction with acidified aqueous potassium manganate(VII)"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe tests using aqueous sodium hydroxide and aqueous ammonia to identify the aqueous cations: (a) aluminium, Al^3+ (b) ammonium, NH4^+ (c) calcium, Ca^2+ (d) chromium(III), Cr^3+ (e) copper(II), Cu^2+ (f) iron(II), Fe^2+ (g) iron(III), Fe^3+ (h) zinc, Zn^2+"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe tests to identify the gases: (a) ammonia, NH3, using damp red litmus paper (b) carbon dioxide, CO2, using limewater (c) chlorine, Cl2, using damp litmus paper (d) hydrogen, H2, using a lighted splint (e) oxygen, O2, using a glowing splint (f) sulfur dioxide, SO2, using acidified aqueous potassium manganate(VII)"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the use of a flame test to identify the cations: (a) lithium, Li+ (b) sodium, Na+ (c) potassium, K+ (d) calcium, Ca^2+ (e) barium, Ba^2+ (f) copper(II), Cu^2+"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "35",
+    "topic_name": "Polymerisation"
+  },
+  "subtopic": {
+    "sub_topic_number": "35.2",
+    "sub_topic_name": "Predicting the type of polymerisation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "predict the type of polymerisation reaction for a given monomer or pair of monomers"
+      },
+      {
+        "objective_number": 2,
+        "description": "deduce the type of polymerisation reaction which produces a given section of a polymer molecule"
+      }
+    ]
+  }
+}

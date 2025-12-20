@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The systems life cycle"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.4",
+    "sub_topic_name": "Implementation",
+    "learning_objectives": [
+      {
+        "description": "System implementation",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of the four methods of implementation, direct changeover, parallel running, pilot running, phased implementation"
+      }
+    ]
+  }
+}

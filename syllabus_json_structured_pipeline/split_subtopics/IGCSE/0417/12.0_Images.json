@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Images"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.0",
+    "sub_topic_name": "Images",
+    "learning_objectives": [
+      {
+        "description": "Place and edit an image",
+        "notes_and_guidance": "Place an image with precision\nResize an image as specified to maintain or adjust the aspect ratio of an image\nCrop an image\nRotate an image\nReflect (flip) an image horizontally or vertically\nAdjust the brightness of an image\nAdjust the contrast of an image\nGroup and layer images including grouping and ungrouping, moving to the front or back"
+      },
+      {
+        "description": "File size reduction",
+        "notes_and_guidance": "Recognise that reducing the file size can be achieved by reducing the image resolution or colour depth"
+      }
+    ]
+  }
+}

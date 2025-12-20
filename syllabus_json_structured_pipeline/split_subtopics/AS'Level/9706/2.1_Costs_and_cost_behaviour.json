@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Accounting 9706",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Cost and management accounting (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Costs and cost behaviour",
+    "learning_objectives": [
+      {
+        "objective_number": "2.1.1",
+        "objective_title": "Materials and labour",
+        "description": "Candidates should have an understanding of: accounting for material and labour costs; how to identify and calculate fixed costs, variable costs, semi-variable costs and stepped costs; how to identify and calculate the elements of direct and indirect costs; how to calculate the value of closing inventory using the first in first out (FIFO) and weighted average cost (AVCO) methods (perpetual and periodic); the principles of just in time (JIT) management of inventory. Candidates are expected to use their understanding of accounting for materials and labour to evaluate relevant information and make informed business decisions."
+      }
+    ]
+  }
+}

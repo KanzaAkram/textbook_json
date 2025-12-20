@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Probability & Statistics 2 (for Paper 6)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.5",
+    "sub_topic_name": "Hypothesis tests",
+    "learning_objectives": [
+      {
+        "description": "understand the nature of a hypothesis test, the difference between one-tailed and two-tailed tests, and the terms null hypothesis, alternative hypothesis, significance level, rejection region (or critical region), acceptance region and test statistic",
+        "notes_and_examples": "Outcomes of hypothesis tests are expected to be interpreted in terms of the contexts in which questions are set."
+      },
+      {
+        "description": "formulate hypotheses and carry out a hypothesis test in the context of a single observation from a population which has a binomial or Poisson distribution, using direct evaluation of probabilities; a normal approximation to the binomial or the Poisson distribution, where appropriate",
+        "notes_and_examples": "Outcomes of hypothesis tests are expected to be interpreted in terms of the contexts in which questions are set."
+      },
+      {
+        "description": "formulate hypotheses and carry out a hypothesis test concerning the population mean in cases where the population is normally distributed with known variance or where a large sample is used",
+        "notes_and_examples": "Outcomes of hypothesis tests are expected to be interpreted in terms of the contexts in which questions are set."
+      },
+      {
+        "description": "understand the terms Type I error and Type II error in relation to hypothesis tests",
+        "notes_and_examples": "Outcomes of hypothesis tests are expected to be interpreted in terms of the contexts in which questions are set."
+      },
+      {
+        "description": "calculate the probabilities of making Type I and Type II errors in specific situations involving tests based on a normal distribution or direct evaluation of binomial or Poisson probabilities.",
+        "notes_and_examples": "Outcomes of hypothesis tests are expected to be interpreted in terms of the contexts in which questions are set."
+      }
+    ]
+  }
+}

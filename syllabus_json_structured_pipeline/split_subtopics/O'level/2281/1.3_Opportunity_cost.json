@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The basic economic problem"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.3",
+    "sub_topic_name": "Opportunity cost",
+    "learning_objectives": [
+      {
+        "objective_number": "1.3.1",
+        "objective_title": "definition of opportunity cost",
+        "guidance": "Definition and examples of opportunity cost in different contexts."
+      },
+      {
+        "objective_number": "1.3.2",
+        "objective_title": "the influence of opportunity cost on decision making",
+        "guidance": "Decisions made by consumers, workers, producers and governments when allocating their resources."
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Human resource management (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1.6",
+    "sub_topic_name": "Human resource management (HRM): Training and development",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "different types of training: induction, on-the-job, off-the-job"
+      },
+      {
+        "objective_number": 2,
+        "description": "the impact of training and development on a business"
+      },
+      {
+        "objective_number": 3,
+        "description": "employee development to encourage intrapreneurship"
+      },
+      {
+        "objective_number": 4,
+        "description": "employee development to encourage multi-skilling and flexibility"
+      }
+    ]
+  }
+}

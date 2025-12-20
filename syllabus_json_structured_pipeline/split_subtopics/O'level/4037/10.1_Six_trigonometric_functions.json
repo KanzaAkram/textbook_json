@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Trigonometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.1",
+    "sub_topic_name": "Six trigonometric functions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Know and use the six trigonometric functions of angles of any magnitude. (sine, cosine, tangent, secant, cosecant, cotangent)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Forces, density and pressure"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Equilibrium of forces",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state and apply the principle of moments"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that, when there is no resultant force and no resultant torque, a system is in equilibrium"
+      },
+      {
+        "objective_number": 3,
+        "description": "use a vector triangle to represent coplanar forces in equilibrium"
+      }
+    ]
+  }
+}

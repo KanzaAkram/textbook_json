@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Stoichiometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Relative masses of atoms and molecules",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe relative atomic mass, Aᵣ, as the average mass of the isotopes of an element compared to 1/12th of the mass of an atom of ¹²C"
+      },
+      {
+        "objective_number": 2,
+        "description": "Define relative molecular mass, Mᵣ, as the sum of the relative atomic masses. Relative formula mass, Mᵣ, will be used for ionic compounds"
+      }
+    ]
+  }
+}

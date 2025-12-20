@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Equilibria"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Brønsted–Lowry theory of acids and bases",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state the names and formulas of the common acids, limited to hydrochloric acid, HCl, sulfuric acid, H₂SO₄, nitric acid, HNO₃, ethanoic acid, CH₃COOH"
+      },
+      {
+        "objective_number": 2,
+        "description": "state the names and formulas of the common alkalis, limited to sodium hydroxide, NaOH, potassium hydroxide, KOH, ammonia, NH₃"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the Brønsted–Lowry theory of acids and bases"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe strong acids and strong bases as fully dissociated in aqueous solution and weak acids and weak bases as partially dissociated in aqueous solution"
+      },
+      {
+        "objective_number": 5,
+        "description": "appreciate that water has pH of 7, acid solutions pH of below 7 and alkaline solutions pH of above 7"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain qualitatively the differences in behaviour between strong and weak acids including the reaction with a reactive metal and difference in pH values by use of a pH meter, universal indicator or conductivity"
+      },
+      {
+        "objective_number": 7,
+        "description": "understand that neutralisation reactions occur when H⁺(aq) and OH⁻(aq) form H₂O(l)"
+      },
+      {
+        "objective_number": 8,
+        "description": "understand that salts are formed in neutralisation reactions"
+      },
+      {
+        "objective_number": 9,
+        "description": "sketch the pH titration curves of titrations using combinations of strong and weak acids with strong and weak alkalis"
+      },
+      {
+        "objective_number": 10,
+        "description": "select suitable indicators for acid-alkali titrations, given appropriate data (pKₐ values will not be used)"
+      }
+    ]
+  }
+}

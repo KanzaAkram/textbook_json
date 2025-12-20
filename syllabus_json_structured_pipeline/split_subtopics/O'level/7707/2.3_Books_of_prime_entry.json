@@ -1,0 +1,26 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Sources and recording of data"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Books of prime entry",
+    "learning_objectives": [
+      "explain the advantage of using various books of prime entry",
+      "explain the use of and process accounting data in the books of prime entry: cash book, petty cash book, sales journal, purchases journal, sales returns journal, purchases returns journal and the general journal",
+      "post the ledger entries from the books of prime entry",
+      "distinguish between and account for trade discount and cash discounts",
+      "explain the dual function of the cash book as a book of prime entry and as a ledger account for bank and cash",
+      "explain the use of and record payments and receipts made by bank transfers and other electronic means",
+      "explain and apply the imprest system of petty cash."
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Infectious diseases"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.1",
+    "sub_topic_name": "Infectious diseases",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "state that infectious diseases are caused by pathogens and are transmissible"
+      },
+      {
+        "objective_number": 2,
+        "description": "state the name and type of pathogen that causes each of the following diseases: cholera – caused by the bacterium Vibrio cholerae; malaria – caused by the protoctists Plasmodium falciparum, Plasmodium malariae, Plasmodium ovale and Plasmodium vivax; tuberculosis (TB) – caused by the bacteria Mycobacterium tuberculosis and Mycobacterium bovis; HIV/AIDS – caused by the human immunodeficiency virus (HIV)"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain how cholera, malaria, TB and HIV are transmitted"
+      },
+      {
+        "objective_number": 4,
+        "description": "discuss the biological, social and economic factors that need to be considered in the prevention and control of cholera, malaria, TB and HIV (details of the life cycle of the malarial parasite are not expected)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Nitrogen compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.1",
+    "sub_topic_name": "Primary amines",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions by which amines can be produced: (a) reaction of a halogenoalkane with NH₃ in ethanol heated under pressure. Classification of amines will not be tested at AS Level."
+      }
+    ]
+  }
+}

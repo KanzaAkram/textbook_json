@@ -1,0 +1,49 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "International trade and globalisation"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Globalisation, free trade and protection",
+    "learning_objectives": [
+      {
+        "objective_number": "6.2.1",
+        "objective_title": "definition of globalisation",
+        "guidance": "MNCs and the costs and benefits to their host and home countries."
+      },
+      {
+        "objective_number": "6.2.2",
+        "objective_title": "role of multinational companies (MNCs)",
+        "guidance": "MNCs and the costs and benefits to their host and home countries."
+      },
+      {
+        "objective_number": "6.2.3",
+        "objective_title": "the benefits of free trade",
+        "guidance": "The benefits for consumers, producers and the economy in a variety of countries."
+      },
+      {
+        "objective_number": "6.2.4",
+        "objective_title": "methods of protection",
+        "guidance": "Tariffs, import quotas, subsidies and embargoes."
+      },
+      {
+        "objective_number": "6.2.5",
+        "objective_title": "reasons for protection",
+        "guidance": "Including infant industry, declining industry, strategic industry and avoidance of dumping."
+      },
+      {
+        "objective_number": "6.2.6",
+        "objective_title": "consequences of protection",
+        "guidance": "Effectiveness of protection and its impact on the home country and its trading partners."
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Transformations and vectors"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Transformations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Recognise, describe and draw the following transformations: Reflection of a shape in a vertical or horizontal line."
+      },
+      {
+        "objective_number": 2,
+        "description": "Recognise, describe and draw the following transformations: Rotation of a shape about the origin, vertices or midpoints of edges of the shape, through multiples of 90°."
+      },
+      {
+        "objective_number": 3,
+        "description": "Recognise, describe and draw the following transformations: Enlargement of a shape from a centre by a scale factor."
+      },
+      {
+        "objective_number": 4,
+        "description": "Recognise, describe and draw the following transformations: Translation of a shape by a vector (x y)."
+      }
+    ],
+    "notes_and_examples": "Questions will not involve combinations of transformations. A ruler must be used for all straight edges.\nPositive and fractional scale factors only."
+  }
+}

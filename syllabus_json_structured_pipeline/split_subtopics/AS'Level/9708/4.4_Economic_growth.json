@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "The Macroeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.4",
+    "sub_topic_name": "Economic growth",
+    "content": [
+      {
+        "point_number": "4.4.1",
+        "description": "meaning of economic growth"
+      },
+      {
+        "point_number": "4.4.2",
+        "description": "measurement of economic growth"
+      },
+      {
+        "point_number": "4.4.3",
+        "description": "distinction between growth in nominal GDP and real GDP"
+      },
+      {
+        "point_number": "4.4.4",
+        "description": "causes of economic growth"
+      },
+      {
+        "point_number": "4.4.5",
+        "description": "consequences of economic growth"
+      }
+    ]
+  }
+}

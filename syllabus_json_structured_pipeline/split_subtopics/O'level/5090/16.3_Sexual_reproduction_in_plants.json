@@ -1,0 +1,71 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Development of organisms and continuity of life"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.3",
+    "sub_topic_name": "Sexual reproduction in plants",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify and draw the sepals, petals, stamens (anthers and filaments) and carpels (stigmas, styles, ovaries and ovules) of an insect-pollinated flower"
+      },
+      {
+        "objective_number": 2,
+        "description": "Identify and draw the anthers and stigmas of a wind-pollinated flower"
+      },
+      {
+        "objective_number": 3,
+        "description": "Relate the structure of the parts of flowers to their functions, limited to the parts listed in 16.3.1"
+      },
+      {
+        "objective_number": 4,
+        "description": "Compare the flower structure and the pollen from insect-pollinated and wind-pollinated flowers"
+      },
+      {
+        "objective_number": 5,
+        "description": "Outline the process of pollination and distinguish between self-pollination and cross-pollination"
+      },
+      {
+        "objective_number": 6,
+        "description": "Discuss the potential effects of self-pollination and cross-pollination on a population, in terms of variation, capacity to respond to changes in the environment and reliance on pollinators"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe the growth of the pollen tube and its entry into the ovule followed by fertilisation (production of endosperm and details of development are not required)"
+      },
+      {
+        "objective_number": 8,
+        "description": "Understand that after fertilisation the ovules develop into seeds and the ovary develops into a fruit"
+      },
+      {
+        "objective_number": 9,
+        "description": "Investigate and describe the structure of a seed, limited to embryo (radicle, plumule and cotyledons) and testa"
+      },
+      {
+        "objective_number": 10,
+        "description": "Understand that seed and fruit dispersal by wind and by animals is a means of colonising new areas and of reducing competition"
+      },
+      {
+        "objective_number": 11,
+        "description": "Relate the features of wind-dispersed fruits and animal-dispersed fruits to their functions"
+      },
+      {
+        "objective_number": 12,
+        "description": "Investigate and state the environmental conditions that affect germination of seeds, limited to: suitable temperature, water and oxygen"
+      },
+      {
+        "objective_number": 13,
+        "description": "Describe the process of germination, including the role of enzymes"
+      }
+    ]
+  }
+}

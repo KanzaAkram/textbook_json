@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Acids, bases and salts"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Oxides",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe amphoteric oxides as oxides that react with acids and bases to produce a salt and water"
+      },
+      {
+        "objective_number": 2,
+        "description": "Classify oxides as acidic, including SO₂ and CO₂, basic, including CuO and CaO, or amphoteric, limited to Al₂O₃ and ZnO, related to metallic and non-metallic character"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Programming"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Arrays",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Declare and use one-dimensional (1D) and two-dimensional (2D) arrays",
+        "notes_and_guidance": null
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand the use of arrays",
+        "notes_and_guidance": "Including the use of variables as indexes in arrays. The first index can be zero or one."
+      },
+      {
+        "objective_number": "3",
+        "description": "Write values into, and read values from, an array using iteration",
+        "notes_and_guidance": "Including nested iteration."
+      }
+    ]
+  }
+}

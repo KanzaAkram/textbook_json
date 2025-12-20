@@ -1,0 +1,14 @@
+{
+  "subtopic_number": "32.1",
+  "subtopic_name": "Alcohols",
+  "level": "Alevel",
+  "subject_code": "9701",
+  "sources": {
+    "textbook": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\Alevel\\9701\\32.1_Alcohols.json",
+    "syllabus": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9701\\32.1_Alcohols.json",
+    "save_my_exam": [
+      "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\Alevel\\9701\\32.1_Alcohols_1.pdf"
+    ]
+  },
+  "confidence": 1.0
+}

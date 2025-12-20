@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Respiration"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.1",
+    "sub_topic_name": "Respiration",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State the uses of energy in living organisms, including: muscle contraction, protein synthesis, cell division, active transport, growth, the passage of nerve impulses and the maintenance of a constant body temperature"
+        },
+        {
+          "objective_number": 2,
+          "description": "Investigate and describe the effect of temperature on respiration in yeast"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

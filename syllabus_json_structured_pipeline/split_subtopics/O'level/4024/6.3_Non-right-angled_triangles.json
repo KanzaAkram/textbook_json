@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Trigonometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Non-right-angled triangles",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Use the sine and cosine rules in calculations involving lengths and angles for any triangle.",
+        "notes_and_examples": "Includes problems involving obtuse angles and the ambiguous case."
+      },
+      {
+        "objective_number": "2",
+        "description": "Use the formula area of triangle = ½ab sin C.",
+        "notes_and_examples": "The sine and cosine rules and the formula for area of a triangle are given in the List of formulas."
+      }
+    ]
+  }
+}

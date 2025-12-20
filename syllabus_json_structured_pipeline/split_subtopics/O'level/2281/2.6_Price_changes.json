@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The allocation of resources"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.6",
+    "sub_topic_name": "Price changes",
+    "learning_objectives": [
+      {
+        "objective_number": "2.6.1",
+        "objective_title": "causes of price changes",
+        "guidance": "Changing market conditions as causes of price changes."
+      },
+      {
+        "objective_number": "2.6.2",
+        "objective_title": "consequences of price changes",
+        "guidance": "Demand and supply diagrams to be used to illustrate these changes in market conditions and their consequences for equilibrium price and sales."
+      }
+    ]
+  }
+}

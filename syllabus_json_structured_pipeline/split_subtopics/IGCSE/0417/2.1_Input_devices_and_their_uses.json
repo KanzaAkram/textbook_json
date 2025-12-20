@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Input and output devices"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Input devices and their uses",
+    "learning_objectives": [
+      {
+        "description": "Input devices",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of input devices including: keyboard, numeric keypad, pointing devices, remote control, joystick/driving wheel, touch screen (as an input device), scanners, camera, microphone, sensors, light pen"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Databases"
+  },
+  "subtopic": {
+    "sub_topic_number": null,
+    "sub_topic_name": "Database Skills",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Define a single-table database from given data storage requirements",
+        "notes_and_guidance": "Including: fields, records, validation."
+      },
+      {
+        "objective_number": "2",
+        "description": "Suggest suitable basic data types",
+        "notes_and_guidance": "Including: text/alphanumeric, character, Boolean, integer, real, date/time."
+      },
+      {
+        "objective_number": "3",
+        "description": "Understand the purpose of a primary key and identify a suitable primary key for a given database table",
+        "notes_and_guidance": null
+      },
+      {
+        "objective_number": "4",
+        "description": "Read, understand and complete structured query language (SQL) scripts to query data stored in a single database table",
+        "notes_and_guidance": "Limited to: SELECT, FROM, WHERE, ORDER BY DESCENDING, ORDER BY ASCENDING, SUM, COUNT, AND, OR. Identifying the output given by an SQL statement that will query the given contents of a database table."
+      }
+    ]
+  }
+}

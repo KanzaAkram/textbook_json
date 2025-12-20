@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Chemical bonding"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Ionic bonding",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define ionic bonding as the electrostatic attraction between oppositely charged ions (positively charged cations and negatively charged anions)"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe ionic bonding including the examples of sodium chloride, magnesium oxide and calcium fluoride"
+      }
+    ]
+  }
+}

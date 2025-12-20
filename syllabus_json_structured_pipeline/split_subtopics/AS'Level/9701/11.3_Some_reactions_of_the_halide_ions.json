@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Group 17"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.3",
+    "sub_topic_name": "Some reactions of the halide ions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the relative reactivity of halide ions as reducing agents"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe and explain the reactions of halide ions with: (a) aqueous silver ions followed by aqueous ammonia (the formation and formula of the [Ag(NH₃)₂]⁺ complex is not required) (b) concentrated sulfuric acid, to include balanced chemical equations"
+      }
+    ]
+  }
+}

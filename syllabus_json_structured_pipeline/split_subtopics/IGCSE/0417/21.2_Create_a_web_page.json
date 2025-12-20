@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Website authoring"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.2",
+    "sub_topic_name": "Create a web page",
+    "learning_objectives": [
+      {
+        "description": "Use HTML in the content layer",
+        "notes_and_guidance": "Create the content layer of a web page. Place appropriate elements in the head section of a web page including: insert a page title to display in the browser; attach external stylesheets (with the correct hierarchy, using a relative file path); metatags to use the appropriate attributes including to define the charset, name attributes (description, keywords, author, viewport), content attributes; default target windows. Place appropriate content in the body section of a web page. Insert a table including table header, table rows, table data. Use appropriate table attributes to meet the needs of the audience including to adjust cells to span more than one row or column, to set table and cell sizes in terms of pixels or % values, to apply styles to tables. Insert appropriate objects into a web page including text, images, sound clips, video (display controls, remove controls, autoplay), to adjust image or video size, aspect ratio and apply alternate text. Use the <div> tag including to apply styles and classes. Apply tags to text within a web page to display pre-defined styles including h1, h2, h3, p, li. Apply classes to elements within a web page. Apply styles to elements within a web page including to a list (ordered list, unordered list). Create a bookmark within a web page using an id attribute. Create hyperlinks from text and images to: bookmarks on the same page; other locally stored web pages; a website using the URL; send mail to a specified email address; to open in a specified location (the same window, a new window, with a window named as specified)."
+      },
+      {
+        "description": "The use of HTML in the content layer",
+        "notes_and_guidance": "Purpose of the head and body sections of a web page. The reason tables are used to structure elements within a web page. Function of metatags including to define: the charset, keywords for search engines, the author of the web page, a description of the web page, the viewport (to make your web page display on all devices). Function of a hyperlink. Concept of a bookmark including methods of creating a bookmark within a web page. Function of an anchor. Relative file path and absolute file path including the reason absolute file paths must not be used for hyperlinks to locally saved web pages/objects."
+      }
+    ]
+  }
+}

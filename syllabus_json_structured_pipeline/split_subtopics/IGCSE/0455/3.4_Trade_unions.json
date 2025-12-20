@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Microeconomic decision makers"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.4",
+    "sub_topic_name": "Trade unions",
+    "learning_objectives": [
+      {
+        "objective_number": "3.4.1",
+        "objective_title": "definition of a trade union",
+        "guidance": "Including engaging in collective bargaining on wages, working hours and working conditions; protecting employment; and influencing government policy."
+      },
+      {
+        "objective_number": "3.4.2",
+        "objective_title": "the role of trade unions in the economy",
+        "guidance": "Including engaging in collective bargaining on wages, working hours and working conditions; protecting employment; and influencing government policy."
+      },
+      {
+        "objective_number": "3.4.3",
+        "objective_title": "the advantages and disadvantages of trade union activity",
+        "guidance": "Factors influencing the strength of trade unions. From the viewpoint of workers, firms and the government."
+      }
+    ]
+  }
+}

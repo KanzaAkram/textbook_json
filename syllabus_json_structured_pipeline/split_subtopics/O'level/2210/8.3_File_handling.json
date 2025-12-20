@@ -1,0 +1,33 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Programming"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "File handling",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand the purpose of storing data in a file to be used by a program",
+        "notes_and_guidance": null
+      },
+      {
+        "objective_number": "2",
+        "description": "Open, close and use a file for reading and writing",
+        "notes_and_guidance": "Including: read and write single items of data, read and write a line of text."
+      }
+    ]
+  }
+}

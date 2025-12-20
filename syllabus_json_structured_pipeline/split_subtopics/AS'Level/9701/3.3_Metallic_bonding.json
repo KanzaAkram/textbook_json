@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Chemical bonding"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Metallic bonding",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define metallic bonding as the electrostatic attraction between positive metal ions and delocalised electrons"
+      }
+    ]
+  }
+}

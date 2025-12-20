@@ -1,0 +1,21 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The fundamentals of accounting"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "The accounting equation",
+    "learning_objectives": [
+      "explain the meaning of assets, liabilities and owner's equity",
+      "explain and apply the accounting equation."
+    ]
+  }
+}

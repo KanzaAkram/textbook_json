@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Website authoring"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.1",
+    "sub_topic_name": "Web development layers",
+    "learning_objectives": [
+      {
+        "description": "The three web development layers",
+        "notes_and_guidance": "Content layer is used to enter the content and create the structure of a web page. Presentation layer is used to display and format elements within a web page. Behaviour layer is for a scripting language to control elements within a web page."
+      }
+    ]
+  }
+}

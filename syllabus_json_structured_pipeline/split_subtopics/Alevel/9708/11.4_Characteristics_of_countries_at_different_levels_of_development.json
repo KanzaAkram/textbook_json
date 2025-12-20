@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "International economic issues (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.4",
+    "sub_topic_name": "Characteristics of countries at different levels of development",
+    "learning_objectives": [
+      {
+        "objective_number": "11.4.1",
+        "description": "population growth and structure: measurement and causes of changes in birth rate, death rate, infant mortality and net migration, optimum population, level of urbanisation"
+      },
+      {
+        "objective_number": "11.4.2",
+        "description": "income distribution: calculation of Gini coefficient and Lorenz curve analysis"
+      },
+      {
+        "objective_number": "11.4.3",
+        "description": "economic structure: employment composition: primary, secondary and tertiary sectors, pattern of trade at different levels of development"
+      }
+    ]
+  }
+}

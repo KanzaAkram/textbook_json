@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Motion, forces and energy"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Density",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Define density as mass per unit volume; recall and use the equation density = mass / volume, ρ = m / V"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe how to determine the density of a liquid, of a regularly shaped solid and of an irregularly shaped solid which sinks in a liquid (volume by displacement), including appropriate calculations"
+      }
+    ]
+  }
+}

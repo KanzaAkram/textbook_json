@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.4",
+    "sub_topic_name": "Fractions, decimals and percentages",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Use the language and notation of the following in appropriate contexts: proper fractions, improper fractions, mixed numbers, decimals, percentages.",
+        "notes_and_examples": "Candidates are expected to be able to write fractions in their simplest form. Recurring decimal notation is required, e.g. 0.17 = 0.1777..., 0.123 = 0.1232323..., 0.123 = 0.123123..."
+      },
+      {
+        "objective_number": "2",
+        "description": "Recognise equivalence and convert between these forms.",
+        "notes_and_examples": "Includes converting between recurring decimals and fractions and vice versa, e.g. write 0.17 as a fraction."
+      }
+    ]
+  }
+}

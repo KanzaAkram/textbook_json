@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Dynamics"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Momentum and Newton's laws of motion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that mass is the property of an object that resists change in motion"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall F = ma and solve problems using it, understanding that acceleration and resultant force are always in the same direction"
+      },
+      {
+        "objective_number": 3,
+        "description": "define and use linear momentum as the product of mass and velocity"
+      },
+      {
+        "objective_number": 4,
+        "description": "define and use force as rate of change of momentum"
+      },
+      {
+        "objective_number": 5,
+        "description": "state and apply each of Newton's laws of motion"
+      },
+      {
+        "objective_number": 6,
+        "description": "describe and use the concept of weight as the effect of a gravitational field on a mass and recall that the weight of an object is equal to the product of its mass and the acceleration of free fall"
+      }
+    ]
+  }
+}

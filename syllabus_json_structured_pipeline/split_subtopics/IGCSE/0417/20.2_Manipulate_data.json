@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Spreadsheets"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.2",
+    "sub_topic_name": "Manipulate data",
+    "learning_objectives": [
+      {
+        "description": "Sort data",
+        "notes_and_guidance": "Using a single criterion, or multiple criteria sort data into ascending or descending order."
+      },
+      {
+        "description": "Search and select data",
+        "notes_and_guidance": "Using a single criterion, or multiple criteria, select subsets of data. Perform searches using a variety of operators including AND, OR, NOT, >, <, =, >=, <=, <>. Perform searches using wildcards."
+      }
+    ]
+  }
+}

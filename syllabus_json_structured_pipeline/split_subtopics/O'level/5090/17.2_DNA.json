@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.2",
+    "sub_topic_name": "DNA",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the structure of a DNA molecule: (a) two strands coiled together to form a double helix (b) each strand is made up of a chain of nucleotides (c) each nucleotide contains a base (A, T, C, G; full names are not required) (d) bonds between pairs of bases hold the strands together (e) the bases always pair up in the same way: A with T, and C with G"
+      },
+      {
+        "objective_number": 2,
+        "description": "Define a gene as a length of DNA that codes for a protein"
+      },
+      {
+        "objective_number": 3,
+        "description": "Explain that DNA controls cell function by controlling the production of proteins, including enzymes"
+      },
+      {
+        "objective_number": 4,
+        "description": "State that the sequence of bases in a gene determines the sequence of amino acids needed to make a specific protein (knowledge of the details of nucleotide structure is not required)"
+      },
+      {
+        "objective_number": 5,
+        "description": "Understand that different sequences of amino acids give different shapes to protein molecules"
+      }
+    ]
+  }
+}

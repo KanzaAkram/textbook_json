@@ -1,0 +1,56 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Types of number",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify and use natural numbers"
+      },
+      {
+        "objective_number": 2,
+        "description": "Identify and use integers (positive, zero and negative)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Identify and use prime numbers"
+      },
+      {
+        "objective_number": 4,
+        "description": "Identify and use square numbers"
+      },
+      {
+        "objective_number": 5,
+        "description": "Identify and use cube numbers"
+      },
+      {
+        "objective_number": 6,
+        "description": "Identify and use common factors"
+      },
+      {
+        "objective_number": 7,
+        "description": "Identify and use common multiples"
+      },
+      {
+        "objective_number": 8,
+        "description": "Identify and use rational and irrational numbers"
+      },
+      {
+        "objective_number": 9,
+        "description": "Identify and use reciprocals."
+      }
+    ],
+    "notes_and_examples": "Example tasks include:\n• convert between numbers and words, e.g. six billion is 6000000000, 10007 is ten thousand and seven\n• express 72 as a product of its prime factors\n• find the highest common factor (HCF) of two numbers\n• find the lowest common multiple (LCM) of two numbers."
+  }
+}

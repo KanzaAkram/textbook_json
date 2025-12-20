@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Islamiyat 0493",
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5.2",
+    "topic_name": "Paper 2"
+  },
+  "subtopic": {
+    "sub_topic_number": "4",
+    "sub_topic_name": "The Articles of Faith and the Pillars of Islam",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "The Six Articles of Faith: God, including what Muslims believe about Him."
+      },
+      {
+        "objective_number": 2,
+        "description": "The Six Articles of Faith: angels, their nature and duties."
+      },
+      {
+        "objective_number": 3,
+        "description": "The Six Articles of Faith: books, their contents and purpose."
+      },
+      {
+        "objective_number": 4,
+        "description": "The Six Articles of Faith: prophets, their character and function."
+      },
+      {
+        "objective_number": 5,
+        "description": "The Six Articles of Faith: God's predestination and decree, its meaning and significance."
+      },
+      {
+        "objective_number": 6,
+        "description": "The Six Articles of Faith: Resurrection and the last day, the main events and its significance."
+      },
+      {
+        "objective_number": 7,
+        "description": "Jihad in its range of meanings; physical, mental, and spiritual."
+      },
+      {
+        "objective_number": 8,
+        "description": "The Five Pillars of Islam: the declaration of faith (shahada), including the significance of what it contains."
+      },
+      {
+        "objective_number": 9,
+        "description": "The Five Pillars of Islam: prayer (salat), including preparations, its performance and importance, congregational prayers on Fridays and festivals, times of prayer, the place of prayer, private prayer, delayed prayer."
+      },
+      {
+        "objective_number": 10,
+        "description": "The Five Pillars of Islam: alms-giving (zakat), how it is performed and its significance in the community."
+      },
+      {
+        "objective_number": 11,
+        "description": "The Five Pillars of Islam: fasting (sawm), including the way it is observed, its significance and those exempted."
+      },
+      {
+        "objective_number": 12,
+        "description": "The Five Pillars of Islam: pilgrimage (hajj), including the main observances involved and their significance."
+      }
+    ]
+  }
+}

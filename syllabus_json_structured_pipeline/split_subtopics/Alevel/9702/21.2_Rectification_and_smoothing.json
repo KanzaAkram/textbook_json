@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "21",
+    "topic_name": "Alternating currents"
+  },
+  "subtopic": {
+    "sub_topic_number": "21.2",
+    "sub_topic_name": "Rectification and smoothing",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "distinguish graphically between half-wave and full-wave rectification"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain the use of a single diode for the half-wave rectification of an alternating current"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain the use of four diodes (bridge rectifier) for the full-wave rectification of an alternating current"
+      },
+      {
+        "objective_number": 4,
+        "description": "analyse the effect of a single capacitor in smoothing, including the effect of the values of capacitance and the load resistance"
+      }
+    ]
+  }
+}

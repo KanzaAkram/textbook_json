@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Ideal gases"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.2",
+    "sub_topic_name": "Equation of state",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a gas obeying pV ∝ T, where T is the thermodynamic temperature, is known as an ideal gas"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use the equation of state for an ideal gas expressed as pV = nRT, where n = amount of substance (number of moles) and as pV = NkT, where N = number of molecules"
+      },
+      {
+        "objective_number": 3,
+        "description": "recall that the Boltzmann constant k is given by k = R/NA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "17",
+    "topic_name": "Inheritance"
+  },
+  "subtopic": {
+    "sub_topic_number": "17.3",
+    "sub_topic_name": "Meiosis",
+    "learning_objectives": {
+      "core": [],
+      "supplement": [
+        {
+          "objective_number": 1,
+          "description": "State that meiosis is involved in the production of gametes"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe meiosis as a reduction division in which the chromosome number is halved from diploid to haploid resulting in genetically different cells (details of the stages of meiosis are not required)"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Biotechnology and genetic modification"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.2",
+    "sub_topic_name": "Genetic modification",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe genetic modification as changing the genetic material of an organism by removing, changing or inserting individual genes"
+      },
+      {
+        "objective_number": 2,
+        "description": "Understand that the gene that controls the production of human insulin has been inserted into bacterial DNA, for commercial production of insulin"
+      },
+      {
+        "objective_number": 3,
+        "description": "Outline the use of genetic modification in crop plants by inserting genes: (a) to confer resistance to herbicides (b) to confer resistance to insect pests (c) to provide additional vitamins"
+      },
+      {
+        "objective_number": 4,
+        "description": "Discuss potential advantages and risks of genetic modification, limited to modifying crop plants and bacteria"
+      }
+    ]
+  }
+}

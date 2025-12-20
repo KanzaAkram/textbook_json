@@ -1,0 +1,44 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Algebraic manipulation",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Simplify expressions by collecting like terms.",
+        "notes_and_examples": "Simplify means give the answer in its simplest form, e.g. 2a² + 3ab − 1 + 5a² – 9ab + 4 = 7a² – 6ab + 3."
+      },
+      {
+        "objective_number": "2",
+        "description": "Expand products of algebraic expressions.",
+        "notes_and_examples": "e.g. expand 3x(2x – 4y), (3x + y)(x – 4y). Includes products of more than two brackets, e.g. expand (x - 2)(x + 3)(2x + 1)."
+      },
+      {
+        "objective_number": "3",
+        "description": "Factorise by extracting common factors.",
+        "notes_and_examples": "Factorise means factorise fully, e.g. 9x² + 15xy = 3x(3x + 5y)."
+      },
+      {
+        "objective_number": "4",
+        "description": "Factorise expressions of the form: ax + bx + kay + kby, a²x² - b²y², a² + 2ab + b², ax² + bx + c, ax³ + bx² + cx.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "5",
+        "description": "Complete the square for expressions in the form ax² + bx + c.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Probability"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Relative and expected frequencies",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand relative frequency as an estimate of probability.",
+        "notes_and_examples": "e.g. use results of experiments with a spinner to estimate the probability of a given outcome."
+      },
+      {
+        "objective_number": "2",
+        "description": "Calculate expected frequencies.",
+        "notes_and_examples": "e.g. use probability to estimate an expected value from a population. Includes understanding what is meant by fair, bias and random."
+      }
+    ]
+  }
+}

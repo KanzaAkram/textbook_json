@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Human nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "Absorption and assimilation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State that the small intestine is the region where nutrients are absorbed"
+      },
+      {
+        "objective_number": 2,
+        "description": "Understand that absorption (by diffusion, osmosis and active transport) is the movement of nutrients from the intestines into cells lining the digestive system and then into the blood"
+      },
+      {
+        "objective_number": 3,
+        "description": "Understand that assimilation is the uptake and use by cells of nutrients from the blood"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe the structure of a villus and the roles of capillaries and lacteals"
+      },
+      {
+        "objective_number": 5,
+        "description": "Explain the significance of villi and microvilli in increasing the internal surface area of the ileum"
+      },
+      {
+        "objective_number": 6,
+        "description": "Understand that water is absorbed from the lumen of the small intestine and the colon, but that most absorption of water happens in the small intestine"
+      },
+      {
+        "objective_number": 7,
+        "description": "State the function of the hepatic portal vein as the route taken to the liver by most of the molecules and ions absorbed from the ileum"
+      }
+    ]
+  }
+}

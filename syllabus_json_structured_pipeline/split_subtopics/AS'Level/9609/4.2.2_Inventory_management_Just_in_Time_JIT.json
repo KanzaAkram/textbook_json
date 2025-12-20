@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2.2",
+    "sub_topic_name": "Inventory management: Just in Time (JIT)",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the purpose of JIT and JIC (Just in Case) inventory management"
+      },
+      {
+        "objective_number": 2,
+        "description": "the impact of adopting a JIT approach on a business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Coordinate geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.5",
+    "sub_topic_name": "Equations of linear graphs",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Interpret and obtain the equation of a straight-line graph in the form y = mx + c."
+      }
+    ],
+    "notes_and_examples": "Questions may:\n• use and request lines in the forms y = mx + c, x = k\n• involve finding the equation when the graph is given\n• ask for the gradient or y-intercept of a graph from an equation, e.g. find the gradient and y-intercept of the graph with the equation y = 6x + 3.\nCandidates are expected to give equations of a line in a fully simplified form."
+  }
+}

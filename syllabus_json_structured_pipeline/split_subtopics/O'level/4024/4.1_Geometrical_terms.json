@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Geometrical terms",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Use and interpret the following geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute, obtuse and reflex angles, interior and exterior angles, similar, congruent, scale factor.",
+        "notes_and_examples": "Candidates are not expected to show that two shapes are congruent."
+      },
+      {
+        "objective_number": "2",
+        "description": "Use and interpret the vocabulary of: triangles, special quadrilaterals, polygons, nets, solids.",
+        "notes_and_examples": "Includes the following terms. Triangles: equilateral, isosceles, scalene, right-angled. Quadrilaterals: square, rectangle, kite, rhombus, parallelogram, trapezium."
+      },
+      {
+        "objective_number": "3",
+        "description": "Use and interpret the vocabulary of a circle.",
+        "notes_and_examples": "Polygons: regular and irregular polygons, pentagon, hexagon, octagon, decagon. Solids: cube, cuboid, prism, cylinder, pyramid, cone, sphere, hemisphere, frustum, face, surface, edge. Includes the following terms: centre, radius (plural radii), diameter, circumference, semicircle, chord, tangent, major and minor arc, sector, segment."
+      }
+    ]
+  }
+}

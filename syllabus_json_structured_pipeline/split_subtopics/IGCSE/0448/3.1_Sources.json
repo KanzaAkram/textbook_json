@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Power"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.1",
+    "sub_topic_name": "Sources",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe, with the help of a simple diagram for each method, how non-renewable fuels (coal, crude oil and natural gas) are extracted: coal as obtained by open cast, adit and shaft mining methods; natural gas and crude oil obtained by exploration and drilling"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the difference between renewable and non-renewable sources of electricity"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain (briefly) how electricity can be generated from renewable resources (hydel, wind, solar, and other possibilities such as wave, tidal, biofuels, geothermal)"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand the importance of power sources for development."
+      }
+    ]
+  }
+}

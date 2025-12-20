@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Dynamics"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Non-uniform motion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "show a qualitative understanding of frictional forces and viscous/drag forces including air resistance (no treatment of the coefficients of friction and viscosity is required, and a simple model of drag force increasing as speed increases is sufficient)"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe and explain qualitatively the motion of objects in a uniform gravitational field with air resistance"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand that objects moving against a resistive force may reach a terminal (constant) velocity"
+      }
+    ]
+  }
+}

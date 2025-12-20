@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "The systems life cycle"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.3",
+    "sub_topic_name": "Development and testing",
+    "learning_objectives": [
+      {
+        "description": "Testing",
+        "notes_and_guidance": "The need to test the system before implementation\nTest designs, test strategies, test plan (test data, expected outcomes, actual outcomes, remedial action) following testing\nTest designs including the testing of data structures, file structures, input formats, output formats and validation routines\nTest strategies including to test each module, each function and the whole system\nThe definition, characteristics and use of test data using normal, abnormal and extreme data\nThe use of live data"
+      }
+    ]
+  }
+}

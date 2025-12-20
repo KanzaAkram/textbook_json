@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The price system and the microeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Price elasticity, income elasticity and cross elasticity of demand",
+    "content": [
+      {
+        "point_number": "2.2.1",
+        "description": "definition of price elasticity, income elasticity and cross elasticity of demand (PED, YED, XED)"
+      },
+      {
+        "point_number": "2.2.2",
+        "description": "formulae for and calculation of price elasticity, income elasticity and cross elasticity of demand"
+      },
+      {
+        "point_number": "2.2.3",
+        "description": "significance of relative percentage changes, the size and sign of the coefficient of: price elasticity of demand, income elasticity of demand, cross elasticity of demand"
+      },
+      {
+        "point_number": "2.2.4",
+        "description": "descriptions of elasticity values: perfectly elastic, (highly) elastic, unitary elasticity, (highly) inelastic, perfectly inelastic"
+      },
+      {
+        "point_number": "2.2.5",
+        "description": "variation in price elasticity of demand along the length of a straight-line demand curve"
+      },
+      {
+        "point_number": "2.2.6",
+        "description": "factors affecting: price elasticity of demand, income elasticity of demand, cross elasticity of demand"
+      },
+      {
+        "point_number": "2.2.7",
+        "description": "relationship between price elasticity of demand and total expenditure on a product"
+      },
+      {
+        "point_number": "2.2.8",
+        "description": "implications for decision-making of price elasticity, income elasticity and cross elasticity of demand"
+      }
+    ]
+  }
+}

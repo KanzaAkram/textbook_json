@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Financial accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.5.1",
+    "sub_topic_name": "Analysis and communication of accounting information",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "how to calculate the following ratios: working capital cycle (in days), net working assets to revenue (sales), interest cover, gearing ratio, earnings per share, price/earnings ratio, dividend per share, dividend yield, dividend cover"
+      },
+      {
+        "objective_number": 2,
+        "description": "how to analyse and evaluate the results of the ratios and draw conclusions"
+      },
+      {
+        "objective_number": 3,
+        "description": "how to make appropriate recommendations to stakeholders on the basis of the analysis undertaken"
+      },
+      {
+        "objective_number": 4,
+        "description": "the interrelationships between ratios"
+      }
+    ]
+  }
+}

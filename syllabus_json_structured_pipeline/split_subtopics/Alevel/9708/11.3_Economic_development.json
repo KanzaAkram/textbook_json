@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "International economic issues (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.3",
+    "sub_topic_name": "Economic development",
+    "learning_objectives": [
+      {
+        "objective_number": "11.3.1",
+        "description": "classification of economies in terms of their level of development"
+      },
+      {
+        "objective_number": "11.3.2",
+        "description": "classification of economies in terms of their level of national income"
+      },
+      {
+        "objective_number": "11.3.3",
+        "description": "indicators of living standards and economic development: monetary indicators including real per capita national income statistics (GDP, GNI, NNI) and purchasing power parity, issues of comparison using monetary indicators, non-monetary indicators, composite indicators (Human Development Index (HDI), Measure of Economic Welfare (MEW), Multidimensional Poverty Index (MPI)), the Kuznets curve"
+      },
+      {
+        "objective_number": "11.3.4",
+        "description": "comparison of economic growth rates and living standards: over time, between countries"
+      }
+    ]
+  }
+}

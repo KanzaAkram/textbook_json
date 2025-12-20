@@ -1,0 +1,69 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Electricity and magnetism"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Electric circuits",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "4.3.1",
+        "sub_sub_topic_name": "Circuit diagrams and circuit components",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Draw and interpret circuit diagrams with cells, batteries, power supplies, generators, oscilloscopes, potential dividers, switches, resistors (fixed and variable), heaters, thermistors (NTC only), light-dependent resistors (LDRs), lamps, motors, ammeters, voltmeters, magnetising coils, transformers, fuses, relays, diodes and light-emitting diodes (LEDs), and know how these components behave in the circuit"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.3.2",
+        "sub_sub_topic_name": "Series and parallel circuits",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Recall and use in calculations, the fact that: (a) the current at every point in a series circuit is the same (b) the sum of the currents entering a junction in a parallel circuit is equal to the sum of the currents that leave the junction (c) the total p.d. across the components in a series circuit is equal to the sum of the individual p.d.s across each component (d) the p.d. across an arrangement of parallel resistances is the same as the p.d. across one branch in the arrangement of the parallel resistances"
+          },
+          {
+            "objective_number": 2,
+            "description": "Calculate the combined resistance of two or more resistors in series"
+          },
+          {
+            "objective_number": 3,
+            "description": "Calculate the combined resistance of two resistors in parallel"
+          },
+          {
+            "objective_number": 4,
+            "description": "Calculate current, voltage and resistance in parts of a circuit or in the whole circuit"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "4.3.3",
+        "sub_sub_topic_name": "Action and use of circuit components",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the action of negative temperature coefficient (NTC) thermistors and light-dependent resistors and explain their use as input sensors"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe the action of a variable potential divider"
+          },
+          {
+            "objective_number": 3,
+            "description": "Recall and use the equation for two resistors used as a potential divider R₁/R₂ = V₁/V₂"
+          }
+        ]
+      }
+    ]
+  }
+}

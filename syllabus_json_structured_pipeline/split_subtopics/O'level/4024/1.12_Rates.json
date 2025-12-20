@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.12",
+    "sub_topic_name": "Rates",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Use common measures of rate.",
+        "notes_and_examples": "e.g. calculate with: hourly rates of pay, exchange rates between currencies, flow rates, fuel consumption."
+      },
+      {
+        "objective_number": "2",
+        "description": "Apply other measures of rate.",
+        "notes_and_examples": "e.g. calculate with: pressure, density, population density. Required formulas will be given in the question."
+      },
+      {
+        "objective_number": "3",
+        "description": "Solve problems involving average speed.",
+        "notes_and_examples": "Knowledge of speed/distance/time formula is required. e.g. A cyclist travels 45 km in 3 hours 45 minutes. What is their average speed? The notation used for rates will be in the form, e.g. m/s (metres per second), g/cm³ (grams per cubic centimetre)."
+      }
+    ]
+  }
+}

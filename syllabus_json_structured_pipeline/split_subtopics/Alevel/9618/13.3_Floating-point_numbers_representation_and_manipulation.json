@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Data Representation"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.3",
+    "sub_topic_name": "Floating-point numbers, representation and manipulation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the format of binary floating-point real numbers (Use two's complement form; Understand of the effects of changing the allocation of bits to mantissa and exponent in a floating-point representation)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Convert binary floating-point real numbers into denary and vice versa"
+      },
+      {
+        "objective_number": 3,
+        "description": "Normalise floating-point numbers (Understand the reasons for normalisation)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Show understanding of the consequences of a binary representation only being an approximation to the real number it represents (in certain cases) (Understand how underflow and overflow can occur)"
+      },
+      {
+        "objective_number": 5,
+        "description": "Show understanding that binary representations can give rise to rounding errors"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Financial accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2.1",
+    "sub_topic_name": "International Accounting Standards",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the main provisions of each of the following International Accounting Standards (IAS): IAS 1 Presentation of financial statements, IAS 2 Inventories, IAS 7 Statement of cash flows, IAS 8 Accounting policies, changes in accounting estimates and errors, IAS 10 Events after the reporting period, IAS 16 Property, plant and equipment, IAS 36 Impairment of assets, IAS 37 Provisions, contingent liabilities and contingent assets, IAS 38 Intangible assets"
+      }
+    ]
+  }
+}

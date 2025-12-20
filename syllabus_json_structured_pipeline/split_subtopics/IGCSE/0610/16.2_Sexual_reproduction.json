@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Reproduction"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.2",
+    "sub_topic_name": "Sexual reproduction",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe sexual reproduction as a process involving the fusion of the nuclei of two gametes to form a zygote and the production of offspring that are genetically different from each other"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe fertilisation as the fusion of the nuclei of gametes"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "State that nuclei of gametes are haploid and that the nucleus of a zygote is diploid"
+        },
+        {
+          "objective_number": 4,
+          "description": "Discuss the advantages and disadvantages of sexual reproduction: (a) to a population of a species in the wild (b) to crop production"
+        }
+      ]
+    }
+  }
+}

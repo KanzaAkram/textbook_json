@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Financial information and decisions"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.3",
+    "sub_topic_name": "Income statements",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "How a profit is made"
+      },
+      {
+        "objective_number": 2,
+        "description": "Importance of profit to private sector businesses, e.g. reward for risk-taking/enterprise, source of finance"
+      },
+      {
+        "objective_number": 3,
+        "description": "Difference between profit and cash"
+      },
+      {
+        "objective_number": 4,
+        "description": "Main features of an income statement, e.g. revenue, cost of sales, gross profit, profit and retained profit"
+      },
+      {
+        "objective_number": 5,
+        "description": "Use simple income statements in decision-making based on profit calculations (constructing income statements will not be assessed)"
+      }
+    ]
+  }
+}

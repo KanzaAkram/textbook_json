@@ -1,0 +1,28 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Mensuration"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.3",
+    "sub_topic_name": "Circles, arcs and sectors",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Carry out calculations involving the circumference and area of a circle."
+      },
+      {
+        "objective_number": 2,
+        "description": "Carry out calculations involving arc length and sector area as fractions of the circumference and area of a circle, where the sector angle is a factor of 360°."
+      }
+    ],
+    "notes_and_examples": "Answers may be asked for in terms of π.\nFormulas are given in the List of formulas."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Superposition"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "Interference",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the terms interference and coherence"
+      },
+      {
+        "objective_number": 2,
+        "description": "show an understanding of experiments that demonstrate two-source interference using water waves in a ripple tank, sound, light and microwaves"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the conditions required if two-source interference fringes are to be observed"
+      },
+      {
+        "objective_number": 4,
+        "description": "recall and use λ = ax/D for double-slit interference using light"
+      }
+    ]
+  }
+}

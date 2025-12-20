@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "D.C. circuits"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.1",
+    "sub_topic_name": "Practical circuits",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall and use the circuit symbols shown in section 6 of this syllabus"
+      },
+      {
+        "objective_number": 2,
+        "description": "draw and interpret circuit diagrams containing the circuit symbols shown in section 6 of this syllabus"
+      },
+      {
+        "objective_number": 3,
+        "description": "define and use the electromotive force (e.m.f.) of a source as energy transferred per unit charge in driving charge around a complete circuit"
+      },
+      {
+        "objective_number": 4,
+        "description": "distinguish between e.m.f. and potential difference (p.d.) in terms of energy considerations"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand the effects of the internal resistance of a source of e.m.f. on the terminal potential difference"
+      }
+    ]
+  }
+}

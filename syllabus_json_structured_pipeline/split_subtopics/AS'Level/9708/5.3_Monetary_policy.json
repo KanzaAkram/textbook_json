@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Government macroeconomic intervention (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.3",
+    "sub_topic_name": "Monetary policy",
+    "content": [
+      {
+        "point_number": "5.3.1",
+        "description": "definition of monetary policy"
+      },
+      {
+        "point_number": "5.3.2",
+        "description": "tools of monetary policy: interest rates, money supply and credit regulations"
+      },
+      {
+        "point_number": "5.3.3",
+        "description": "distinction between expansionary and contractionary monetary policy"
+      },
+      {
+        "point_number": "5.3.4",
+        "description": "AD/AS analysis of the impact of expansionary and contractionary monetary policy on the equilibrium national income and the level of real output, the price level and employment"
+      }
+    ]
+  }
+}

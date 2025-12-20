@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Pure Mathematics 3 (for Paper 3)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.4",
+    "sub_topic_name": "Differentiation",
+    "learning_objectives": [
+      {
+        "description": "use the derivatives of eˣ, lnx, sinx, cosx, tanx, tan⁻¹x, together with constant multiples, sums, differences and composites",
+        "notes_and_examples": "Derivatives of sin⁻¹x and cos⁻¹x are not required."
+      },
+      {
+        "description": "differentiate products and quotients",
+        "notes_and_examples": "e.g. (2x - 4)/(3x + 2), x² lnx, xe¹⁻ˣ²."
+      },
+      {
+        "description": "find and use the first derivative of a function which is defined parametrically or implicitly.",
+        "notes_and_examples": "e.g. x = t - e⁻²ᵗ, y = t + e²ᵗ. e.g. x² + y² = xy + 7. Including use in problems involving tangents and normals."
+      }
+    ]
+  }
+}

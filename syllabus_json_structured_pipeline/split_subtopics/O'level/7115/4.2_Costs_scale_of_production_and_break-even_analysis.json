@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Costs, scale of production and break-even analysis",
+    "learning_objectives": [
+      {
+        "objective_number": "4.2.1",
+        "description": "Identify and classify costs: Classifying costs using examples, e.g. fixed, variable, average, total; Use cost data to help make simple cost-based decisions, e.g. to stop production or continue"
+      },
+      {
+        "objective_number": "4.2.2",
+        "description": "Economies and diseconomies of scale: The concept of economies of scale with examples, e.g. purchasing, marketing, financial, managerial, technical; The concept of diseconomies of scale with examples, e.g. poor communication, lack of commitment from employees, weak coordination"
+      },
+      {
+        "objective_number": "4.2.3",
+        "description": "Break-even analysis: The concept of break-even; Construct, complete or amend a simple break-even chart; Interpret a given chart and use it to analyse a situation; Calculate break-even output from given data; Define, calculate and interpret the margin of safety; Use break-even analysis to help make simple decisions, e.g. impact of higher price; Understand the limitations of break-even analysis"
+      }
+    ]
+  }
+}

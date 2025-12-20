@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Gravitational fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.2",
+    "sub_topic_name": "Gravitational force between point masses",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that, for a point outside a uniform sphere, the mass of the sphere may be considered to be a point mass at its centre"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use Newton's law of gravitation F = Gm₁m₂/r² for the force between two point masses"
+      },
+      {
+        "objective_number": 3,
+        "description": "analyse circular orbits in gravitational fields by relating the gravitational force to the centripetal acceleration it causes"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand that a satellite in a geostationary orbit remains at the same point above the Earth's surface, with an orbital period of 24 hours, orbiting from west to east, directly above the Equator"
+      }
+    ]
+  }
+}

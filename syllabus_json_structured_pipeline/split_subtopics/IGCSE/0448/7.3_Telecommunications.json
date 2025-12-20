@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Transport and telecommunications"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.3",
+    "sub_topic_name": "Telecommunications",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain the importance of radio, television, phones, fax machines, emails and the internet in the fields of education, industry, services and trade"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the problems of providing telecommunications in some parts of Pakistan"
+      },
+      {
+        "objective_number": 3,
+        "description": "evaluate the role of telecommunications in the development of Pakistan."
+      }
+    ]
+  }
+}

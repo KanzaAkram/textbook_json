@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Finance and accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.1",
+    "sub_topic_name": "Financial statements",
+    "learning_objectives": [
+      {
+        "objective_number": "10.1.1",
+        "description": "Statement of profit or loss: the meaning and purpose of the statement of profit or loss; the contents of a statement of profit or loss: revenue, cost of sales, gross profit, expenses, profit from operations (operating profit), taxation, profit for the year, dividends, retained earnings; amendment of a statement of profit or loss; the impact on the statement of profit or loss of a given change."
+      },
+      {
+        "objective_number": "10.1.2",
+        "description": "Statement of financial position: the meaning and purpose of statement of financial position; the contents of a statement of financial position including non-current assets, current assets, current liabilities, net current assets, net assets, non-current liabilities, reserves and equity; amendment of a statement of financial position; the relationships between items in the statement of profit or loss and the statement of financial position."
+      },
+      {
+        "objective_number": "10.1.3",
+        "description": "Inventory valuation: the difficulties of valuing inventory; the net realisable value method."
+      },
+      {
+        "objective_number": "10.1.4",
+        "description": "Depreciation: the role of depreciation in the accounts; the impact of depreciation (straight-line method only) on the statement of financial position and the statement of profit or loss."
+      }
+    ]
+  }
+}

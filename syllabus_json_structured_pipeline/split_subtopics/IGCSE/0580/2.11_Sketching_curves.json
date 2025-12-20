@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.11",
+    "sub_topic_name": "Sketching curves",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Recognise, sketch and interpret graphs of the following functions: (a) linear, (b) quadratic."
+      }
+    ],
+    "notes_and_examples": "Knowledge of symmetry and roots is required.\nKnowledge of turning points is not required."
+  }
+}

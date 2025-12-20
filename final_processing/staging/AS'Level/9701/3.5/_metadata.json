@@ -1,0 +1,14 @@
+{
+  "subtopic_number": "3.5",
+  "subtopic_name": "Shapes of molecules",
+  "level": "AS'Level",
+  "subject_code": "9701",
+  "sources": {
+    "textbook": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\3.5_Shapes of molecules.json",
+    "syllabus": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\3.5_Shapes_of_molecules.json",
+    "save_my_exam": [
+      "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\3.5_Shapes_of_molecules_1.pdf"
+    ]
+  },
+  "confidence": 1.0
+}

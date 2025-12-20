@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Control and coordination"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.1",
+    "sub_topic_name": "Control and coordination in mammals",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the features of the endocrine system with reference to the hormones ADH, glucagon and insulin (see 14.1.8, 14.1.9 and 14.1.10)"
+      },
+      {
+        "objective_number": 2,
+        "description": "compare the features of the nervous system and the endocrine system"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the structure and function of a sensory neurone and a motor neurone and state that intermediate neurones connect sensory neurones and motor neurones"
+      },
+      {
+        "objective_number": 4,
+        "description": "outline the role of sensory receptor cells in detecting stimuli and stimulating the transmission of impulses in sensory neurones"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe the sequence of events that results in an action potential in a sensory neurone, using a chemoreceptor cell in a human taste bud as an example"
+      },
+      {
+        "objective_number": 6,
+        "description": "describe and explain changes to the membrane potential of neurones, including: how the resting potential is maintained; the events that occur during an action potential; how the resting potential is restored during the refractory period"
+      },
+      {
+        "objective_number": 7,
+        "description": "describe and explain the rapid transmission of an impulse in a myelinated neurone with reference to saltatory conduction"
+      },
+      {
+        "objective_number": 8,
+        "description": "explain the importance of the refractory period in determining the frequency of impulses"
+      },
+      {
+        "objective_number": 9,
+        "description": "describe the structure of a cholinergic synapse and explain how it functions, including the role of calcium ions"
+      },
+      {
+        "objective_number": 10,
+        "description": "describe the roles of neuromuscular junctions, the T-tubule system and sarcoplasmic reticulum in stimulating contraction in striated muscle"
+      },
+      {
+        "objective_number": 11,
+        "description": "describe the ultrastructure of striated muscle with reference to sarcomere structure using electron micrographs and diagrams"
+      },
+      {
+        "objective_number": 12,
+        "description": "explain the sliding filament model of muscular contraction including the roles of troponin, tropomyosin, calcium ions and ATP"
+      }
+    ]
+  }
+}

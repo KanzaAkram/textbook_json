@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Automated and emerging technologies"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Robotics",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand what robotics is.",
+        "notes_and_guidance": "Robotics is the design, construction, and operation of robots. Examples: factory equipment, domestic robots, drones."
+      },
+      {
+        "objective_number": "2",
+        "description": "Describe robot characteristics.",
+        "notes_and_guidance": "A robot has a mechanical structure, electronic components (sensors, microprocessors, actuators), and is programmable."
+      },
+      {
+        "objective_number": "3",
+        "description": "Understand robot roles and explain their advantages/disadvantages.",
+        "notes_and_guidance": "Areas: industry, transport, agriculture, medicine, home, entertainment."
+      }
+    ]
+  }
+}

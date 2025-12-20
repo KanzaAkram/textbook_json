@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Chemical reactions"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Reversible reactions and equilibrium",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State that some chemical reactions are reversible as shown by the symbol ⇌"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe how changing the conditions can change the direction of a reversible reaction for: (a) the effect of heat on hydrated compounds (b) the addition of water to anhydrous compounds limited to copper(II) sulfate and cobalt(II) chloride"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "State that a reversible reaction in a closed system is at equilibrium when: (a) the rate of the forward reaction is equal to the rate of the reverse reaction (b) the concentrations of reactants and products are no longer changing"
+        },
+        {
+          "objective_number": 4,
+          "description": "Predict and explain, for a reversible reaction, how the position of equilibrium is affected by: (a) changing temperature (b) changing pressure (c) changing concentration (d) using a catalyst using information provided"
+        },
+        {
+          "objective_number": 5,
+          "description": "State the symbol equation for the production of ammonia in the Haber process, N2(g) + 3H2(g) ⇌ 2NH3(g)"
+        },
+        {
+          "objective_number": 6,
+          "description": "State the sources of the hydrogen (methane) and nitrogen (air) in the Haber process"
+        },
+        {
+          "objective_number": 7,
+          "description": "State the typical conditions in the Haber process as 450°C, 20000 kPa/200 atm and an iron catalyst"
+        },
+        {
+          "objective_number": 8,
+          "description": "State the symbol equation for the conversion of sulfur dioxide to sulfur trioxide in the Contact process, 2SO2(g) + O2(g) ⇌ 2SO3(g)"
+        },
+        {
+          "objective_number": 9,
+          "description": "State the sources of the sulfur dioxide (burning sulfur or roasting sulfide ores) and oxygen (air) in the Contact process"
+        },
+        {
+          "objective_number": 10,
+          "description": "State the typical conditions for the conversion of sulfur dioxide to sulfur trioxide in the Contact process as 450°C, 200 kPa/2 atm and a vanadium(V) oxide catalyst"
+        },
+        {
+          "objective_number": 11,
+          "description": "Explain, in terms of rate of reaction and position of equilibrium, why the typical conditions stated are used in the Haber process and in the Contact process, including safety considerations and economics"
+        }
+      ]
+    }
+  }
+}

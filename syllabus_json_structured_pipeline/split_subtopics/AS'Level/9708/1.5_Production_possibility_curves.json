@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Basic economic ideas and resource allocation (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.5",
+    "sub_topic_name": "Production possibility curves",
+    "content": [
+      {
+        "point_number": "1.5.1",
+        "description": "nature and meaning of a production possibility curve (PPC)"
+      },
+      {
+        "point_number": "1.5.2",
+        "description": "shape of the PPC: constant and increasing opportunity costs"
+      },
+      {
+        "point_number": "1.5.3",
+        "description": "causes and consequences of shifts in a PPC"
+      },
+      {
+        "point_number": "1.5.4",
+        "description": "significance of a position within a PPC"
+      }
+    ]
+  }
+}

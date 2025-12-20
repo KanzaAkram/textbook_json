@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Human nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.1",
+    "sub_topic_name": "Diet",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe what is meant by a balanced diet"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the principal dietary sources and describe the importance of: (a) carbohydrates (b) fats and oils (c) proteins (d) vitamins, limited to C and D (e) mineral ions, limited to calcium and iron (f) fibre (roughage) (g) water"
+        },
+        {
+          "objective_number": 3,
+          "description": "State the causes of scurvy and rickets"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

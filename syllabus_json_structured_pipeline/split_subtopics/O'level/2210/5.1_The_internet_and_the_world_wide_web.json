@@ -1,0 +1,53 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "The internet and its uses"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "The internet and the world wide web",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand the difference between the internet and the World Wide Web.",
+        "notes_and_guidance": "The internet is the infrastructure. The World Wide Web is the collection of websites and web pages accessed through the internet."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand what a Uniform Resource Locator (URL) is.",
+        "notes_and_guidance": "A URL is a text address for a web page; it can include protocol, domain name, and page or file name."
+      },
+      {
+        "objective_number": "3",
+        "description": "Describe the purpose and operation of HTTP and HTTPS.",
+        "notes_and_guidance": "HTTP is used for web page communication; HTTPS adds security with encryption."
+      },
+      {
+        "objective_number": "4",
+        "description": "Explain the purpose and functions of a web browser.",
+        "notes_and_guidance": "Browsers render HTML to display web pages; features: bookmarks/favourites, history, tabs, cookies, navigation, address bar."
+      },
+      {
+        "objective_number": "5",
+        "description": "Describe how web pages are located, retrieved, and displayed when a user enters a URL.",
+        "notes_and_guidance": "Roles: web browser, IP address, domain name server (DNS), web server, HTML."
+      },
+      {
+        "objective_number": "6",
+        "description": "Explain what cookies are and how they are used (session and persistent cookies).",
+        "notes_and_guidance": "Cookies are used for saving personal details, tracking preferences, shopping carts, and login information."
+      }
+    ]
+  }
+}

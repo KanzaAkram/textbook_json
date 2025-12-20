@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Respiration"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.3",
+    "sub_topic_name": "Anaerobic respiration",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe anaerobic respiration as the release of a relatively small amount of energy by the breakdown of glucose without using oxygen"
+      },
+      {
+        "objective_number": 2,
+        "description": "State the word equation for anaerobic respiration in humans"
+      },
+      {
+        "objective_number": 3,
+        "description": "State the word equation for anaerobic respiration in yeast"
+      },
+      {
+        "objective_number": 4,
+        "description": "Explain why lactic acid builds up in muscles and blood during vigorous exercise causing Excess Post-exercise Oxygen Consumption (EPOC) or an 'oxygen debt'"
+      },
+      {
+        "objective_number": 5,
+        "description": "Outline how the oxygen debt is removed after exercise, limited to: (a) continuation of fast heart rate to transport lactic acid in blood from muscles to the liver (b) continuation of deeper and faster breathing to supply oxygen for the breakdown of lactic acid in the liver"
+      }
+    ]
+  }
+}

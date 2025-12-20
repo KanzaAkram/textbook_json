@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The price system and the microeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.5",
+    "sub_topic_name": "Consumer and producer surplus",
+    "content": [
+      {
+        "point_number": "2.5.1",
+        "description": "meaning and significance of consumer surplus"
+      },
+      {
+        "point_number": "2.5.2",
+        "description": "meaning and significance of producer surplus"
+      },
+      {
+        "point_number": "2.5.3",
+        "description": "causes of changes in consumer and producer surplus"
+      },
+      {
+        "point_number": "2.5.4",
+        "description": "significance of price elasticity of demand and of supply in determining the extent of these changes"
+      }
+    ]
+  }
+}

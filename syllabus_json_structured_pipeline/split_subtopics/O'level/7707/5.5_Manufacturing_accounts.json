@@ -1,0 +1,25 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Preparation of financial statements"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.5",
+    "sub_topic_name": "Manufacturing accounts",
+    "learning_objectives": [
+      "distinguish between direct and indirect costs",
+      "understand direct material, direct labour, prime cost and factory overheads",
+      "understand and make adjustments for work in progress",
+      "calculate factory cost of production",
+      "prepare manufacturing accounts, income statements and statements of financial position",
+      "make adjustments to financial statements as detailed in 5.1 (sole traders)."
+    ]
+  }
+}

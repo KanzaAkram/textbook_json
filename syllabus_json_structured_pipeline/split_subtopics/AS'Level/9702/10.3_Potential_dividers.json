@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "D.C. circuits"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.3",
+    "sub_topic_name": "Potential dividers",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the principle of a potential divider circuit"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use the principle of the potentiometer as a means of comparing potential differences"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand the use of a galvanometer in null methods"
+      },
+      {
+        "objective_number": 4,
+        "description": "explain the use of thermistors and light-dependent resistors in potential dividers to provide a potential difference that is dependent on temperature and light intensity"
+      }
+    ]
+  }
+}

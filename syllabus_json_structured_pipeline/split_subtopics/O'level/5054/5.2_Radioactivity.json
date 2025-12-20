@@ -1,0 +1,131 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Nuclear physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Radioactivity",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "5.2.1",
+        "sub_sub_topic_name": "Detection of radioactivity",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the detection of alpha particles (α-particles) using a cloud chamber or spark counter and the detection of beta particles (β-particles) (β-particles will be taken to refer to β–) and gamma radiation (γ-radiation) by using a Geiger-Müller tube and counter"
+          },
+          {
+            "objective_number": 2,
+            "description": "Use count rate measured in counts/s or counts/minute"
+          },
+          {
+            "objective_number": 3,
+            "description": "Know what is meant by background radiation"
+          },
+          {
+            "objective_number": 4,
+            "description": "Know the sources that make a significant contribution to background radiation including: (a) radon gas (in the air) (b) rocks and buildings (c) food and drink (d) cosmic rays"
+          },
+          {
+            "objective_number": 5,
+            "description": "Use measurements of background radiation to determine a corrected count rate"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "5.2.2",
+        "sub_sub_topic_name": "The three types of emission",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the emission of radiation from a nucleus as spontaneous and random in direction"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe α-particles as two protons and two neutrons (helium nuclei), β-particles as high-speed electrons from the nucleus and γ-radiation as high-frequency electromagnetic waves"
+          },
+          {
+            "objective_number": 3,
+            "description": "State, for α-particles, β-particles and γ-radiation: (a) their relative ionising effects (b) their relative penetrating powers"
+          },
+          {
+            "objective_number": 4,
+            "description": "Describe the deflection of α-particles, β-particles and γ-radiation in electric fields and magnetic fields"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "5.2.3",
+        "sub_sub_topic_name": "Radioactive decay",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Know that radioactive decay is a change in an unstable nucleus that can result in the emission of α-particles or β-particles and/or γ-radiation and know that these changes are spontaneous and random"
+          },
+          {
+            "objective_number": 2,
+            "description": "Use decay equations, using nuclide notation, to show the emission of α-particles, β-particles and γ-radiation"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "5.2.4",
+        "sub_sub_topic_name": "Fission and fusion",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the process of fusion as the formation of a larger nucleus by combining two smaller nuclei with the release of energy, and recognise fusion as the energy source for stars"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe the process of fission when a nucleus, such as uranium-235 (U-235), absorbs a neutron and produces daughter nuclei and two or more neutrons with the release of energy"
+          },
+          {
+            "objective_number": 3,
+            "description": "Explain how the neutrons produced in fission create a chain reaction and that this is controlled in a nuclear reactor, including the action of coolant, moderators and control rods"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "5.2.5",
+        "sub_sub_topic_name": "Half-life",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Define the half-life of a particular isotope as the time taken for half the nuclei of that isotope in any sample to decay; recall and use this definition in calculations, which may involve information in tables or decay curves"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe the dating of objects by the use of 14C"
+          },
+          {
+            "objective_number": 3,
+            "description": "Explain how the type of radiation emitted and the half-life of the isotope determine which isotope is used for applications including: (a) household fire (smoke) alarms (b) irradiating food to kill bacteria (c) sterilisation of equipment using gamma rays (d) measuring and controlling thicknesses of materials with the choice of radiations used linked to penetration and absorption (e) diagnosis and treatment of cancer using gamma rays"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "5.2.6",
+        "sub_sub_topic_name": "Safety precautions",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "State the effects of ionising nuclear radiations on living things, including cell death, mutations and cancer"
+          },
+          {
+            "objective_number": 2,
+            "description": "Explain how radioactive materials are moved, used and stored in a safe way, with reference to: (a) reducing exposure time (b) increasing distance between source and living tissue (c) use of shielding to absorb radiation"
+          }
+        ]
+      }
+    ]
+  }
+}

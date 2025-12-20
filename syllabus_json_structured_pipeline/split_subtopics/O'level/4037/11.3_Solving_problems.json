@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Permutations and combinations"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.3",
+    "sub_topic_name": "Solving problems",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Solve problems on arrangement and selection using permutations or combinations. (Problems will be either in an everyday context or based on an algebraic problem. Problems involving: repetition of objects, objects arranged in a circle, both permutations and combinations, are not included.)"
+      }
+    ]
+  }
+}

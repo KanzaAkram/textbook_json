@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "28",
+    "topic_name": "Chemistry of transition elements"
+  },
+  "subtopic": {
+    "sub_topic_number": "28.3",
+    "sub_topic_name": "Colour of complexes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define and use the terms degenerate and non-degenerate d orbitals"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the splitting of degenerate d orbitals into two non-degenerate sets of d orbitals of higher energy, and use of ΔE in: (a) octahedral complexes, two higher and three lower d orbitals (b) tetrahedral complexes, three higher and two lower d orbitals"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain why transition elements form coloured compounds in terms of the frequency of light absorbed as an electron is promoted between two non-degenerate d orbitals"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe, in qualitative terms, the effects of different ligands on ΔE, frequency of light absorbed, and hence the complementary colour that is observed"
+      },
+      {
+        "objective_number": 5,
+        "description": "use the complexes of copper(II) ions and cobalt(II) ions with water and ammonia molecules and hydroxide and chloride ions as examples of ligand exchange affecting the colour observed"
+      }
+    ]
+  }
+}

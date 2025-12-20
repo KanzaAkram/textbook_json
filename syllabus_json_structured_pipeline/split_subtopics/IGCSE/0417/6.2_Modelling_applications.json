@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "ICT applications"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Modelling applications",
+    "learning_objectives": [
+      {
+        "description": "Computer modelling",
+        "notes_and_guidance": "Including: personal finance, bridge and building design, flood water management, traffic management, weather forecasting\nAdvantages and disadvantages of using computer modelling rather than humans"
+      }
+    ]
+  }
+}

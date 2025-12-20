@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Understanding business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Classification of businesses",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Basis of business classification, using examples to illustrate the classification"
+      },
+      {
+        "objective_number": 2,
+        "description": "Reasons for the changing importance of business classification, e.g. in developed and developing economies"
+      },
+      {
+        "objective_number": 3,
+        "description": "Classify business enterprises between private sector and public sector in a mixed economy"
+      }
+    ]
+  }
+}

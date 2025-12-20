@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "12",
+    "topic_name": "Experimental techniques and chemical analysis"
+  },
+  "subtopic": {
+    "sub_topic_number": "12.2",
+    "sub_topic_name": "Acid-base titrations",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe an acid-base titration to include the use of a: (a) burette (b) volumetric pipette (c) suitable indicator"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe how to identify the end-point of a titration using an indicator"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

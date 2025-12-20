@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Population and employment"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "Distribution and density of population",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "distinguish between distribution of population and density of population"
+      },
+      {
+        "objective_number": 2,
+        "description": "recognise the variations in both distribution of population and density of population between the Provinces (including the Northern Area) and within the Provinces (including within the Northern Area)"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain the physical, economic, social and political factors which contribute to these variations."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Particle physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.1",
+    "sub_topic_name": "Atoms, nuclei and radiation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "infer from the results of the α-particle scattering experiment the existence and small size of the nucleus"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe a simple model for the nuclear atom to include protons, neutrons and orbital electrons"
+      },
+      {
+        "objective_number": 3,
+        "description": "distinguish between nucleon number and proton number"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand that isotopes are forms of the same element with different numbers of neutrons in their nuclei"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand and use the notation A_Z X for the representation of nuclides"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand that nucleon number and charge are conserved in nuclear processes"
+      },
+      {
+        "objective_number": 7,
+        "description": "describe the composition, mass and charge of α-, β- and γ-radiations (both β⁻ (electrons) and β⁺ (positrons) are included)"
+      },
+      {
+        "objective_number": 8,
+        "description": "understand that an antiparticle has the same mass but opposite charge to the corresponding particle, and that a positron is the antiparticle of an electron"
+      },
+      {
+        "objective_number": 9,
+        "description": "state that (electron) antineutrinos are produced during β⁻ decay and (electron) neutrinos are produced during β⁺ decay"
+      },
+      {
+        "objective_number": 10,
+        "description": "understand that α-particles have discrete energies but that β-particles have a continuous range of energies because (anti)neutrinos are emitted in β-decay"
+      },
+      {
+        "objective_number": 11,
+        "description": "represent α- and β-decay by a radioactive decay equation of the form 238_92 U → 234_90 Th + 4_2 α"
+      },
+      {
+        "objective_number": 12,
+        "description": "use the unified atomic mass unit (u) as a unit of mass"
+      }
+    ]
+  }
+}

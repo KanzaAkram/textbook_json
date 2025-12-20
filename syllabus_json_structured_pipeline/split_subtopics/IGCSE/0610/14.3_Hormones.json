@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Coordination and response"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.3",
+    "sub_topic_name": "Hormones",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe a hormone as a chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs"
+        },
+        {
+          "objective_number": 2,
+          "description": "Identify in diagrams and images specific endocrine glands and state the hormones they secrete, limited to: (a) adrenal glands and adrenaline (b) pancreas and insulin (c) testes and testosterone (d) ovaries and oestrogen"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe adrenaline as the hormone secreted in 'fight or flight' situations and its effects, limited to: (a) increased breathing rate (b) increased heart rate (c) increased pupil diameter"
+        },
+        {
+          "objective_number": 4,
+          "description": "Compare nervous and hormonal control, limited to speed of action and duration of effect"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 5,
+          "description": "State that glucagon is secreted by the pancreas"
+        },
+        {
+          "objective_number": 6,
+          "description": "Describe the role of adrenaline in the control of metabolic activity, limited to: (a) increasing the blood glucose concentration (b) increasing heart rate"
+        }
+      ]
+    }
+  }
+}

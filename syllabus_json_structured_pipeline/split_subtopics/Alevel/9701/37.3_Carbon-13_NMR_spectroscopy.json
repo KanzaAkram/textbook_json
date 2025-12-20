@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "37",
+    "topic_name": "Analytical techniques"
+  },
+  "subtopic": {
+    "sub_topic_number": "37.3",
+    "sub_topic_name": "Carbon-13 NMR spectroscopy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "analyse and interpret a carbon-13 NMR spectrum of a simple molecule to deduce: (a) the different environments of the carbon atoms present (b) the possible structures for the molecule"
+      },
+      {
+        "objective_number": 2,
+        "description": "predict or explain the number of peaks in a carbon-13 NMR spectrum for a given molecule"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Electrochemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Electrolysis",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Define electrolysis as the decomposition of an ionic compound, when molten or in aqueous solution, by the passage of an electric current"
+      },
+      {
+        "objective_number": 2,
+        "description": "Identify in simple electrolytic cells: (a) the anode as the positive electrode (b) the cathode as the negative electrode (c) the electrolyte as the molten or aqueous substance that undergoes electrolysis"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the transfer of charge during electrolysis to include: (a) the movement of electrons in the external circuit (b) the loss or gain of electrons at the electrodes (c) the movement of ions in the electrolyte"
+      },
+      {
+        "objective_number": 4,
+        "description": "Identify the products formed at the electrodes and describe the observations made during the electrolysis of: (a) molten lead(II) bromide (b) concentrated aqueous sodium chloride (c) dilute sulfuric acid using inert electrodes made of platinum or carbon/graphite"
+      },
+      {
+        "objective_number": 5,
+        "description": "Identify the products formed at the electrodes and describe the observations made during the electrolysis of aqueous copper(II) sulfate using inert carbon/graphite electrodes and when using copper electrodes"
+      },
+      {
+        "objective_number": 6,
+        "description": "State that metals or hydrogen are formed at the cathode and that non-metals (other than hydrogen) are formed at the anode"
+      },
+      {
+        "objective_number": 7,
+        "description": "Predict the identity of the products at each electrode for the electrolysis of a binary compound in the molten state"
+      },
+      {
+        "objective_number": 8,
+        "description": "Predict the identity of the products at each electrode for the electrolysis of a halide compound in dilute or concentrated aqueous solution"
+      },
+      {
+        "objective_number": 9,
+        "description": "Construct ionic half-equations for reactions at the anode (to show oxidation) and at the cathode (to show reduction)"
+      },
+      {
+        "objective_number": 10,
+        "description": "State that metal objects are electroplated to improve their appearance and resistance to corrosion"
+      },
+      {
+        "objective_number": 11,
+        "description": "Describe how metals are electroplated"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "States of matter"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Solids, liquids and gases",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State the distinguishing properties of solids, liquids and gases"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the structures of solids, liquids and gases in terms of particle separation, arrangement and motion"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe and explain changes of state (melting, boiling, evaporating, freezing and condensing) in terms of kinetic particle theory"
+      },
+      {
+        "objective_number": 4,
+        "description": "Interpret and explain heating and cooling curves in terms of kinetic particle theory"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe and explain, in terms of kinetic particle theory, the effects of temperature and pressure on the volume of a gas"
+      }
+    ]
+  }
+}

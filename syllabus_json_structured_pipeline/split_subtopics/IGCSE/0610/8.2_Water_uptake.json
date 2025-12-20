@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Transport in plants"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Water uptake",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Identify in diagrams and images root hair cells and state their functions"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that the large surface area of root hairs increases the uptake of water and mineral ions"
+        },
+        {
+          "objective_number": 3,
+          "description": "Outline the pathway taken by water through the root, stem and leaf as: root hair cells, root cortex cells, xylem, mesophyll cells"
+        },
+        {
+          "objective_number": 4,
+          "description": "Investigate, using a suitable stain, the pathway of water through the above-ground parts of a plant"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

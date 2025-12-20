@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Metals"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.5",
+    "sub_topic_name": "Corrosion of metals",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State the conditions required for the rusting of iron and steel to form hydrated iron(III) oxide"
+        },
+        {
+          "objective_number": 2,
+          "description": "State some common barrier methods, including painting, greasing and coating with plastic"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe how barrier methods prevent rusting by excluding oxygen or water"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 4,
+          "description": "Describe the use of zinc in galvanising as an example of a barrier method and sacrificial protection"
+        },
+        {
+          "objective_number": 5,
+          "description": "Explain sacrificial protection in terms of the reactivity series and in terms of electron loss"
+        }
+      ]
+    }
+  }
+}

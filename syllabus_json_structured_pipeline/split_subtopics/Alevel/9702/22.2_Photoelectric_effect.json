@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "22",
+    "topic_name": "Quantum physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "22.2",
+    "sub_topic_name": "Photoelectric effect",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that photoelectrons may be emitted from a metal surface when it is illuminated by electromagnetic radiation"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand and use the terms threshold frequency and threshold wavelength"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain photoelectric emission in terms of photon energy and work function energy"
+      },
+      {
+        "objective_number": 4,
+        "description": "recall and use hf = Φ + ½mv²max"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain why the maximum kinetic energy of photoelectrons is independent of intensity, whereas the photoelectric current is proportional to intensity"
+      }
+    ]
+  }
+}

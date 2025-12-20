@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Quadratic functions"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.5",
+    "sub_topic_name": "Solving quadratic inequalities",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Find the solution set for quadratic inequalities either graphically or algebraically. (Solutions should be written in the correct form. For example: –3 < x < 4 or x < 1 or x > 6)"
+      }
+    ]
+  }
+}

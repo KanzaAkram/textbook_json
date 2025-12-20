@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Organisation of the organism"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Size of specimens",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State and use the formula: magnification = image size ÷ actual size"
+        },
+        {
+          "objective_number": 2,
+          "description": "Calculate magnification and size of biological specimens using millimetres as units"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 3,
+          "description": "Convert measurements between millimetres (mm) and micrometres (μm)"
+        }
+      ]
+    }
+  }
+}

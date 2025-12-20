@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "34",
+    "topic_name": "Nitrogen compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "34.1",
+    "sub_topic_name": "Primary and secondary amines",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions (reagents and conditions) by which primary and secondary amines are produced: (a) reaction of halogenoalkanes with NH₃ in ethanol heated under pressure (b) reaction of halogenoalkanes with primary amines in ethanol, heated in a sealed tube/under pressure (c) the reduction of amides with LiAlH₄ (d) the reduction of nitriles with LiAlH₄ or H₂/Ni"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the condensation reaction of ammonia or an amine with an acyl chloride at room temperature to give an amide"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe and explain the basicity of aqueous solutions of amines"
+      }
+    ]
+  }
+}

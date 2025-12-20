@@ -1,0 +1,32 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Statistics"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.5",
+    "sub_topic_name": "Scatter diagrams",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Draw and interpret scatter diagrams."
+      },
+      {
+        "objective_number": 2,
+        "description": "Understand what is meant by positive, negative and zero correlation."
+      },
+      {
+        "objective_number": 3,
+        "description": "Draw by eye, interpret and use a straight line of best fit."
+      }
+    ],
+    "notes_and_examples": "Plotted points should be clearly marked, for example as small crosses (x).\nA line of best fit:\n• should be a single ruled line drawn by inspection\n• should extend across the full data set\n• does not need to coincide exactly with any of the points but there should be a roughly even distribution of points either side of the line over its entire length."
+  }
+}

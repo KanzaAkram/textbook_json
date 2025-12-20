@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Thermodynamics"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.1",
+    "sub_topic_name": "Internal energy",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that internal energy is determined by the state of the system and that it can be expressed as the sum of a random distribution of kinetic and potential energies associated with the molecules of a system"
+      },
+      {
+        "objective_number": 2,
+        "description": "relate a rise in temperature of an object to an increase in its internal energy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "34",
+    "topic_name": "Nitrogen compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "34.2",
+    "sub_topic_name": "Phenylamine and azo compounds",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the preparation of phenylamine via the nitration of benzene to form nitrobenzene followed by reduction with hot Sn/concentrated HCl followed by NaOH(aq)"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe: (a) the reaction of phenylamine with Br₂(aq) at room temperature (b) the reaction of phenylamine with HNO₂ or NaNO₂ and dilute acid below 10°C to produce the diazonium salt; further warming of the diazonium salt with H₂O to give phenol"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe and explain the relative basicities of aqueous ammonia, ethylamine and phenylamine"
+      },
+      {
+        "objective_number": 4,
+        "description": "recall the following about azo compounds: (a) describe the coupling of benzenediazonium chloride with phenol in NaOH(aq) to form an azo compound (b) identify the azo group (c) state that azo compounds are often used as dyes (d) that other azo dyes can be formed via a similar route"
+      }
+    ]
+  }
+}

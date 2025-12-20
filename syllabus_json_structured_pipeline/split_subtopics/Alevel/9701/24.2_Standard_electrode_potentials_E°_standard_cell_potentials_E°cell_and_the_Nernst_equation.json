@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "24",
+    "topic_name": "Electrochemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "24.2",
+    "sub_topic_name": "Standard electrode potentials E°, standard cell potentials E°cell and the Nernst equation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the terms: (a) standard electrode (reduction) potential (b) standard cell potential"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the standard hydrogen electrode"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe methods used to measure the standard electrode potentials of: (a) metals or non-metals in contact with their ions in aqueous solution (b) ions of the same element in different oxidation states"
+      },
+      {
+        "objective_number": 4,
+        "description": "calculate a standard cell potential by combining two standard electrode potentials"
+      },
+      {
+        "objective_number": 5,
+        "description": "use standard cell potentials to: (a) deduce the polarity of each electrode and hence explain/deduce the direction of electron flow in the external circuit of a simple cell (b) predict the feasibility of a reaction"
+      },
+      {
+        "objective_number": 6,
+        "description": "deduce from E° values the relative reactivity of elements, compounds and ions as oxidising agents or as reducing agents"
+      },
+      {
+        "objective_number": 7,
+        "description": "construct redox equations using the relevant half-equations"
+      },
+      {
+        "objective_number": 8,
+        "description": "predict qualitatively how the value of an electrode potential, E, varies with the concentrations of the aqueous ions"
+      },
+      {
+        "objective_number": 9,
+        "description": "use the Nernst equation, e.g. E = E° + (0.059/z) log ([oxidised species]/[reduced species]), to predict quantitatively how the value of an electrode potential varies with the concentrations of the aqueous ions; examples include Cu²⁺(aq) + 2e⁻ ⇌ Cu(s), Fe³⁺(aq) + e⁻ ⇌ Fe²⁺(aq)"
+      },
+      {
+        "objective_number": 10,
+        "description": "understand and use the equation ΔG° = −nE°cell F"
+      }
+    ]
+  }
+}

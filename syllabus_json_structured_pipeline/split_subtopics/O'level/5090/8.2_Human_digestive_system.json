@@ -1,0 +1,75 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Human nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.2",
+    "sub_topic_name": "Human digestive system",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify the main regions of the digestive system: mouth, salivary glands, oesophagus, stomach, small intestine (duodenum and ileum), pancreas, liver, gall bladder and large intestine (colon, rectum and anus)"
+      },
+      {
+        "objective_number": 2,
+        "description": "Explain why most foods must be digested before they can be absorbed"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe physical digestion as the breakdown of food into smaller pieces without chemical change to the food molecules"
+      },
+      {
+        "objective_number": 4,
+        "description": "Describe chemical digestion as the breakdown of large molecules into small molecules"
+      },
+      {
+        "objective_number": 5,
+        "description": "State that physical digestion increases the surface area of food for the action of enzymes in chemical digestion"
+      },
+      {
+        "objective_number": 6,
+        "description": "Identify the types of human teeth (incisors, canines, premolars and molars)"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe the structure of human teeth, limited to: enamel, dentine, pulp, nerves and cement, and understand that teeth are embedded in the gum"
+      },
+      {
+        "objective_number": 8,
+        "description": "Describe the functions of the types of human teeth in physical digestion of food"
+      },
+      {
+        "objective_number": 9,
+        "description": "Describe the functions of the main regions of the digestive system, limited to: (a) mouth – ingestion, physical digestion, chemical digestion of starch by amylase (b) salivary glands – secretion of saliva containing amylase (c) stomach – physical digestion, chemical digestion of protein by protease, presence of hydrochloric acid in gastric secretions (d) small intestine (duodenum and ileum) – chemical digestion of starch by amylase, maltose by maltase, protein by protease and lipids by lipase (e) liver – production of bile and storage of glycogen (f) gall bladder – storage of bile (g) pancreas – alkaline secretion containing amylase, protease and lipase (h) ileum and colon – absorption (i) rectum and anus – egestion"
+      },
+      {
+        "objective_number": 10,
+        "description": "Describe the functions of amylase, maltase, protease and lipase, listing the substrates and end-products, limited to: (a) amylase breaks down starch to maltose (b) maltase breaks down maltose to glucose (c) protease (pepsin and trypsin) breaks down protein to amino acids (d) lipase breaks down lipids to fatty acids and glycerol"
+      },
+      {
+        "objective_number": 11,
+        "description": "Describe the function of hydrochloric acid in the stomach as killing ingested bacteria"
+      },
+      {
+        "objective_number": 12,
+        "description": "Understand that the different proteases present in the stomach and the duodenum work best at different pH levels"
+      },
+      {
+        "objective_number": 13,
+        "description": "Outline the role of bile in emulsifying fats to increase the surface area for the chemical digestion of fat to fatty acids and glycerol by lipase"
+      },
+      {
+        "objective_number": 14,
+        "description": "Describe peristalsis as waves of contractions of longitudinal and circular muscles which move food through the digestive system"
+      }
+    ]
+  }
+}

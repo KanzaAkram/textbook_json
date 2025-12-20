@@ -1,0 +1,71 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Waves"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.4",
+    "sub_topic_name": "Sound",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe the production of sound by vibrating sources"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the longitudinal nature of sound waves and describe compressions and rarefactions"
+      },
+      {
+        "objective_number": 3,
+        "description": "State the approximate range of frequencies audible to humans as 20 Hz to 20000 Hz"
+      },
+      {
+        "objective_number": 4,
+        "description": "Explain why sound waves cannot travel in a vacuum and describe an experiment to demonstrate this"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe how changes in amplitude and frequency affect the loudness and pitch of sound waves"
+      },
+      {
+        "objective_number": 6,
+        "description": "Describe how different sound sources produce sound waves with different qualities (timbres), as shown by the shape of the traces on an oscilloscope"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe an echo as the reflection of sound waves"
+      },
+      {
+        "objective_number": 8,
+        "description": "Describe simple experiments to show the reflection of sound waves"
+      },
+      {
+        "objective_number": 9,
+        "description": "Describe a method involving a measurement of distance and time for determining the speed of sound in air"
+      },
+      {
+        "objective_number": 10,
+        "description": "Know that the speed of sound in air is approximately 330–350 m/s"
+      },
+      {
+        "objective_number": 11,
+        "description": "Know that, in general, sound travels faster in solids than in liquids and faster in liquids than in gases"
+      },
+      {
+        "objective_number": 12,
+        "description": "Define ultrasound as sound with a frequency higher than 20 kHz"
+      },
+      {
+        "objective_number": 13,
+        "description": "Describe the uses of ultrasound in cleaning, prenatal and other medical scanning, and in sonar (including calculation of depth or distance from time and wave speed)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.4",
+    "sub_topic_name": "Location decisions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Factors relevant to the location decision of manufacturing businesses and service businesses"
+      },
+      {
+        "objective_number": 2,
+        "description": "Factors that a business could consider when deciding which country to locate operations in"
+      },
+      {
+        "objective_number": 3,
+        "description": "The role of legal controls on location decisions"
+      },
+      {
+        "objective_number": 4,
+        "description": "Recommend and justify an appropriate location for a business in given circumstances"
+      }
+    ]
+  }
+}

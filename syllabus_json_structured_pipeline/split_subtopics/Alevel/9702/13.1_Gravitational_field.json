@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "Gravitational fields"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.1",
+    "sub_topic_name": "Gravitational field",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that a gravitational field is an example of a field of force and define gravitational field as force per unit mass"
+      },
+      {
+        "objective_number": 2,
+        "description": "represent a gravitational field by means of field lines"
+      }
+    ]
+  }
+}

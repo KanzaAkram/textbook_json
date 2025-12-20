@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "18",
+    "topic_name": "Classification, biodiversity and conservation"
+  },
+  "subtopic": {
+    "sub_topic_number": "18.3",
+    "sub_topic_name": "Conservation",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain why populations and species can become extinct as a result of: climate change; competition; hunting by humans; degradation and loss of habitats"
+      },
+      {
+        "objective_number": 2,
+        "description": "outline reasons for the need to maintain biodiversity"
+      },
+      {
+        "objective_number": 3,
+        "description": "outline the roles of zoos, botanic gardens, conserved areas (including national parks and marine parks), ‘frozen zoos’ and seed banks, in the conservation of endangered species"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe methods of assisted reproduction used in the conservation of endangered mammals, limited to IVF, embryo transfer and surrogacy"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain reasons for controlling invasive alien species"
+      },
+      {
+        "objective_number": 6,
+        "description": "outline the role in conservation of the International Union for Conservation of Nature (IUCN) and the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)"
+      }
+    ]
+  }
+}

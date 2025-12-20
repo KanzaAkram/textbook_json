@@ -1,0 +1,14 @@
+{
+  "subtopic_number": "22.1",
+  "subtopic_name": "Infrared spectroscopy",
+  "level": "AS'Level",
+  "subject_code": "9701",
+  "sources": {
+    "textbook": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\22.1_Infrared spectroscopy.json",
+    "syllabus": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\22.1_Infrared_spectroscopy.json",
+    "save_my_exam": [
+      "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\22.1_Infrared_spectroscopy.pdf"
+    ]
+  },
+  "confidence": 1.0
+}

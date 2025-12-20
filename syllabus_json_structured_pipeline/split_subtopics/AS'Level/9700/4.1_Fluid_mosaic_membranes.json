@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Cell membranes and transport"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Fluid mosaic membranes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the fluid mosaic model of membrane structure with reference to the hydrophobic and hydrophilic interactions that account for the formation of the phospholipid bilayer and the arrangement of proteins"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the arrangement of cholesterol, glycolipids and glycoproteins in cell surface membranes"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the roles of phospholipids, cholesterol, glycolipids, proteins and glycoproteins in cell surface membranes, with reference to stability, fluidity, permeability, transport (carrier proteins and channel proteins), cell signalling (cell surface receptors) and cell recognition (cell surface antigens – see 11.1.2)"
+      },
+      {
+        "objective_number": 4,
+        "description": "outline the main stages in the process of cell signalling leading to specific responses: secretion of specific chemicals (ligands) from cells, transport of ligands to target cells, binding of ligands to cell surface receptors on target cells"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Atoms, molecules and stoichiometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Formulas",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "write formulas of ionic compounds from ionic charges and oxidation numbers (shown by a Roman numeral), including: (a) the prediction of ionic charge from the position of an element in the Periodic Table (b) recall of the names and formulas for the following ions: NO₃⁻, CO₃²⁻, SO₄²⁻, OH⁻, NH₄⁺, Zn²⁺, Ag⁺, HCO₃⁻, PO₄³⁻"
+      },
+      {
+        "objective_number": 2,
+        "description": "(a) write and construct equations (which should be balanced), including ionic equations (which should not include spectator ions) (b) use appropriate state symbols in equations"
+      },
+      {
+        "objective_number": 3,
+        "description": "define and use the terms empirical and molecular formula"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand and use the terms anhydrous, hydrated and water of crystallisation"
+      },
+      {
+        "objective_number": 5,
+        "description": "calculate empirical and molecular formulas, using given data"
+      }
+    ]
+  }
+}

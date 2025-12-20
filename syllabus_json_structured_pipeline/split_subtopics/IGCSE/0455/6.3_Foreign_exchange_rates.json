@@ -1,0 +1,44 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Economics 0455",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "International trade and globalisation"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Foreign exchange rates",
+    "learning_objectives": [
+      {
+        "objective_number": "6.3.1",
+        "objective_title": "definition of foreign exchange rate",
+        "guidance": "Floating and fixed systems."
+      },
+      {
+        "objective_number": "6.3.2",
+        "objective_title": "determination of foreign exchange rate in foreign exchange market",
+        "guidance": "The demand for and supply of a currency in the foreign exchange market and the determination of the equilibrium foreign exchange rate."
+      },
+      {
+        "objective_number": "6.3.3",
+        "objective_title": "causes of foreign exchange rate fluctuations",
+        "guidance": "Including changes in demand for exports and imports, changes in the rate of interest, speculation, and the entry or departure of MNCs."
+      },
+      {
+        "objective_number": "6.3.4",
+        "objective_title": "consequences of foreign exchange rate fluctuations",
+        "guidance": "The effects of foreign exchange rate fluctuations on export and import prices and spending on imports and exports via the PED."
+      },
+      {
+        "objective_number": "6.3.5",
+        "objective_title": "floating and fixed foreign exchange rates",
+        "guidance": "The difference between, and the advantages and disadvantages of, a floating foreign exchange rate and a fixed foreign exchange rate system."
+      }
+    ]
+  }
+}

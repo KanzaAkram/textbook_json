@@ -1,0 +1,208 @@
+{
+  "level": "Alevel",
+  "subject_code": "9700",
+  "generated_at": "2025-12-20T23:04:23.588730",
+  "total_matches": 20,
+  "matches": [
+    {
+      "subtopic_number": "12.1",
+      "subtopic_name": "Energy",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\12.1_Energy.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "12.2",
+      "subtopic_name": "Respiration",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\12.2_Respiration.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.1",
+      "subtopic_name": "Photosynthesis as an energy transfer process",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\13.1_Photosynthesis_as_an_energy_transfer_process.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "13.2",
+      "subtopic_name": "Investigation of limiting factors",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\13.2_Investigation_of_limiting_factors.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.1",
+      "subtopic_name": "Homeostasis in mammals",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\14.1_Homeostasis_in_mammals.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "14.2",
+      "subtopic_name": "Homeostasis in plants",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\14.2_Homeostasis_in_plants.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.1",
+      "subtopic_name": "Control and coordination in mammals",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\15.1_Control_and_coordination_in_mammals.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "15.2",
+      "subtopic_name": "Control and coordination in plants",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\15.2_Control_and_coordination_in_plants.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "16.1",
+      "subtopic_name": "Passage of information from parents to offspring",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\16.1_Passage_of_information_from_parents_to_offspring.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "16.2",
+      "subtopic_name": "The roles of genes in determining the phenotype",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\16.2_The_roles_of_genes_in_determining_the_phenotype.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "16.3",
+      "subtopic_name": "Gene control",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\16.3_Gene_control.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "17.1",
+      "subtopic_name": "Variation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\17.1_Variation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "17.2",
+      "subtopic_name": "Natural and artificial selection",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\17.2_Natural_and_artificial_selection.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "17.3",
+      "subtopic_name": "Evolution",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\17.3_Evolution.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.1",
+      "subtopic_name": "Classification",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\18.1_Classification.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.2",
+      "subtopic_name": "Biodiversity",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\18.2_Biodiversity.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "18.3",
+      "subtopic_name": "Conservation",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\18.3_Conservation.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "19.1",
+      "subtopic_name": "Principles of genetic technology",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\19.1_Principles_of_genetic_technology.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "19.2",
+      "subtopic_name": "Genetic technology applied to medicine",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\19.2_Genetic_technology_applied_to_medicine.json",
+      "save_my_exam_files": []
+    },
+    {
+      "subtopic_number": "19.3",
+      "subtopic_name": "Genetically modified organisms in agriculture",
+      "has_textbook": false,
+      "has_syllabus": true,
+      "save_my_exam_count": 0,
+      "textbook_file": null,
+      "syllabus_file": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\Alevel\\9700\\19.3_Genetically_modified_organisms_in_agriculture.json",
+      "save_my_exam_files": []
+    }
+  ]
+}

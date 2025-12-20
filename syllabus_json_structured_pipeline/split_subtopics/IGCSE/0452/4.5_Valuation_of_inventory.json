@@ -1,0 +1,22 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Accounting 0452",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Accounting procedures"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.5",
+    "sub_topic_name": "Valuation of inventory",
+    "learning_objectives": [
+      "understand the basis of the valuation of inventory at the lower of cost and net realisable value",
+      "prepare simple inventory valuation statements",
+      "recognise the importance of valuation of inventory and the effect of an incorrect valuation of inventory on gross profit, profit for the year, equity and asset valuation."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Biological molecules"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Biological molecules",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "List the chemical elements that make up: (a) carbohydrates (b) lipids (fats and oils) (c) proteins (d) DNA"
+      },
+      {
+        "objective_number": 2,
+        "description": "State that large molecules are made from smaller molecules, limited to: starch, cellulose and glycogen from glucose; proteins from amino acids; lipids from fatty acids and glycerol; DNA from nucleotides"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe and be able to do chemical tests for: (a) starch (iodine solution) (b) glucose and maltose (Benedict's solution) (c) protein (biuret test) (d) lipids (ethanol emulsion test)"
+      }
+    ]
+  }
+}

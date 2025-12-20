@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Chemistry 5070",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.1",
+    "sub_topic_name": "Formulae, functional groups and terminology",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State that a structural formula is an unambiguous description of the way the atoms in a molecule are arranged, including CH₂=CH₂, CH₃CH₂OH, CH₃COOCH₃"
+      },
+      {
+        "objective_number": 2,
+        "description": "Draw and interpret the displayed formula of a molecule to show all the atoms and all the bonds"
+      },
+      {
+        "objective_number": 3,
+        "description": "Write and interpret general formulae of compounds in the same homologous series, limited to: (a) alkanes, CₙH₂ₙ₊₂ (b) alkenes, CₙH₂ₙ (c) alcohols, CₙH₂ₙ₊₁OH (d) carboxylic acids, CₙH₂ₙ₊₁COOH"
+      },
+      {
+        "objective_number": 4,
+        "description": "Define structural isomers as compounds with the same molecular formula, but different structural formulae, including C₄H₁₀ as CH₃CH₂CH₂CH₃ and CH₃CH(CH₃)CH₃ and C₄H₈ as CH₃CH₂CH=CH₂ and CH₃CH=CHCH₃"
+      },
+      {
+        "objective_number": 5,
+        "description": "Identify a functional group as an atom or group of atoms that determine the chemical properties of a homologous series"
+      },
+      {
+        "objective_number": 6,
+        "description": "Describe the general characteristics of a homologous series as: (a) having the same functional group (b) having the same general formula (c) differing from one member to the next by a –CH₂– unit (d) displaying a trend in physical properties (e) sharing similar chemical properties"
+      },
+      {
+        "objective_number": 7,
+        "description": "State that a saturated compound has molecules in which all carbon–carbon bonds are single bonds"
+      },
+      {
+        "objective_number": 8,
+        "description": "State that an unsaturated compound has molecules in which one or more carbon–carbon bonds are not single bonds"
+      }
+    ]
+  }
+}

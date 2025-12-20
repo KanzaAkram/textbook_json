@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "33",
+    "topic_name": "Carboxylic acids and derivatives"
+  },
+  "subtopic": {
+    "sub_topic_number": "33.2",
+    "sub_topic_name": "Esters",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reaction by which esters can be produced: (a) reaction of alcohols with acyl chlorides using the formation of ethyl ethanoate and phenyl benzoate as examples"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "The price system and the microeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.3",
+    "sub_topic_name": "Price elasticity of supply",
+    "content": [
+      {
+        "point_number": "2.3.1",
+        "description": "definition of price elasticity of supply (PES)"
+      },
+      {
+        "point_number": "2.3.2",
+        "description": "formula for and calculation of price elasticity of supply"
+      },
+      {
+        "point_number": "2.3.3",
+        "description": "significance of relative percentage changes, the size and sign of the coefficient of price elasticity of supply"
+      },
+      {
+        "point_number": "2.3.4",
+        "description": "factors affecting price elasticity of supply"
+      },
+      {
+        "point_number": "2.3.5",
+        "description": "implications for speed and ease with which firms react to changed market conditions"
+      }
+    ]
+  }
+}

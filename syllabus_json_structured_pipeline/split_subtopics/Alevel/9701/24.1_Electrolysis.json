@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "24",
+    "topic_name": "Electrochemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "24.1",
+    "sub_topic_name": "Electrolysis",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "predict the identities of substances liberated during electrolysis from the state of electrolyte (molten or aqueous), position in the redox series (electrode potential) and concentration"
+      },
+      {
+        "objective_number": 2,
+        "description": "state and apply the relationship F = Le between the Faraday constant, F, the Avogadro constant, L, and the charge on the electron, e"
+      },
+      {
+        "objective_number": 3,
+        "description": "calculate: (a) the quantity of charge passed during electrolysis, using Q = It (b) the mass and/or volume of substance liberated during electrolysis"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the determination of a value of the Avogadro constant by an electrolytic method"
+      }
+    ]
+  }
+}

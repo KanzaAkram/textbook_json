@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Business and its environment (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.3.3",
+    "sub_topic_name": "Size of business: Business growth",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "why and how a business might grow internally (organic growth)"
+      },
+      {
+        "objective_number": 2,
+        "description": "the different types of external growth through merger and takeover: horizontal, vertical (backward and forward), conglomerate diversification, friendly merger, hostile takeover"
+      },
+      {
+        "objective_number": 3,
+        "description": "the impact of a merger/takeover on stakeholders"
+      },
+      {
+        "objective_number": 4,
+        "description": "why a merger/takeover may or may not achieve objectives"
+      },
+      {
+        "objective_number": 5,
+        "description": "the importance of joint ventures and strategic alliances as methods of external growth"
+      }
+    ]
+  }
+}

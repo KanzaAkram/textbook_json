@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Atomic structure"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.3",
+    "sub_topic_name": "Electrons, energy levels and atomic orbitals",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the terms: shells, sub-shells and orbitals; principal quantum number (n); ground state, limited to electronic configuration"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the number of orbitals making up s, p and d sub-shells, and the number of electrons that can fill s, p and d sub-shells"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the order of increasing energy of the sub-shells within the first three shells and the 4s and 4p sub-shells"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe the electronic configurations to include the number of electrons in each shell, sub-shell and orbital"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain the electronic configurations in terms of energy of the electrons and inter-electron repulsion"
+      },
+      {
+        "objective_number": 6,
+        "description": "determine the electronic configuration of atoms and ions given the atomic or proton number and charge, using either of the following conventions: e.g. for Fe: 1s²2s²2p⁶3s²3p⁶3d⁶4s² (full electronic configuration) or [Ar] 3d⁶4s² (shorthand electronic configuration)"
+      },
+      {
+        "objective_number": 7,
+        "description": "understand and use the electrons in boxes notation"
+      },
+      {
+        "objective_number": 8,
+        "description": "describe and sketch the shapes of s and p orbitals"
+      },
+      {
+        "objective_number": 9,
+        "description": "describe a free radical as a species with one or more unpaired electrons"
+      }
+    ]
+  }
+}

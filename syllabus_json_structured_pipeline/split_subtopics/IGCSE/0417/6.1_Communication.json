@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "ICT applications"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Communication",
+    "learning_objectives": [
+      {
+        "description": "Communication media",
+        "notes_and_guidance": "Characteristics and uses including newsletters, posters, websites, multimedia presentations, audio, video, media streaming and ePublications"
+      },
+      {
+        "description": "Mobile communication",
+        "notes_and_guidance": "The use of mobile devices for communication including: SMS messaging, phone calls, Voice over Internet Protocol (VoIP), video calls, accessing the internet"
+      }
+    ]
+  }
+}

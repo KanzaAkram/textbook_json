@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Production of goods and services",
+    "learning_objectives": [
+      {
+        "objective_number": "4.1.1",
+        "description": "The meaning of production: Managing resources effectively to produce goods and services; Difference between production and productivity; Benefits of increasing efficiency and how to increase it, e.g. increasing productivity by automation and technology, improved labour skills; Why businesses hold inventories; The concept of lean production: how to achieve it, e.g. just-in-time inventory control and Kaizen; benefits of lean production"
+      },
+      {
+        "objective_number": "4.1.2",
+        "description": "The main methods of production: Features, benefits and limitations of job, batch and flow production; Recommend and justify an appropriate production method for a given situation"
+      },
+      {
+        "objective_number": "4.1.3",
+        "description": "How technology has changed and is changing production methods, e.g. using computers in design and manufacturing"
+      }
+    ]
+  }
+}

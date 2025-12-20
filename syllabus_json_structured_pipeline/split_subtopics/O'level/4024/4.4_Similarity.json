@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Geometry"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.4",
+    "sub_topic_name": "Similarity",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Calculate lengths of similar shapes.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "2",
+        "description": "Use the relationships between lengths and areas of similar shapes and lengths, surface areas and volumes of similar solids.",
+        "notes_and_examples": "Includes use of scale factor, e.g. Volume of A / Volume of B = (Length of A / Length of B)³."
+      },
+      {
+        "objective_number": "3",
+        "description": "Solve problems and give simple explanations involving similarity.",
+        "notes_and_examples": "Includes showing that two triangles are similar using geometric reasons."
+      }
+    ]
+  }
+}

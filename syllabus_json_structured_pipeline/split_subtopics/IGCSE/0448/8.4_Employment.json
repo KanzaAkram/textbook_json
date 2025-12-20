@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Population and employment"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.4",
+    "sub_topic_name": "Employment",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the terms primary, secondary and tertiary in relation to occupations"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe and explain the proportions of the workforce engaged in each of the primary, secondary and tertiary sectors, and any changes in these proportions that may have taken place or may be taking place"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand and explain the causes of rural and urban unemployment and underemployment (that is, people who are not fully employed), and understand the problems for development created by underemployment and unemployment"
+      },
+      {
+        "objective_number": 4,
+        "description": "describe and explain the availability of skilled labour (people qualified for the professions, for management and as technicians, etc.) and manual labour"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand that unemployment and underemployment can be factors that influence GNP and GDP"
+      },
+      {
+        "objective_number": 6,
+        "description": "understand and evaluate the importance for Pakistan's development of literacy, education and training for both males and females, in rural as well as urban areas."
+      }
+    ]
+  }
+}

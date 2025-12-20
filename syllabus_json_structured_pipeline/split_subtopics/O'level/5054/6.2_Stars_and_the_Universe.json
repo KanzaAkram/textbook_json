@@ -1,0 +1,69 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Space physics"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Stars and the Universe",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "6.2.1",
+        "sub_sub_topic_name": "The Sun as a star",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Know that the Sun is a star of medium size, consisting mostly of hydrogen and helium, and that it radiates most of its energy in the infrared, visible and ultraviolet regions of the electromagnetic spectrum"
+          },
+          {
+            "objective_number": 2,
+            "description": "Know that stars are powered by nuclear reactions that release energy and that in stable stars the nuclear reactions involve the fusion of hydrogen into helium"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "6.2.2",
+        "sub_sub_topic_name": "Stars",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "State that: (a) galaxies are each made up of many billions of stars (b) the Sun is a star in the galaxy known as the Milky Way (c) other stars that make up the Milky Way are much further away from the Earth than the Sun is from the Earth (d) astronomical distances can be measured in light-years, where one light-year is the distance travelled in a vacuum by light in one year"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe the life cycle of a star: (a) a star is formed from interstellar clouds of gas and dust that contain hydrogen (b) a protostar is an interstellar cloud collapsing and increasing in temperature as a result of its internal gravitational attraction (c) a protostar becomes a stable star when the inward force of gravitational attraction is balanced by an outward force due to the high temperature in the centre of the star (d) all stars eventually run out of hydrogen as fuel for the nuclear reaction (e) most stars expand to form red giants and more massive stars expand to form red supergiants when most of the hydrogen in the centre of the star has been converted to helium (f) a red giant from a less massive star forms a planetary nebula with a white dwarf at its centre (g) a red supergiant explodes as a supernova, forming a nebula containing hydrogen and new heavier elements, leaving behind a neutron star or a black hole at its centre (h) the nebula from a supernova may form new stars with orbiting planets"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "6.2.3",
+        "sub_sub_topic_name": "The Universe",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Know that the Milky Way is one of many billions of galaxies making up the Universe and that the diameter of the Milky Way is approximately 100 000 light-years"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe redshift as an increase in the observed wavelength of electromagnetic radiation emitted from receding stars and galaxies"
+          },
+          {
+            "objective_number": 3,
+            "description": "Know that the light from distant galaxies shows redshift and that the further away the galaxy, the greater the observed redshift and the faster the galaxy's speed away from the Earth"
+          },
+          {
+            "objective_number": 4,
+            "description": "Describe, qualitatively, how redshift provides evidence for the Big Bang theory"
+          }
+        ]
+      }
+    ]
+  }
+}

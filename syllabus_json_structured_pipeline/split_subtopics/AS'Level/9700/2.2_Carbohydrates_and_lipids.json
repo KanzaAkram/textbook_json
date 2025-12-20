@@ -1,0 +1,63 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Biological molecules"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2",
+    "sub_topic_name": "Carbohydrates and lipids",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and draw the ring forms of α-glucose and β-glucose"
+      },
+      {
+        "objective_number": 2,
+        "description": "define the terms monomer, polymer, macromolecule, monosaccharide, disaccharide and polysaccharide"
+      },
+      {
+        "objective_number": 3,
+        "description": "state the role of covalent bonds in joining smaller molecules together to form polymers"
+      },
+      {
+        "objective_number": 4,
+        "description": "state that glucose, fructose and maltose are reducing sugars and that sucrose is a non-reducing sugar"
+      },
+      {
+        "objective_number": 5,
+        "description": "describe the formation of a glycosidic bond by condensation, with reference to disaccharides, including sucrose, and polysaccharides"
+      },
+      {
+        "objective_number": 6,
+        "description": "describe the breakage of a glycosidic bond in polysaccharides and disaccharides by hydrolysis, with reference to the non-reducing sugar test"
+      },
+      {
+        "objective_number": 7,
+        "description": "describe the molecular structure of the polysaccharides starch (amylose and amylopectin) and glycogen and relate their structures to their functions in living organisms"
+      },
+      {
+        "objective_number": 8,
+        "description": "describe the molecular structure of the polysaccharide cellulose and outline how the arrangement of cellulose molecules contributes to the function of plant cell walls"
+      },
+      {
+        "objective_number": 9,
+        "description": "state that triglycerides are non-polar hydrophobic molecules and describe the molecular structure of triglycerides with reference to fatty acids (saturated and unsaturated), glycerol and the formation of ester bonds"
+      },
+      {
+        "objective_number": 10,
+        "description": "relate the molecular structure of triglycerides to their functions in living organisms"
+      },
+      {
+        "objective_number": 11,
+        "description": "describe the molecular structure of phospholipids with reference to their hydrophilic (polar) phosphate heads and hydrophobic (non-polar) fatty acid tails"
+      }
+    ]
+  }
+}

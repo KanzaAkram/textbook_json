@@ -1,0 +1,55 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Kinematics"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Equations of motion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define and use distance, displacement, speed, velocity and acceleration"
+      },
+      {
+        "objective_number": 2,
+        "description": "use graphical methods to represent distance, displacement, speed, velocity and acceleration"
+      },
+      {
+        "objective_number": 3,
+        "description": "determine displacement from the area under a velocity-time graph"
+      },
+      {
+        "objective_number": 4,
+        "description": "determine velocity using the gradient of a displacement-time graph"
+      },
+      {
+        "objective_number": 5,
+        "description": "determine acceleration using the gradient of a velocity-time graph"
+      },
+      {
+        "objective_number": 6,
+        "description": "derive, from the definitions of velocity and acceleration, equations that represent uniformly accelerated motion in a straight line"
+      },
+      {
+        "objective_number": 7,
+        "description": "solve problems using equations that represent uniformly accelerated motion in a straight line, including the motion of bodies falling in a uniform gravitational field without air resistance"
+      },
+      {
+        "objective_number": 8,
+        "description": "describe an experiment to determine the acceleration of free fall using a falling object"
+      },
+      {
+        "objective_number": 9,
+        "description": "describe and explain motion due to a uniform velocity in one direction and a uniform acceleration in a perpendicular direction"
+      }
+    ]
+  }
+}

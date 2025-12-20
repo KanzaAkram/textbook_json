@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "28",
+    "topic_name": "Chemistry of transition elements"
+  },
+  "subtopic": {
+    "sub_topic_number": "28.4",
+    "sub_topic_name": "Stereoisomerism in transition element complexes",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe the types of stereoisomerism shown by complexes, including those associated with bidentate ligands: (a) geometrical (cis/trans) isomerism, e.g. square planar such as [Pt(NH₃)₂Cl₂] and octahedral such as [Co(NH₃)₄(H₂O)₂]²⁺ and [Ni(H₂NCH₂CH₂NH₂)₂(H₂O)₂]²⁺ (b) optical isomerism, e.g. [Ni(H₂NCH₂CH₂NH₂)₃]²⁺ and [Ni(H₂NCH₂CH₂NH₂)₂(H₂O)₂]²⁺"
+      },
+      {
+        "objective_number": 2,
+        "description": "deduce the overall polarity of complexes such as those described in 28.4.1(a) and 28.4.1(b)"
+      }
+    ]
+  }
+}

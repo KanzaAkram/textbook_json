@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Islamiyat 0493",
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "5.1",
+    "topic_name": "Paper 1"
+  },
+  "subtopic": {
+    "sub_topic_number": "2",
+    "sub_topic_name": "The history and importance of the Qur'an",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the revelation of the Qur'an to the Prophet (pbuh) between the years 610 and 632"
+      },
+      {
+        "objective_number": 2,
+        "description": "the account of the compilation of the Qur'an under the Rightly Guided Caliphs"
+      },
+      {
+        "objective_number": 3,
+        "description": "the major themes of the Qur'an as contained both in the passages set for special study and in other similar passages"
+      },
+      {
+        "objective_number": 4,
+        "description": "the use of the Qur'an in legal thinking, and its relationship with the Hadiths, consensus (ijma') and analogy (qiyas)"
+      },
+      {
+        "objective_number": 5,
+        "description": "its significance as the basis of all thought and action in Islam."
+      }
+    ]
+  }
+}

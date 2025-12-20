@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.10",
+    "sub_topic_name": "Graphs of functions",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these), abˣ + c, where n = -2, -1, -1/2, 0, 1/2, 1, 2, 3; a and c are rational numbers; and b is a positive integer.",
+        "notes_and_examples": "Examples include: y = x³ + x - 4, y = 2x + 3/x², y = 1/4 × 2ˣ."
+      },
+      {
+        "objective_number": "2",
+        "description": "Solve associated equations graphically, including finding and interpreting roots by graphical methods.",
+        "notes_and_examples": "e.g. finding the intersection of a line and a curve."
+      },
+      {
+        "objective_number": "3",
+        "description": "Draw and interpret graphs representing exponential growth and decay problems.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "4",
+        "description": "Estimate gradients of curves by drawing tangents.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

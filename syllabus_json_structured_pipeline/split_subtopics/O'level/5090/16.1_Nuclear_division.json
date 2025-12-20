@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Development of organisms and continuity of life"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.1",
+    "sub_topic_name": "Nuclear division",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand that chromosomes contain DNA, which carries genetic information in the form of genes"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe a haploid nucleus as a nucleus containing a single set of chromosomes"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe a diploid nucleus as a nucleus containing two sets of chromosomes"
+      },
+      {
+        "objective_number": 4,
+        "description": "State that in a diploid cell there is a pair of each type of chromosome and in a human diploid cell there are 23 pairs"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe mitosis as nuclear division giving rise to genetically identical cells in which the chromosome number is maintained (details of stages are not required)"
+      },
+      {
+        "objective_number": 6,
+        "description": "Outline the role of mitosis in growth, repair of damaged tissues, replacement of dying cells and asexual reproduction"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe stem cells as unspecialised cells that divide by mitosis to produce daughter cells that can become specialised for specific functions"
+      },
+      {
+        "objective_number": 8,
+        "description": "State that meiosis is involved in the production of gametes"
+      },
+      {
+        "objective_number": 9,
+        "description": "Describe meiosis as a reduction division in which the chromosome number is halved from diploid to haploid resulting in genetically different cells (details of stages are not required)"
+      },
+      {
+        "objective_number": 10,
+        "description": "Understand that cancers form as a result of uncontrolled cell division"
+      }
+    ]
+  }
+}

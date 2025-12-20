@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Biological molecules"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Testing for biological molecules",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and carry out the Benedict's test for reducing sugars, the iodine test for starch, the emulsion test for lipids and the biuret test for proteins"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe and carry out a semi-quantitative Benedict's test on a reducing sugar solution by standardising the test and using the results (time to first colour change or comparison to colour standards) to estimate the concentration"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe and carry out a test to identify the presence of non-reducing sugars, using acid hydrolysis and Benedict's solution"
+      }
+    ]
+  }
+}

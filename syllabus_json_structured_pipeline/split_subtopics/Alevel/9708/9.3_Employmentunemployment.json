@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "The macroeconomy (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.3",
+    "sub_topic_name": "Employment/unemployment",
+    "learning_objectives": [
+      {
+        "objective_number": "9.3.1",
+        "description": "definition of full employment"
+      },
+      {
+        "objective_number": "9.3.2",
+        "description": "equilibrium and disequilibrium unemployment (including hysteresis)"
+      },
+      {
+        "objective_number": "9.3.3",
+        "description": "voluntary and involuntary unemployment"
+      },
+      {
+        "objective_number": "9.3.4",
+        "description": "natural rate of unemployment: definition, determinants, policy implications"
+      },
+      {
+        "objective_number": "9.3.5",
+        "description": "patterns and trends in (un)employment"
+      },
+      {
+        "objective_number": "9.3.6",
+        "description": "mobility of labour: forms of labour mobility: geographical and occupational, factors affecting labour mobility"
+      },
+      {
+        "objective_number": "9.3.7",
+        "description": "policies to reduce unemployment and their effectiveness"
+      }
+    ]
+  }
+}

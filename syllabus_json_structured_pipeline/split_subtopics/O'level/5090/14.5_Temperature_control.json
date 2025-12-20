@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Coordination and control"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.5",
+    "sub_topic_name": "Temperature control",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Identify, on a diagram of the skin: hairs, hair erector muscles, sweat glands, receptors, sensory neurones, blood vessels and fatty tissue"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the role of insulation in maintaining a constant internal body temperature in mammals"
+      },
+      {
+        "objective_number": 3,
+        "description": "Describe the roles of the hypothalamus and of temperature receptors in the skin in maintaining a constant internal body temperature in mammals"
+      },
+      {
+        "objective_number": 4,
+        "description": "Explain how each of the following processes contributes to the maintenance of constant internal body temperature in mammals: (a) sweating (b) shivering (c) contraction of hair erector muscles (d) vasodilation and vasoconstriction of arterioles supplying skin surface capillaries"
+      }
+    ]
+  }
+}

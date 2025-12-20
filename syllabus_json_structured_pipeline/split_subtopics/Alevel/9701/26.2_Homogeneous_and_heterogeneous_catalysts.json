@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "26",
+    "topic_name": "Reaction kinetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "26.2",
+    "sub_topic_name": "Homogeneous and heterogeneous catalysts",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain that catalysts can be homogeneous or heterogeneous"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe the mode of action of a heterogeneous catalyst to include adsorption of reactants, bond weakening and desorption of products, for example: (a) iron in the Haber process (b) palladium, platinum and rhodium in the catalytic removal of oxides of nitrogen from the exhaust gases of car engines"
+      },
+      {
+        "objective_number": 3,
+        "description": "describe the mode of action of a homogeneous catalyst by being used in one step and reformed in a later step, for example: (a) atmospheric oxides of nitrogen in the oxidation of atmospheric sulfur dioxide (b) Fe²⁺ or Fe³⁺ in the I⁻/S₂O₈²⁻ reaction"
+      }
+    ]
+  }
+}

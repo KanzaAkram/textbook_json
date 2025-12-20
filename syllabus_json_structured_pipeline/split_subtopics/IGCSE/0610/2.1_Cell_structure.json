@@ -1,0 +1,50 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Organisation of the organism"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Cell structure",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe and compare the structure of a plant cell with an animal cell, limited to: cell wall, cell membrane, nucleus, cytoplasm, chloroplasts, ribosomes, mitochondria, vacuoles"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the structure of a bacterial cell, limited to: cell wall, cell membrane, cytoplasm, ribosomes, circular DNA, plasmids"
+        },
+        {
+          "objective_number": 3,
+          "description": "Identify the cell structures listed in 2.1.1 and 2.1.2 in diagrams and images of plant, animal and bacterial cells"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the functions of the structures listed in 2.1.1 and 2.1.2 in plant, animal and bacterial cells"
+        },
+        {
+          "objective_number": 5,
+          "description": "State that new cells are produced by division of existing cells"
+        },
+        {
+          "objective_number": 6,
+          "description": "State that specialised cells have specific functions, limited to: (a) ciliated cells – movement of mucus in the trachea and bronchi (b) root hair cells - absorption (c) palisade mesophyll cells – photosynthesis (d) neurones – conduction of electrical impulses (e) red blood cells – transport of oxygen (f) sperm and egg cells (gametes) – reproduction"
+        },
+        {
+          "objective_number": 7,
+          "description": "Describe the meaning of the terms: cell, tissue, organ, organ system and organism as illustrated by examples given in the syllabus"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

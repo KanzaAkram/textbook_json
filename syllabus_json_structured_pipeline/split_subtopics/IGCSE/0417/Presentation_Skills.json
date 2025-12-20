@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Presentations"
+  },
+  "subtopic": {
+    "sub_topic_number": null,
+    "sub_topic_name": "Presentation Skills",
+    "learning_objectives": [
+      {
+        "description": "Create a presentation",
+        "notes_and_guidance": "Create a new presentation using a text file"
+      },
+      {
+        "description": "Use a master slide",
+        "notes_and_guidance": "Insert and edit objects consistently including images, text, shapes, logos, slide headers and footers, placeholder position, automated slide numbering. Format master slide objects including headings, subheadings, bullets, background colour"
+      },
+      {
+        "description": "Edit a presentation",
+        "notes_and_guidance": "Apply slide layout. Insert a new slide. Move or delete a slide. Insert and edit objects on a slide including text (headings, subheadings, bulleted lists), images (still images, video clips, animated images), charts, tables, audio clips (sound), symbols, lines, arrows, call out boxes and shapes. Add presenter notes. Insert and edit a hyperlink including linking text or objects to a slide within the presentation, an external file or an email address. Insert an action button including modifying settings to navigate to a specified slide or file. Add alternative text/screentip to an object. Apply consistent transitions between slides. Apply consistent animation effects on text, images and other objects. Hide slides within a presentation"
+      },
+      {
+        "description": "Output the presentation",
+        "notes_and_guidance": "Display the presentation for a variety of purposes including looped on-screen carousel, presenter controlled. Print the presentation in a variety of layouts including full page slides, presenter notes, handouts"
+      }
+    ]
+  }
+}

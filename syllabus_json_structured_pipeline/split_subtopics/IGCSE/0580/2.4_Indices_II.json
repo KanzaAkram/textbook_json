@@ -1,0 +1,28 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.4",
+    "sub_topic_name": "Indices II",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understand and use indices (positive, zero and negative)."
+      },
+      {
+        "objective_number": 2,
+        "description": "Understand and use the rules of indices."
+      }
+    ],
+    "notes_and_examples": "e.g. 2ˣ = 32. Find the value of x.\ne.g. simplify:\n• (5x³)²\n• 12a⁵ ÷ 3a⁻²\n• 6x⁷y⁴ × 5x⁻³y.\nKnowledge of logarithms is not required."
+  }
+}

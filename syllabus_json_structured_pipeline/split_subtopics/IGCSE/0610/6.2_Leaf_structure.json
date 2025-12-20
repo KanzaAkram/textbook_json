@@ -1,0 +1,34 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Plant nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Leaf structure",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State that most leaves have a large surface area and are thin, and explain how these features are adaptations for photosynthesis"
+        },
+        {
+          "objective_number": 2,
+          "description": "Identify in diagrams and images the following structures in the leaf of a dicotyledonous plant: chloroplasts, cuticle, guard cells and stomata, upper and lower epidermis, palisade mesophyll, spongy mesophyll, air spaces, vascular bundles, xylem and phloem"
+        },
+        {
+          "objective_number": 3,
+          "description": "Explain how the structures listed in 6.2.2 adapt leaves for photosynthesis"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

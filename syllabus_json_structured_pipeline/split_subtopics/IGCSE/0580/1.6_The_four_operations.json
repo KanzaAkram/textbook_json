@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.6",
+    "sub_topic_name": "The four operations",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Use the four operations for calculations with integers, fractions and decimals, including correct ordering of operations and use of brackets."
+      }
+    ],
+    "notes_and_examples": "Includes:\n• negative numbers\n• improper fractions\n• mixed numbers\n• practical situations, e.g. temperature changes."
+  }
+}

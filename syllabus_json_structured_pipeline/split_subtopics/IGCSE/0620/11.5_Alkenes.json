@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.5",
+    "sub_topic_name": "Alkenes",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "State that the bonding in alkenes includes a double carbon-carbon covalent bond and that alkenes are unsaturated hydrocarbons"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the manufacture of alkenes and hydrogen by the cracking of larger alkane molecules using a high temperature and a catalyst"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe the reasons for the cracking of larger alkane molecules"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the test to distinguish between saturated and unsaturated hydrocarbons by their reaction with aqueous bromine"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 5,
+          "description": "State that in an addition reaction only one product is formed"
+        },
+        {
+          "objective_number": 6,
+          "description": "Describe the properties of alkenes in terms of addition reactions with: (a) bromine or aqueous bromine (b) hydrogen in the presence of a nickel catalyst (c) steam in the presence of an acid catalyst and draw the structural or displayed formulae of the products"
+        }
+      ]
+    }
+  }
+}

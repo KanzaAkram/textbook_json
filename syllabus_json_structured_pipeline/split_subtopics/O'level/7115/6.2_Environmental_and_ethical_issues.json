@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "External influences on business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.2",
+    "sub_topic_name": "Environmental and ethical issues",
+    "learning_objectives": [
+      {
+        "objective_number": "6.2.1",
+        "description": "Environmental concerns and ethical issues as both opportunities and constraints for businesses: How business activity can impact on the environment, e.g. global warming; The concept of externalities: possible external costs and external benefits of business decisions; Sustainable development; how business activity can contribute to this; How and why business might respond to environmental pressures and opportunities, e.g. pressure groups; The role of legal controls over business activity affecting the environment, e.g. pollution controls; Ethical issues a business might face: conflicts between profits and ethics; How business might react and respond to ethical issues, e.g. child labour, paying fair prices to suppliers"
+      }
+    ]
+  }
+}

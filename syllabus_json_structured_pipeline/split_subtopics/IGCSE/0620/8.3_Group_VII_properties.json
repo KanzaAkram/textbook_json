@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "The Periodic Table"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.3",
+    "sub_topic_name": "Group VII properties",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the Group VII halogens, chlorine, bromine and iodine, as diatomic non-metals with general trends down the group, limited to: (a) increasing density (b) decreasing reactivity"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the appearance of the halogens at r.t.p. as: (a) chlorine, a pale yellow-green gas (b) bromine, a red-brown liquid (c) iodine, a grey-black solid"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe and explain the displacement reactions of halogens with other halide ions"
+        },
+        {
+          "objective_number": 4,
+          "description": "Predict the properties of other elements in Group VII, given information about the elements"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

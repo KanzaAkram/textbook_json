@@ -1,0 +1,71 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Motion, forces and energy"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Motion",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Define speed as distance travelled per unit time and define velocity as change in displacement per unit time"
+      },
+      {
+        "objective_number": 2,
+        "description": "Recall and use the equation speed = distance / time, v = s / t"
+      },
+      {
+        "objective_number": 3,
+        "description": "Recall and use the equation average speed = total distance travelled / total time taken"
+      },
+      {
+        "objective_number": 4,
+        "description": "Define acceleration as change in velocity per unit time; recall and use the equation acceleration = change in velocity / time taken, a = Δv / Δt"
+      },
+      {
+        "objective_number": 5,
+        "description": "State what is meant by, and describe examples of, uniform acceleration and non-uniform acceleration"
+      },
+      {
+        "objective_number": 6,
+        "description": "Know that a deceleration is a negative acceleration and use this in calculations"
+      },
+      {
+        "objective_number": 7,
+        "description": "Sketch, plot and interpret distance-time and speed-time graphs"
+      },
+      {
+        "objective_number": 8,
+        "description": "Determine from the shape of a distance-time graph when an object is: (a) at rest (b) moving with constant speed (c) accelerating (d) decelerating"
+      },
+      {
+        "objective_number": 9,
+        "description": "Determine from the shape of a speed-time graph when an object is: (a) at rest (b) moving with constant speed (c) moving with constant acceleration (d) moving with changing acceleration"
+      },
+      {
+        "objective_number": 10,
+        "description": "State that the acceleration of free fall g for an object near to the surface of the Earth is approximately constant and is approximately 9.8m/s²"
+      },
+      {
+        "objective_number": 11,
+        "description": "Calculate speed from the gradient of a distance-time graph"
+      },
+      {
+        "objective_number": 12,
+        "description": "Calculate the area under a speed-time graph to determine the distance travelled for motion with constant speed or constant acceleration"
+      },
+      {
+        "objective_number": 13,
+        "description": "Calculate acceleration from the gradient of a speed-time graph"
+      }
+    ]
+  }
+}

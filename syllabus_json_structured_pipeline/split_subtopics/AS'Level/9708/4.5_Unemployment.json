@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "The Macroeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.5",
+    "sub_topic_name": "Unemployment",
+    "content": [
+      {
+        "point_number": "4.5.1",
+        "description": "meaning of unemployment"
+      },
+      {
+        "point_number": "4.5.2",
+        "description": "measures of unemployment, with reference to possible difficulties in measurement"
+      },
+      {
+        "point_number": "4.5.3",
+        "description": "causes and types of unemployment: frictional, structural, cyclical, seasonal and technological"
+      },
+      {
+        "point_number": "4.5.4",
+        "description": "consequences of unemployment"
+      }
+    ]
+  }
+}

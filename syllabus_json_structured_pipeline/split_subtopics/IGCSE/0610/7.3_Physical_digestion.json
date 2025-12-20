@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Human nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.3",
+    "sub_topic_name": "Physical digestion",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe physical digestion as the breakdown of food into smaller pieces without chemical change to the food molecules"
+        },
+        {
+          "objective_number": 2,
+          "description": "State that physical digestion increases the surface area of food for the action of enzymes in chemical digestion"
+        },
+        {
+          "objective_number": 3,
+          "description": "Identify in diagrams and images the types of human teeth: incisors, canines, premolars and molars"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe the structure of human teeth, limited to: enamel, dentine, pulp, nerves, blood vessels and cement, and understand that teeth are embedded in bone and the gums"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe the functions of the types of human teeth in physical digestion of food"
+        },
+        {
+          "objective_number": 6,
+          "description": "Describe the function of the stomach in physical digestion"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 7,
+          "description": "Outline the role of bile in emulsifying fats and oils to increase the surface area for chemical digestion"
+        }
+      ]
+    }
+  }
+}

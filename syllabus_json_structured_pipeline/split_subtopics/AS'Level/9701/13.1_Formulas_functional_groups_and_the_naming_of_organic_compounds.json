@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "An introduction to AS Level organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.1",
+    "sub_topic_name": "Formulas, functional groups and the naming of organic compounds",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define the term hydrocarbon as a compound made up of C and H atoms only"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand that alkanes are simple hydrocarbons with no functional group"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand that the compounds in the table on pages 29 and 30 contain a functional group which dictates their physical and chemical properties"
+      },
+      {
+        "objective_number": 4,
+        "description": "interpret and use the general, structural, displayed and skeletal formulas of the classes of compound stated in the table on pages 29 and 30"
+      },
+      {
+        "objective_number": 5,
+        "description": "understand and use systematic nomenclature of simple aliphatic organic molecules with functional groups detailed in the table on pages 29 and 30, up to six carbon atoms (six plus six for esters, straight chains only for esters and nitriles)"
+      },
+      {
+        "objective_number": 6,
+        "description": "deduce the molecular and/or empirical formula of a compound, given its structural, displayed or skeletal formula"
+      }
+    ]
+  }
+}

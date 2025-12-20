@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Operations management"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.3",
+    "sub_topic_name": "Achieving quality production",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "What quality means and why it is important for all businesses"
+      },
+      {
+        "objective_number": 2,
+        "description": "The concept of quality control and how businesses implement quality control"
+      },
+      {
+        "objective_number": 3,
+        "description": "The concept of quality assurance and how this can be implemented"
+      }
+    ]
+  }
+}

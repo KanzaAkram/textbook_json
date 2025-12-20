@@ -1,0 +1,41 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Hardware"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Input and output devices",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand what an input device is and why it is used.",
+        "notes_and_guidance": "Examples: barcode scanner, digital camera, keyboard, microphone, optical mouse, QR scanner, touch screens (resistive/capacitive/infra-red), 2D/3D scanners."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand what an output device is and why it is used.",
+        "notes_and_guidance": "Examples: actuator, DLP projector, inkjet/laser printer, LED/LCD screen/projector, speaker, 3D printer."
+      },
+      {
+        "objective_number": "3",
+        "description": [
+          "(a) Understand sensors and their purposes.",
+          "(b) Identify data captured and suitable scenario for each sensor."
+        ],
+        "notes_and_guidance": "Types: acoustic, accelerometer, flow, gas, humidity, infra-red, level, light, magnetic field, moisture, pH, pressure, proximity, temperature."
+      }
+    ]
+  }
+}

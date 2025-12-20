@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "7115",
+    "level": "O Level",
+    "title": "Cambridge O Level Business Studies",
+    "syllabus_name": null,
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Understanding business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Business activity",
+    "learning_objectives": [
+      {
+        "objective_number": "1.1.1",
+        "description": "The purpose and nature of business activity: Concepts of needs, wants, scarcity and opportunity cost; Importance of specialisation; Purpose of business activity; The concept of adding value and how added value can be increased"
+      }
+    ]
+  }
+}

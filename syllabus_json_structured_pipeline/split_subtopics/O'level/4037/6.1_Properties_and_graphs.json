@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Additional Mathematics 4037",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Logarithmic and exponential functions"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Properties and graphs",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Know and use simple properties and graphs of the logarithmic and exponential functions, including ln x and eˣ. (Logarithms may be given to any base. Understand that f(x) = eˣ and g(x) = ln x are each the inverse of the other. Understand the asymptotic nature of the graphs of logarithmic and exponential functions. State the equations of any asymptotes. Graphs are limited to y = keⁿˣ + a and y = k ln(ax + b) where n, k, a and b are integers. Series expansions are not required.)"
+      }
+    ]
+  }
+}

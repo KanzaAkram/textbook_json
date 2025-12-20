@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "16",
+    "topic_name": "Hydroxy compounds"
+  },
+  "subtopic": {
+    "sub_topic_number": "16.1",
+    "sub_topic_name": "Alcohols",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "recall the reactions (reagents and conditions) by which alcohols can be produced: (a) electrophilic addition of steam to an alkene, H₂O(g) and H₃PO₄ catalyst (b) reaction of alkenes with cold dilute acidified potassium manganate(VII) to form a diol (c) substitution of a halogenoalkane using NaOH(aq) and heat (d) reduction of an aldehyde or ketone using NaBH₄ or LiAlH₄ (e) reduction of a carboxylic acid using LiAlH₄ (f) hydrolysis of an ester using dilute acid or dilute alkali and heat"
+      },
+      {
+        "objective_number": 2,
+        "description": "describe: (a) the reaction with oxygen (combustion) (b) substitution to form halogenoalkanes, e.g. by reaction with HX(g); or with KCl and concentrated H₂SO₄ or concentrated H₃PO₄; or with PCl₃ and heat; or with PCl₅; or with SOCl₂ (c) the reaction with Na(s) (d) oxidation with acidified K₂Cr₂O₇ or acidified KMnO₄ to: (i) carbonyl compounds by distillation (ii) carboxylic acids by refluxing (primary alcohols give aldehydes which can be further oxidised to carboxylic acids, secondary alcohols give ketones, tertiary alcohols cannot be oxidised) (e) dehydration to an alkene, by using a heated catalyst, e.g. Al₂O₃ or a concentrated acid (f) formation of esters by reaction with carboxylic acids and concentrated H₂SO₄ as catalyst as exemplified by ethanol"
+      },
+      {
+        "objective_number": 3,
+        "description": "(a) classify alcohols as primary, secondary and tertiary alcohols, to include examples with more than one alcohol group (b) state characteristic distinguishing reactions, e.g. mild oxidation with acidified K₂Cr₂O₇, colour change from orange to green"
+      },
+      {
+        "objective_number": 4,
+        "description": "deduce the presence of a CH₃CH(OH)– group in an alcohol, CH₃CH(OH)–R, from its reaction with alkaline I₂(aq) to form a yellow precipitate of tri-iodomethane and an ion, RCO₂⁻"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain the acidity of alcohols compared with water"
+      }
+    ]
+  }
+}

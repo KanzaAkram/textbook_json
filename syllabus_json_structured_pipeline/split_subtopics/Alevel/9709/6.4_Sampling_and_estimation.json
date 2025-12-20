@@ -1,0 +1,51 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Probability & Statistics 2 (for Paper 6)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.4",
+    "sub_topic_name": "Sampling and estimation",
+    "learning_objectives": [
+      {
+        "description": "understand the distinction between a sample and a population, and appreciate the necessity for randomness in choosing samples",
+        "notes_and_examples": "Including an elementary understanding of the use of random numbers in producing random samples. Knowledge of particular sampling methods, such as quota or stratified sampling, is not required."
+      },
+      {
+        "description": "explain in simple terms why a given sampling method may be unsatisfactory",
+        "notes_and_examples": "Including an elementary understanding of the use of random numbers in producing random samples. Knowledge of particular sampling methods, such as quota or stratified sampling, is not required."
+      },
+      {
+        "description": "recognise that a sample mean can be regarded as a random variable, and use the facts that E(X̄) = µ and that Var(X̄) = σ²/n",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use the fact that (X̄) has a normal distribution if X has a normal distribution",
+        "notes_and_examples": null
+      },
+      {
+        "description": "use the Central Limit Theorem where appropriate",
+        "notes_and_examples": "Only an informal understanding of the Central Limit Theorem (CLT) is required; for large sample sizes, the distribution of a sample mean is approximately normal."
+      },
+      {
+        "description": "calculate unbiased estimates of the population mean and variance from a sample, using either raw or summarised data",
+        "notes_and_examples": "Only a simple understanding of the term 'unbiased' is required, e.g. that although individual estimates will vary the process gives an accurate result 'on average'."
+      },
+      {
+        "description": "determine and interpret a confidence interval for a population mean in cases where the population is normally distributed with known variance or where a large sample is used",
+        "notes_and_examples": null
+      },
+      {
+        "description": "determine, from a large sample, an approximate confidence interval for a population proportion.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

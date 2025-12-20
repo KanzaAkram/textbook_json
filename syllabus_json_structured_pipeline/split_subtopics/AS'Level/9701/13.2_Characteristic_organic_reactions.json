@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "13",
+    "topic_name": "An introduction to AS Level organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "13.2",
+    "sub_topic_name": "Characteristic organic reactions",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "interpret and use the following terminology associated with types of organic compounds and reactions: (a) homologous series (b) saturated and unsaturated (c) homolytic and heterolytic fission (d) free radical, initiation, propagation, termination (e) nucleophile, electrophile, nucleophilic, electrophilic (f) addition, substitution, elimination, hydrolysis, condensation (g) oxidation and reduction"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand and use the following terminology associated with types of organic mechanisms: (a) free-radical substitution (b) electrophilic addition (c) nucleophilic substitution (d) nucleophilic addition"
+      }
+    ]
+  }
+}

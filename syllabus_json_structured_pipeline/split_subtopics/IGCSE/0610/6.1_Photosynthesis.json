@@ -1,0 +1,67 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "Plant nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.1",
+    "sub_topic_name": "Photosynthesis",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe photosynthesis as the process by which plants synthesise carbohydrates from raw materials using energy from light"
+        },
+        {
+          "objective_number": 2,
+          "description": "State the word equation for photosynthesis as: carbon dioxide + water → glucose + oxygen in the presence of light and chlorophyll"
+        },
+        {
+          "objective_number": 3,
+          "description": "State that chlorophyll is a green pigment that is found in chloroplasts"
+        },
+        {
+          "objective_number": 4,
+          "description": "State that chlorophyll transfers energy from light into energy in chemicals, for the synthesis of carbohydrates"
+        },
+        {
+          "objective_number": 5,
+          "description": "Outline the subsequent use and storage of the carbohydrates made in photosynthesis, limited to: (a) starch as an energy store (b) cellulose to build cell walls (c) glucose used in respiration to provide energy (d) sucrose for transport in the phloem (e) nectar to attract insects for pollination"
+        },
+        {
+          "objective_number": 6,
+          "description": "Explain the importance of: (a) nitrate ions for making amino acids (b) magnesium ions for making chlorophyll"
+        },
+        {
+          "objective_number": 7,
+          "description": "Investigate the need for chlorophyll, light and carbon dioxide for photosynthesis, using appropriate controls"
+        },
+        {
+          "objective_number": 8,
+          "description": "Investigate and describe the effects of varying light intensity, carbon dioxide concentration and temperature on the rate of photosynthesis"
+        },
+        {
+          "objective_number": 9,
+          "description": "Investigate and describe the effect of light and dark conditions on gas exchange in an aquatic plant using hydrogencarbonate indicator solution"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 10,
+          "description": "State the balanced chemical equation for photosynthesis as: 6CO2 + 6H2O → C6H12O6 + 6O2"
+        },
+        {
+          "objective_number": 11,
+          "description": "Identify and explain the limiting factors of photosynthesis in different environmental conditions"
+        }
+      ]
+    }
+  }
+}

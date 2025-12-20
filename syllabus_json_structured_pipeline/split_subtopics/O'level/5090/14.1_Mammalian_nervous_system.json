@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Coordination and control"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.1",
+    "sub_topic_name": "Mammalian nervous system",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "State that the nervous system (brain, spinal cord and nerves) coordinates and regulates body functions"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe the mammalian nervous system in terms of: (a) the central nervous system (CNS) consisting of the brain and the spinal cord (b) the peripheral nervous system (PNS) consisting of the nerves outside the brain and spinal cord"
+      },
+      {
+        "objective_number": 3,
+        "description": "Identify, on diagrams, sensory, relay and motor neurones"
+      },
+      {
+        "objective_number": 4,
+        "description": "State that electrical impulses travel along neurones"
+      },
+      {
+        "objective_number": 5,
+        "description": "Describe simple reflex arcs in terms of receptor, sensory neurone, relay neurone, motor neurone and effector (muscles and glands)"
+      },
+      {
+        "objective_number": 6,
+        "description": "Describe a reflex action as a rapid and automatic response to a stimulus"
+      },
+      {
+        "objective_number": 7,
+        "description": "Describe a synapse as a junction between two neurones"
+      },
+      {
+        "objective_number": 8,
+        "description": "Describe the structure of a synapse, including the presence of vesicles containing neurotransmitter molecules, the synaptic gap and receptor proteins"
+      },
+      {
+        "objective_number": 9,
+        "description": "Describe the events at a synapse: (a) an impulse stimulates the release of neurotransmitter molecules from vesicles into the synaptic gap (b) the neurotransmitter molecules diffuse across the gap and bind with receptor proteins (c) an impulse is stimulated in the next neurone"
+      },
+      {
+        "objective_number": 10,
+        "description": "State that synapses ensure that impulses travel in one direction only"
+      }
+    ]
+  }
+}

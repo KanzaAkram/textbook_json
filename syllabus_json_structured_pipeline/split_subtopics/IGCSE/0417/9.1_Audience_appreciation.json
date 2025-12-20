@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Audience"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.1",
+    "sub_topic_name": "Audience appreciation",
+    "learning_objectives": [
+      {
+        "description": "Audience appreciation",
+        "notes_and_guidance": "Show a clear sense of audience and purpose\nPlanning ICT solutions that are responsive to and respectful of the needs of an audience\nAnalyse the needs of an audience when creating ICT solutions"
+      }
+    ]
+  }
+}

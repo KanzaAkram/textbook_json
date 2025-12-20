@@ -1,0 +1,14 @@
+{
+  "subtopic_number": "20.1",
+  "subtopic_name": "Addition polymerisation",
+  "level": "AS'Level",
+  "subject_code": "9701",
+  "sources": {
+    "textbook": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\textbook\\extracted_subtopics\\AS'Level\\9701\\20.1_Addition polymerisation.json",
+    "syllabus": "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\syllabus_json_structured_pipeline\\split_subtopics\\AS'Level\\9701\\20.1_Addition_polymerisation.json",
+    "save_my_exam": [
+      "C:\\Users\\kanza\\OneDrive\\Desktop\\textbook_json\\save_my_exam\\organized_by_syllabus\\AS'Level\\9701\\20.1_Addition_polymerisation_1.pdf"
+    ]
+  },
+  "confidence": 1.0
+}

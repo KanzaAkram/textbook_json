@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Coordination and control"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.3",
+    "sub_topic_name": "Mammalian hormones",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe a hormone as a chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs"
+      },
+      {
+        "objective_number": 2,
+        "description": "Identify, on a diagram, endocrine glands that produce hormones and state the hormones they produce, limited to: (a) the adrenal glands – produce adrenaline (b) the pancreas – produces insulin and glucagon (c) the pituitary gland – produces follicle-stimulating hormone (FSH) and luteinising hormone (LH) (d) the testes – produce testosterone (e) the ovaries – produce oestrogen and progesterone"
+      },
+      {
+        "objective_number": 3,
+        "description": "Understand the role of the hormone adrenaline, produced by the adrenal glands, in increasing the blood glucose concentration and heart rate and give examples of situations in which these may occur"
+      },
+      {
+        "objective_number": 4,
+        "description": "Compare nervous and hormonal control, limited to speed of action and duration of effect"
+      }
+    ]
+  }
+}

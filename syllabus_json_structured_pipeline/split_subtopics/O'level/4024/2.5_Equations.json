@@ -1,0 +1,49 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.5",
+    "sub_topic_name": "Equations",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Construct expressions, equations and formulas.",
+        "notes_and_examples": "e.g. write an expression for the product of two consecutive even numbers. Includes constructing simultaneous equations."
+      },
+      {
+        "objective_number": "2",
+        "description": "Solve linear equations in one unknown.",
+        "notes_and_examples": "Examples include: 3x + 4 = 10, 5 - 2x = 3(x + 7)."
+      },
+      {
+        "objective_number": "3",
+        "description": "Solve fractional equations with numerical and linear algebraic denominators.",
+        "notes_and_examples": "Examples include: x/(2x+1) = 4, 2/(x+2) + 3/(2x-1) = 1, x/(x+2) = 3/(x-6)."
+      },
+      {
+        "objective_number": "4",
+        "description": "Solve simultaneous linear equations in two unknowns.",
+        "notes_and_examples": null
+      },
+      {
+        "objective_number": "5",
+        "description": "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula.",
+        "notes_and_examples": "Includes writing a quadratic expression in completed square form. Candidates may be expected to give solutions in surd form. The quadratic formula is given in the List of formulas."
+      },
+      {
+        "objective_number": "6",
+        "description": "Change the subject of formulas.",
+        "notes_and_examples": "e.g. change the subject of a formula where: the subject appears twice, there is a power or root of the subject."
+      }
+    ]
+  }
+}

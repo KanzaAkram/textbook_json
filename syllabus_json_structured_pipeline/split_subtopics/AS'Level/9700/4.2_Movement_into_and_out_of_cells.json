@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Biology 9700",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Cell membranes and transport"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.2",
+    "sub_topic_name": "Movement into and out of cells",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "describe and explain the processes of simple diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis"
+      },
+      {
+        "objective_number": 2,
+        "description": "investigate simple diffusion and osmosis using plant tissue and non-living materials, including dialysis (Visking) tubing and agar"
+      },
+      {
+        "objective_number": 3,
+        "description": "illustrate the principle that surface area to volume ratios decrease with increasing size by calculating surface areas and volumes of simple 3-D shapes (as shown in the Mathematical requirements)"
+      },
+      {
+        "objective_number": 4,
+        "description": "investigate the effect of changing surface area to volume ratio on diffusion using agar blocks of different sizes"
+      },
+      {
+        "objective_number": 5,
+        "description": "investigate the effects of immersing plant tissues in solutions of different water potentials, using the results to estimate the water potential of the tissues"
+      },
+      {
+        "objective_number": 6,
+        "description": "explain the movement of water between cells and solutions in terms of water potential and explain the different effects of the movement of water on plant cells and animal cells (knowledge of solute potential and pressure potential is not expected)"
+      }
+    ]
+  }
+}

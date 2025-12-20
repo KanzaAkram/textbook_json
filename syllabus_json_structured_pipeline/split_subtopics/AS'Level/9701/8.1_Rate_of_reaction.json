@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "8",
+    "topic_name": "Reaction kinetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "8.1",
+    "sub_topic_name": "Rate of reaction",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "explain and use the term rate of reaction, frequency of collisions, effective collisions and non-effective collisions"
+      },
+      {
+        "objective_number": 2,
+        "description": "explain qualitatively, in terms of frequency of effective collisions, the effect of concentration and pressure changes on the rate of a reaction"
+      },
+      {
+        "objective_number": 3,
+        "description": "use experimental data to calculate the rate of a reaction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Industrial development"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Understanding common terms",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand the meaning of the terms raw materials, refined, processed, manufactured and value-added"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the meaning of the terms infrastructure and services"
+      },
+      {
+        "objective_number": 3,
+        "description": "be able to define the terms primary industry, secondary industry, and tertiary industry."
+      }
+    ]
+  }
+}

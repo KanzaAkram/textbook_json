@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Pure Mathematics 3 (for Paper 3)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.7",
+    "sub_topic_name": "Vectors",
+    "learning_objectives": [
+      {
+        "description": "use standard notations for vectors, i.e. (x y), xi + yj, (x y z), xi + yj + zk, AB, a",
+        "notes_and_examples": null
+      },
+      {
+        "description": "carry out addition and subtraction of vectors and multiplication of a vector by a scalar, and interpret these operations in geometrical terms",
+        "notes_and_examples": "e.g. 'OABC is a parallelogram' is equivalent to OB = OA + OC. The general form of the ratio theorem is not included, but understanding that the midpoint of AB has position vector ½(OA + OB) is expected."
+      },
+      {
+        "description": "calculate the magnitude of a vector, and use unit vectors, displacement vectors and position vectors",
+        "notes_and_examples": "In 2 or 3 dimensions."
+      },
+      {
+        "description": "understand the significance of all the symbols used when the equation of a straight line is expressed in the form r = a + tb, and find the equation of a line, given sufficient information",
+        "notes_and_examples": "e.g. finding the equation of a line given the position vector of a point on the line and a direction vector, or the position vectors of two points on the line."
+      },
+      {
+        "description": "determine whether two lines are parallel, intersect or are skew, and find the point of intersection of two lines when it exists",
+        "notes_and_examples": "Calculation of the shortest distance between two skew lines is not required. Finding the equation of the common perpendicular to two skew lines is also not required."
+      },
+      {
+        "description": "use formulae to calculate the scalar product of two vectors, and use scalar products in problems involving lines and points.",
+        "notes_and_examples": "e.g. finding the angle between two lines, and finding the foot of the perpendicular from a point to a line; questions may involve 3D objects such as cuboids, tetrahedra (pyramids), etc. Knowledge of the vector product is not required."
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Mathematics 0580",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Algebra and graphs"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.6",
+    "sub_topic_name": "Inequalities",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Represent and interpret inequalities, including on a number line."
+      }
+    ],
+    "notes_and_examples": "When representing and interpreting inequalities on a number line:\n• open circles should be used to represent strict inequalities (<, >)\n• closed circles should be used to represent inclusive inequalities (≤, ≥)\ne.g. –3 ≤ x < 1"
+  }
+}

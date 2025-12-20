@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Pure Mathematics 3 (for Paper 3)"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.5",
+    "sub_topic_name": "Integration",
+    "learning_objectives": [
+      {
+        "description": "extend the idea of 'reverse differentiation' to include the integration of eᵃˣ⁺ᵇ, 1/(ax + b), sin(ax + b), cos(ax + b), sec²(ax + b) and 1/(x² + a²)",
+        "notes_and_examples": "Including examples such as 1/(2 + 3x²)."
+      },
+      {
+        "description": "use trigonometrical relationships in carrying out integration",
+        "notes_and_examples": "e.g. use of double-angle formulae to integrate sin²x or cos²(2x)."
+      },
+      {
+        "description": "integrate rational functions by means of decomposition into partial fractions",
+        "notes_and_examples": "Restricted to types of partial fractions as specified in topic 3.1 above."
+      },
+      {
+        "description": "recognise an integrand of the form kf'(x)/f(x), and integrate such functions",
+        "notes_and_examples": "e.g. integration of x/(x² + 1), tanx."
+      },
+      {
+        "description": "recognise when an integrand can usefully be regarded as a product, and use integration by parts",
+        "notes_and_examples": "e.g. integration of x sin 2x, x²eˣ, lnx, x tan⁻¹x."
+      },
+      {
+        "description": "use a given substitution to simplify and evaluate either a definite or an indefinite integral.",
+        "notes_and_examples": "e.g. to integrate sin² 2x cosx using the substitution u = sinx."
+      }
+    ]
+  }
+}

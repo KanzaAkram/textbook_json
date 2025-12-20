@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Forces, density and pressure"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1",
+    "sub_topic_name": "Turning effects of forces",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "understand that the weight of an object may be taken as acting at a single point known as its centre of gravity"
+      },
+      {
+        "objective_number": 2,
+        "description": "define and apply the moment of a force"
+      },
+      {
+        "objective_number": 3,
+        "description": "understand that a couple is a pair of forces that acts to produce rotation only"
+      },
+      {
+        "objective_number": 4,
+        "description": "define and apply the torque of a couple"
+      }
+    ]
+  }
+}

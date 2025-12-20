@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "The effects of using IT"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.1",
+    "sub_topic_name": "Microprocessor-controlled devices",
+    "learning_objectives": [
+      {
+        "description": "The effects of using microprocessor-controlled devices",
+        "notes_and_guidance": "The positive and negative effects of microprocessors/smart devices in monitoring and controlling devices in the home including the impact on lifestyle, leisure time, physical fitness, security of data, the degree of social interaction\nThe positive and negative effects of microprocessors/smart devices in monitoring and controlling transport including security of data, autonomous vehicles, transport safety"
+      }
+    ]
+  }
+}

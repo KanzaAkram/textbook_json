@@ -1,0 +1,25 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Accounting 7707",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "Preparation of financial statements"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.4",
+    "sub_topic_name": "Clubs and societies",
+    "learning_objectives": [
+      "distinguish between receipts and payments accounts and income and expenditure accounts",
+      "prepare receipts and payments accounts",
+      "prepare accounts for revenue-generating activities, e.g. refreshments, subscriptions",
+      "prepare income and expenditure accounts and statements of financial position",
+      "make adjustments to financial statements as detailed in 5.1 (sole traders)",
+      "define and calculate the accumulated fund."
+    ]
+  }
+}

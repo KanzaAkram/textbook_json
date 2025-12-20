@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Styles"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.0",
+    "sub_topic_name": "Styles",
+    "learning_objectives": [
+      {
+        "description": "Create, edit and apply styles",
+        "notes_and_guidance": "Create, modify, update and apply styles to ensure consistency of presentation\nFont including font face, type (serif, sans-serif), point size, colour\nText alignment including left, right, centre, fully justified\nText enhancement including bold, underline, italic\nSpacing including paragraph (before and after) and line\nBullets including shape, alignment, line spacing and indent"
+      },
+      {
+        "description": "Corporate house style",
+        "notes_and_guidance": "Purpose and uses of a corporate house style"
+      }
+    ]
+  }
+}

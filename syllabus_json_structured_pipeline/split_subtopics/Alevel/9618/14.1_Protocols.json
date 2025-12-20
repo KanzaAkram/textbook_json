@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "14",
+    "topic_name": "Communication and internet technologies"
+  },
+  "subtopic": {
+    "sub_topic_number": "14.1",
+    "sub_topic_name": "Protocols",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Show understanding of why a protocol is essential for communication between computers"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show understanding of how protocol implementation can be viewed as a stack, where each layer has its own functionality"
+      },
+      {
+        "objective_number": 3,
+        "description": "Show understanding of the TCP/IP protocol suite (Four Layers (Application, Transport, Internet, Link); Purpose and function of each layer; Application when a message is sent from one host to another on the internet)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Show understanding of protocols (HTTP, FTP, POP3, IMAP, SMTP, BitTorrent) and their purposes (BitTorrent protocol provides peer-to-peer file sharing)"
+      }
+    ]
+  }
+}

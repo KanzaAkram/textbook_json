@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Natural resources – an issue of sustainability"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Water",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "identify on a map the Mangla, Tarbela and Warsak dams, and name two examples of barrages"
+      },
+      {
+        "objective_number": 2,
+        "description": "understand the importance of water as a resource; understand how supplies for agricultural, industrial and domestic purposes are obtained, maintained and controlled as well as used; understand the reasons for, and consequences of, the Indus Water Treaty"
+      },
+      {
+        "objective_number": 3,
+        "description": "explain and evaluate the causes of and solutions to the problems of water supply (including pollution)"
+      },
+      {
+        "objective_number": 4,
+        "description": "understand the value of water as a resource for development"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain and evaluate how water supply issues can lead to conflict."
+      }
+    ]
+  }
+}

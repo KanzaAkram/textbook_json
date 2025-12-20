@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Understanding business activity"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Business activity",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Concepts of needs, wants, scarcity and opportunity cost"
+      },
+      {
+        "objective_number": 2,
+        "description": "Importance of specialisation"
+      },
+      {
+        "objective_number": 3,
+        "description": "Purpose of business activity"
+      },
+      {
+        "objective_number": 4,
+        "description": "The concept of adding value and how added value can be increased"
+      }
+    ]
+  }
+}

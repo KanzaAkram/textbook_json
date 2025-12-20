@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Government macroeconomic intervention (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.2",
+    "sub_topic_name": "Links between macroeconomic problems and their interrelatedness",
+    "learning_objectives": [
+      {
+        "objective_number": "10.2.1",
+        "description": "relationship between the internal value of money and the external value of money"
+      },
+      {
+        "objective_number": "10.2.2",
+        "description": "relationship between the balance of payments and inflation"
+      },
+      {
+        "objective_number": "10.2.3",
+        "description": "relationship between growth and inflation"
+      },
+      {
+        "objective_number": "10.2.4",
+        "description": "relationship between growth and the balance of payments"
+      },
+      {
+        "objective_number": "10.2.5",
+        "description": "relationship between inflation and unemployment: traditional Phillips curve, expectations-augmented Phillips curve (short- and long-run Phillips curve)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Boolean logic"
+  },
+  "subtopic": {
+    "sub_topic_number": null,
+    "sub_topic_name": "Boolean Logic Skills",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Identify and use the standard symbols for logic gates",
+        "notes_and_guidance": "See section 4 for logic gate symbols."
+      },
+      {
+        "objective_number": "2",
+        "description": "Define and understand the functions of logic gates",
+        "notes_and_guidance": "Including: NOT, AND, OR, NAND, NOR, XOR (EOR), the binary output produced from all the possible binary inputs. NOT is a single input gate. All other gates are limited to two inputs."
+      },
+      {
+        "objective_number": "3",
+        "description": "(a) Use logic gates to create given logic circuits from a: (i) problem statement, (ii) logic expression, (iii) truth table\n(b) Complete a truth table from a: (i) problem statement, (ii) logic expression, (iii) logic circuit\n(c) Write a logic expression from a: (i) problem statement, (ii) logic circuit, (iii) truth table",
+        "notes_and_guidance": "Circuits must be drawn for the statement given, without simplification. Logic circuits will be limited to a maximum of three inputs and one output. An example truth table with three inputs, for completion."
+      }
+    ]
+  }
+}

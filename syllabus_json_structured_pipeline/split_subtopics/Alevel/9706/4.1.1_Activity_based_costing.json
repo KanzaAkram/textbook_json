@@ -1,0 +1,43 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9706",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Accounting",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "Cost and management accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.1.1",
+    "sub_topic_name": "Activity based costing",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the application of activity based costing (ABC)"
+      },
+      {
+        "objective_number": 2,
+        "description": "the uses and limitations of ABC"
+      },
+      {
+        "objective_number": 3,
+        "description": "what is meant by a cost driver"
+      },
+      {
+        "objective_number": 4,
+        "description": "how to use ABC to: identify the appropriate cost driver, apportion and allocate overheads, calculate the total cost and selling price of a unit"
+      },
+      {
+        "objective_number": 5,
+        "description": "the effect of different methods of overhead absorption on cost and profit"
+      },
+      {
+        "objective_number": 6,
+        "description": "how to apply ABC costing techniques to make business decisions and recommendations using supporting data"
+      }
+    ]
+  }
+}

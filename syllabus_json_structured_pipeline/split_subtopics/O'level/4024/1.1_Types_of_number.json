@@ -1,0 +1,24 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Number"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Types of number",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Identify and use: natural numbers, integers (positive, zero and negative), prime numbers, square numbers, cube numbers, common factors, common multiples, rational and irrational numbers, reciprocals.",
+        "notes_and_examples": "Example tasks include: convert between numbers and words, e.g. six billion is 6 000 000 000, 10 007 is ten thousand and seven; express 72 as a product of its prime factors; find the highest common factor (HCF) of two numbers; find the lowest common multiple (LCM) of two numbers."
+      }
+    ]
+  }
+}

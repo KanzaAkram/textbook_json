@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9609",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Business",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Finance and accounting (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.3",
+    "sub_topic_name": "Investment appraisal",
+    "learning_objectives": [
+      {
+        "objective_number": "10.3.1",
+        "description": "The concept of investment appraisal: the need for investment appraisal."
+      },
+      {
+        "objective_number": "10.3.2",
+        "description": "Basic methods: payback, accounting rate of return (ARR): the meaning, calculation and interpretation of payback and ARR (ARR = (average profit/average investment) × 100)."
+      },
+      {
+        "objective_number": "10.3.3",
+        "description": "Discounted cash flow method: net present value (NPV): the meaning, calculation and interpretation of NPV."
+      },
+      {
+        "objective_number": "10.3.4",
+        "description": "Investment appraisal decisions: quantitative results and their impact on investment decisions; qualitative factors and their impact on investment decisions; comparison of investment appraisal methods, including their limitations."
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "23",
+    "topic_name": "Chemical energetics"
+  },
+  "subtopic": {
+    "sub_topic_number": "23.1",
+    "sub_topic_name": "Lattice energy and Born-Haber cycles",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define and use the terms: (a) enthalpy change of atomisation, ΔHat (b) lattice energy, ΔHlatt (the change from gas phase ions to solid lattice)"
+      },
+      {
+        "objective_number": 2,
+        "description": "(a) define and use the term first electron affinity, EA (b) explain the factors affecting the electron affinities of elements (c) describe and explain the trends in the electron affinities of the Group 16 and Group 17 elements"
+      },
+      {
+        "objective_number": 3,
+        "description": "construct and use Born-Haber cycles for ionic solids (limited to +1 and +2 cations, –1 and –2 anions)"
+      },
+      {
+        "objective_number": 4,
+        "description": "carry out calculations involving Born-Haber cycles"
+      },
+      {
+        "objective_number": 5,
+        "description": "explain, in qualitative terms, the effect of ionic charge and of ionic radius on the numerical magnitude of a lattice energy"
+      }
+    ]
+  }
+}

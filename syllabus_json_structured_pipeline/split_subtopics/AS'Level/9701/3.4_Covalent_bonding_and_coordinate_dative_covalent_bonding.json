@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Chemistry 9701",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Chemical bonding"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.4",
+    "sub_topic_name": "Covalent bonding and coordinate (dative covalent) bonding",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "define covalent bonding as electrostatic attraction between the nuclei of two atoms and a shared pair of electrons (a) describe covalent bonding in molecules including: hydrogen, H₂; oxygen, O₂; nitrogen, N₂; chlorine, Cl₂; hydrogen chloride, HCl; carbon dioxide, CO₂; ammonia, NH₃; methane, CH₄; ethane, C₂H₆; ethene, C₂H₄ (b) understand that elements in period 3 can expand their octet including in the compounds sulfur dioxide, SO₂, phosphorus pentachloride, PCl₅, and sulfur hexafluoride, SF₆ (c) describe coordinate (dative covalent) bonding, including in the reaction between ammonia and hydrogen chloride gases to form the ammonium ion, NH₄⁺, and in the Al₂Cl₆ molecule"
+      },
+      {
+        "objective_number": 2,
+        "description": "(a) describe covalent bonds in terms of orbital overlap giving σ and π bonds: σ bonds are formed by direct overlap of orbitals between the bonding atoms; π bonds are formed by the sideways overlap of adjacent p orbitals above and below the σ bond (b) describe how the σ and π bonds form in molecules including H₂, C₂H₆, C₂H₄, HCN and N₂ (c) use the concept of hybridisation to describe sp, sp² and sp³ orbitals"
+      },
+      {
+        "objective_number": 3,
+        "description": "(a) define the terms: bond energy as the energy required to break one mole of a particular covalent bond in the gaseous state; bond length as the internuclear distance of two covalently bonded atoms (b) use bond energy values and the concept of bond length to compare the reactivity of covalent molecules"
+      }
+    ]
+  }
+}

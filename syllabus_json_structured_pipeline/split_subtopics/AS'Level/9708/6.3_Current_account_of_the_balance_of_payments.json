@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "International economic issues (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.3",
+    "sub_topic_name": "Current account of the balance of payments",
+    "content": [
+      {
+        "point_number": "6.3.1",
+        "description": "components of the current account of the balance of payments: current account: trade in goods, trade in services, primary income and secondary income; definition of balance and imbalances (deficit and surplus) in the current account of the balance of payments"
+      },
+      {
+        "point_number": "6.3.2",
+        "description": "calculation of: balance of trade in goods, balance of trade in services, balance of trade in goods and services, current account balance (CAB)"
+      },
+      {
+        "point_number": "6.3.3",
+        "description": "causes of imbalances in the current account of the balance of payments"
+      },
+      {
+        "point_number": "6.3.4",
+        "description": "consequences of imbalances in the current account of the balance of payments for the domestic and external economy"
+      }
+    ]
+  }
+}

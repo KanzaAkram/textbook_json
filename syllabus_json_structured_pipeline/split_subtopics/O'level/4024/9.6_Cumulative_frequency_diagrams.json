@@ -1,0 +1,29 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "4024",
+    "level": "O Level",
+    "title": "Cambridge O Level Mathematics (Syllabus D)",
+    "syllabus_name": null,
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "9",
+    "topic_name": "Statistics"
+  },
+  "subtopic": {
+    "sub_topic_number": "9.6",
+    "sub_topic_name": "Cumulative frequency diagrams",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Draw and interpret cumulative frequency tables and diagrams.",
+        "notes_and_examples": "Plotted points on a cumulative frequency diagram should be clearly marked, for example as small crosses (x), and be joined with a smooth curve."
+      },
+      {
+        "objective_number": "2",
+        "description": "Estimate and interpret the median, percentiles, quartiles and interquartile range from cumulative frequency diagrams.",
+        "notes_and_examples": null
+      }
+    ]
+  }
+}

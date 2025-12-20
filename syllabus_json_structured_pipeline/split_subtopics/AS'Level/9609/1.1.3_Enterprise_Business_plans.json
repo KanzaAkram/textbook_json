@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Business and its environment (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1.3",
+    "sub_topic_name": "Enterprise: Business plans",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the meaning and purpose of business plans"
+      },
+      {
+        "objective_number": 2,
+        "description": "the key elements of business plans"
+      },
+      {
+        "objective_number": 3,
+        "description": "the benefits and limitations of business plans"
+      }
+    ]
+  }
+}

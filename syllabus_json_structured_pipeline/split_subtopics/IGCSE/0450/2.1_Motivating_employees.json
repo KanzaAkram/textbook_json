@@ -1,0 +1,47 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Business Studies 0450",
+    "years": null
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "People in business"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.1",
+    "sub_topic_name": "Motivating employees",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Why people work and what motivation means"
+      },
+      {
+        "objective_number": 2,
+        "description": "The benefits of a well-motivated workforce: labour productivity, reduced absenteeism and labour turnover"
+      },
+      {
+        "objective_number": 3,
+        "description": "The concept of human needs, e.g. Maslow's hierarchy"
+      },
+      {
+        "objective_number": 4,
+        "description": "Key motivational theories: Taylor and Herzberg"
+      },
+      {
+        "objective_number": 5,
+        "description": "Financial rewards, e.g. wage, salary, bonus, commission and profit sharing"
+      },
+      {
+        "objective_number": 6,
+        "description": "Non-financial methods, e.g. job enrichment, job rotation, teamworking, training, opportunities for promotion"
+      },
+      {
+        "objective_number": 7,
+        "description": "Recommend and justify appropriate method(s) of motivation in given circumstances"
+      }
+    ]
+  }
+}

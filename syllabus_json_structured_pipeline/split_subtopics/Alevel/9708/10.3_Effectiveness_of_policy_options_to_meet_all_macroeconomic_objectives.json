@@ -1,0 +1,31 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9708",
+    "level": "A Level",
+    "title": "Cambridge International AS & A Level Economics",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "10",
+    "topic_name": "Government macroeconomic intervention (A Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "10.3",
+    "sub_topic_name": "Effectiveness of policy options to meet all macroeconomic objectives",
+    "learning_objectives": [
+      {
+        "objective_number": "10.3.1",
+        "description": "effectiveness of different policies in relation to different macroeconomic objectives: fiscal policy including Laffer curve analysis, monetary policy, supply-side policy including market-based and interventionist policies, exchange rate policy, international trade policy"
+      },
+      {
+        "objective_number": "10.3.2",
+        "description": "problems and conflicts arising from the outcome of these policies"
+      },
+      {
+        "objective_number": "10.3.3",
+        "description": "existence of government failure in macroeconomic policies"
+      }
+    ]
+  }
+}

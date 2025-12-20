@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Economics 9708",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "4",
+    "topic_name": "The Macroeconomy (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "4.6",
+    "sub_topic_name": "Price stability",
+    "content": [
+      {
+        "point_number": "4.6.1",
+        "description": "definition of inflation, deflation and disinflation"
+      },
+      {
+        "point_number": "4.6.2",
+        "description": "measurement of changes in the price level: consumer price index (CPI), possible difficulties in measurement"
+      },
+      {
+        "point_number": "4.6.3",
+        "description": "distinction between money values (nominal) and real data"
+      },
+      {
+        "point_number": "4.6.4",
+        "description": "causes of inflation: cost-push and demand-pull inflation"
+      },
+      {
+        "point_number": "4.6.5",
+        "description": "consequences of inflation"
+      }
+    ]
+  }
+}

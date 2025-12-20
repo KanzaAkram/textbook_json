@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "6",
+    "topic_name": "ICT applications"
+  },
+  "subtopic": {
+    "sub_topic_number": "6.6",
+    "sub_topic_name": "Banking applications",
+    "learning_objectives": [
+      {
+        "description": "Banking applications",
+        "notes_and_guidance": "Characteristics, uses, advantages and disadvantages of Automatic Teller Machines (ATM) including: withdrawing cash, depositing cash or cheques, checking account balance, mini statements, bill paying, money transfers\nCharacteristics, uses, advantages and disadvantages of Electronic Funds Transfer (EFT), credit/debit card transactions, cheques, internet banking"
+      }
+    ]
+  }
+}

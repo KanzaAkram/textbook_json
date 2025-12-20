@@ -1,0 +1,44 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Economics 2281",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Microeconomic decision makers"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.5",
+    "sub_topic_name": "Firms",
+    "learning_objectives": [
+      {
+        "objective_number": "3.5.1",
+        "objective_title": "classification of firms",
+        "guidance": "In terms of primary/secondary/tertiary sectors and private/public sector, and the relative size of firms. Note: detailed knowledge of different types of structure of a firm is not required."
+      },
+      {
+        "objective_number": "3.5.2",
+        "objective_title": "small firms",
+        "guidance": "The advantages and disadvantages of small firms, the challenges facing small firms and reasons for their existence."
+      },
+      {
+        "objective_number": "3.5.3",
+        "objective_title": "causes and forms of the growth of firms",
+        "guidance": "Internal growth, for example increased market share. External growth, for example mergers."
+      },
+      {
+        "objective_number": "3.5.4",
+        "objective_title": "mergers",
+        "guidance": "Examples, advantages and disadvantages of different types of mergers: horizontal, vertical, and conglomerate."
+      },
+      {
+        "objective_number": "3.5.5",
+        "objective_title": "economies and diseconomies of scale",
+        "guidance": "How internal and external economies and diseconomies of scale can affect a firm/industry as the scale of production changes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "0417",
+    "level": "IGCSE",
+    "title": "Cambridge IGCSE Information and Communication Technology",
+    "syllabus_name": null,
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "5",
+    "topic_name": "The effects of using IT"
+  },
+  "subtopic": {
+    "sub_topic_number": "5.2",
+    "sub_topic_name": "Potential health problems related to the prolonged use of IT equipment",
+    "learning_objectives": [
+      {
+        "description": "Health issues",
+        "notes_and_guidance": "Including: repetitive strain injury (RSI), back problems, eye problems, headaches\nThe causes of these health issues and strategies for preventing them"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Biology 5090",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "15",
+    "topic_name": "Coordination and response in plants"
+  },
+  "subtopic": {
+    "sub_topic_number": "15.1",
+    "sub_topic_name": "Coordination and response in plants",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Describe gravitropism as a response in which parts of a plant grow towards or away from gravity"
+      },
+      {
+        "objective_number": 2,
+        "description": "Describe phototropism as a response in which parts of a plant grow towards or away from light"
+      },
+      {
+        "objective_number": 3,
+        "description": "Explain the role of auxin in controlling shoot growth, limited to: (a) auxin is made in the shoot tip (b) auxin spreads through the plant from the shoot tip (c) auxin is unequally distributed in response to light and gravity (d) auxin stimulates cell elongation"
+      },
+      {
+        "objective_number": 4,
+        "description": "Investigate gravitropism and phototropism in shoots and roots"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Pakistan Studies 0448",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "The land of Pakistan"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.2",
+    "sub_topic_name": "Location of administrative areas and cities",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "identify on a map: the administrative areas of Pakistan"
+      },
+      {
+        "objective_number": 2,
+        "description": "identify on a map: named cities: Islamabad, Muree, Rawalpindi, Gujranwala, Lahore, Faisalabad, Multan, Sialkot, Peshawar, Chitral, Gilgit, Hyderabad, Karachi, Quetta and Gwadar."
+      }
+    ]
+  }
+}

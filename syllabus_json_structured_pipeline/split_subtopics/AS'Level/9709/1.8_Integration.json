@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "9709",
+    "level": "AS & A Level",
+    "title": "Cambridge International AS & A Level Mathematics",
+    "syllabus_name": null,
+    "years": "2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Pure Mathematics 1 (for Paper 1)"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.8",
+    "sub_topic_name": "Integration",
+    "learning_objectives": [
+      {
+        "description": "understand integration as the reverse process of differentiation, and integrate (ax + b)ⁿ (for any rational n except -1), together with constant multiples, sums and differences",
+        "notes_and_examples": "e.g. ∫(2x³ - 5x + 1)dx, ∫(1/(2x+3)²)dx."
+      },
+      {
+        "description": "solve problems involving the evaluation of a constant of integration",
+        "notes_and_examples": "e.g. to find the equation of the curve through (1, -2) for which dy/dx = √(2x + 1)."
+      },
+      {
+        "description": "evaluate definite integrals",
+        "notes_and_examples": "Including simple cases of 'improper' integrals, such as ∫₀¹ x⁻¹/²dx and ∫₁^∞ x⁻²dx."
+      },
+      {
+        "description": "use definite integration to find the area of a region bounded by a curve and lines parallel to the axes, or between a curve and a line or between two curves, a volume of revolution about one of the axes.",
+        "notes_and_examples": "A volume of revolution may involve a region not bounded by the axis of rotation, e.g. the region between y = 9 – x² and y = 5 rotated about the x-axis."
+      }
+    ]
+  }
+}

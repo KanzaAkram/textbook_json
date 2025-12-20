@@ -1,0 +1,53 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Hardware"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.3",
+    "sub_topic_name": "Data storage",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand primary storage.",
+        "notes_and_guidance": "Primary storage (RAM/ROM) is directly accessed by CPU. Know why both are needed and their differences."
+      },
+      {
+        "objective_number": "2",
+        "description": "Understand secondary storage.",
+        "notes_and_guidance": "Secondary storage is not accessed directly by CPU and is needed for permanent data storage."
+      },
+      {
+        "objective_number": "3",
+        "description": "Describe magnetic, optical, and solid-state storage operations and give examples.",
+        "notes_and_guidance": "Magnetic: platters, tracks, sectors, electromagnets (HDD). Optical: lasers, pits/lands (CD, DVD, Blu-ray). Solid-state: NAND/NOR, transistors as control/floating gates (SSD, SD card, USB drive)."
+      },
+      {
+        "objective_number": "4",
+        "description": "Describe virtual memory and why it is needed.",
+        "notes_and_guidance": "Pages are transferred between RAM and virtual memory as needed."
+      },
+      {
+        "objective_number": "5",
+        "description": "Understand cloud storage.",
+        "notes_and_guidance": "Cloud storage is accessed remotely unlike local storage."
+      },
+      {
+        "objective_number": "6",
+        "description": "Explain advantages/disadvantages of cloud vs. local storage.",
+        "notes_and_guidance": "Cloud storage requires physical servers for data."
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Computer Science 9618",
+    "years": "2026"
+  },
+  "topic": {
+    "topic_number": "20",
+    "topic_name": "Further Programming"
+  },
+  "subtopic": {
+    "sub_topic_number": "20.1",
+    "sub_topic_name": "Programming Paradigms",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "Understanding what is meant by a programming paradigm"
+      },
+      {
+        "objective_number": 2,
+        "description": "Show understanding of the characteristics of a Low-level programming paradigm (Low-level Programming: understanding of and ability to write low-level code that uses various addressing modes: immediate, direct, indirect, indexed and relative)"
+      },
+      {
+        "objective_number": 3,
+        "description": "Show understanding of the characteristics of an Imperative (Procedural) programming paradigm (Imperative (Procedural) programming: Assumed knowledge and understanding of Structural Programming (see details in AS content section 11.3); understanding of and ability to write imperative (procedural) programming code that uses variables, constructs, procedures and functions. See details in AS content)"
+      },
+      {
+        "objective_number": 4,
+        "description": "Show understanding of the characteristics of an Object Oriented programming paradigm (Object-Oriented Programming (OOP): understanding of the terminology associated with OOP (including objects, properties/attributes, methods, classes, inheritance, polymorphism, containment (aggregation), encapsulation, getters, setters, instances); understanding of how to solve a problem by designing appropriate classes; understanding of and ability to write code that demonstrates the use of OOP)"
+      },
+      {
+        "objective_number": 5,
+        "description": "Show understanding of the characteristics of a Declarative programming paradigm (Declarative programming: understanding of and ability to solve a problem by writing appropriate facts and rules based on supplied information; understanding of and ability to write code that can satisfy a goal using facts and rules)"
+      }
+    ]
+  }
+}

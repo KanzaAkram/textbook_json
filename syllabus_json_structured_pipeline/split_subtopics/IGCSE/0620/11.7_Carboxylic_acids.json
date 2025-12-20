@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Chemistry 0620",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "11",
+    "topic_name": "Organic chemistry"
+  },
+  "subtopic": {
+    "sub_topic_number": "11.7",
+    "sub_topic_name": "Carboxylic acids",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe the reaction of ethanoic acid with: (a) metals (b) bases (c) carbonates including names and formulae of the salts produced"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 2,
+          "description": "Describe the formation of ethanoic acid by the oxidation of ethanol: (a) with acidified aqueous potassium manganate(VII) (b) by bacterial oxidation during vinegar production"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe the reaction of a carboxylic acid with an alcohol using an acid catalyst to form an ester"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "7",
+    "topic_name": "Human nutrition"
+  },
+  "subtopic": {
+    "sub_topic_number": "7.2",
+    "sub_topic_name": "Digestive system",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Identify in diagrams and images the main organs of the digestive system, limited to: (a) alimentary canal: mouth, oesophagus, stomach, small intestine (duodenum and ileum) and large intestine (colon, rectum, anus) (b) associated organs: salivary glands, pancreas, liver and gall bladder"
+        },
+        {
+          "objective_number": 2,
+          "description": "Describe the functions of the organs of the digestive system listed in 7.2.1, in relation to: (a) ingestion – the taking of substances, e.g. food and drink, into the body (b) digestion – the breakdown of food (c) absorption – the movement of nutrients from the intestines into the blood (d) assimilation – uptake and use of nutrients by cells (e) egestion – the removal of undigested food from the body as faeces"
+        }
+      ],
+      "supplement": []
+    }
+  }
+}

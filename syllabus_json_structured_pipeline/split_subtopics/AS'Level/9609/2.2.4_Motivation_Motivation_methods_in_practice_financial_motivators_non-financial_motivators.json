@@ -1,0 +1,35 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Business 9609",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "2",
+    "topic_name": "Human resource management (AS Level)"
+  },
+  "subtopic": {
+    "sub_topic_number": "2.2.4",
+    "sub_topic_name": "Motivation: Motivation methods in practice: financial motivators, non-financial motivators",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "the theories in practical situations"
+      },
+      {
+        "objective_number": 2,
+        "description": "different payment methods: time based, salary, piece rates, commission, bonuses, profit sharing, performance-related pay, fringe benefits"
+      },
+      {
+        "objective_number": 3,
+        "description": "different types of non-financial motivators: training, opportunities for promotion, development, status, job re-design, team working, empowerment, participation, job enrichment"
+      },
+      {
+        "objective_number": 4,
+        "description": "ways in which employees can participate in the management and control of business activity"
+      }
+    ]
+  }
+}

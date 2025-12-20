@@ -1,0 +1,99 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge IGCSE Biology 0610",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Organisms and their environment"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.2",
+    "sub_topic_name": "Food chains and food webs",
+    "learning_objectives": {
+      "core": [
+        {
+          "objective_number": 1,
+          "description": "Describe a food chain as showing the transfer of energy from one organism to the next, beginning with a producer"
+        },
+        {
+          "objective_number": 2,
+          "description": "Construct and interpret simple food chains"
+        },
+        {
+          "objective_number": 3,
+          "description": "Describe a food web as a network of interconnected food chains and interpret food webs"
+        },
+        {
+          "objective_number": 4,
+          "description": "Describe a producer as an organism that makes its own organic nutrients, usually using energy from sunlight, through photosynthesis"
+        },
+        {
+          "objective_number": 5,
+          "description": "Describe a consumer as an organism that gets its energy by feeding on other organisms"
+        },
+        {
+          "objective_number": 6,
+          "description": "State that consumers may be classed as primary, secondary, tertiary and quaternary according to their position in a food chain"
+        },
+        {
+          "objective_number": 7,
+          "description": "Describe a herbivore as an animal that gets its energy by eating plants"
+        },
+        {
+          "objective_number": 8,
+          "description": "Describe a carnivore as an animal that gets its energy by eating other animals"
+        },
+        {
+          "objective_number": 9,
+          "description": "Describe a decomposer as an organism that gets its energy from dead or waste organic material"
+        },
+        {
+          "objective_number": 10,
+          "description": "Use food chains and food webs to describe the impact humans have through overharvesting of food species and through introducing foreign species to a habitat"
+        },
+        {
+          "objective_number": 11,
+          "description": "Draw, describe and interpret pyramids of numbers and pyramids of biomass"
+        },
+        {
+          "objective_number": 12,
+          "description": "Discuss the advantages of using a pyramid of biomass rather than a pyramid of numbers to represent a food chain"
+        },
+        {
+          "objective_number": 13,
+          "description": "Describe a trophic level as the position of an organism in a food chain, food web or ecological pyramid"
+        },
+        {
+          "objective_number": 14,
+          "description": "Identify the following as the trophic levels in food webs, food chains and ecological pyramids: producers, primary consumers, secondary consumers, tertiary consumers and quaternary consumers"
+        }
+      ],
+      "supplement": [
+        {
+          "objective_number": 15,
+          "description": "Draw, describe and interpret pyramids of energy"
+        },
+        {
+          "objective_number": 16,
+          "description": "Discuss the advantages of using a pyramid of energy rather than pyramids of numbers or biomass to represent a food chain"
+        },
+        {
+          "objective_number": 17,
+          "description": "Explain why the transfer of energy from one trophic level to another is often not efficient"
+        },
+        {
+          "objective_number": 18,
+          "description": "Explain, in terms of energy loss, why food chains usually have fewer than five trophic levels"
+        },
+        {
+          "objective_number": 19,
+          "description": "Explain why it is more energy efficient for humans to eat crop plants than to eat livestock that have been fed on crop plants"
+        }
+      ]
+    }
+  }
+}

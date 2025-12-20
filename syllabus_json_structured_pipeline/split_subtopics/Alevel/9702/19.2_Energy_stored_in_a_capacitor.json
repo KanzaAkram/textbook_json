@@ -1,0 +1,27 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge International AS & A Level Physics 9702",
+    "years": "2025, 2026 and 2027"
+  },
+  "topic": {
+    "topic_number": "19",
+    "topic_name": "Capacitance"
+  },
+  "subtopic": {
+    "sub_topic_number": "19.2",
+    "sub_topic_name": "Energy stored in a capacitor",
+    "learning_objectives": [
+      {
+        "objective_number": 1,
+        "description": "determine the electric potential energy stored in a capacitor from the area under the potential-charge graph"
+      },
+      {
+        "objective_number": 2,
+        "description": "recall and use W = ½QV = ½CV²"
+      }
+    ]
+  }
+}

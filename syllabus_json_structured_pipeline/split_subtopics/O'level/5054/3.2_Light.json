@@ -1,0 +1,119 @@
+{
+  "syllabus_info": {
+    "syllabus_code": null,
+    "level": null,
+    "title": null,
+    "syllabus_name": "Cambridge O Level Physics 5054",
+    "years": "2026, 2027 and 2028"
+  },
+  "topic": {
+    "topic_number": "3",
+    "topic_name": "Waves"
+  },
+  "subtopic": {
+    "sub_topic_number": "3.2",
+    "sub_topic_name": "Light",
+    "sub_sub_topics": [
+      {
+        "sub_sub_topic_number": "3.2.1",
+        "sub_sub_topic_name": "Reflection of light",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Define and use the terms normal, angle of incidence and angle of reflection"
+          },
+          {
+            "objective_number": 2,
+            "description": "Describe an experiment to illustrate the law of reflection"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe an experiment to find the position and characteristics of an optical image formed by a plane mirror (same size, same distance from mirror as object and virtual)"
+          },
+          {
+            "objective_number": 4,
+            "description": "State that for reflection, the angle of incidence is equal to the angle of reflection and use this in constructions, measurements and calculations"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "3.2.2",
+        "sub_sub_topic_name": "Refraction of light",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Define and use the terms normal, angle of incidence and angle of refraction"
+          },
+          {
+            "objective_number": 2,
+            "description": "Define refractive index n as n = sin i / sin r; recall and use this equation"
+          },
+          {
+            "objective_number": 3,
+            "description": "Describe an experiment to show refraction of light by transparent blocks of different shapes"
+          },
+          {
+            "objective_number": 4,
+            "description": "Define the terms critical angle and total internal reflection; recall and use the equation n = 1 / sin c"
+          },
+          {
+            "objective_number": 5,
+            "description": "Describe experiments to show internal reflection and total internal reflection"
+          },
+          {
+            "objective_number": 6,
+            "description": "Describe the use of optical fibres, particularly in telecommunications, stating the advantages of their use in each context"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "3.2.3",
+        "sub_sub_topic_name": "Thin lenses",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the action of thin converging and thin diverging lenses on a parallel beam of light"
+          },
+          {
+            "objective_number": 2,
+            "description": "Define and use the terms focal length, principal axis and principal focus (focal point)"
+          },
+          {
+            "objective_number": 3,
+            "description": "Draw ray diagrams to illustrate the formation of real and virtual images of an object by a converging lens and know that a real image is formed by converging rays and a virtual image is formed by diverging rays"
+          },
+          {
+            "objective_number": 4,
+            "description": "Define linear magnification as the ratio of image length to object length; recall and use the equation linear magnification = image length / object length"
+          },
+          {
+            "objective_number": 5,
+            "description": "Describe the use of a single lens as a magnifying glass"
+          },
+          {
+            "objective_number": 6,
+            "description": "Draw ray diagrams to show the formation of images in the normal eye, a short-sighted eye and a long-sighted eye"
+          },
+          {
+            "objective_number": 7,
+            "description": "Describe the use of converging and diverging lenses to correct long-sightedness and short-sightedness"
+          }
+        ]
+      },
+      {
+        "sub_sub_topic_number": "3.2.4",
+        "sub_sub_topic_name": "Dispersion of light",
+        "learning_objectives": [
+          {
+            "objective_number": 1,
+            "description": "Describe the dispersion of light as illustrated by the refraction of white light by a glass prism"
+          },
+          {
+            "objective_number": 2,
+            "description": "Know the traditional seven colours of the visible spectrum in order of frequency and in order of wavelength"
+          }
+        ]
+      }
+    ]
+  }
+}

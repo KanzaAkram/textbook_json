@@ -1,0 +1,59 @@
+{
+  "syllabus_info": {
+    "syllabus_code": "2210",
+    "level": "O Level",
+    "title": "Cambridge O Level Computer Science",
+    "syllabus_name": null,
+    "years": [
+      "2026",
+      "2027",
+      "2028"
+    ]
+  },
+  "topic": {
+    "topic_number": "1",
+    "topic_name": "Data representation"
+  },
+  "subtopic": {
+    "sub_topic_number": "1.1",
+    "sub_topic_name": "Number systems",
+    "learning_objectives": [
+      {
+        "objective_number": "1",
+        "description": "Understand how and why computers use binary to represent all forms of data.",
+        "notes_and_guidance": "Data needs to be converted to binary for processing. Data is processed using logic gates and stored in registers."
+      },
+      {
+        "objective_number": "2",
+        "description": [
+          "(a) Understand denary, binary, and hexadecimal number systems.",
+          "(b) Convert between (i) positive denary and positive binary, (ii) positive denary and positive hexadecimal, (iii) positive hexadecimal and positive binary."
+        ],
+        "notes_and_guidance": "Denary is base 10, binary is base 2, and hexadecimal is base 16. Only integer values are used. Conversions in both directions (e.g. denary to binary and vice versa) with a maximum of 16 bits for binary numbers."
+      },
+      {
+        "objective_number": "3",
+        "description": "Understand how and why hexadecimal is a beneficial method of data representation.",
+        "notes_and_guidance": "Hexadecimal is used in computer science areas for its shorter representation compared to binary and easier human understanding."
+      },
+      {
+        "objective_number": "4",
+        "description": [
+          "(a) Add two positive 8-bit binary integers.",
+          "(b) Understand overflow and why it occurs in binary addition."
+        ],
+        "notes_and_guidance": "Overflow occurs if the result exceeds 255 for 8 bits. Computers have fixed register sizes (e.g. 16-bit). Overflow happens when the result exceeds the maximum representable value."
+      },
+      {
+        "objective_number": "5",
+        "description": "Perform logical binary shifts on positive 8-bit binary integers and understand the effect.",
+        "notes_and_guidance": "Includes logical left and right shifts, and multiple shifts. Lost bits are discarded, zeros are added at the opposite end. Shifts multiply or divide the value. Most or least significant bits are lost."
+      },
+      {
+        "objective_number": "6",
+        "description": "Use two's complement to represent positive and negative 8-bit binary integers.",
+        "notes_and_guidance": "Convert between binary or denary integers (positive and negative) and their two's complement 8-bit representation."
+      }
+    ]
+  }
+}
