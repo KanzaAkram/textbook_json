@@ -1,0 +1,123 @@
+{
+  "subtopic_number": "1.1",
+  "subtopic_name": "Particles in the atom and atomic radius",
+  "level": "AS'Level",
+  "subject_code": "9701",
+  "comprehensive_notes": {
+    "introduction": "All matter is composed of atoms, which are the smallest parts of an element that can take part in chemical changes. Originally thought to be indivisible, we now understand that atoms contain internal structures composed of subatomic particles: protons, neutrons, and electrons. This understanding allows for advanced applications like nanotechnology.",
+    "key_concepts": [
+      {
+        "concept": "The Nuclear Atom Model",
+        "explanation": "Atoms consist of a tiny, dense nucleus located at the center, containing protons and neutrons (collectively called nucleons). This nucleus contains nearly all the mass of the atom. Electrons move in shells (energy levels) or orbitals in the vast empty space surrounding the nucleus.",
+        "examples": [
+          "If an atom were the size of a football stadium, the nucleus would be the size of a pea.",
+          "Hydrogen atom diameter ≈ 10⁻¹⁰ m; Mass ≈ 1.67 × 10⁻²⁷ kg."
+        ]
+      },
+      {
+        "concept": "Distribution of Mass and Charge",
+        "explanation": "Mass is concentrated in the nucleus. The nucleus is positively charged due to protons. The surrounding space is negatively charged due to electrons. The atom is held together by electrostatic attraction between the positive nucleus and negative electrons."
+      }
+    ],
+    "detailed_content": {
+      "section_1": {
+        "heading": "Subatomic Particles",
+        "content": "Three main particles make up the atom. Their properties are defined by relative mass and charge because absolute values are infinitesimally small.",
+        "key_points": [
+          "**Proton (p):** Located in the nucleus. Relative mass = 1. Relative charge = +1.",
+          "**Neutron (n):** Located in the nucleus. Relative mass = 1. Relative charge = 0 (neutral).",
+          "**Electron (e⁻):** Located in shells/orbitals. Relative mass = 1/1836 (often approximated as negligible). Relative charge = -1.",
+          "In a neutral atom, the number of electrons equals the number of protons."
+        ]
+      },
+      "section_2": {
+        "heading": "Behavior in Electric Fields",
+        "content": "When beams of particles travel at the same velocity through an electric field (between positive and negative plates), they interact based on their charge and mass.",
+        "key_points": [
+          "**Protons:** Deflected towards the **negative** plate (unlike charges attract). The deflection is small/slight because protons have a large mass.",
+          "**Electrons:** Deflected towards the **positive** plate. The deflection is **large/strong** because electrons have a very small mass (approx 2000 times lighter than protons).",
+          "**Neutrons:** **No deflection**. They travel in a straight line because they are uncharged.",
+          "**Deflection logic:** Angle of deflection is proportional to Charge/Mass (q/m). Electrons have high q/m ratio."
+        ]
+      },
+      "section_3": {
+        "heading": "Atomic and Ionic Radius Trends",
+        "content": "The size of atoms and ions varies predictably across the Periodic Table due to the interplay between nuclear charge, shielding, and number of shells.",
+        "key_points": [
+          "**Atomic Radius across a Period (Left to Right):** **Decreases**. \n   - *Explanation:* The number of protons (nuclear charge) increases, but shielding remains approximately constant (electrons added to the same shell). The stronger nuclear attraction pulls electrons closer to the nucleus.",
+          "**Atomic Radius down a Group (Top to Bottom):** **Increases**. \n   - *Explanation:* New electron shells are added. Outer electrons are further from the nucleus and experience more shielding from inner shells, reducing the effective nuclear pull.",
+          "**Ionic Radius (Cations vs Atoms):** Cations (+) are **smaller** than their parent atoms. \n   - *Reason:* Loss of outer shell electrons results in remaining electrons being held more tightly by the nucleus (less shielding/repulsion).",
+          "**Ionic Radius (Anions vs Atoms):** Anions (-) are **larger** than their parent atoms. \n   - *Reason:* Gain of electrons increases electron-electron repulsion in the outer shell, causing the electron cloud to expand."
+        ]
+      }
+    },
+    "important_definitions": [
+      {
+        "term": "Atomic Number (Proton Number, Z)",
+        "definition": "The number of protons in the nucleus of an atom. This defines the chemical element."
+      },
+      {
+        "term": "Mass Number (Nucleon Number, A)",
+        "definition": "The total number of protons and neutrons in the nucleus."
+      },
+      {
+        "term": "Isotopes",
+        "definition": "Atoms of the same element with the same number of protons but different numbers of neutrons."
+      },
+      {
+        "term": "Cation",
+        "definition": "A positively charged ion formed by the loss of electrons."
+      },
+      {
+        "term": "Anion",
+        "definition": "A negatively charged ion formed by the gain of electrons."
+      }
+    ],
+    "formulas_and_equations": [
+      {
+        "name": "Calculating Neutrons",
+        "formula": "Number of Neutrons = Mass Number (A) - Atomic Number (Z)",
+        "explanation": "Use this to find the neutron count when given the symbol notation."
+      },
+      {
+        "name": "Calculating Electrons in Ions",
+        "formula": "Electrons = Protons - (Charge)",
+        "explanation": "For a cation with charge +x, subtract x from proton count. For an anion with charge -y, add y to proton count."
+      }
+    ],
+    "summary": "Atoms are mostly empty space with a dense, positive nucleus containing protons and neutrons, orbited by negative electrons. The identity of an atom is defined by its proton number (Z). Electrons are much lighter than nucleons, leading to significant deflection in electric fields. Atomic radius decreases across a period (higher nuclear charge) and increases down a group (more shells). Cations are smaller and anions are larger than their neutral atoms.",
+    "exam_tips": [
+      "When drawing deflection in electric fields, ensure the electron beam curves MUCH more sharply than the proton beam.",
+      "Remember: Mass Number (A) is the bigger number; Atomic Number (Z) is the smaller number.",
+      "For trends, always mention BOTH factors: 'Nuclear Charge' and 'Shielding' (or distance/shells).",
+      "Exact charge of an electron is -1.602 x 10⁻¹⁹ C, but in exams, usually relative charge (-1) is sufficient unless specified."
+    ],
+    "common_mistakes": [
+      "Confusing the direction of deflection (Remember: Protons are Positive and go to Negative plate).",
+      "Stating that the nucleus contains electrons (Nucleus = Protons + Neutrons only).",
+      "Forgetting that anions are larger than their parent atoms due to repulsion.",
+      "Assuming shielding increases significantly across a period (It remains constant as electrons fill the same shell)."
+    ]
+  },
+  "learning_objectives_coverage": {
+    "objective_1": "Covered: Described empty space, dense nucleus, and shell arrangement.",
+    "objective_2": "Covered: Defined protons, neutrons, electrons with relative mass/charge.",
+    "objective_3": "Covered: Defined atomic, proton, mass, and nucleon numbers.",
+    "objective_4": "Covered: Explained mass in nucleus and charge distribution.",
+    "objective_5": "Covered: Detailed deflection behavior in electric fields.",
+    "objective_6": "Covered: Formulas provided for calculating p, n, e in atoms and ions.",
+    "objective_7": "Covered: Detailed qualitative explanation of atomic and ionic radius trends."
+  },
+  "metadata": {
+    "level": "AS'Level",
+    "subject_code": "9701",
+    "subtopic_number": "1.1",
+    "subtopic_name": "Particles in the atom and atomic radius",
+    "generated_at": "2025-12-21T02:01:06.461068",
+    "sources_used": {
+      "textbook": true,
+      "syllabus": true,
+      "save_my_exam_count": 1
+    }
+  }
+}
